@@ -628,7 +628,7 @@ pop-ups the first one is that every
 
 158
 00:08:22,250 --> 00:08:25,130
-pop-up must span a galley so this is a
+pop-up must span a gully so this is a
 
 159
 00:08:25,130 --> 00:08:28,580
