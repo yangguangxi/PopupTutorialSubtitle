@@ -11,9 +11,9 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Video Zoom Percent: 1.250000
-Scroll Position: 197
-Active Line: 199
-Video Position: 15745
+Scroll Position: 420
+Active Line: 422
+Video Position: 36593
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -444,4 +444,4 @@ Dialogue: 0,0:23:50.31,0:23:51.81,Default,,0,0,0,,前面说的内容
 Dialogue: 0,0:23:51.81,0:23:54.22,Default,,0,0,0,,这本书中都有
 Dialogue: 0,0:23:54.22,0:24:09.90,Default,,0,0,0,,[音乐]示例书单
 Dialogue: 0,0:24:09.90,0:24:23.71,Default,,0,0,0,,[翻译：Cash Yang][公众号：2274]
-Dialogue: 0,0:24:23.71,0:24:31.30,Default,,0,0,0,,[谢谢观赏]
+Dialogue: 0,0:24:23.71,0:24:31.30,Default,,0,0,0,,[关注公众号 获取更多分享]
