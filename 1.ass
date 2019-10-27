@@ -5,33 +5,37 @@ Title: Default Aegisub file
 ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
-YCbCr Matrix: None
+YCbCr Matrix: TV.601
 PlayResX: 1280
 PlayResY: 720
 
 [Aegisub Project Garbage]
-Video Zoom Percent: 1.250000
-Scroll Position: 420
-Active Line: 422
-Video Position: 36593
+Last Style Storage: Default
+Audio File: ../../../../Shared/Relocated Items/Security/toy/popupBook/subtitle/1.mp4
+Video File: ../../../../Shared/Relocated Items/Security/toy/popupBook/subtitle/1.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 1.000000
+Active Line: 4
+Video Position: 614
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Heiti SC,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: Default,Heiti SC,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,20,1
 Style: h2,Heiti SC,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,2,2,10,10,300,1
+Style: h1,Heiti SC,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,2,2,10,10,200,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.65,0:00:03.62,h2,,0,0,0,,立体书教程 Duncan Birmingham
+Dialogue: 0,0:00:01.65,0:00:03.62,h1,,0,0,0,,立体书教程 Duncan Birmingham
 Dialogue: 0,0:00:04.94,0:00:12.74,Default,,0,0,0,,这套教程 介绍如何制作手工折纸
 Dialogue: 0,0:00:12.94,0:00:17.46,Default,,0,0,0,,课程第一集是该系列的简介\N包含制作立体书所需材料
 Dialogue: 0,0:00:17.46,0:00:24.54,Default,,0,0,0,,同时解释了立体书遵循的一些规则
 Dialogue: 0,0:00:24.54,0:00:30.58,Default,,0,0,0,,尽管所有教程都是独立的\N但还是推荐探索前先看完第一集基础教程
 Dialogue: 0,0:00:30.58,0:00:32.54,h2,,0,0,0,,教程1
-Dialogue: 0,0:00:32.54,0:00:34.02,Default,,0,0,0,,前奏 - 材料和基础理论
-Dialogue: 0,0:00:34.02,0:00:34.08,Default,,0,0,0,,前奏 - 材料和基础理论
-Dialogue: 0,0:00:34.08,0:00:37.30,Default,,0,0,0,,我的名字叫邓肯·伯明翰\N前奏 - 材料和基础理论
-Dialogue: 0,0:00:37.30,0:00:39.06,Default,,0,0,0,,擅长立体书设计教学\N前奏 - 材料和基础理论
+Dialogue: 0,0:00:32.54,0:00:34.50,Default,,0,0,0,,前奏 - 材料和基础理论
+Dialogue: 0,0:00:34.74,0:00:37.30,Default,,0,0,0,,我的名字叫邓肯·伯明翰
+Dialogue: 0,0:00:37.30,0:00:39.06,Default,,0,0,0,,擅长立体书设计教学
 Dialogue: 0,0:00:39.06,0:00:39.76,Default,,0,0,0,,擅长立体书设计教学
 Dialogue: 0,0:00:39.76,0:00:42.10,Default,,0,0,0,,这是系列教程的第一集
 Dialogue: 0,0:00:42.10,0:00:45.82,Default,,0,0,0,,展示怎样用简单方式制作
