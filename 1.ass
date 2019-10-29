@@ -16,14 +16,15 @@ Video File: ../../../../Shared/Relocated Items/Security/toy/popupBook/subtitle/1
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Active Line: 4
-Video Position: 614
+Scroll Position: 375
+Active Line: 383
+Video Position: 32415
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Heiti SC,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,20,1
-Style: h2,Heiti SC,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,2,2,10,10,300,1
-Style: h1,Heiti SC,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,2,2,10,10,200,1
+Style: Default,Heiti SC,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,20,1
+Style: h2,Heiti SC,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,2,2,10,10,300,1
+Style: h1,Heiti SC,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,2,2,10,10,200,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -139,8 +140,8 @@ Dialogue: 0,0:05:32.93,0:05:36.08,Default,,0,0,0,,折出了一张脸
 Dialogue: 0,0:05:36.08,0:05:38.57,Default,,0,0,0,,然后粘在一张背景卡纸
 Dialogue: 0,0:05:38.57,0:05:41.51,Default,,0,0,0,,这是个简单基础的东西
 Dialogue: 0,0:05:41.51,0:05:44.72,Default,,0,0,0,,这本书有一些相似例子
-Dialogue: 0,0:05:44.72,0:05:49.15,Default,,0,0,0,,书名叫「dinner time」
-Dialogue: 0,0:05:49.15,0:05:52.79,Default,,0,0,0,,作者Champion Kowski
+Dialogue: 0,0:05:44.72,0:05:49.15,Default,,0,0,0,,书名叫《晚餐时间》
+Dialogue: 0,0:05:49.15,0:05:52.79,Default,,0,0,0,,作者赵四
 Dialogue: 0,0:05:52.79,0:05:57.23,Default,,0,0,0,,先看第一页 V形折汇聚折边
 Dialogue: 0,0:05:57.23,0:06:01.97,Default,,0,0,0,,折边产生立体效果
 Dialogue: 0,0:06:01.97,0:06:03.68,Default,,0,0,0,,再来看下最后一页
@@ -158,7 +159,7 @@ Dialogue: 0,0:06:35.96,0:06:37.25,Default,,0,0,0,,也可以用作支撑
 Dialogue: 0,0:06:37.25,0:06:39.62,Default,,0,0,0,,像肌肉一样
 Dialogue: 0,0:06:39.62,0:06:41.90,Default,,0,0,0,,撑起更大块的卡纸
 Dialogue: 0,0:06:41.90,0:06:44.90,Default,,0,0,0,,来看下这本书
-Dialogue: 0,0:06:44.90,0:06:48.41,Default,,0,0,0,,「jungle days」作者 Helen Bomber
+Dialogue: 0,0:06:44.90,0:06:48.41,Default,,0,0,0,,《丛林里的日子》作者赵四
 Dialogue: 0,0:06:48.41,0:06:52.16,Default,,0,0,0,,这是反折的一个例子
 Dialogue: 0,0:06:52.16,0:06:55.16,Default,,0,0,0,,用来充实立体书画面
 Dialogue: 0,0:06:55.16,0:06:59.24,Default,,0,0,0,,这是个反折
@@ -168,7 +169,7 @@ Dialogue: 0,0:07:04.19,0:07:06.11,Default,,0,0,0,,这都是用一张卡纸上实
 Dialogue: 0,0:07:06.11,0:07:08.69,Default,,0,0,0,,像这样还原后
 Dialogue: 0,0:07:08.69,0:07:10.85,Default,,0,0,0,,打开再合上
 Dialogue: 0,0:07:10.85,0:07:13.46,Default,,0,0,0,,反折被用作画面的一部分
-Dialogue: 0,0:07:17.10,0:07:20.81,Default,,0,0,0,,「Robot」作者Champion Kowski
+Dialogue: 0,0:07:17.10,0:07:20.81,Default,,0,0,0,,《机器人》作者赵四
 Dialogue: 0,0:07:20.81,0:07:24.97,Default,,0,0,0,,这个立体书中
 Dialogue: 0,0:07:24.97,0:07:28.31,Default,,0,0,0,,使用了这些反折的方式
 Dialogue: 0,0:07:28.31,0:07:31.10,Default,,0,0,0,,用来充当肌肉托起
@@ -186,8 +187,8 @@ Dialogue: 0,0:08:01.55,0:08:03.47,Default,,0,0,0,,这实际上不算真的立体
 Dialogue: 0,0:08:03.47,0:08:05.21,Default,,0,0,0,,它们更像是可以附着
 Dialogue: 0,0:08:05.21,0:08:07.66,Default,,0,0,0,,在立体书的元素 下面我将展示
 Dialogue: 0,0:08:07.66,0:08:10.19,Default,,0,0,0,,如何制作两个立体结构
-Dialogue: 0,0:08:10.19,0:08:13.74,Default,,0,0,0,,一个聚合折一个平行折
-Dialogue: 0,0:08:13.74,0:08:15.91,Default,,0,0,0,,制作V形折\N一个聚合折一个平行折
+Dialogue: 0,0:08:10.19,0:08:13.74,Default,,0,0,0,,一个相交折一个平行折
+Dialogue: 0,0:08:13.74,0:08:15.91,Default,,0,0,0,,制作V形折\N一个相交折一个平行折
 Dialogue: 0,0:08:15.91,0:08:16.70,Default,,0,0,0,,这有三个规则\N制作V形折
 Dialogue: 0,0:08:16.70,0:08:18.29,Default,,0,0,0,,这有三个规则
 Dialogue: 0,0:08:18.29,0:08:20.03,Default,,0,0,0,,适用于所有立体书结构
@@ -207,7 +208,7 @@ Dialogue: 0,0:09:13.74,0:09:15.63,Default,,0,0,0,,也就是立体书两侧得平
 Dialogue: 0,0:09:15.63,0:09:18.20,Default,,0,0,0,,所以要弹起的画面
 Dialogue: 0,0:09:18.20,0:09:19.74,Default,,0,0,0,,得粘贴在沟的两侧
 Dialogue: 0,0:09:19.74,0:09:24.26,Default,,0,0,0,,还得保持平衡
-Dialogue: 0,0:09:24.26,0:09:27.77,Default,,0,0,0,,我们做的是聚合的V形折
+Dialogue: 0,0:09:24.26,0:09:27.77,Default,,0,0,0,,我们做的是相交的V形折
 Dialogue: 0,0:09:27.77,0:09:30.06,Default,,0,0,0,,v形折的角度是均衡的
 Dialogue: 0,0:09:30.06,0:09:33.38,Default,,0,0,0,,立体结构底部折出的是
 Dialogue: 0,0:09:33.38,0:09:36.38,Default,,0,0,0,,用来上胶的粘口
@@ -222,14 +223,14 @@ Dialogue: 0,0:10:05.04,0:10:08.79,Default,,0,0,0,,页面和底板上的两个角
 Dialogue: 0,0:10:08.79,0:10:13.00,Default,,0,0,0,,我们必须保持平衡，以便上胶水
 Dialogue: 0,0:10:13.00,0:10:18.24,Default,,0,0,0,,我用胶水的习惯是涂一侧
 Dialogue: 0,0:10:18.24,0:10:21.38,Default,,0,0,0,,然后
-Dialogue: 0,0:10:21.38,0:10:24.08,Default,,0,0,0,,用我的小手指涂抹
+Dialogue: 0,0:10:21.38,0:10:24.08,Default,,0,0,0,,用我的小拇指涂抹
 Dialogue: 0,0:10:24.08,0:10:26.55,Default,,0,0,0,,这样能涂的很匀
-Dialogue: 0,0:10:26.55,0:10:29.77,Default,,0,0,0,,但是这样我的手指会带着胶
-Dialogue: 0,0:10:29.77,0:10:32.81,Default,,0,0,0,,做别的事会注意不被粘上
-Dialogue: 0,0:10:32.90,0:10:38.61,Default,,0,0,0,,立体结构的折痕里很重要
-Dialogue: 0,0:10:40.43,0:10:42.20,Default,,0,0,0,,所有测量均按折痕进行
+Dialogue: 0,0:10:26.55,0:10:29.77,Default,,0,0,0,,其他手指不会被粘住
+Dialogue: 0,0:10:29.77,0:10:32.81,Default,,0,0,0,,就可以做别的事情
+Dialogue: 0,0:10:32.90,0:10:38.61,Default,,0,0,0,,很重要的一点是
+Dialogue: 0,0:10:40.43,0:10:42.20,Default,,0,0,0,,胶水一定要抹到折痕上
 Dialogue: 0,0:10:42.20,0:10:46.13,Default,,0,0,0,,可以看到立体结构的折痕
-Dialogue: 0,0:10:46.13,0:10:48.48,Default,,0,0,0,,是沿着谷折的线去的
+Dialogue: 0,0:10:46.13,0:10:48.48,Default,,0,0,0,,因为折痕对于立体书非常重要
 Dialogue: 0,0:10:48.48,0:10:51.14,Default,,0,0,0,,现在粘的一面朝下
 Dialogue: 0,0:10:51.14,0:10:56.60,Default,,0,0,0,,整个放倒
 Dialogue: 0,0:10:56.60,0:11:01.23,Default,,0,0,0,,给另一面涂上胶水
@@ -366,7 +367,7 @@ Dialogue: 0,0:18:14.61,0:18:21.33,Default,,0,0,0,,我有一个例子是这样的
 Dialogue: 0,0:18:21.33,0:18:25.23,Default,,0,0,0,,这是一个V形折
 Dialogue: 0,0:18:25.23,0:18:26.67,Default,,0,0,0,,蓝色这块是明显的V形折
 Dialogue: 0,0:18:26.67,0:18:31.44,Default,,0,0,0,,这边红色的平行折附着在上面
-Dialogue: 0,0:18:31.44,0:18:34.05,Default,,0,0,0,,这个聚合折的边都朝向中心
+Dialogue: 0,0:18:31.44,0:18:34.05,Default,,0,0,0,,这个相交折的边都朝向中心
 Dialogue: 0,0:18:34.05,0:18:36.51,Default,,0,0,0,,这些都是立体结构中的
 Dialogue: 0,0:18:36.51,0:18:39.12,Default,,0,0,0,,不同的形式
 Dialogue: 0,0:18:39.12,0:18:41.07,Default,,0,0,0,,这有个反折的例子
@@ -380,7 +381,7 @@ Dialogue: 0,0:18:59.55,0:19:02.43,Default,,0,0,0,,
 Dialogue: 0,0:19:02.43,0:19:04.26,Default,,0,0,0,,可以用作背景
 Dialogue: 0,0:19:04.26,0:19:09.45,Default,,0,0,0,,同时用作底板和背景
 Dialogue: 0,0:19:09.45,0:19:12.03,Default,,0,0,0,,举几个栗子
-Dialogue: 0,0:19:12.03,0:19:14.88,Default,,0,0,0,,「Christopher Columbus」
+Dialogue: 0,0:19:12.03,0:19:14.88,Default,,0,0,0,,《哥伦布》
 Dialogue: 0,0:19:14.88,0:19:18.54,Default,,0,0,0,,50年代的立体书
 Dialogue: 0,0:19:19.38,0:19:22.98,Default,,0,0,0,,这里就是用作底板了
 Dialogue: 0,0:19:22.98,0:19:25.92,Default,,0,0,0,,如果展开竖起来看
@@ -389,7 +390,7 @@ Dialogue: 0,0:19:42.60,0:19:47.04,Default,,0,0,0,,这是一个使用纯作为底
 Dialogue: 0,0:19:47.04,0:19:51.71,Default,,0,0,0,,立体结构从中间竖起
 Dialogue: 0,0:19:51.71,0:19:54.72,Default,,0,0,0,,第二种使用
 Dialogue: 0,0:19:54.72,0:19:56.69,Default,,0,0,0,,底板作为背景
-Dialogue: 0,0:19:59.10,0:20:01.50,Default,,0,0,0,,「the little fish who cried shark」
+Dialogue: 0,0:19:59.10,0:20:01.50,Default,,0,0,0,,《哭鲨小鱼》
 Dialogue: 0,0:20:01.50,0:20:05.88,Default,,0,0,0,,我们打开这个 这就是
 Dialogue: 0,0:20:05.88,0:20:09.69,Default,,0,0,0,,用底板作为背景
 Dialogue: 0,0:20:09.69,0:20:14.22,Default,,0,0,0,,头和尾都是基于V形折的设计
@@ -406,24 +407,24 @@ Dialogue: 0,0:21:04.89,0:21:07.77,Default,,0,0,0,,这只狗是个
 Dialogue: 0,0:21:07.77,0:21:10.98,Default,,0,0,0,,一个平行四边形
 Dialogue: 0,0:21:10.98,0:21:19.74,Default,,0,0,0,,这是个V形折和平行四边形的组合
 Dialogue: 0,0:21:19.74,0:21:21.90,Default,,0,0,0,,这是一个非常早期的立体书系列
-Dialogue: 0,0:21:21.90,0:21:24.30,Default,,0,0,0,,叫做「Bookano Stories」
+Dialogue: 0,0:21:21.90,0:21:24.30,Default,,0,0,0,,叫做《博康纳的故事》
 Dialogue: 0,0:21:24.30,0:21:27.21,Default,,0,0,0,,30年代的
-Dialogue: 0,0:21:30.09,0:21:33.03,Default,,0,0,0,,设计师是一个叫路易莎的家伙
+Dialogue: 0,0:21:30.09,0:21:33.03,Default,,0,0,0,,设计师赵四
 Dialogue: 0,0:21:33.03,0:21:36.57,Default,,0,0,0,,打开立体书
-Dialogue: 0,0:21:36.57,0:21:39.39,Default,,0,0,0,,可以看到基本是个V形折
+Dialogue: 0,0:21:36.57,0:21:39.39,Default,,0,0,0,,可以看到大形是个V形折
 Dialogue: 0,0:21:39.39,0:21:39.96,Default,,0,0,0,,V形折带动前面的平行四边形
 Dialogue: 0,0:21:39.96,0:21:42.78,Default,,0,0,0,,及上面的图像内容
 Dialogue: 0,0:21:47.19,0:21:49.35,Default,,0,0,0,,几个方向都看下 会发现
 Dialogue: 0,0:21:49.35,0:21:52.08,Default,,0,0,0,,平行四边形结构
 Dialogue: 0,0:21:54.98,0:21:58.56,Default,,0,0,0,,然后这是一个现代点的
-Dialogue: 0,0:21:58.56,0:22:02.43,Default,,0,0,0,,「Appleby's shapes」
+Dialogue: 0,0:21:58.56,0:22:02.43,Default,,0,0,0,,《阿普比的形状》
 Dialogue: 0,0:22:02.43,0:22:05.82,Default,,0,0,0,,差不多也是一样的
 Dialogue: 0,0:22:11.91,0:22:16.47,Default,,0,0,0,,一个锐角的V形折
 Dialogue: 0,0:22:16.47,0:22:18.90,Default,,0,0,0,,带动平行四边形
 Dialogue: 0,0:22:18.90,0:22:20.37,Default,,0,0,0,,从侧面能清楚看到
 Dialogue: 0,0:22:20.37,0:22:24.47,Default,,0,0,0,,这个平行四边形被V形折带动
 Dialogue: 0,0:22:24.47,0:22:27.24,Default,,0,0,0,,还有另外这个
-Dialogue: 0,0:22:27.24,0:22:30.00,Default,,0,0,0,,我比较喜欢的「black cat white cat」
+Dialogue: 0,0:22:27.24,0:22:30.00,Default,,0,0,0,,我比较喜欢的《黑猫白猫》
 Dialogue: 0,0:22:30.00,0:22:33.29,Default,,0,0,0,,这个例子
 Dialogue: 0,0:22:33.29,0:22:36.56,Default,,0,0,0,,结构是非常棒的
 Dialogue: 0,0:22:40.17,0:22:43.74,Default,,0,0,0,,这边的盒子是V形折 实际上是一个
@@ -436,7 +437,7 @@ Dialogue: 0,0:22:53.97,0:22:56.64,Default,,0,0,0,,其他几样都是平行折
 Dialogue: 0,0:22:56.64,0:22:59.85,Default,,0,0,0,,这所有结构都是由
 Dialogue: 0,0:22:59.85,0:23:02.91,Default,,0,0,0,,v形折的盒子带动起来的
 Dialogue: 0,0:23:02.91,0:23:07.23,Default,,0,0,0,,最后这个
-Dialogue: 0,0:23:07.23,0:23:10.53,Default,,0,0,0,,「fantastic fairytales」
+Dialogue: 0,0:23:07.23,0:23:10.53,Default,,0,0,0,,《梦幻般的童话》
 Dialogue: 0,0:23:17.70,0:23:21.90,Default,,0,0,0,,这是直角V形折
 Dialogue: 0,0:23:21.90,0:23:23.70,Default,,0,0,0,,带动平行四边形
 Dialogue: 0,0:23:23.70,0:23:26.91,Default,,0,0,0,,当页面合上时
@@ -446,6 +447,6 @@ Dialogue: 0,0:23:45.21,0:23:47.97,Default,,0,0,0,,如果想了解更多
 Dialogue: 0,0:23:47.97,0:23:50.31,Default,,0,0,0,,可以考虑下我的书「pop-up design and paper mechanics」
 Dialogue: 0,0:23:50.31,0:23:51.81,Default,,0,0,0,,前面说的内容
 Dialogue: 0,0:23:51.81,0:23:54.22,Default,,0,0,0,,这本书中都有
-Dialogue: 0,0:23:54.22,0:24:09.90,Default,,0,0,0,,[音乐]示例书单
+Dialogue: 0,0:23:54.22,0:24:09.90,Default,,0,0,0,,[书单]
 Dialogue: 0,0:24:09.90,0:24:23.71,Default,,0,0,0,,[翻译：Cash Yang][公众号：2274]
 Dialogue: 0,0:24:23.71,0:24:31.30,Default,,0,0,0,,[关注公众号 获取更多分享]
