@@ -1,0 +1,1 @@
+This series of tutorials explains an easy way to make pop-ups without the need for templates or complicated measuring.  As well as materials and basic theory, this first video explains the eight pop-up shapes that form the foundations of almost all pop-up designs.
