@@ -1,0 +1,1966 @@
+1
+00:00:33,780 --> 00:00:36,299
+this tutorial is about moving arms which
+
+2
+00:00:36,299 --> 00:00:36,309
+this tutorial is about moving arms which
+
+3
+00:00:36,309 --> 00:00:38,700
+this tutorial is about moving arms which
+is a very subtle mechanism which has
+
+4
+00:00:38,700 --> 00:00:38,710
+is a very subtle mechanism which has
+
+5
+00:00:38,710 --> 00:00:42,149
+is a very subtle mechanism which has
+numerous variations and uses the most
+
+6
+00:00:42,149 --> 00:00:42,159
+numerous variations and uses the most
+
+7
+00:00:42,159 --> 00:00:44,009
+numerous variations and uses the most
+basic is based on the parallelogram
+
+8
+00:00:44,009 --> 00:00:44,019
+basic is based on the parallelogram
+
+9
+00:00:44,019 --> 00:00:47,700
+basic is based on the parallelogram
+which we cover in tutorial 5 here it is
+
+10
+00:00:47,700 --> 00:00:47,710
+which we cover in tutorial 5 here it is
+
+11
+00:00:47,710 --> 00:00:50,279
+which we cover in tutorial 5 here it is
+the green bit is the parallelogram the
+
+12
+00:00:50,279 --> 00:00:50,289
+the green bit is the parallelogram the
+
+13
+00:00:50,289 --> 00:00:52,649
+the green bit is the parallelogram the
+yellow bit is a basic moving arm the
+
+14
+00:00:52,649 --> 00:00:52,659
+yellow bit is a basic moving arm the
+
+15
+00:00:52,659 --> 00:00:55,229
+yellow bit is a basic moving arm the
+pink bit is adding an elbow to the arm
+
+16
+00:00:55,229 --> 00:00:55,239
+pink bit is adding an elbow to the arm
+
+17
+00:00:55,239 --> 00:00:58,739
+pink bit is adding an elbow to the arm
+which makes appear to move even more so
+
+18
+00:00:58,739 --> 00:00:58,749
+which makes appear to move even more so
+
+19
+00:00:58,749 --> 00:01:02,250
+which makes appear to move even more so
+this is the basic variation here's an
+
+20
+00:01:02,250 --> 00:01:02,260
+this is the basic variation here's an
+
+21
+00:01:02,260 --> 00:01:06,149
+this is the basic variation here's an
+example this is the basic parallelogram
+
+22
+00:01:06,149 --> 00:01:06,159
+example this is the basic parallelogram
+
+23
+00:01:06,159 --> 00:01:09,209
+example this is the basic parallelogram
+you can see that with four moving arms
+
+24
+00:01:09,209 --> 00:01:09,219
+you can see that with four moving arms
+
+25
+00:01:09,219 --> 00:01:12,209
+you can see that with four moving arms
+on it four limbs or moving in slightly
+
+26
+00:01:12,209 --> 00:01:12,219
+on it four limbs or moving in slightly
+
+27
+00:01:12,219 --> 00:01:15,620
+on it four limbs or moving in slightly
+different directions if we look at the
+
+28
+00:01:15,620 --> 00:01:15,630
+different directions if we look at the
+
+29
+00:01:15,630 --> 00:01:20,209
+different directions if we look at the
+the haunted house by Lampe and Kowski
+
+30
+00:01:20,209 --> 00:01:20,219
+the haunted house by Lampe and Kowski
+
+31
+00:01:20,219 --> 00:01:24,149
+the haunted house by Lampe and Kowski
+this has got a really good example so
+
+32
+00:01:24,149 --> 00:01:24,159
+this has got a really good example so
+
+33
+00:01:24,159 --> 00:01:27,149
+this has got a really good example so
+here's the parallelogram here are two
+
+34
+00:01:27,149 --> 00:01:27,159
+here's the parallelogram here are two
+
+35
+00:01:27,159 --> 00:01:30,959
+here's the parallelogram here are two
+moving arms so one of them moves rotates
+
+36
+00:01:30,959 --> 00:01:30,969
+moving arms so one of them moves rotates
+
+37
+00:01:30,969 --> 00:01:33,359
+moving arms so one of them moves rotates
+against the page and you see the same
+
+38
+00:01:33,359 --> 00:01:33,369
+against the page and you see the same
+
+39
+00:01:33,369 --> 00:01:35,010
+against the page and you see the same
+side of the piece of card all the way
+
+40
+00:01:35,010 --> 00:01:35,020
+side of the piece of card all the way
+
+41
+00:01:35,020 --> 00:01:37,590
+side of the piece of card all the way
+through the other piece flips over on
+
+42
+00:01:37,590 --> 00:01:37,600
+through the other piece flips over on
+
+43
+00:01:37,600 --> 00:01:40,050
+through the other piece flips over on
+the parallelogram there are two small
+
+44
+00:01:40,050 --> 00:01:40,060
+the parallelogram there are two small
+
+45
+00:01:40,060 --> 00:01:41,669
+the parallelogram there are two small
+triangles and it depends which triangle
+
+46
+00:01:41,669 --> 00:01:41,679
+triangles and it depends which triangle
+
+47
+00:01:41,679 --> 00:01:43,440
+triangles and it depends which triangle
+you stick it to if you stick it to this
+
+48
+00:01:43,440 --> 00:01:43,450
+you stick it to if you stick it to this
+
+49
+00:01:43,450 --> 00:01:45,179
+you stick it to if you stick it to this
+one which is on the small side of the
+
+50
+00:01:45,179 --> 00:01:45,189
+one which is on the small side of the
+
+51
+00:01:45,189 --> 00:01:47,099
+one which is on the small side of the
+parallelogram that is the one that
+
+52
+00:01:47,099 --> 00:01:47,109
+parallelogram that is the one that
+
+53
+00:01:47,109 --> 00:01:49,169
+parallelogram that is the one that
+rotates against the page so that's
+
+54
+00:01:49,169 --> 00:01:49,179
+rotates against the page so that's
+
+55
+00:01:49,179 --> 00:01:51,719
+rotates against the page so that's
+really the most useful the other small
+
+56
+00:01:51,719 --> 00:01:51,729
+really the most useful the other small
+
+57
+00:01:51,729 --> 00:01:53,190
+really the most useful the other small
+triangle that's the one that will make
+
+58
+00:01:53,190 --> 00:01:53,200
+triangle that's the one that will make
+
+59
+00:01:53,200 --> 00:01:56,340
+triangle that's the one that will make
+the the piece of car flip over the
+
+60
+00:01:56,340 --> 00:01:56,350
+the the piece of car flip over the
+
+61
+00:01:56,350 --> 00:01:58,800
+the the piece of car flip over the
+parallelogram also creates a gully here
+
+62
+00:01:58,800 --> 00:01:58,810
+parallelogram also creates a gully here
+
+63
+00:01:58,810 --> 00:02:01,800
+parallelogram also creates a gully here
+where it joins the page so you can stick
+
+64
+00:02:01,800 --> 00:02:01,810
+where it joins the page so you can stick
+
+65
+00:02:01,810 --> 00:02:07,469
+where it joins the page so you can stick
+moving arms in for that
+
+66
+00:02:07,469 --> 00:02:07,479
+
+
+67
+00:02:07,479 --> 00:02:11,740
+here's an example here's the basic
+
+68
+00:02:11,740 --> 00:02:11,750
+here's an example here's the basic
+
+69
+00:02:11,750 --> 00:02:14,680
+here's an example here's the basic
+parallelogram this is the moving arm
+
+70
+00:02:14,680 --> 00:02:14,690
+parallelogram this is the moving arm
+
+71
+00:02:14,690 --> 00:02:16,990
+parallelogram this is the moving arm
+we've already looked at here's two more
+
+72
+00:02:16,990 --> 00:02:17,000
+we've already looked at here's two more
+
+73
+00:02:17,000 --> 00:02:19,330
+we've already looked at here's two more
+small triangles stuck into this gully
+
+74
+00:02:19,330 --> 00:02:19,340
+small triangles stuck into this gully
+
+75
+00:02:19,340 --> 00:02:21,670
+small triangles stuck into this gully
+created by the parallelogram joining the
+
+76
+00:02:21,670 --> 00:02:21,680
+created by the parallelogram joining the
+
+77
+00:02:21,680 --> 00:02:24,369
+created by the parallelogram joining the
+page and so these two have two moving
+
+78
+00:02:24,369 --> 00:02:24,379
+page and so these two have two moving
+
+79
+00:02:24,379 --> 00:02:26,320
+page and so these two have two moving
+arms stuck on and so as you see as you
+
+80
+00:02:26,320 --> 00:02:26,330
+arms stuck on and so as you see as you
+
+81
+00:02:26,330 --> 00:02:28,780
+arms stuck on and so as you see as you
+open and close it they have a different
+
+82
+00:02:28,780 --> 00:02:28,790
+open and close it they have a different
+
+83
+00:02:28,790 --> 00:02:33,039
+open and close it they have a different
+action and here's another example this
+
+84
+00:02:33,039 --> 00:02:33,049
+action and here's another example this
+
+85
+00:02:33,049 --> 00:02:36,160
+action and here's another example this
+is this is using that type of mechanism
+
+86
+00:02:36,160 --> 00:02:36,170
+is this is using that type of mechanism
+
+87
+00:02:36,170 --> 00:02:38,979
+is this is using that type of mechanism
+so is the parallel fold through to the
+
+88
+00:02:38,979 --> 00:02:38,989
+so is the parallel fold through to the
+
+89
+00:02:38,989 --> 00:02:41,350
+so is the parallel fold through to the
+page and we've got small triangles stuck
+
+90
+00:02:41,350 --> 00:02:41,360
+page and we've got small triangles stuck
+
+91
+00:02:41,360 --> 00:02:44,170
+page and we've got small triangles stuck
+in and so those are giving us moving
+
+92
+00:02:44,170 --> 00:02:44,180
+in and so those are giving us moving
+
+93
+00:02:44,180 --> 00:02:48,150
+in and so those are giving us moving
+arms are moving in different directions
+
+94
+00:02:48,150 --> 00:02:48,160
+
+
+95
+00:02:48,160 --> 00:02:51,819
+there are numerous ways that this can be
+
+96
+00:02:51,819 --> 00:02:51,829
+there are numerous ways that this can be
+
+97
+00:02:51,829 --> 00:02:54,250
+there are numerous ways that this can be
+used so here's a really complicated one
+
+98
+00:02:54,250 --> 00:02:54,260
+used so here's a really complicated one
+
+99
+00:02:54,260 --> 00:02:57,250
+used so here's a really complicated one
+so this is this is the basic jumping
+
+100
+00:02:57,250 --> 00:02:57,260
+so this is this is the basic jumping
+
+101
+00:02:57,260 --> 00:02:58,660
+so this is this is the basic jumping
+figure that I just showed you got those
+
+102
+00:02:58,660 --> 00:02:58,670
+figure that I just showed you got those
+
+103
+00:02:58,670 --> 00:03:00,220
+figure that I just showed you got those
+two of them there's two parallelograms
+
+104
+00:03:00,220 --> 00:03:00,230
+two of them there's two parallelograms
+
+105
+00:03:00,230 --> 00:03:03,520
+two of them there's two parallelograms
+built onto each other with these jumping
+
+106
+00:03:03,520 --> 00:03:03,530
+built onto each other with these jumping
+
+107
+00:03:03,530 --> 00:03:09,759
+built onto each other with these jumping
+figures other variations there's this
+
+108
+00:03:09,759 --> 00:03:09,769
+figures other variations there's this
+
+109
+00:03:09,769 --> 00:03:13,090
+figures other variations there's this
+type so this is actually the the moving
+
+110
+00:03:13,090 --> 00:03:13,100
+type so this is actually the the moving
+
+111
+00:03:13,100 --> 00:03:16,750
+type so this is actually the the moving
+arm appears from behind a mask so the
+
+112
+00:03:16,750 --> 00:03:16,760
+arm appears from behind a mask so the
+
+113
+00:03:16,760 --> 00:03:19,629
+arm appears from behind a mask so the
+green bit is a big parallelogram and the
+
+114
+00:03:19,629 --> 00:03:19,639
+green bit is a big parallelogram and the
+
+115
+00:03:19,639 --> 00:03:21,970
+green bit is a big parallelogram and the
+arm is actually stuck to the page at an
+
+116
+00:03:21,970 --> 00:03:21,980
+arm is actually stuck to the page at an
+
+117
+00:03:21,980 --> 00:03:24,339
+arm is actually stuck to the page at an
+angle that's what gives it the movement
+
+118
+00:03:24,339 --> 00:03:24,349
+angle that's what gives it the movement
+
+119
+00:03:24,349 --> 00:03:27,309
+angle that's what gives it the movement
+as it opens and closes and here's
+
+120
+00:03:27,309 --> 00:03:27,319
+as it opens and closes and here's
+
+121
+00:03:27,319 --> 00:03:30,490
+as it opens and closes and here's
+another variation of it if you look at
+
+122
+00:03:30,490 --> 00:03:30,500
+another variation of it if you look at
+
+123
+00:03:30,500 --> 00:03:32,080
+another variation of it if you look at
+it this way around you'll see those
+
+124
+00:03:32,080 --> 00:03:32,090
+it this way around you'll see those
+
+125
+00:03:32,090 --> 00:03:35,289
+it this way around you'll see those
+there's a parallelogram inside the green
+
+126
+00:03:35,289 --> 00:03:35,299
+there's a parallelogram inside the green
+
+127
+00:03:35,299 --> 00:03:37,509
+there's a parallelogram inside the green
+one is just a mask and then there's a
+
+128
+00:03:37,509 --> 00:03:37,519
+one is just a mask and then there's a
+
+129
+00:03:37,519 --> 00:03:40,089
+one is just a mask and then there's a
+parallelogram inside with the moving
+
+130
+00:03:40,089 --> 00:03:40,099
+parallelogram inside with the moving
+
+131
+00:03:40,099 --> 00:03:42,069
+parallelogram inside with the moving
+arms stuck to it rather than seeing the
+
+132
+00:03:42,069 --> 00:03:42,079
+arms stuck to it rather than seeing the
+
+133
+00:03:42,079 --> 00:03:43,930
+arms stuck to it rather than seeing the
+whole mechanism and how it works you
+
+134
+00:03:43,930 --> 00:03:43,940
+whole mechanism and how it works you
+
+135
+00:03:43,940 --> 00:03:45,970
+whole mechanism and how it works you
+just see the image appearing from behind
+
+136
+00:03:45,970 --> 00:03:45,980
+just see the image appearing from behind
+
+137
+00:03:45,980 --> 00:03:51,830
+just see the image appearing from behind
+behind the green mask
+
+138
+00:03:51,830 --> 00:03:51,840
+
+
+139
+00:03:51,840 --> 00:03:54,119
+so I'll just make one of those just so
+
+140
+00:03:54,119 --> 00:03:54,129
+so I'll just make one of those just so
+
+141
+00:03:54,129 --> 00:03:56,399
+so I'll just make one of those just so
+you can see how to make it you'll need a
+
+142
+00:03:56,399 --> 00:03:56,409
+you can see how to make it you'll need a
+
+143
+00:03:56,409 --> 00:03:59,599
+you can see how to make it you'll need a
+base sheet sheet of card fold it in half
+
+144
+00:03:59,599 --> 00:03:59,609
+base sheet sheet of card fold it in half
+
+145
+00:03:59,609 --> 00:04:03,929
+base sheet sheet of card fold it in half
+crease thoroughly you need a piece to
+
+146
+00:04:03,929 --> 00:04:03,939
+crease thoroughly you need a piece to
+
+147
+00:04:03,939 --> 00:04:06,479
+crease thoroughly you need a piece to
+make the parallelogram with so just a
+
+148
+00:04:06,479 --> 00:04:06,489
+make the parallelogram with so just a
+
+149
+00:04:06,489 --> 00:04:09,119
+make the parallelogram with so just a
+piece of card something like this fold
+
+150
+00:04:09,119 --> 00:04:09,129
+piece of card something like this fold
+
+151
+00:04:09,129 --> 00:04:13,259
+piece of card something like this fold
+the tab onto each end of it crease them
+
+152
+00:04:13,259 --> 00:04:13,269
+the tab onto each end of it crease them
+
+153
+00:04:13,269 --> 00:04:20,580
+the tab onto each end of it crease them
+well we're making a parallelogram here
+
+154
+00:04:20,580 --> 00:04:20,590
+well we're making a parallelogram here
+
+155
+00:04:20,590 --> 00:04:23,360
+well we're making a parallelogram here
+as explained in tutorial 5 so you just
+
+156
+00:04:23,360 --> 00:04:23,370
+as explained in tutorial 5 so you just
+
+157
+00:04:23,370 --> 00:04:30,120
+as explained in tutorial 5 so you just
+fold an extra parallel crease into it so
+
+158
+00:04:30,120 --> 00:04:30,130
+fold an extra parallel crease into it so
+
+159
+00:04:30,130 --> 00:04:32,189
+fold an extra parallel crease into it so
+now what you've ended up with you've got
+
+160
+00:04:32,189 --> 00:04:32,199
+now what you've ended up with you've got
+
+161
+00:04:32,199 --> 00:04:34,770
+now what you've ended up with you've got
+three parallel creases you've got a long
+
+162
+00:04:34,770 --> 00:04:34,780
+three parallel creases you've got a long
+
+163
+00:04:34,780 --> 00:04:38,430
+three parallel creases you've got a long
+side and the short side so to find out
+
+164
+00:04:38,430 --> 00:04:38,440
+side and the short side so to find out
+
+165
+00:04:38,440 --> 00:04:43,140
+side and the short side so to find out
+where you stick this put the piece on
+
+166
+00:04:43,140 --> 00:04:43,150
+where you stick this put the piece on
+
+167
+00:04:43,150 --> 00:04:49,020
+where you stick this put the piece on
+the page you just need to mark where one
+
+168
+00:04:49,020 --> 00:04:49,030
+the page you just need to mark where one
+
+169
+00:04:49,030 --> 00:04:50,879
+the page you just need to mark where one
+of the creases lies so I'll just mark
+
+170
+00:04:50,879 --> 00:04:50,889
+of the creases lies so I'll just mark
+
+171
+00:04:50,889 --> 00:04:53,909
+of the creases lies so I'll just mark
+the the short side bilities and then
+
+172
+00:04:53,909 --> 00:04:53,919
+the the short side bilities and then
+
+173
+00:04:53,919 --> 00:04:56,250
+the the short side bilities and then
+you're going to flip this over flip it
+
+174
+00:04:56,250 --> 00:04:56,260
+you're going to flip this over flip it
+
+175
+00:04:56,260 --> 00:04:59,279
+you're going to flip this over flip it
+over and stick the long side to the mark
+
+176
+00:04:59,279 --> 00:04:59,289
+over and stick the long side to the mark
+
+177
+00:04:59,289 --> 00:05:01,379
+over and stick the long side to the mark
+this will be giving you your basic
+
+178
+00:05:01,379 --> 00:05:01,389
+this will be giving you your basic
+
+179
+00:05:01,389 --> 00:05:03,510
+this will be giving you your basic
+parallelogram but before we do that
+
+180
+00:05:03,510 --> 00:05:03,520
+parallelogram but before we do that
+
+181
+00:05:03,520 --> 00:05:05,520
+parallelogram but before we do that
+you've got one more set of creases to
+
+182
+00:05:05,520 --> 00:05:05,530
+you've got one more set of creases to
+
+183
+00:05:05,530 --> 00:05:08,730
+you've got one more set of creases to
+make the two small triangles so here's
+
+184
+00:05:08,730 --> 00:05:08,740
+make the two small triangles so here's
+
+185
+00:05:08,740 --> 00:05:11,640
+make the two small triangles so here's
+your card here's your crease just fold
+
+186
+00:05:11,640 --> 00:05:11,650
+your card here's your crease just fold
+
+187
+00:05:11,650 --> 00:05:15,300
+your card here's your crease just fold
+the top edge down so it's it's flush
+
+188
+00:05:15,300 --> 00:05:15,310
+the top edge down so it's it's flush
+
+189
+00:05:15,310 --> 00:05:19,439
+the top edge down so it's it's flush
+with that with that crease so it's flush
+
+190
+00:05:19,439 --> 00:05:19,449
+with that with that crease so it's flush
+
+191
+00:05:19,449 --> 00:05:21,839
+with that with that crease so it's flush
+with that crease there and fold it back
+
+192
+00:05:21,839 --> 00:05:21,849
+with that crease there and fold it back
+
+193
+00:05:21,849 --> 00:05:26,249
+with that crease there and fold it back
+on itself and yeah just push it in just
+
+194
+00:05:26,249 --> 00:05:26,259
+on itself and yeah just push it in just
+
+195
+00:05:26,259 --> 00:05:29,570
+on itself and yeah just push it in just
+to make sure it's all working well so
+
+196
+00:05:29,570 --> 00:05:29,580
+to make sure it's all working well so
+
+197
+00:05:29,580 --> 00:05:34,700
+to make sure it's all working well so
+fold it back again so there is so now
+
+198
+00:05:34,700 --> 00:05:34,710
+fold it back again so there is so now
+
+199
+00:05:34,710 --> 00:05:36,990
+fold it back again so there is so now
+making sure that the two little
+
+200
+00:05:36,990 --> 00:05:37,000
+making sure that the two little
+
+201
+00:05:37,000 --> 00:05:39,510
+making sure that the two little
+triangles are on the top this is stuck
+
+202
+00:05:39,510 --> 00:05:39,520
+triangles are on the top this is stuck
+
+203
+00:05:39,520 --> 00:05:42,029
+triangles are on the top this is stuck
+near the bottom of your page glue the
+
+204
+00:05:42,029 --> 00:05:42,039
+near the bottom of your page glue the
+
+205
+00:05:42,039 --> 00:05:44,610
+near the bottom of your page glue the
+long side to the mark you made for the
+
+206
+00:05:44,610 --> 00:05:44,620
+long side to the mark you made for the
+
+207
+00:05:44,620 --> 00:05:50,159
+long side to the mark you made for the
+shorter side so when the page is flat
+
+208
+00:05:50,159 --> 00:05:50,169
+shorter side so when the page is flat
+
+209
+00:05:50,169 --> 00:05:52,560
+shorter side so when the page is flat
+the parallelogram lies flat so you can
+
+210
+00:05:52,560 --> 00:05:52,570
+the parallelogram lies flat so you can
+
+211
+00:05:52,570 --> 00:05:57,680
+the parallelogram lies flat so you can
+glue both tabs at the same time so
+
+212
+00:05:57,680 --> 00:05:57,690
+glue both tabs at the same time so
+
+213
+00:05:57,690 --> 00:06:05,200
+glue both tabs at the same time so
+there's the glue
+
+214
+00:06:05,200 --> 00:06:05,210
+
+
+215
+00:06:05,210 --> 00:06:08,779
+right so stick that down with the crease
+
+216
+00:06:08,779 --> 00:06:08,789
+right so stick that down with the crease
+
+217
+00:06:08,789 --> 00:06:14,629
+right so stick that down with the crease
+to the mark do this one down so that the
+
+218
+00:06:14,629 --> 00:06:14,639
+to the mark do this one down so that the
+
+219
+00:06:14,639 --> 00:06:17,210
+to the mark do this one down so that the
+whole thing is flat all the creases
+
+220
+00:06:17,210 --> 00:06:17,220
+whole thing is flat all the creases
+
+221
+00:06:17,220 --> 00:06:21,379
+whole thing is flat all the creases
+should be parallel with the spine fold
+
+222
+00:06:21,379 --> 00:06:21,389
+should be parallel with the spine fold
+
+223
+00:06:21,389 --> 00:06:24,020
+should be parallel with the spine fold
+it shut make sure that comes forward
+
+224
+00:06:24,020 --> 00:06:24,030
+it shut make sure that comes forward
+
+225
+00:06:24,030 --> 00:06:28,580
+it shut make sure that comes forward
+make sure it's all working nicely now
+
+226
+00:06:28,580 --> 00:06:28,590
+make sure it's all working nicely now
+
+227
+00:06:28,590 --> 00:06:36,409
+make sure it's all working nicely now
+you can pop these back in so that's the
+
+228
+00:06:36,409 --> 00:06:36,419
+you can pop these back in so that's the
+
+229
+00:06:36,419 --> 00:06:38,779
+you can pop these back in so that's the
+basic underlying mechanism the
+
+230
+00:06:38,779 --> 00:06:38,789
+basic underlying mechanism the
+
+231
+00:06:38,789 --> 00:06:41,240
+basic underlying mechanism the
+parallelogram with two small small
+
+232
+00:06:41,240 --> 00:06:41,250
+parallelogram with two small small
+
+233
+00:06:41,250 --> 00:06:43,219
+parallelogram with two small small
+triangles added and then you make the
+
+234
+00:06:43,219 --> 00:06:43,229
+triangles added and then you make the
+
+235
+00:06:43,229 --> 00:06:46,820
+triangles added and then you make the
+moving arms so this is going to fit on
+
+236
+00:06:46,820 --> 00:06:46,830
+moving arms so this is going to fit on
+
+237
+00:06:46,830 --> 00:06:48,770
+moving arms so this is going to fit on
+to the short side so it's going to fit
+
+238
+00:06:48,770 --> 00:06:48,780
+to the short side so it's going to fit
+
+239
+00:06:48,780 --> 00:06:51,740
+to the short side so it's going to fit
+on to that triangle you can just trim
+
+240
+00:06:51,740 --> 00:06:51,750
+on to that triangle you can just trim
+
+241
+00:06:51,750 --> 00:07:00,550
+on to that triangle you can just trim
+that off there put a bit of glue on it
+
+242
+00:07:00,550 --> 00:07:00,560
+
+
+243
+00:07:00,560 --> 00:07:04,850
+right that glues in there probably the
+
+244
+00:07:04,850 --> 00:07:04,860
+right that glues in there probably the
+
+245
+00:07:04,860 --> 00:07:07,040
+right that glues in there probably the
+piece I've got here is too long as it
+
+246
+00:07:07,040 --> 00:07:07,050
+piece I've got here is too long as it
+
+247
+00:07:07,050 --> 00:07:09,469
+piece I've got here is too long as it
+closes is going to crunch against the
+
+248
+00:07:09,469 --> 00:07:09,479
+closes is going to crunch against the
+
+249
+00:07:09,479 --> 00:07:17,689
+closes is going to crunch against the
+spine so I'll just trim a piece off so
+
+250
+00:07:17,689 --> 00:07:17,699
+spine so I'll just trim a piece off so
+
+251
+00:07:17,699 --> 00:07:20,839
+spine so I'll just trim a piece off so
+if that fits okay but that's now fitting
+
+252
+00:07:20,839 --> 00:07:20,849
+if that fits okay but that's now fitting
+
+253
+00:07:20,849 --> 00:07:24,409
+if that fits okay but that's now fitting
+nicely within the parameters if you want
+
+254
+00:07:24,409 --> 00:07:24,419
+nicely within the parameters if you want
+
+255
+00:07:24,419 --> 00:07:27,560
+nicely within the parameters if you want
+to make it give it that extra elbow you
+
+256
+00:07:27,560 --> 00:07:27,570
+to make it give it that extra elbow you
+
+257
+00:07:27,570 --> 00:07:31,300
+to make it give it that extra elbow you
+can just cut an extra piece off of car
+
+258
+00:07:31,300 --> 00:07:31,310
+can just cut an extra piece off of car
+
+259
+00:07:31,310 --> 00:07:43,420
+can just cut an extra piece off of car
+glue that on
+
+260
+00:07:43,420 --> 00:07:43,430
+
+
+261
+00:07:43,430 --> 00:07:46,550
+so there we have it the basic moving arm
+
+262
+00:07:46,550 --> 00:07:46,560
+so there we have it the basic moving arm
+
+263
+00:07:46,560 --> 00:07:53,650
+so there we have it the basic moving arm
+and that's how it works
+
+264
+00:07:53,650 --> 00:07:53,660
+
+
+265
+00:07:53,660 --> 00:07:55,909
+so now I'll just show you a whole series
+
+266
+00:07:55,909 --> 00:07:55,919
+so now I'll just show you a whole series
+
+267
+00:07:55,919 --> 00:07:58,879
+so now I'll just show you a whole series
+of other other examples in books just
+
+268
+00:07:58,879 --> 00:07:58,889
+of other other examples in books just
+
+269
+00:07:58,889 --> 00:08:01,040
+of other other examples in books just
+all the variations it's a really useful
+
+270
+00:08:01,040 --> 00:08:01,050
+all the variations it's a really useful
+
+271
+00:08:01,050 --> 00:08:05,810
+all the variations it's a really useful
+mechanism so first we've got this is
+
+272
+00:08:05,810 --> 00:08:05,820
+mechanism so first we've got this is
+
+273
+00:08:05,820 --> 00:08:08,000
+mechanism so first we've got this is
+help the animals of Africa by Roberts
+
+274
+00:08:08,000 --> 00:08:08,010
+help the animals of Africa by Roberts
+
+275
+00:08:08,010 --> 00:08:11,210
+help the animals of Africa by Roberts
+óbuda and so here we are we've got a
+
+276
+00:08:11,210 --> 00:08:11,220
+óbuda and so here we are we've got a
+
+277
+00:08:11,220 --> 00:08:13,430
+óbuda and so here we are we've got a
+moving arm here this is a small V fold
+
+278
+00:08:13,430 --> 00:08:13,440
+moving arm here this is a small V fold
+
+279
+00:08:13,440 --> 00:08:16,070
+moving arm here this is a small V fold
+with the tail stock on it that moves
+
+280
+00:08:16,070 --> 00:08:16,080
+with the tail stock on it that moves
+
+281
+00:08:16,080 --> 00:08:18,650
+with the tail stock on it that moves
+that way and then the body is part of a
+
+282
+00:08:18,650 --> 00:08:18,660
+that way and then the body is part of a
+
+283
+00:08:18,660 --> 00:08:20,840
+that way and then the body is part of a
+parallelogram the moving arm is
+
+284
+00:08:20,840 --> 00:08:20,850
+parallelogram the moving arm is
+
+285
+00:08:20,850 --> 00:08:23,900
+parallelogram the moving arm is
+underneath the mask the head is on the
+
+286
+00:08:23,900 --> 00:08:23,910
+underneath the mask the head is on the
+
+287
+00:08:23,910 --> 00:08:26,840
+underneath the mask the head is on the
+moving arm so as it opens and closes the
+
+288
+00:08:26,840 --> 00:08:26,850
+moving arm so as it opens and closes the
+
+289
+00:08:26,850 --> 00:08:30,969
+moving arm so as it opens and closes the
+head moves is the next one this is the
+
+290
+00:08:30,969 --> 00:08:30,979
+head moves is the next one this is the
+
+291
+00:08:30,979 --> 00:08:32,870
+head moves is the next one this is the
+parallelogram is holding up the whole
+
+292
+00:08:32,870 --> 00:08:32,880
+parallelogram is holding up the whole
+
+293
+00:08:32,880 --> 00:08:34,909
+parallelogram is holding up the whole
+head of the zebra we've got two little
+
+294
+00:08:34,909 --> 00:08:34,919
+head of the zebra we've got two little
+
+295
+00:08:34,919 --> 00:08:37,100
+head of the zebra we've got two little
+triangles here and another one under the
+
+296
+00:08:37,100 --> 00:08:37,110
+triangles here and another one under the
+
+297
+00:08:37,110 --> 00:08:37,640
+triangles here and another one under the
+mask
+
+298
+00:08:37,640 --> 00:08:37,650
+mask
+
+299
+00:08:37,650 --> 00:08:40,640
+mask
+so as you open and close it the legs are
+
+300
+00:08:40,640 --> 00:08:40,650
+so as you open and close it the legs are
+
+301
+00:08:40,650 --> 00:08:43,610
+so as you open and close it the legs are
+moves they're the moving arm the third
+
+302
+00:08:43,610 --> 00:08:43,620
+moves they're the moving arm the third
+
+303
+00:08:43,620 --> 00:08:46,010
+moves they're the moving arm the third
+one this is the parallelogram I can show
+
+304
+00:08:46,010 --> 00:08:46,020
+one this is the parallelogram I can show
+
+305
+00:08:46,020 --> 00:08:47,480
+one this is the parallelogram I can show
+you this way round so you can see really
+
+306
+00:08:47,480 --> 00:08:47,490
+you this way round so you can see really
+
+307
+00:08:47,490 --> 00:08:49,360
+you this way round so you can see really
+clearly there's the parallelogram
+
+308
+00:08:49,360 --> 00:08:49,370
+clearly there's the parallelogram
+
+309
+00:08:49,370 --> 00:08:54,980
+clearly there's the parallelogram
+there's the parallelogram and the image
+
+310
+00:08:54,980 --> 00:08:54,990
+there's the parallelogram and the image
+
+311
+00:08:54,990 --> 00:08:57,050
+there's the parallelogram and the image
+is stuck to the moving arm and it swings
+
+312
+00:08:57,050 --> 00:08:57,060
+is stuck to the moving arm and it swings
+
+313
+00:08:57,060 --> 00:09:00,350
+is stuck to the moving arm and it swings
+around as the page opens here's another
+
+314
+00:09:00,350 --> 00:09:00,360
+around as the page opens here's another
+
+315
+00:09:00,360 --> 00:09:03,050
+around as the page opens here's another
+one this is the body of the bird is the
+
+316
+00:09:03,050 --> 00:09:03,060
+one this is the body of the bird is the
+
+317
+00:09:03,060 --> 00:09:04,880
+one this is the body of the bird is the
+parallelogram and you've got the two
+
+318
+00:09:04,880 --> 00:09:04,890
+parallelogram and you've got the two
+
+319
+00:09:04,890 --> 00:09:07,040
+parallelogram and you've got the two
+moving arms giving you movement in that
+
+320
+00:09:07,040 --> 00:09:07,050
+moving arms giving you movement in that
+
+321
+00:09:07,050 --> 00:09:11,270
+moving arms giving you movement in that
+direction and the last one here got the
+
+322
+00:09:11,270 --> 00:09:11,280
+direction and the last one here got the
+
+323
+00:09:11,280 --> 00:09:13,790
+direction and the last one here got the
+elephant head looking at it this way you
+
+324
+00:09:13,790 --> 00:09:13,800
+elephant head looking at it this way you
+
+325
+00:09:13,800 --> 00:09:15,320
+elephant head looking at it this way you
+can see really clearly it's a
+
+326
+00:09:15,320 --> 00:09:15,330
+can see really clearly it's a
+
+327
+00:09:15,330 --> 00:09:19,570
+can see really clearly it's a
+parallelogram with the small triangles
+
+328
+00:09:19,570 --> 00:09:19,580
+parallelogram with the small triangles
+
+329
+00:09:19,580 --> 00:09:22,730
+parallelogram with the small triangles
+giving you the actions as the page opens
+
+330
+00:09:22,730 --> 00:09:22,740
+giving you the actions as the page opens
+
+331
+00:09:22,740 --> 00:09:27,230
+giving you the actions as the page opens
+and closes next one is the Museum of
+
+332
+00:09:27,230 --> 00:09:27,240
+and closes next one is the Museum of
+
+333
+00:09:27,240 --> 00:09:31,630
+and closes next one is the Museum of
+unnatural history by Keith Moore be
+
+334
+00:09:31,630 --> 00:09:31,640
+unnatural history by Keith Moore be
+
+335
+00:09:31,640 --> 00:09:35,990
+unnatural history by Keith Moore be
+there is is the parallelogram there's
+
+336
+00:09:35,990 --> 00:09:36,000
+there is is the parallelogram there's
+
+337
+00:09:36,000 --> 00:09:38,060
+there is is the parallelogram there's
+actually two parallelograms here there's
+
+338
+00:09:38,060 --> 00:09:38,070
+actually two parallelograms here there's
+
+339
+00:09:38,070 --> 00:09:41,030
+actually two parallelograms here there's
+a small one here and then there's a
+
+340
+00:09:41,030 --> 00:09:41,040
+a small one here and then there's a
+
+341
+00:09:41,040 --> 00:09:43,579
+a small one here and then there's a
+another one here so one is giving you
+
+342
+00:09:43,579 --> 00:09:43,589
+another one here so one is giving you
+
+343
+00:09:43,589 --> 00:09:45,860
+another one here so one is giving you
+this this moving arm and that's giving
+
+344
+00:09:45,860 --> 00:09:45,870
+this this moving arm and that's giving
+
+345
+00:09:45,870 --> 00:09:49,310
+this this moving arm and that's giving
+you that one so as it closes the two are
+
+346
+00:09:49,310 --> 00:09:49,320
+you that one so as it closes the two are
+
+347
+00:09:49,320 --> 00:09:52,340
+you that one so as it closes the two are
+coming together
+
+348
+00:09:52,340 --> 00:09:52,350
+
+
+349
+00:09:52,350 --> 00:09:56,070
+here we have my jungle pop-up book the
+
+350
+00:09:56,070 --> 00:09:56,080
+here we have my jungle pop-up book the
+
+351
+00:09:56,080 --> 00:09:58,770
+here we have my jungle pop-up book the
+turtle is the the parallelogram and
+
+352
+00:09:58,770 --> 00:09:58,780
+turtle is the the parallelogram and
+
+353
+00:09:58,780 --> 00:10:01,470
+turtle is the the parallelogram and
+you've got two moving arms coming from
+
+354
+00:10:01,470 --> 00:10:01,480
+you've got two moving arms coming from
+
+355
+00:10:01,480 --> 00:10:03,150
+you've got two moving arms coming from
+behind the mask and then you've got
+
+356
+00:10:03,150 --> 00:10:03,160
+behind the mask and then you've got
+
+357
+00:10:03,160 --> 00:10:05,690
+behind the mask and then you've got
+these two tail fins so as you see this
+
+358
+00:10:05,690 --> 00:10:05,700
+these two tail fins so as you see this
+
+359
+00:10:05,700 --> 00:10:08,820
+these two tail fins so as you see this
+it's a subtle mechanism which can give
+
+360
+00:10:08,820 --> 00:10:08,830
+it's a subtle mechanism which can give
+
+361
+00:10:08,830 --> 00:10:10,440
+it's a subtle mechanism which can give
+you movement in all sorts of directions
+
+362
+00:10:10,440 --> 00:10:10,450
+you movement in all sorts of directions
+
+363
+00:10:10,450 --> 00:10:14,760
+you movement in all sorts of directions
+and this one here we've got the gorilla
+
+364
+00:10:14,760 --> 00:10:14,770
+and this one here we've got the gorilla
+
+365
+00:10:14,770 --> 00:10:16,890
+and this one here we've got the gorilla
+in effect this is a floating playing
+
+366
+00:10:16,890 --> 00:10:16,900
+in effect this is a floating playing
+
+367
+00:10:16,900 --> 00:10:19,500
+in effect this is a floating playing
+this is what we covered in tutorial 12
+
+368
+00:10:19,500 --> 00:10:19,510
+this is what we covered in tutorial 12
+
+369
+00:10:19,510 --> 00:10:22,410
+this is what we covered in tutorial 12
+they act as a mask with the the arms of
+
+370
+00:10:22,410 --> 00:10:22,420
+they act as a mask with the the arms of
+
+371
+00:10:22,420 --> 00:10:26,010
+they act as a mask with the the arms of
+the gorilla moving and then you have
+
+372
+00:10:26,010 --> 00:10:26,020
+the gorilla moving and then you have
+
+373
+00:10:26,020 --> 00:10:31,050
+the gorilla moving and then you have
+another one the crocodile head the panda
+
+374
+00:10:31,050 --> 00:10:31,060
+another one the crocodile head the panda
+
+375
+00:10:31,060 --> 00:10:33,570
+another one the crocodile head the panda
+head all of these are moved by the
+
+376
+00:10:33,570 --> 00:10:33,580
+head all of these are moved by the
+
+377
+00:10:33,580 --> 00:10:37,350
+head all of these are moved by the
+moving arms this is so this is Robert's
+
+378
+00:10:37,350 --> 00:10:37,360
+moving arms this is so this is Robert's
+
+379
+00:10:37,360 --> 00:10:39,630
+moving arms this is so this is Robert's
+óbuda of the night before Christmas in
+
+380
+00:10:39,630 --> 00:10:39,640
+óbuda of the night before Christmas in
+
+381
+00:10:39,640 --> 00:10:42,090
+óbuda of the night before Christmas in
+this one he's using moving arms to
+
+382
+00:10:42,090 --> 00:10:42,100
+this one he's using moving arms to
+
+383
+00:10:42,100 --> 00:10:45,390
+this one he's using moving arms to
+actually make wheels turns so in this
+
+384
+00:10:45,390 --> 00:10:45,400
+actually make wheels turns so in this
+
+385
+00:10:45,400 --> 00:10:47,340
+actually make wheels turns so in this
+example here you can see the wheels are
+
+386
+00:10:47,340 --> 00:10:47,350
+example here you can see the wheels are
+
+387
+00:10:47,350 --> 00:10:49,410
+example here you can see the wheels are
+all moving in different directions and
+
+388
+00:10:49,410 --> 00:10:49,420
+all moving in different directions and
+
+389
+00:10:49,420 --> 00:10:52,200
+all moving in different directions and
+so this is another really subtle use of
+
+390
+00:10:52,200 --> 00:10:52,210
+so this is another really subtle use of
+
+391
+00:10:52,210 --> 00:10:54,150
+so this is another really subtle use of
+the moving arm to give you give you
+
+392
+00:10:54,150 --> 00:10:54,160
+the moving arm to give you give you
+
+393
+00:10:54,160 --> 00:10:59,550
+the moving arm to give you give you
+turning wheels okay so this is a Little
+
+394
+00:10:59,550 --> 00:10:59,560
+turning wheels okay so this is a Little
+
+395
+00:10:59,560 --> 00:11:01,530
+turning wheels okay so this is a Little
+Red Riding Hood paper engineering by
+
+396
+00:11:01,530 --> 00:11:01,540
+Red Riding Hood paper engineering by
+
+397
+00:11:01,540 --> 00:11:05,730
+Red Riding Hood paper engineering by
+Bruce Foster so here's the wolf it's got
+
+398
+00:11:05,730 --> 00:11:05,740
+Bruce Foster so here's the wolf it's got
+
+399
+00:11:05,740 --> 00:11:08,310
+Bruce Foster so here's the wolf it's got
+the main body of the wolf is a pair of
+
+400
+00:11:08,310 --> 00:11:08,320
+the main body of the wolf is a pair of
+
+401
+00:11:08,320 --> 00:11:11,670
+the main body of the wolf is a pair of
+parallelograms and then the tail and
+
+402
+00:11:11,670 --> 00:11:11,680
+parallelograms and then the tail and
+
+403
+00:11:11,680 --> 00:11:14,820
+parallelograms and then the tail and
+back legs are one moving our mechanism
+
+404
+00:11:14,820 --> 00:11:14,830
+back legs are one moving our mechanism
+
+405
+00:11:14,830 --> 00:11:16,590
+back legs are one moving our mechanism
+and the head and front feet are another
+
+406
+00:11:16,590 --> 00:11:16,600
+and the head and front feet are another
+
+407
+00:11:16,600 --> 00:11:18,810
+and the head and front feet are another
+one's as open and closes you get really
+
+408
+00:11:18,810 --> 00:11:18,820
+one's as open and closes you get really
+
+409
+00:11:18,820 --> 00:11:23,850
+one's as open and closes you get really
+lovely founding mechanism and then
+
+410
+00:11:23,850 --> 00:11:23,860
+lovely founding mechanism and then
+
+411
+00:11:23,860 --> 00:11:28,380
+lovely founding mechanism and then
+lastly I've got from mummy by uh Matthew
+
+412
+00:11:28,380 --> 00:11:28,390
+lastly I've got from mummy by uh Matthew
+
+413
+00:11:28,390 --> 00:11:31,050
+lastly I've got from mummy by uh Matthew
+Reinhart this is a masterpiece it's a
+
+414
+00:11:31,050 --> 00:11:31,060
+Reinhart this is a masterpiece it's a
+
+415
+00:11:31,060 --> 00:11:34,710
+Reinhart this is a masterpiece it's a
+really fantastic book so in this spread
+
+416
+00:11:34,710 --> 00:11:34,720
+really fantastic book so in this spread
+
+417
+00:11:34,720 --> 00:11:38,730
+really fantastic book so in this spread
+you've got numerous moving arms moving
+
+418
+00:11:38,730 --> 00:11:38,740
+you've got numerous moving arms moving
+
+419
+00:11:38,740 --> 00:11:41,040
+you've got numerous moving arms moving
+around but the bit I really like here is
+
+420
+00:11:41,040 --> 00:11:41,050
+around but the bit I really like here is
+
+421
+00:11:41,050 --> 00:11:44,610
+around but the bit I really like here is
+this last bigger you've got the head the
+
+422
+00:11:44,610 --> 00:11:44,620
+this last bigger you've got the head the
+
+423
+00:11:44,620 --> 00:11:47,940
+this last bigger you've got the head the
+arms the feet that they're all moving in
+
+424
+00:11:47,940 --> 00:11:47,950
+arms the feet that they're all moving in
+
+425
+00:11:47,950 --> 00:11:50,250
+arms the feet that they're all moving in
+different ways this is a really cleverly
+
+426
+00:11:50,250 --> 00:11:50,260
+different ways this is a really cleverly
+
+427
+00:11:50,260 --> 00:11:54,240
+different ways this is a really cleverly
+constructed combination of moving arms
+
+428
+00:11:54,240 --> 00:11:54,250
+constructed combination of moving arms
+
+429
+00:11:54,250 --> 00:11:57,390
+constructed combination of moving arms
+so yeah absolute masterpiece this one
+
+430
+00:11:57,390 --> 00:11:57,400
+so yeah absolute masterpiece this one
+
+431
+00:11:57,400 --> 00:12:00,220
+so yeah absolute masterpiece this one
+you've got the baby's arm
+
+432
+00:12:00,220 --> 00:12:00,230
+you've got the baby's arm
+
+433
+00:12:00,230 --> 00:12:05,620
+you've got the baby's arm
+waving names in so moving arms are all
+
+434
+00:12:05,620 --> 00:12:05,630
+waving names in so moving arms are all
+
+435
+00:12:05,630 --> 00:12:10,410
+waving names in so moving arms are all
+explained in detail in this my book
+
+436
+00:12:10,410 --> 00:12:10,420
+explained in detail in this my book
+
+437
+00:12:10,420 --> 00:12:43,620
+explained in detail in this my book
+pop-up design and paper mechanics
+
+438
+00:12:43,620 --> 00:12:43,630
+
+
+439
+00:12:43,630 --> 00:12:45,690
+you
+

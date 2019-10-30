@@ -1,0 +1,1756 @@
+1
+00:00:33,870 --> 00:00:36,930
+this tutorial is about curved shapes
+
+2
+00:00:36,930 --> 00:00:36,940
+this tutorial is about curved shapes
+
+3
+00:00:36,940 --> 00:00:40,709
+this tutorial is about curved shapes
+that is the taking the crease around the
+
+4
+00:00:40,709 --> 00:00:40,719
+that is the taking the crease around the
+
+5
+00:00:40,719 --> 00:00:43,079
+that is the taking the crease around the
+bend so this is at its most simple it
+
+6
+00:00:43,079 --> 00:00:43,089
+bend so this is at its most simple it
+
+7
+00:00:43,089 --> 00:00:46,919
+bend so this is at its most simple it
+gives you a beak or a nose this is a
+
+8
+00:00:46,919 --> 00:00:46,929
+gives you a beak or a nose this is a
+
+9
+00:00:46,929 --> 00:00:51,209
+gives you a beak or a nose this is a
+more more extreme example so in this
+
+10
+00:00:51,209 --> 00:00:51,219
+more more extreme example so in this
+
+11
+00:00:51,219 --> 00:00:53,700
+more more extreme example so in this
+case you're taking the the crease all
+
+12
+00:00:53,700 --> 00:00:53,710
+case you're taking the the crease all
+
+13
+00:00:53,710 --> 00:00:57,329
+case you're taking the the crease all
+the way around a complete curve and here
+
+14
+00:00:57,329 --> 00:00:57,339
+the way around a complete curve and here
+
+15
+00:00:57,339 --> 00:01:01,049
+the way around a complete curve and here
+isn't another example again it's taking
+
+16
+00:01:01,049 --> 00:01:01,059
+isn't another example again it's taking
+
+17
+00:01:01,059 --> 00:01:02,789
+isn't another example again it's taking
+it all the way around the curve
+
+18
+00:01:02,789 --> 00:01:02,799
+it all the way around the curve
+
+19
+00:01:02,799 --> 00:01:06,209
+it all the way around the curve
+the difference between these two this
+
+20
+00:01:06,209 --> 00:01:06,219
+the difference between these two this
+
+21
+00:01:06,219 --> 00:01:08,819
+the difference between these two this
+one is based on parallel folds this one
+
+22
+00:01:08,819 --> 00:01:08,829
+one is based on parallel folds this one
+
+23
+00:01:08,829 --> 00:01:11,340
+one is based on parallel folds this one
+is based on refold the difference
+
+24
+00:01:11,340 --> 00:01:11,350
+is based on refold the difference
+
+25
+00:01:11,350 --> 00:01:12,959
+is based on refold the difference
+between these two is explained in
+
+26
+00:01:12,959 --> 00:01:12,969
+between these two is explained in
+
+27
+00:01:12,969 --> 00:01:16,260
+between these two is explained in
+tutorial 1 the introduction so I'll just
+
+28
+00:01:16,260 --> 00:01:16,270
+tutorial 1 the introduction so I'll just
+
+29
+00:01:16,270 --> 00:01:18,120
+tutorial 1 the introduction so I'll just
+show you a couple of examples
+
+30
+00:01:18,120 --> 00:01:18,130
+show you a couple of examples
+
+31
+00:01:18,130 --> 00:01:23,090
+show you a couple of examples
+obviously in action this is a very
+
+32
+00:01:23,090 --> 00:01:23,100
+obviously in action this is a very
+
+33
+00:01:23,100 --> 00:01:27,060
+obviously in action this is a very
+simple simple one it's just again it's
+
+34
+00:01:27,060 --> 00:01:27,070
+simple simple one it's just again it's
+
+35
+00:01:27,070 --> 00:01:29,639
+simple simple one it's just again it's
+just going around one curve and the
+
+36
+00:01:29,639 --> 00:01:29,649
+just going around one curve and the
+
+37
+00:01:29,649 --> 00:01:31,410
+just going around one curve and the
+other this is a point of view fold
+
+38
+00:01:31,410 --> 00:01:31,420
+other this is a point of view fold
+
+39
+00:01:31,420 --> 00:01:36,209
+other this is a point of view fold
+that's in tutorial 3 this example this
+
+40
+00:01:36,209 --> 00:01:36,219
+that's in tutorial 3 this example this
+
+41
+00:01:36,219 --> 00:01:39,419
+that's in tutorial 3 this example this
+is the parallel fold curved shape giving
+
+42
+00:01:39,419 --> 00:01:39,429
+is the parallel fold curved shape giving
+
+43
+00:01:39,429 --> 00:01:41,039
+is the parallel fold curved shape giving
+you the fish it comes all the way around
+
+44
+00:01:41,039 --> 00:01:41,049
+you the fish it comes all the way around
+
+45
+00:01:41,049 --> 00:01:45,389
+you the fish it comes all the way around
+you can see here we've got a small piece
+
+46
+00:01:45,389 --> 00:01:45,399
+you can see here we've got a small piece
+
+47
+00:01:45,399 --> 00:01:47,580
+you can see here we've got a small piece
+added to make the tail with these curved
+
+48
+00:01:47,580 --> 00:01:47,590
+added to make the tail with these curved
+
+49
+00:01:47,590 --> 00:01:49,950
+added to make the tail with these curved
+shapes you can stick pieces on any point
+
+50
+00:01:49,950 --> 00:01:49,960
+shapes you can stick pieces on any point
+
+51
+00:01:49,960 --> 00:01:52,050
+shapes you can stick pieces on any point
+on the curve and they'll stick out at a
+
+52
+00:01:52,050 --> 00:01:52,060
+on the curve and they'll stick out at a
+
+53
+00:01:52,060 --> 00:01:54,389
+on the curve and they'll stick out at a
+different angle so it's quite fun to
+
+54
+00:01:54,389 --> 00:01:54,399
+different angle so it's quite fun to
+
+55
+00:01:54,399 --> 00:01:57,690
+different angle so it's quite fun to
+play with there's another example here
+
+56
+00:01:57,690 --> 00:01:57,700
+play with there's another example here
+
+57
+00:01:57,700 --> 00:02:01,469
+play with there's another example here
+in this case this is based on the v-fold
+
+58
+00:02:01,469 --> 00:02:01,479
+in this case this is based on the v-fold
+
+59
+00:02:01,479 --> 00:02:04,109
+in this case this is based on the v-fold
+and in this case the ears these are the
+
+60
+00:02:04,109 --> 00:02:04,119
+and in this case the ears these are the
+
+61
+00:02:04,119 --> 00:02:06,779
+and in this case the ears these are the
+tabs that glue the piece to the page and
+
+62
+00:02:06,779 --> 00:02:06,789
+tabs that glue the piece to the page and
+
+63
+00:02:06,789 --> 00:02:09,270
+tabs that glue the piece to the page and
+the whole thing is quite a solid rigid
+
+64
+00:02:09,270 --> 00:02:09,280
+the whole thing is quite a solid rigid
+
+65
+00:02:09,280 --> 00:02:11,580
+the whole thing is quite a solid rigid
+structure so you can cut chunks away
+
+66
+00:02:11,580 --> 00:02:11,590
+structure so you can cut chunks away
+
+67
+00:02:11,590 --> 00:02:12,460
+structure so you can cut chunks away
+like the
+
+68
+00:02:12,460 --> 00:02:12,470
+like the
+
+69
+00:02:12,470 --> 00:02:21,940
+like the
+the math of the dog has been cut away so
+
+70
+00:02:21,940 --> 00:02:21,950
+the math of the dog has been cut away so
+
+71
+00:02:21,950 --> 00:02:23,440
+the math of the dog has been cut away so
+I'll just start by showing you how to
+
+72
+00:02:23,440 --> 00:02:23,450
+I'll just start by showing you how to
+
+73
+00:02:23,450 --> 00:02:26,140
+I'll just start by showing you how to
+make a small curved shape a beak or a
+
+74
+00:02:26,140 --> 00:02:26,150
+make a small curved shape a beak or a
+
+75
+00:02:26,150 --> 00:02:29,290
+make a small curved shape a beak or a
+nose onto this built into this gully of
+
+76
+00:02:29,290 --> 00:02:29,300
+nose onto this built into this gully of
+
+77
+00:02:29,300 --> 00:02:32,260
+nose onto this built into this gully of
+this this floating plane that we made in
+
+78
+00:02:32,260 --> 00:02:32,270
+this this floating plane that we made in
+
+79
+00:02:32,270 --> 00:02:37,710
+this this floating plane that we made in
+tutorial 12 take a small piece of card
+
+80
+00:02:37,710 --> 00:02:37,720
+tutorial 12 take a small piece of card
+
+81
+00:02:37,720 --> 00:02:43,120
+tutorial 12 take a small piece of card
+fold it in half lengthways crease it
+
+82
+00:02:43,120 --> 00:02:43,130
+fold it in half lengthways crease it
+
+83
+00:02:43,130 --> 00:02:48,040
+fold it in half lengthways crease it
+really well and make this into a V fold
+
+84
+00:02:48,040 --> 00:02:48,050
+really well and make this into a V fold
+
+85
+00:02:48,050 --> 00:02:51,880
+really well and make this into a V fold
+as we did in tutorial 2 so you make a
+
+86
+00:02:51,880 --> 00:02:51,890
+as we did in tutorial 2 so you make a
+
+87
+00:02:51,890 --> 00:02:54,490
+as we did in tutorial 2 so you make a
+crease like this this is the first
+
+88
+00:02:54,490 --> 00:02:54,500
+crease like this this is the first
+
+89
+00:02:54,500 --> 00:02:56,950
+crease like this this is the first
+crease up this side what you're making
+
+90
+00:02:56,950 --> 00:02:56,960
+crease up this side what you're making
+
+91
+00:02:56,960 --> 00:03:01,150
+crease up this side what you're making
+here is a pair of folds that give you a
+
+92
+00:03:01,150 --> 00:03:01,160
+here is a pair of folds that give you a
+
+93
+00:03:01,160 --> 00:03:03,640
+here is a pair of folds that give you a
+sort of downward pointing arrow and just
+
+94
+00:03:03,640 --> 00:03:03,650
+sort of downward pointing arrow and just
+
+95
+00:03:03,650 --> 00:03:09,810
+sort of downward pointing arrow and just
+cut that to make a couple of gluing tabs
+
+96
+00:03:09,810 --> 00:03:09,820
+
+
+97
+00:03:09,820 --> 00:03:13,960
+so here's the piece now make another
+
+98
+00:03:13,960 --> 00:03:13,970
+so here's the piece now make another
+
+99
+00:03:13,970 --> 00:03:17,560
+so here's the piece now make another
+fold it can be any angle really
+
+100
+00:03:17,560 --> 00:03:17,570
+fold it can be any angle really
+
+101
+00:03:17,570 --> 00:03:19,420
+fold it can be any angle really
+depending on what shape you want to
+
+102
+00:03:19,420 --> 00:03:19,430
+depending on what shape you want to
+
+103
+00:03:19,430 --> 00:03:24,430
+depending on what shape you want to
+create so make something like this fold
+
+104
+00:03:24,430 --> 00:03:24,440
+create so make something like this fold
+
+105
+00:03:24,440 --> 00:03:29,590
+create so make something like this fold
+that back on itself open it up so now
+
+106
+00:03:29,590 --> 00:03:29,600
+that back on itself open it up so now
+
+107
+00:03:29,600 --> 00:03:30,880
+that back on itself open it up so now
+you've got another downward pointing
+
+108
+00:03:30,880 --> 00:03:30,890
+you've got another downward pointing
+
+109
+00:03:30,890 --> 00:03:36,460
+you've got another downward pointing
+arrow cut out one side of it so you're
+
+110
+00:03:36,460 --> 00:03:36,470
+arrow cut out one side of it so you're
+
+111
+00:03:36,470 --> 00:03:41,410
+arrow cut out one side of it so you're
+cutting a longer crease so here you've
+
+112
+00:03:41,410 --> 00:03:41,420
+cutting a longer crease so here you've
+
+113
+00:03:41,420 --> 00:03:44,320
+cutting a longer crease so here you've
+got a cottage that is matching this this
+
+114
+00:03:44,320 --> 00:03:44,330
+got a cottage that is matching this this
+
+115
+00:03:44,330 --> 00:03:46,509
+got a cottage that is matching this this
+folded edge the other side you make that
+
+116
+00:03:46,509 --> 00:03:46,519
+folded edge the other side you make that
+
+117
+00:03:46,519 --> 00:03:54,370
+folded edge the other side you make that
+into a gluing tab and fold that down and
+
+118
+00:03:54,370 --> 00:03:54,380
+into a gluing tab and fold that down and
+
+119
+00:03:54,380 --> 00:03:58,870
+into a gluing tab and fold that down and
+crease it well so this is now just going
+
+120
+00:03:58,870 --> 00:03:58,880
+crease it well so this is now just going
+
+121
+00:03:58,880 --> 00:04:07,960
+crease it well so this is now just going
+to fold shut like that put your glue
+
+122
+00:04:07,960 --> 00:04:07,970
+
+
+123
+00:04:07,970 --> 00:04:11,330
+put it on the put it on the tab here we
+
+124
+00:04:11,330 --> 00:04:11,340
+put it on the put it on the tab here we
+
+125
+00:04:11,340 --> 00:04:14,920
+put it on the put it on the tab here we
+are
+
+126
+00:04:14,920 --> 00:04:14,930
+
+
+127
+00:04:14,930 --> 00:04:17,420
+fold it shut and now the whole piece
+
+128
+00:04:17,420 --> 00:04:17,430
+fold it shut and now the whole piece
+
+129
+00:04:17,430 --> 00:04:21,290
+fold it shut and now the whole piece
+should just go flat and according to how
+
+130
+00:04:21,290 --> 00:04:21,300
+should just go flat and according to how
+
+131
+00:04:21,300 --> 00:04:23,510
+should just go flat and according to how
+you stick it down that will affect what
+
+132
+00:04:23,510 --> 00:04:23,520
+you stick it down that will affect what
+
+133
+00:04:23,520 --> 00:04:25,670
+you stick it down that will affect what
+shape you create and so we're going to
+
+134
+00:04:25,670 --> 00:04:25,680
+shape you create and so we're going to
+
+135
+00:04:25,680 --> 00:04:28,430
+shape you create and so we're going to
+stick it here into this gully created on
+
+136
+00:04:28,430 --> 00:04:28,440
+stick it here into this gully created on
+
+137
+00:04:28,440 --> 00:04:31,880
+stick it here into this gully created on
+the the floating plane I'm just going to
+
+138
+00:04:31,880 --> 00:04:31,890
+the the floating plane I'm just going to
+
+139
+00:04:31,890 --> 00:04:33,680
+the the floating plane I'm just going to
+cut these back a bit I think I've got
+
+140
+00:04:33,680 --> 00:04:33,690
+cut these back a bit I think I've got
+
+141
+00:04:33,690 --> 00:04:38,660
+cut these back a bit I think I've got
+the tabs a little bit big so put glue on
+
+142
+00:04:38,660 --> 00:04:38,670
+the tabs a little bit big so put glue on
+
+143
+00:04:38,670 --> 00:04:46,070
+the tabs a little bit big so put glue on
+one side decide what shape you want to
+
+144
+00:04:46,070 --> 00:04:46,080
+one side decide what shape you want to
+
+145
+00:04:46,080 --> 00:04:47,540
+one side decide what shape you want to
+make so is it going to be you know
+
+146
+00:04:47,540 --> 00:04:47,550
+make so is it going to be you know
+
+147
+00:04:47,550 --> 00:04:49,310
+make so is it going to be you know
+really wide coming down a lot or
+
+148
+00:04:49,310 --> 00:04:49,320
+really wide coming down a lot or
+
+149
+00:04:49,320 --> 00:04:50,570
+really wide coming down a lot or
+sticking out quite a lot
+
+150
+00:04:50,570 --> 00:04:50,580
+sticking out quite a lot
+
+151
+00:04:50,580 --> 00:04:54,320
+sticking out quite a lot
+make sure the central crease of this
+
+152
+00:04:54,320 --> 00:04:54,330
+make sure the central crease of this
+
+153
+00:04:54,330 --> 00:05:03,890
+make sure the central crease of this
+glue so make sure the central crease of
+
+154
+00:05:03,890 --> 00:05:03,900
+glue so make sure the central crease of
+
+155
+00:05:03,900 --> 00:05:07,100
+glue so make sure the central crease of
+this this nose piece is lined up with
+
+156
+00:05:07,100 --> 00:05:07,110
+this this nose piece is lined up with
+
+157
+00:05:07,110 --> 00:05:09,920
+this this nose piece is lined up with
+the gully on the floating plane and you
+
+158
+00:05:09,920 --> 00:05:09,930
+the gully on the floating plane and you
+
+159
+00:05:09,930 --> 00:05:17,480
+the gully on the floating plane and you
+put glue on the other tab close the base
+
+160
+00:05:17,480 --> 00:05:17,490
+put glue on the other tab close the base
+
+161
+00:05:17,490 --> 00:05:23,150
+put glue on the other tab close the base
+press it firmly there you have it
+
+162
+00:05:23,150 --> 00:05:23,160
+press it firmly there you have it
+
+163
+00:05:23,160 --> 00:05:27,050
+press it firmly there you have it
+the most simple variation on the curved
+
+164
+00:05:27,050 --> 00:05:27,060
+the most simple variation on the curved
+
+165
+00:05:27,060 --> 00:05:34,520
+the most simple variation on the curved
+shapes show you how to make one of these
+
+166
+00:05:34,520 --> 00:05:34,530
+shapes show you how to make one of these
+
+167
+00:05:34,530 --> 00:05:37,670
+shapes show you how to make one of these
+that the fish was based on take a base
+
+168
+00:05:37,670 --> 00:05:37,680
+that the fish was based on take a base
+
+169
+00:05:37,680 --> 00:05:38,360
+that the fish was based on take a base
+sheet
+
+170
+00:05:38,360 --> 00:05:38,370
+sheet
+
+171
+00:05:38,370 --> 00:05:41,570
+sheet
+drink precip screens thoroughly take
+
+172
+00:05:41,570 --> 00:05:41,580
+drink precip screens thoroughly take
+
+173
+00:05:41,580 --> 00:05:47,920
+drink precip screens thoroughly take
+another piece cards we'll go with yellow
+
+174
+00:05:47,920 --> 00:05:47,930
+
+
+175
+00:05:47,930 --> 00:05:51,560
+cut it in half just by eyes learning to
+
+176
+00:05:51,560 --> 00:05:51,570
+cut it in half just by eyes learning to
+
+177
+00:05:51,570 --> 00:06:04,530
+cut it in half just by eyes learning to
+measure fold it in half crease it well
+
+178
+00:06:04,530 --> 00:06:04,540
+
+
+179
+00:06:04,540 --> 00:06:07,830
+and unfold two more creases onto the
+
+180
+00:06:07,830 --> 00:06:07,840
+and unfold two more creases onto the
+
+181
+00:06:07,840 --> 00:06:10,740
+and unfold two more creases onto the
+outer edge these are the gluing tabs one
+
+182
+00:06:10,740 --> 00:06:10,750
+outer edge these are the gluing tabs one
+
+183
+00:06:10,750 --> 00:06:13,620
+outer edge these are the gluing tabs one
+centimeter or half an inch wide you've
+
+184
+00:06:13,620 --> 00:06:13,630
+centimeter or half an inch wide you've
+
+185
+00:06:13,630 --> 00:06:16,410
+centimeter or half an inch wide you've
+got these three three creases or
+
+186
+00:06:16,410 --> 00:06:16,420
+got these three three creases or
+
+187
+00:06:16,420 --> 00:06:19,410
+got these three three creases or
+parallel now you only actually want
+
+188
+00:06:19,410 --> 00:06:19,420
+parallel now you only actually want
+
+189
+00:06:19,420 --> 00:06:22,700
+parallel now you only actually want
+gluing tabs in the middle about one inch
+
+190
+00:06:22,700 --> 00:06:22,710
+gluing tabs in the middle about one inch
+
+191
+00:06:22,710 --> 00:06:25,020
+gluing tabs in the middle about one inch
+to centimeters two and a half
+
+192
+00:06:25,020 --> 00:06:25,030
+to centimeters two and a half
+
+193
+00:06:25,030 --> 00:06:27,000
+to centimeters two and a half
+centimeters something like that so you
+
+194
+00:06:27,000 --> 00:06:27,010
+centimeters something like that so you
+
+195
+00:06:27,010 --> 00:06:32,220
+centimeters something like that so you
+can cut cut away the bulk of what you
+
+196
+00:06:32,220 --> 00:06:32,230
+can cut cut away the bulk of what you
+
+197
+00:06:32,230 --> 00:06:36,180
+can cut cut away the bulk of what you
+folded so you have a piece like this
+
+198
+00:06:36,180 --> 00:06:36,190
+folded so you have a piece like this
+
+199
+00:06:36,190 --> 00:06:38,610
+folded so you have a piece like this
+open up you've got a tab on each side
+
+200
+00:06:38,610 --> 00:06:38,620
+open up you've got a tab on each side
+
+201
+00:06:38,620 --> 00:06:44,990
+open up you've got a tab on each side
+you can reinforce those individually now
+
+202
+00:06:44,990 --> 00:06:45,000
+
+
+203
+00:06:45,000 --> 00:06:51,660
+now take a pencil and starting you make
+
+204
+00:06:51,660 --> 00:06:51,670
+now take a pencil and starting you make
+
+205
+00:06:51,670 --> 00:06:55,430
+now take a pencil and starting you make
+a mark on the top this is the top crease
+
+206
+00:06:55,430 --> 00:06:55,440
+a mark on the top this is the top crease
+
+207
+00:06:55,440 --> 00:06:59,940
+a mark on the top this is the top crease
+so make two marks that are in line with
+
+208
+00:06:59,940 --> 00:06:59,950
+so make two marks that are in line with
+
+209
+00:06:59,950 --> 00:07:01,950
+so make two marks that are in line with
+deep with the corners of the tab so
+
+210
+00:07:01,950 --> 00:07:01,960
+deep with the corners of the tab so
+
+211
+00:07:01,960 --> 00:07:04,650
+deep with the corners of the tab so
+you've got two marks like this make two
+
+212
+00:07:04,650 --> 00:07:04,660
+you've got two marks like this make two
+
+213
+00:07:04,660 --> 00:07:07,800
+you've got two marks like this make two
+more marks about a third of the way up
+
+214
+00:07:07,800 --> 00:07:07,810
+more marks about a third of the way up
+
+215
+00:07:07,810 --> 00:07:12,780
+more marks about a third of the way up
+the outer edges so this is going to be
+
+216
+00:07:12,780 --> 00:07:12,790
+the outer edges so this is going to be
+
+217
+00:07:12,790 --> 00:07:15,690
+the outer edges so this is going to be
+your curve so you can draw your curve on
+
+218
+00:07:15,690 --> 00:07:15,700
+your curve so you can draw your curve on
+
+219
+00:07:15,700 --> 00:07:21,150
+your curve so you can draw your curve on
+to it something like this and then you
+
+220
+00:07:21,150 --> 00:07:21,160
+to it something like this and then you
+
+221
+00:07:21,160 --> 00:07:24,360
+to it something like this and then you
+you break this curve down into a series
+
+222
+00:07:24,360 --> 00:07:24,370
+you break this curve down into a series
+
+223
+00:07:24,370 --> 00:07:27,030
+you break this curve down into a series
+of short straight edges so I'll just go
+
+224
+00:07:27,030 --> 00:07:27,040
+of short straight edges so I'll just go
+
+225
+00:07:27,040 --> 00:07:30,090
+of short straight edges so I'll just go
+for two so you make a mark like this and
+
+226
+00:07:30,090 --> 00:07:30,100
+for two so you make a mark like this and
+
+227
+00:07:30,100 --> 00:07:32,730
+for two so you make a mark like this and
+this now these are going to be straight
+
+228
+00:07:32,730 --> 00:07:32,740
+this now these are going to be straight
+
+229
+00:07:32,740 --> 00:07:38,940
+this now these are going to be straight
+edges here so you start by just cutting
+
+230
+00:07:38,940 --> 00:07:38,950
+edges here so you start by just cutting
+
+231
+00:07:38,950 --> 00:07:41,430
+edges here so you start by just cutting
+out this is crucial you just cut it on
+
+232
+00:07:41,430 --> 00:07:41,440
+out this is crucial you just cut it on
+
+233
+00:07:41,440 --> 00:07:49,080
+out this is crucial you just cut it on
+one side so cut out here and cut these
+
+234
+00:07:49,080 --> 00:07:49,090
+one side so cut out here and cut these
+
+235
+00:07:49,090 --> 00:07:56,790
+one side so cut out here and cut these
+straight lines
+
+236
+00:07:56,790 --> 00:07:56,800
+
+
+237
+00:07:56,800 --> 00:08:10,600
+and the same on this side okay so you
+
+238
+00:08:10,600 --> 00:08:10,610
+and the same on this side okay so you
+
+239
+00:08:10,610 --> 00:08:14,739
+and the same on this side okay so you
+have a piece like this now fold it into
+
+240
+00:08:14,739 --> 00:08:14,749
+have a piece like this now fold it into
+
+241
+00:08:14,749 --> 00:08:18,089
+have a piece like this now fold it into
+its closed position and mark where those
+
+242
+00:08:18,089 --> 00:08:18,099
+its closed position and mark where those
+
+243
+00:08:18,099 --> 00:08:28,300
+its closed position and mark where those
+those cup lines lie so here they are so
+
+244
+00:08:28,300 --> 00:08:28,310
+those cup lines lie so here they are so
+
+245
+00:08:28,310 --> 00:08:30,730
+those cup lines lie so here they are so
+when you open this up now you can see
+
+246
+00:08:30,730 --> 00:08:30,740
+when you open this up now you can see
+
+247
+00:08:30,740 --> 00:08:32,380
+when you open this up now you can see
+you've got lines that exactly match the
+
+248
+00:08:32,380 --> 00:08:32,390
+you've got lines that exactly match the
+
+249
+00:08:32,390 --> 00:08:35,649
+you've got lines that exactly match the
+cut lines so these are going to be tabs
+
+250
+00:08:35,649 --> 00:08:35,659
+cut lines so these are going to be tabs
+
+251
+00:08:35,659 --> 00:08:51,390
+cut lines so these are going to be tabs
+built onto those so cut away
+
+252
+00:08:51,390 --> 00:08:51,400
+
+
+253
+00:08:51,400 --> 00:08:54,430
+now you can fold ice to make the tabs
+
+254
+00:08:54,430 --> 00:08:54,440
+now you can fold ice to make the tabs
+
+255
+00:08:54,440 --> 00:08:57,220
+now you can fold ice to make the tabs
+fold along those lines fold them back on
+
+256
+00:08:57,220 --> 00:08:57,230
+fold along those lines fold them back on
+
+257
+00:08:57,230 --> 00:08:59,640
+fold along those lines fold them back on
+themselves
+
+258
+00:08:59,640 --> 00:08:59,650
+
+
+259
+00:08:59,650 --> 00:09:02,800
+there we go make sure the creases are
+
+260
+00:09:02,800 --> 00:09:02,810
+there we go make sure the creases are
+
+261
+00:09:02,810 --> 00:09:05,740
+there we go make sure the creases are
+pretty good and then in this case you
+
+262
+00:09:05,740 --> 00:09:05,750
+pretty good and then in this case you
+
+263
+00:09:05,750 --> 00:09:09,220
+pretty good and then in this case you
+put glue on all four tabs at the same
+
+264
+00:09:09,220 --> 00:09:09,230
+put glue on all four tabs at the same
+
+265
+00:09:09,230 --> 00:09:27,540
+put glue on all four tabs at the same
+time and then you can just fold it down
+
+266
+00:09:27,540 --> 00:09:27,550
+time and then you can just fold it down
+
+267
+00:09:27,550 --> 00:09:37,320
+time and then you can just fold it down
+and fold the whole piece right
+
+268
+00:09:37,320 --> 00:09:37,330
+
+
+269
+00:09:37,330 --> 00:09:39,690
+so just make sure that it's all all
+
+270
+00:09:39,690 --> 00:09:39,700
+so just make sure that it's all all
+
+271
+00:09:39,700 --> 00:09:42,889
+so just make sure that it's all all
+working okay that it opens up nicely now
+
+272
+00:09:42,889 --> 00:09:42,899
+working okay that it opens up nicely now
+
+273
+00:09:42,899 --> 00:09:46,710
+working okay that it opens up nicely now
+this is going to stick along your spine
+
+274
+00:09:46,710 --> 00:09:46,720
+this is going to stick along your spine
+
+275
+00:09:46,720 --> 00:09:48,630
+this is going to stick along your spine
+something like this but you'll see
+
+276
+00:09:48,630 --> 00:09:48,640
+something like this but you'll see
+
+277
+00:09:48,640 --> 00:09:51,990
+something like this but you'll see
+because these corners are still there it
+
+278
+00:09:51,990 --> 00:09:52,000
+because these corners are still there it
+
+279
+00:09:52,000 --> 00:09:54,120
+because these corners are still there it
+bags into the page so you're going to
+
+280
+00:09:54,120 --> 00:09:54,130
+bags into the page so you're going to
+
+281
+00:09:54,130 --> 00:09:57,269
+bags into the page so you're going to
+have to cut these off in a curve to
+
+282
+00:09:57,269 --> 00:09:57,279
+have to cut these off in a curve to
+
+283
+00:09:57,279 --> 00:09:59,610
+have to cut these off in a curve to
+match the page and it all depends what
+
+284
+00:09:59,610 --> 00:09:59,620
+match the page and it all depends what
+
+285
+00:09:59,620 --> 00:10:01,860
+match the page and it all depends what
+angle you cut it out all depends on how
+
+286
+00:10:01,860 --> 00:10:01,870
+angle you cut it out all depends on how
+
+287
+00:10:01,870 --> 00:10:05,190
+angle you cut it out all depends on how
+wide you going with the the basic shape
+
+288
+00:10:05,190 --> 00:10:05,200
+wide you going with the the basic shape
+
+289
+00:10:05,200 --> 00:10:17,819
+wide you going with the the basic shape
+so let's just try it right like that no
+
+290
+00:10:17,819 --> 00:10:17,829
+so let's just try it right like that no
+
+291
+00:10:17,829 --> 00:10:20,370
+so let's just try it right like that no
+no you can see this this will now fit
+
+292
+00:10:20,370 --> 00:10:20,380
+no you can see this this will now fit
+
+293
+00:10:20,380 --> 00:10:22,410
+no you can see this this will now fit
+down on your page and it you can have
+
+294
+00:10:22,410 --> 00:10:22,420
+down on your page and it you can have
+
+295
+00:10:22,420 --> 00:10:25,199
+down on your page and it you can have
+the tabs out or you can have them in a
+
+296
+00:10:25,199 --> 00:10:25,209
+the tabs out or you can have them in a
+
+297
+00:10:25,209 --> 00:10:28,220
+the tabs out or you can have them in a
+weekly how how wide you're going to go
+
+298
+00:10:28,220 --> 00:10:28,230
+weekly how how wide you're going to go
+
+299
+00:10:28,230 --> 00:10:30,720
+weekly how how wide you're going to go
+see what the distance is that you need
+
+300
+00:10:30,720 --> 00:10:30,730
+see what the distance is that you need
+
+301
+00:10:30,730 --> 00:10:39,660
+see what the distance is that you need
+from the spine stick down one side so
+
+302
+00:10:39,660 --> 00:10:39,670
+from the spine stick down one side so
+
+303
+00:10:39,670 --> 00:10:43,650
+from the spine stick down one side so
+it's about there put glue on the other
+
+304
+00:10:43,650 --> 00:10:43,660
+it's about there put glue on the other
+
+305
+00:10:43,660 --> 00:10:54,940
+it's about there put glue on the other
+side close it down
+
+306
+00:10:54,940 --> 00:10:54,950
+
+
+307
+00:10:54,950 --> 00:10:58,580
+takes quite a lot of strain this so you
+
+308
+00:10:58,580 --> 00:10:58,590
+takes quite a lot of strain this so you
+
+309
+00:10:58,590 --> 00:11:00,710
+takes quite a lot of strain this so you
+know make sure it's it's glue really
+
+310
+00:11:00,710 --> 00:11:00,720
+know make sure it's it's glue really
+
+311
+00:11:00,720 --> 00:11:08,930
+know make sure it's it's glue really
+firmly and there's your shape well there
+
+312
+00:11:08,930 --> 00:11:08,940
+firmly and there's your shape well there
+
+313
+00:11:08,940 --> 00:11:09,650
+firmly and there's your shape well there
+it is
+
+314
+00:11:09,650 --> 00:11:09,660
+it is
+
+315
+00:11:09,660 --> 00:11:12,320
+it is
+this shape creates those gullies on each
+
+316
+00:11:12,320 --> 00:11:12,330
+this shape creates those gullies on each
+
+317
+00:11:12,330 --> 00:11:14,150
+this shape creates those gullies on each
+side you can build into there's also
+
+318
+00:11:14,150 --> 00:11:14,160
+side you can build into there's also
+
+319
+00:11:14,160 --> 00:11:16,100
+side you can build into there's also
+this mountain fold running all the way
+
+320
+00:11:16,100 --> 00:11:16,110
+this mountain fold running all the way
+
+321
+00:11:16,110 --> 00:11:17,930
+this mountain fold running all the way
+around that you can build on top of you
+
+322
+00:11:17,930 --> 00:11:17,940
+around that you can build on top of you
+
+323
+00:11:17,940 --> 00:11:20,570
+around that you can build on top of you
+can also cut holes in it and here's just
+
+324
+00:11:20,570 --> 00:11:20,580
+can also cut holes in it and here's just
+
+325
+00:11:20,580 --> 00:11:25,400
+can also cut holes in it and here's just
+a really and abstract little example of
+
+326
+00:11:25,400 --> 00:11:25,410
+a really and abstract little example of
+
+327
+00:11:25,410 --> 00:11:28,490
+a really and abstract little example of
+pieces added on to it so here we've got
+
+328
+00:11:28,490 --> 00:11:28,500
+pieces added on to it so here we've got
+
+329
+00:11:28,500 --> 00:11:32,630
+pieces added on to it so here we've got
+v-fold stuck into the gullies on it on
+
+330
+00:11:32,630 --> 00:11:32,640
+v-fold stuck into the gullies on it on
+
+331
+00:11:32,640 --> 00:11:36,290
+v-fold stuck into the gullies on it on
+each side we've got slots cut into the
+
+332
+00:11:36,290 --> 00:11:36,300
+each side we've got slots cut into the
+
+333
+00:11:36,300 --> 00:11:38,030
+each side we've got slots cut into the
+into the main body of it with these
+
+334
+00:11:38,030 --> 00:11:38,040
+into the main body of it with these
+
+335
+00:11:38,040 --> 00:11:40,220
+into the main body of it with these
+pieces sticking out here we've got a
+
+336
+00:11:40,220 --> 00:11:40,230
+pieces sticking out here we've got a
+
+337
+00:11:40,230 --> 00:11:42,920
+pieces sticking out here we've got a
+extra piece stuck on over the mountain
+
+338
+00:11:42,920 --> 00:11:42,930
+extra piece stuck on over the mountain
+
+339
+00:11:42,930 --> 00:11:46,310
+extra piece stuck on over the mountain
+foam all these the v-folds the slots the
+
+340
+00:11:46,310 --> 00:11:46,320
+foam all these the v-folds the slots the
+
+341
+00:11:46,320 --> 00:11:47,960
+foam all these the v-folds the slots the
+small additional pieces they're all
+
+342
+00:11:47,960 --> 00:11:47,970
+small additional pieces they're all
+
+343
+00:11:47,970 --> 00:11:55,880
+small additional pieces they're all
+covered in other tutorials finally I'll
+
+344
+00:11:55,880 --> 00:11:55,890
+covered in other tutorials finally I'll
+
+345
+00:11:55,890 --> 00:11:59,650
+covered in other tutorials finally I'll
+just show you some examples in books so
+
+346
+00:11:59,650 --> 00:11:59,660
+just show you some examples in books so
+
+347
+00:11:59,660 --> 00:12:03,050
+just show you some examples in books so
+jungle days by Helen bomber here is a
+
+348
+00:12:03,050 --> 00:12:03,060
+jungle days by Helen bomber here is a
+
+349
+00:12:03,060 --> 00:12:05,000
+jungle days by Helen bomber here is a
+really beautiful use of the curved shape
+
+350
+00:12:05,000 --> 00:12:05,010
+really beautiful use of the curved shape
+
+351
+00:12:05,010 --> 00:12:10,310
+really beautiful use of the curved shape
+this head of the elephant haunted house
+
+352
+00:12:10,310 --> 00:12:10,320
+this head of the elephant haunted house
+
+353
+00:12:10,320 --> 00:12:16,070
+this head of the elephant haunted house
+by lampion caskey is a pretty strange
+
+354
+00:12:16,070 --> 00:12:16,080
+by lampion caskey is a pretty strange
+
+355
+00:12:16,080 --> 00:12:18,320
+by lampion caskey is a pretty strange
+little curved shape rising up from the
+
+356
+00:12:18,320 --> 00:12:18,330
+little curved shape rising up from the
+
+357
+00:12:18,330 --> 00:12:23,690
+little curved shape rising up from the
+page with with spirals attached this is
+
+358
+00:12:23,690 --> 00:12:23,700
+page with with spirals attached this is
+
+359
+00:12:23,700 --> 00:12:24,530
+page with with spirals attached this is
+dine Autopia
+
+360
+00:12:24,530 --> 00:12:24,540
+dine Autopia
+
+361
+00:12:24,540 --> 00:12:29,720
+dine Autopia
+James Gurney's diner topia and here it
+
+362
+00:12:29,720 --> 00:12:29,730
+James Gurney's diner topia and here it
+
+363
+00:12:29,730 --> 00:12:32,090
+James Gurney's diner topia and here it
+says this this is the curved shape the
+
+364
+00:12:32,090 --> 00:12:32,100
+says this this is the curved shape the
+
+365
+00:12:32,100 --> 00:12:33,860
+says this this is the curved shape the
+top of this dinosaur is the colored
+
+366
+00:12:33,860 --> 00:12:33,870
+top of this dinosaur is the colored
+
+367
+00:12:33,870 --> 00:12:37,550
+top of this dinosaur is the colored
+shape in this case it's built onto a box
+
+368
+00:12:37,550 --> 00:12:37,560
+shape in this case it's built onto a box
+
+369
+00:12:37,560 --> 00:12:39,800
+shape in this case it's built onto a box
+mechanism and the box mechanism is what
+
+370
+00:12:39,800 --> 00:12:39,810
+mechanism and the box mechanism is what
+
+371
+00:12:39,810 --> 00:12:41,300
+mechanism and the box mechanism is what
+we're doing in the next tutorial
+
+372
+00:12:41,300 --> 00:12:41,310
+we're doing in the next tutorial
+
+373
+00:12:41,310 --> 00:12:47,870
+we're doing in the next tutorial
+tutorial 14 and lastly this is wonderful
+
+374
+00:12:47,870 --> 00:12:47,880
+tutorial 14 and lastly this is wonderful
+
+375
+00:12:47,880 --> 00:12:50,330
+tutorial 14 and lastly this is wonderful
+earth by Nick Butterworth and Mick
+
+376
+00:12:50,330 --> 00:12:50,340
+earth by Nick Butterworth and Mick
+
+377
+00:12:50,340 --> 00:12:52,640
+earth by Nick Butterworth and Mick
+Inkpen and it just has one pop-up in it
+
+378
+00:12:52,640 --> 00:12:52,650
+Inkpen and it just has one pop-up in it
+
+379
+00:12:52,650 --> 00:12:56,770
+Inkpen and it just has one pop-up in it
+but it is a really amazing use of the
+
+380
+00:12:56,770 --> 00:12:56,780
+but it is a really amazing use of the
+
+381
+00:12:56,780 --> 00:12:59,720
+but it is a really amazing use of the
+curved shape and you've got we've got it
+
+382
+00:12:59,720 --> 00:12:59,730
+curved shape and you've got we've got it
+
+383
+00:12:59,730 --> 00:13:01,490
+curved shape and you've got we've got it
+on the outside of the structure you've
+
+384
+00:13:01,490 --> 00:13:01,500
+on the outside of the structure you've
+
+385
+00:13:01,500 --> 00:13:02,550
+on the outside of the structure you've
+also got it on the
+
+386
+00:13:02,550 --> 00:13:02,560
+also got it on the
+
+387
+00:13:02,560 --> 00:13:05,220
+also got it on the
+side and everything we've looked at in
+
+388
+00:13:05,220 --> 00:13:05,230
+side and everything we've looked at in
+
+389
+00:13:05,230 --> 00:13:07,199
+side and everything we've looked at in
+this tutorial is covered in this my book
+
+390
+00:13:07,199 --> 00:13:07,209
+this tutorial is covered in this my book
+
+391
+00:13:07,209 --> 00:13:40,830
+this tutorial is covered in this my book
+pop-up design and paper mechanics
+
+392
+00:13:40,830 --> 00:13:40,840
+
+
+393
+00:13:40,840 --> 00:13:42,900
+you
+

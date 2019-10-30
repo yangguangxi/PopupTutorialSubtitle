@@ -1,0 +1,1984 @@
+1
+00:00:34,780 --> 00:00:37,510
+this tutorial is about using the
+
+2
+00:00:37,510 --> 00:00:37,520
+this tutorial is about using the
+
+3
+00:00:37,520 --> 00:00:41,500
+this tutorial is about using the
+qualities of the v-fold to create extra
+
+4
+00:00:41,500 --> 00:00:41,510
+qualities of the v-fold to create extra
+
+5
+00:00:41,510 --> 00:00:45,880
+qualities of the v-fold to create extra
+tall structures as the v-fold closes it
+
+6
+00:00:45,880 --> 00:00:45,890
+tall structures as the v-fold closes it
+
+7
+00:00:45,890 --> 00:00:47,770
+tall structures as the v-fold closes it
+folds down forwards when you have a
+
+8
+00:00:47,770 --> 00:00:47,780
+folds down forwards when you have a
+
+9
+00:00:47,780 --> 00:00:50,319
+folds down forwards when you have a
+floating plane built onto it that comes
+
+10
+00:00:50,319 --> 00:00:50,329
+floating plane built onto it that comes
+
+11
+00:00:50,329 --> 00:00:52,419
+floating plane built onto it that comes
+down nearer to the page and so then you
+
+12
+00:00:52,419 --> 00:00:52,429
+down nearer to the page and so then you
+
+13
+00:00:52,429 --> 00:00:53,799
+down nearer to the page and so then you
+can build another view fold on it
+
+14
+00:00:53,799 --> 00:00:53,809
+can build another view fold on it
+
+15
+00:00:53,809 --> 00:00:56,470
+can build another view fold on it
+pointing in the other direction and that
+
+16
+00:00:56,470 --> 00:00:56,480
+pointing in the other direction and that
+
+17
+00:00:56,480 --> 00:00:58,509
+pointing in the other direction and that
+comes down taking another floating plane
+
+18
+00:00:58,509 --> 00:00:58,519
+comes down taking another floating plane
+
+19
+00:00:58,519 --> 00:01:00,849
+comes down taking another floating plane
+again lower to the page then you can
+
+20
+00:01:00,849 --> 00:01:00,859
+again lower to the page then you can
+
+21
+00:01:00,859 --> 00:01:02,439
+again lower to the page then you can
+build onto that and so you can build a
+
+22
+00:01:02,439 --> 00:01:02,449
+build onto that and so you can build a
+
+23
+00:01:02,449 --> 00:01:05,670
+build onto that and so you can build a
+sort of zigzag effect by building these
+
+24
+00:01:05,670 --> 00:01:05,680
+sort of zigzag effect by building these
+
+25
+00:01:05,680 --> 00:01:09,100
+sort of zigzag effect by building these
+reverse pointing B folds so this is a
+
+26
+00:01:09,100 --> 00:01:09,110
+reverse pointing B folds so this is a
+
+27
+00:01:09,110 --> 00:01:11,980
+reverse pointing B folds so this is a
+pretty crude version I made and I'll
+
+28
+00:01:11,980 --> 00:01:11,990
+pretty crude version I made and I'll
+
+29
+00:01:11,990 --> 00:01:13,480
+pretty crude version I made and I'll
+show you how I made this in a minute but
+
+30
+00:01:13,480 --> 00:01:13,490
+show you how I made this in a minute but
+
+31
+00:01:13,490 --> 00:01:15,490
+show you how I made this in a minute but
+before that I just like to run through
+
+32
+00:01:15,490 --> 00:01:15,500
+before that I just like to run through
+
+33
+00:01:15,500 --> 00:01:18,249
+before that I just like to run through
+some books that have really amazingly
+
+34
+00:01:18,249 --> 00:01:18,259
+some books that have really amazingly
+
+35
+00:01:18,259 --> 00:01:22,149
+some books that have really amazingly
+tall default structures in them first
+
+36
+00:01:22,149 --> 00:01:22,159
+tall default structures in them first
+
+37
+00:01:22,159 --> 00:01:23,950
+tall default structures in them first
+book I'd like to show you is David
+
+38
+00:01:23,950 --> 00:01:23,960
+book I'd like to show you is David
+
+39
+00:01:23,960 --> 00:01:26,410
+book I'd like to show you is David
+Pelham's like a Lisa breeze and it's got
+
+40
+00:01:26,410 --> 00:01:26,420
+Pelham's like a Lisa breeze and it's got
+
+41
+00:01:26,420 --> 00:01:29,800
+Pelham's like a Lisa breeze and it's got
+a really amazing structure at the very
+
+42
+00:01:29,800 --> 00:01:29,810
+a really amazing structure at the very
+
+43
+00:01:29,810 --> 00:01:31,420
+a really amazing structure at the very
+end this is one of these tower
+
+44
+00:01:31,420 --> 00:01:31,430
+end this is one of these tower
+
+45
+00:01:31,430 --> 00:01:34,359
+end this is one of these tower
+structures if you look at it from behind
+
+46
+00:01:34,359 --> 00:01:34,369
+structures if you look at it from behind
+
+47
+00:01:34,369 --> 00:01:37,469
+structures if you look at it from behind
+you can see in here there is a v-fold
+
+48
+00:01:37,469 --> 00:01:37,479
+you can see in here there is a v-fold
+
+49
+00:01:37,479 --> 00:01:40,950
+you can see in here there is a v-fold
+goes down stands up that is raising a
+
+50
+00:01:40,950 --> 00:01:40,960
+goes down stands up that is raising a
+
+51
+00:01:40,960 --> 00:01:43,300
+goes down stands up that is raising a
+floating plane here which has got other
+
+52
+00:01:43,300 --> 00:01:43,310
+floating plane here which has got other
+
+53
+00:01:43,310 --> 00:01:45,880
+floating plane here which has got other
+v-folds built on it it's hard to
+
+54
+00:01:45,880 --> 00:01:45,890
+v-folds built on it it's hard to
+
+55
+00:01:45,890 --> 00:01:48,969
+v-folds built on it it's hard to
+actually see into it but here you can
+
+56
+00:01:48,969 --> 00:01:48,979
+actually see into it but here you can
+
+57
+00:01:48,979 --> 00:01:51,999
+actually see into it but here you can
+see this is another V fold and the arms
+
+58
+00:01:51,999 --> 00:01:52,009
+see this is another V fold and the arms
+
+59
+00:01:52,009 --> 00:01:54,069
+see this is another V fold and the arms
+are attached to those planes jutting out
+
+60
+00:01:54,069 --> 00:01:54,079
+are attached to those planes jutting out
+
+61
+00:01:54,079 --> 00:01:56,410
+are attached to those planes jutting out
+and this at the very top well you can
+
+62
+00:01:56,410 --> 00:01:56,420
+and this at the very top well you can
+
+63
+00:01:56,420 --> 00:02:00,580
+and this at the very top well you can
+see this is a v-fold with another V fold
+
+64
+00:02:00,580 --> 00:02:00,590
+see this is a v-fold with another V fold
+
+65
+00:02:00,590 --> 00:02:02,950
+see this is a v-fold with another V fold
+on top of it and then this the face is a
+
+66
+00:02:02,950 --> 00:02:02,960
+on top of it and then this the face is a
+
+67
+00:02:02,960 --> 00:02:06,830
+on top of it and then this the face is a
+parallel foam so yeah nice design
+
+68
+00:02:06,830 --> 00:02:06,840
+parallel foam so yeah nice design
+
+69
+00:02:06,840 --> 00:02:09,660
+parallel foam so yeah nice design
+the next one I'd like to show you is
+
+70
+00:02:09,660 --> 00:02:09,670
+the next one I'd like to show you is
+
+71
+00:02:09,670 --> 00:02:13,740
+the next one I'd like to show you is
+this is a really extraordinary tall
+
+72
+00:02:13,740 --> 00:02:13,750
+this is a really extraordinary tall
+
+73
+00:02:13,750 --> 00:02:15,990
+this is a really extraordinary tall
+structure that there's no way we could
+
+74
+00:02:15,990 --> 00:02:16,000
+structure that there's no way we could
+
+75
+00:02:16,000 --> 00:02:17,760
+structure that there's no way we could
+explain it in this tutorial but I just
+
+76
+00:02:17,760 --> 00:02:17,770
+explain it in this tutorial but I just
+
+77
+00:02:17,770 --> 00:02:19,770
+explain it in this tutorial but I just
+thought you'd really like to see this
+
+78
+00:02:19,770 --> 00:02:19,780
+thought you'd really like to see this
+
+79
+00:02:19,780 --> 00:02:22,920
+thought you'd really like to see this
+one the way it rises up so high above
+
+80
+00:02:22,920 --> 00:02:22,930
+one the way it rises up so high above
+
+81
+00:02:22,930 --> 00:02:26,940
+one the way it rises up so high above
+the bubble page if we look at the
+
+82
+00:02:26,940 --> 00:02:26,950
+the bubble page if we look at the
+
+83
+00:02:26,950 --> 00:02:29,760
+the bubble page if we look at the
+structure behind that you can see it is
+
+84
+00:02:29,760 --> 00:02:29,770
+structure behind that you can see it is
+
+85
+00:02:29,770 --> 00:02:32,190
+structure behind that you can see it is
+a v-fold here raising a floating plane
+
+86
+00:02:32,190 --> 00:02:32,200
+a v-fold here raising a floating plane
+
+87
+00:02:32,200 --> 00:02:36,110
+a v-fold here raising a floating plane
+here but the the actual measurements the
+
+88
+00:02:36,110 --> 00:02:36,120
+here but the the actual measurements the
+
+89
+00:02:36,120 --> 00:02:38,520
+here but the the actual measurements the
+measurements at this side and this side
+
+90
+00:02:38,520 --> 00:02:38,530
+measurements at this side and this side
+
+91
+00:02:38,530 --> 00:02:41,490
+measurements at this side and this side
+and on these days is quite complicated
+
+92
+00:02:41,490 --> 00:02:41,500
+and on these days is quite complicated
+
+93
+00:02:41,500 --> 00:02:46,050
+and on these days is quite complicated
+so just enjoy the height and your future
+
+94
+00:02:46,050 --> 00:02:46,060
+so just enjoy the height and your future
+
+95
+00:02:46,060 --> 00:02:49,259
+so just enjoy the height and your future
+future work so we'll explain it and then
+
+96
+00:02:49,259 --> 00:02:49,269
+future work so we'll explain it and then
+
+97
+00:02:49,269 --> 00:02:51,780
+future work so we'll explain it and then
+we've got this one this is another book
+
+98
+00:02:51,780 --> 00:02:51,790
+we've got this one this is another book
+
+99
+00:02:51,790 --> 00:02:55,410
+we've got this one this is another book
+by Matthew Reinhart jungle book another
+
+100
+00:02:55,410 --> 00:02:55,420
+by Matthew Reinhart jungle book another
+
+101
+00:02:55,420 --> 00:03:00,509
+by Matthew Reinhart jungle book another
+extraordinary spread here it is again it
+
+102
+00:03:00,509 --> 00:03:00,519
+extraordinary spread here it is again it
+
+103
+00:03:00,519 --> 00:03:03,000
+extraordinary spread here it is again it
+comes up really high above the page this
+
+104
+00:03:03,000 --> 00:03:03,010
+comes up really high above the page this
+
+105
+00:03:03,010 --> 00:03:04,110
+comes up really high above the page this
+is a v-fold
+
+106
+00:03:04,110 --> 00:03:04,120
+is a v-fold
+
+107
+00:03:04,120 --> 00:03:06,990
+is a v-fold
+these are parallelograms being raised by
+
+108
+00:03:06,990 --> 00:03:07,000
+these are parallelograms being raised by
+
+109
+00:03:07,000 --> 00:03:09,539
+these are parallelograms being raised by
+it you look behind and you can see it's
+
+110
+00:03:09,539 --> 00:03:09,549
+it you look behind and you can see it's
+
+111
+00:03:09,549 --> 00:03:12,569
+it you look behind and you can see it's
+an array of parallelograms and people
+
+112
+00:03:12,569 --> 00:03:12,579
+an array of parallelograms and people
+
+113
+00:03:12,579 --> 00:03:15,479
+an array of parallelograms and people
+raising this floating plane which has
+
+114
+00:03:15,479 --> 00:03:15,489
+raising this floating plane which has
+
+115
+00:03:15,489 --> 00:03:16,620
+raising this floating plane which has
+got another v-fold
+
+116
+00:03:16,620 --> 00:03:16,630
+got another v-fold
+
+117
+00:03:16,630 --> 00:03:18,599
+got another v-fold
+and another so that's how you get this
+
+118
+00:03:18,599 --> 00:03:18,609
+and another so that's how you get this
+
+119
+00:03:18,609 --> 00:03:21,210
+and another so that's how you get this
+sort of constant interaction that's all
+
+120
+00:03:21,210 --> 00:03:21,220
+sort of constant interaction that's all
+
+121
+00:03:21,220 --> 00:03:23,940
+sort of constant interaction that's all
+based on the fact that the v-fold folds
+
+122
+00:03:23,940 --> 00:03:23,950
+based on the fact that the v-fold folds
+
+123
+00:03:23,950 --> 00:03:26,009
+based on the fact that the v-fold folds
+down forwards which gives you a plane
+
+124
+00:03:26,009 --> 00:03:26,019
+down forwards which gives you a plane
+
+125
+00:03:26,019 --> 00:03:28,080
+down forwards which gives you a plane
+that you can then build on and go higher
+
+126
+00:03:28,080 --> 00:03:28,090
+that you can then build on and go higher
+
+127
+00:03:28,090 --> 00:03:29,490
+that you can then build on and go higher
+and higher so you end up with a
+
+128
+00:03:29,490 --> 00:03:29,500
+and higher so you end up with a
+
+129
+00:03:29,500 --> 00:03:32,280
+and higher so you end up with a
+structure which is higher than the total
+
+130
+00:03:32,280 --> 00:03:32,290
+structure which is higher than the total
+
+131
+00:03:32,290 --> 00:03:35,310
+structure which is higher than the total
+height of the page of the book so the
+
+132
+00:03:35,310 --> 00:03:35,320
+height of the page of the book so the
+
+133
+00:03:35,320 --> 00:03:36,810
+height of the page of the book so the
+next one this is a very pretty little
+
+134
+00:03:36,810 --> 00:03:36,820
+next one this is a very pretty little
+
+135
+00:03:36,820 --> 00:03:39,990
+next one this is a very pretty little
+book big bang pop by philip foo french
+
+136
+00:03:39,990 --> 00:03:40,000
+book big bang pop by philip foo french
+
+137
+00:03:40,000 --> 00:03:42,390
+book big bang pop by philip foo french
+book it's really amazing colors but the
+
+138
+00:03:42,390 --> 00:03:42,400
+book it's really amazing colors but the
+
+139
+00:03:42,400 --> 00:03:43,740
+book it's really amazing colors but the
+only thing i wanted to show you in this
+
+140
+00:03:43,740 --> 00:03:43,750
+only thing i wanted to show you in this
+
+141
+00:03:43,750 --> 00:03:47,310
+only thing i wanted to show you in this
+one is is this little pop-up that that
+
+142
+00:03:47,310 --> 00:03:47,320
+one is is this little pop-up that that
+
+143
+00:03:47,320 --> 00:03:49,289
+one is is this little pop-up that that
+comes up amazingly high for the
+
+144
+00:03:49,289 --> 00:03:49,299
+comes up amazingly high for the
+
+145
+00:03:49,299 --> 00:03:51,990
+comes up amazingly high for the
+considering the size of the page this is
+
+146
+00:03:51,990 --> 00:03:52,000
+considering the size of the page this is
+
+147
+00:03:52,000 --> 00:03:54,449
+considering the size of the page this is
+a v-fold that's coming forward and in
+
+148
+00:03:54,449 --> 00:03:54,459
+a v-fold that's coming forward and in
+
+149
+00:03:54,459 --> 00:03:56,970
+a v-fold that's coming forward and in
+effect this is a floating plane but the
+
+150
+00:03:56,970 --> 00:03:56,980
+effect this is a floating plane but the
+
+151
+00:03:56,980 --> 00:03:59,640
+effect this is a floating plane but the
+dimensions on the base on the two
+
+152
+00:03:59,640 --> 00:03:59,650
+dimensions on the base on the two
+
+153
+00:03:59,650 --> 00:04:01,710
+dimensions on the base on the two
+uprights and on this that's what gives
+
+154
+00:04:01,710 --> 00:04:01,720
+uprights and on this that's what gives
+
+155
+00:04:01,720 --> 00:04:05,340
+uprights and on this that's what gives
+you that amazing height and then the
+
+156
+00:04:05,340 --> 00:04:05,350
+you that amazing height and then the
+
+157
+00:04:05,350 --> 00:04:07,910
+you that amazing height and then the
+last one I wanted to show you these
+
+158
+00:04:07,910 --> 00:04:07,920
+last one I wanted to show you these
+
+159
+00:04:07,920 --> 00:04:10,470
+last one I wanted to show you these
+pop-up Frankenstein and the paper
+
+160
+00:04:10,470 --> 00:04:10,480
+pop-up Frankenstein and the paper
+
+161
+00:04:10,480 --> 00:04:12,390
+pop-up Frankenstein and the paper
+engineering and this is by David Hawk
+
+162
+00:04:12,390 --> 00:04:12,400
+engineering and this is by David Hawk
+
+163
+00:04:12,400 --> 00:04:14,640
+engineering and this is by David Hawk
+and this is similar to the last one I
+
+164
+00:04:14,640 --> 00:04:14,650
+and this is similar to the last one I
+
+165
+00:04:14,650 --> 00:04:15,860
+and this is similar to the last one I
+showed you but it's even more
+
+166
+00:04:15,860 --> 00:04:15,870
+showed you but it's even more
+
+167
+00:04:15,870 --> 00:04:18,349
+showed you but it's even more
+extraordinary height that you get
+
+168
+00:04:18,349 --> 00:04:18,359
+extraordinary height that you get
+
+169
+00:04:18,359 --> 00:04:21,529
+extraordinary height that you get
+this proverb again it's based on v-folds
+
+170
+00:04:21,529 --> 00:04:21,539
+this proverb again it's based on v-folds
+
+171
+00:04:21,539 --> 00:04:24,559
+this proverb again it's based on v-folds
+default folding forward giving you this
+
+172
+00:04:24,559 --> 00:04:24,569
+default folding forward giving you this
+
+173
+00:04:24,569 --> 00:04:26,659
+default folding forward giving you this
+equivalent of a floating playing with
+
+174
+00:04:26,659 --> 00:04:26,669
+equivalent of a floating playing with
+
+175
+00:04:26,669 --> 00:04:29,089
+equivalent of a floating playing with
+another befall built onto it but it's a
+
+176
+00:04:29,089 --> 00:04:29,099
+another befall built onto it but it's a
+
+177
+00:04:29,099 --> 00:04:30,529
+another befall built onto it but it's a
+bit more complicated and sophisticated
+
+178
+00:04:30,529 --> 00:04:30,539
+bit more complicated and sophisticated
+
+179
+00:04:30,539 --> 00:04:34,219
+bit more complicated and sophisticated
+than that so that's that one this is all
+
+180
+00:04:34,219 --> 00:04:34,229
+than that so that's that one this is all
+
+181
+00:04:34,229 --> 00:04:36,020
+than that so that's that one this is all
+I wanted to show you in books and then
+
+182
+00:04:36,020 --> 00:04:36,030
+I wanted to show you in books and then
+
+183
+00:04:36,030 --> 00:04:37,550
+I wanted to show you in books and then
+I'll just show you how to make a sort of
+
+184
+00:04:37,550 --> 00:04:37,560
+I'll just show you how to make a sort of
+
+185
+00:04:37,560 --> 00:04:45,110
+I'll just show you how to make a sort of
+simplified version of one of these we
+
+186
+00:04:45,110 --> 00:04:45,120
+simplified version of one of these we
+
+187
+00:04:45,120 --> 00:04:48,170
+simplified version of one of these we
+start with a base sheet very thoroughly
+
+188
+00:04:48,170 --> 00:04:48,180
+start with a base sheet very thoroughly
+
+189
+00:04:48,180 --> 00:04:51,649
+start with a base sheet very thoroughly
+creased and then I've got these pre-cut
+
+190
+00:04:51,649 --> 00:04:51,659
+creased and then I've got these pre-cut
+
+191
+00:04:51,659 --> 00:04:54,290
+creased and then I've got these pre-cut
+new folds these are I think it was
+
+192
+00:04:54,290 --> 00:04:54,300
+new folds these are I think it was
+
+193
+00:04:54,300 --> 00:04:57,830
+new folds these are I think it was
+tutorial two it's the right angle V fold
+
+194
+00:04:57,830 --> 00:04:57,840
+tutorial two it's the right angle V fold
+
+195
+00:04:57,840 --> 00:05:00,140
+tutorial two it's the right angle V fold
+so they're just crease down the middle
+
+196
+00:05:00,140 --> 00:05:00,150
+so they're just crease down the middle
+
+197
+00:05:00,150 --> 00:05:01,939
+so they're just crease down the middle
+they're both 90 degrees at the bottom
+
+198
+00:05:01,939 --> 00:05:01,949
+they're both 90 degrees at the bottom
+
+199
+00:05:01,949 --> 00:05:04,520
+they're both 90 degrees at the bottom
+tabs on the top and bottom we're going
+
+200
+00:05:04,520 --> 00:05:04,530
+tabs on the top and bottom we're going
+
+201
+00:05:04,530 --> 00:05:06,290
+tabs on the top and bottom we're going
+to stick it on here and the whole thing
+
+202
+00:05:06,290 --> 00:05:06,300
+to stick it on here and the whole thing
+
+203
+00:05:06,300 --> 00:05:08,839
+to stick it on here and the whole thing
+is going to fold forward and there's
+
+204
+00:05:08,839 --> 00:05:08,849
+is going to fold forward and there's
+
+205
+00:05:08,849 --> 00:05:10,279
+is going to fold forward and there's
+going to be another one in front of it
+
+206
+00:05:10,279 --> 00:05:10,289
+going to be another one in front of it
+
+207
+00:05:10,289 --> 00:05:12,920
+going to be another one in front of it
+so the whole thing can fall forwards and
+
+208
+00:05:12,920 --> 00:05:12,930
+so the whole thing can fall forwards and
+
+209
+00:05:12,930 --> 00:05:15,469
+so the whole thing can fall forwards and
+hold a floating plane on top of it and
+
+210
+00:05:15,469 --> 00:05:15,479
+hold a floating plane on top of it and
+
+211
+00:05:15,479 --> 00:05:18,589
+hold a floating plane on top of it and
+you can get the maximum movement is the
+
+212
+00:05:18,589 --> 00:05:18,599
+you can get the maximum movement is the
+
+213
+00:05:18,599 --> 00:05:21,140
+you can get the maximum movement is the
+closer you go to 90 degrees to the spine
+
+214
+00:05:21,140 --> 00:05:21,150
+closer you go to 90 degrees to the spine
+
+215
+00:05:21,150 --> 00:05:23,570
+closer you go to 90 degrees to the spine
+the more movement you'll get and the
+
+216
+00:05:23,570 --> 00:05:23,580
+the more movement you'll get and the
+
+217
+00:05:23,580 --> 00:05:26,059
+the more movement you'll get and the
+flash little going but if you go at 90
+
+218
+00:05:26,059 --> 00:05:26,069
+flash little going but if you go at 90
+
+219
+00:05:26,069 --> 00:05:27,260
+flash little going but if you go at 90
+degrees to the spine the whole thing
+
+220
+00:05:27,260 --> 00:05:27,270
+degrees to the spine the whole thing
+
+221
+00:05:27,270 --> 00:05:29,450
+degrees to the spine the whole thing
+just falls flat so you can't go at 90
+
+222
+00:05:29,450 --> 00:05:29,460
+just falls flat so you can't go at 90
+
+223
+00:05:29,460 --> 00:05:31,550
+just falls flat so you can't go at 90
+degrees you have to go up something like
+
+224
+00:05:31,550 --> 00:05:31,560
+degrees you have to go up something like
+
+225
+00:05:31,560 --> 00:05:34,610
+degrees you have to go up something like
+85 something like that with all these
+
+226
+00:05:34,610 --> 00:05:34,620
+85 something like that with all these
+
+227
+00:05:34,620 --> 00:05:43,159
+85 something like that with all these
+you start by sticking down one side so
+
+228
+00:05:43,159 --> 00:05:43,169
+you start by sticking down one side so
+
+229
+00:05:43,169 --> 00:05:45,709
+you start by sticking down one side so
+I'm going as close to 90 degrees as I
+
+230
+00:05:45,709 --> 00:05:45,719
+I'm going as close to 90 degrees as I
+
+231
+00:05:45,719 --> 00:05:48,740
+I'm going as close to 90 degrees as I
+can 90 degrees to the spine stick it
+
+232
+00:05:48,740 --> 00:05:48,750
+can 90 degrees to the spine stick it
+
+233
+00:05:48,750 --> 00:05:57,499
+can 90 degrees to the spine stick it
+down fold it shut fold the base shut and
+
+234
+00:05:57,499 --> 00:05:57,509
+down fold it shut fold the base shut and
+
+235
+00:05:57,509 --> 00:06:00,290
+down fold it shut fold the base shut and
+find its natural sticking position so
+
+236
+00:06:00,290 --> 00:06:00,300
+find its natural sticking position so
+
+237
+00:06:00,300 --> 00:06:03,529
+find its natural sticking position so
+that's the first V Bolt and we want the
+
+238
+00:06:03,529 --> 00:06:03,539
+that's the first V Bolt and we want the
+
+239
+00:06:03,539 --> 00:06:05,839
+that's the first V Bolt and we want the
+next one it needs to be stuck down
+
+240
+00:06:05,839 --> 00:06:05,849
+next one it needs to be stuck down
+
+241
+00:06:05,849 --> 00:06:08,779
+next one it needs to be stuck down
+parallel to it and so I'll just use this
+
+242
+00:06:08,779 --> 00:06:08,789
+parallel to it and so I'll just use this
+
+243
+00:06:08,789 --> 00:06:10,189
+parallel to it and so I'll just use this
+little piece of card to give me a
+
+244
+00:06:10,189 --> 00:06:10,199
+little piece of card to give me a
+
+245
+00:06:10,199 --> 00:06:14,269
+little piece of card to give me a
+guaranteed parallel line to stick it to
+
+246
+00:06:14,269 --> 00:06:14,279
+guaranteed parallel line to stick it to
+
+247
+00:06:14,279 --> 00:06:18,950
+guaranteed parallel line to stick it to
+there's the line we just stick down one
+
+248
+00:06:18,950 --> 00:06:18,960
+there's the line we just stick down one
+
+249
+00:06:18,960 --> 00:06:29,459
+there's the line we just stick down one
+side I'll keep that for future reference
+
+250
+00:06:29,459 --> 00:06:29,469
+
+
+251
+00:06:29,469 --> 00:06:34,270
+so we stick that to the spline again to
+
+252
+00:06:34,270 --> 00:06:34,280
+so we stick that to the spline again to
+
+253
+00:06:34,280 --> 00:06:38,080
+so we stick that to the spline again to
+the line with the central crease
+
+254
+00:06:38,080 --> 00:06:38,090
+the line with the central crease
+
+255
+00:06:38,090 --> 00:06:41,200
+the line with the central crease
+with the spine fold it closed we have to
+
+256
+00:06:41,200 --> 00:06:41,210
+with the spine fold it closed we have to
+
+257
+00:06:41,210 --> 00:06:43,059
+with the spine fold it closed we have to
+be quite careful here because we've got
+
+258
+00:06:43,059 --> 00:06:43,069
+be quite careful here because we've got
+
+259
+00:06:43,069 --> 00:06:51,990
+be quite careful here because we've got
+the other one already in place so
+
+260
+00:06:51,990 --> 00:06:52,000
+
+
+261
+00:06:52,000 --> 00:06:54,909
+there's two identical V folds and now we
+
+262
+00:06:54,909 --> 00:06:54,919
+there's two identical V folds and now we
+
+263
+00:06:54,919 --> 00:06:57,129
+there's two identical V folds and now we
+can put a floating plane in above those
+
+264
+00:06:57,129 --> 00:06:57,139
+can put a floating plane in above those
+
+265
+00:06:57,139 --> 00:07:00,219
+can put a floating plane in above those
+so just take one of these pieces it
+
+266
+00:07:00,219 --> 00:07:00,229
+so just take one of these pieces it
+
+267
+00:07:00,229 --> 00:07:03,820
+so just take one of these pieces it
+should be about right you can always
+
+268
+00:07:03,820 --> 00:07:03,830
+should be about right you can always
+
+269
+00:07:03,830 --> 00:07:06,159
+should be about right you can always
+trim these down after you stuck them on
+
+270
+00:07:06,159 --> 00:07:06,169
+trim these down after you stuck them on
+
+271
+00:07:06,169 --> 00:07:08,920
+trim these down after you stuck them on
+so you just have to place about the
+
+272
+00:07:08,920 --> 00:07:08,930
+so you just have to place about the
+
+273
+00:07:08,930 --> 00:07:16,409
+so you just have to place about the
+right size with a crease down the middle
+
+274
+00:07:16,409 --> 00:07:16,419
+
+
+275
+00:07:16,419 --> 00:07:21,459
+crease it really well make sure that
+
+276
+00:07:21,459 --> 00:07:21,469
+crease it really well make sure that
+
+277
+00:07:21,469 --> 00:07:23,980
+crease it really well make sure that
+it's going to fit onto all those four
+
+278
+00:07:23,980 --> 00:07:23,990
+it's going to fit onto all those four
+
+279
+00:07:23,990 --> 00:07:26,200
+it's going to fit onto all those four
+tabs and you can put glue on the ball at
+
+280
+00:07:26,200 --> 00:07:26,210
+tabs and you can put glue on the ball at
+
+281
+00:07:26,210 --> 00:07:44,570
+tabs and you can put glue on the ball at
+the same time so put this into place
+
+282
+00:07:44,570 --> 00:07:44,580
+
+
+283
+00:07:44,580 --> 00:07:47,639
+fold it shout to make sure that it's all
+
+284
+00:07:47,639 --> 00:07:47,649
+fold it shout to make sure that it's all
+
+285
+00:07:47,649 --> 00:07:58,079
+fold it shout to make sure that it's all
+working nicely there we go so that's the
+
+286
+00:07:58,079 --> 00:07:58,089
+working nicely there we go so that's the
+
+287
+00:07:58,089 --> 00:08:01,439
+working nicely there we go so that's the
+first plating plane as it closes you see
+
+288
+00:08:01,439 --> 00:08:01,449
+first plating plane as it closes you see
+
+289
+00:08:01,449 --> 00:08:03,689
+first plating plane as it closes you see
+that it goes down and it's given us
+
+290
+00:08:03,689 --> 00:08:03,699
+that it goes down and it's given us
+
+291
+00:08:03,699 --> 00:08:05,609
+that it goes down and it's given us
+between that crease and the outer edge
+
+292
+00:08:05,609 --> 00:08:05,619
+between that crease and the outer edge
+
+293
+00:08:05,619 --> 00:08:07,319
+between that crease and the outer edge
+we've got that much space to play with
+
+294
+00:08:07,319 --> 00:08:07,329
+we've got that much space to play with
+
+295
+00:08:07,329 --> 00:08:09,809
+we've got that much space to play with
+so now we can build another layer onto
+
+296
+00:08:09,809 --> 00:08:09,819
+so now we can build another layer onto
+
+297
+00:08:09,819 --> 00:08:10,679
+so now we can build another layer onto
+that one
+
+298
+00:08:10,679 --> 00:08:10,689
+that one
+
+299
+00:08:10,689 --> 00:08:12,869
+that one
+so this time we'll make the V file space
+
+300
+00:08:12,869 --> 00:08:12,879
+so this time we'll make the V file space
+
+301
+00:08:12,879 --> 00:08:14,459
+so this time we'll make the V file space
+the opposite way so they're going to be
+
+302
+00:08:14,459 --> 00:08:14,469
+the opposite way so they're going to be
+
+303
+00:08:14,469 --> 00:08:19,559
+the opposite way so they're going to be
+facing this way these previous tabs
+
+304
+00:08:19,559 --> 00:08:19,569
+facing this way these previous tabs
+
+305
+00:08:19,569 --> 00:08:22,739
+facing this way these previous tabs
+I've had them facing back towards so
+
+306
+00:08:22,739 --> 00:08:22,749
+I've had them facing back towards so
+
+307
+00:08:22,749 --> 00:08:25,290
+I've had them facing back towards so
+that means the best way to be looking at
+
+308
+00:08:25,290 --> 00:08:25,300
+that means the best way to be looking at
+
+309
+00:08:25,300 --> 00:08:28,259
+that means the best way to be looking at
+this structure is from that so this time
+
+310
+00:08:28,259 --> 00:08:28,269
+this structure is from that so this time
+
+311
+00:08:28,269 --> 00:08:29,999
+this structure is from that so this time
+I'm going to make the tabs again
+
+312
+00:08:29,999 --> 00:08:30,009
+I'm going to make the tabs again
+
+313
+00:08:30,009 --> 00:08:32,159
+I'm going to make the tabs again
+although the V is pointing this way I'm
+
+314
+00:08:32,159 --> 00:08:32,169
+although the V is pointing this way I'm
+
+315
+00:08:32,169 --> 00:08:34,409
+although the V is pointing this way I'm
+going to make the tabs point towards me
+
+316
+00:08:34,409 --> 00:08:34,419
+going to make the tabs point towards me
+
+317
+00:08:34,419 --> 00:08:37,379
+going to make the tabs point towards me
+as well so that you get a better visual
+
+318
+00:08:37,379 --> 00:08:37,389
+as well so that you get a better visual
+
+319
+00:08:37,389 --> 00:08:39,480
+as well so that you get a better visual
+when you look at it so I'll stick this
+
+320
+00:08:39,480 --> 00:08:39,490
+when you look at it so I'll stick this
+
+321
+00:08:39,490 --> 00:08:53,720
+when you look at it so I'll stick this
+one on stick down one slide close it
+
+322
+00:08:53,720 --> 00:08:53,730
+
+
+323
+00:08:53,730 --> 00:08:56,750
+that's the beginning of the second layer
+
+324
+00:08:56,750 --> 00:08:56,760
+that's the beginning of the second layer
+
+325
+00:08:56,760 --> 00:08:59,760
+that's the beginning of the second layer
+this one needs to be again stuck down
+
+326
+00:08:59,760 --> 00:08:59,770
+this one needs to be again stuck down
+
+327
+00:08:59,770 --> 00:09:02,570
+this one needs to be again stuck down
+parallel to that so I'll use this
+
+328
+00:09:02,570 --> 00:09:02,580
+parallel to that so I'll use this
+
+329
+00:09:02,580 --> 00:09:06,210
+parallel to that so I'll use this
+template again mark the lines on the
+
+330
+00:09:06,210 --> 00:09:06,220
+template again mark the lines on the
+
+331
+00:09:06,220 --> 00:09:11,010
+template again mark the lines on the
+floating plane again only need to do one
+
+332
+00:09:11,010 --> 00:09:11,020
+floating plane again only need to do one
+
+333
+00:09:11,020 --> 00:09:12,630
+floating plane again only need to do one
+side because the other side is going to
+
+334
+00:09:12,630 --> 00:09:12,640
+side because the other side is going to
+
+335
+00:09:12,640 --> 00:09:24,780
+side because the other side is going to
+find its natural position that's it and
+
+336
+00:09:24,780 --> 00:09:24,790
+find its natural position that's it and
+
+337
+00:09:24,790 --> 00:09:34,860
+find its natural position that's it and
+close it down carefully it's more or
+
+338
+00:09:34,860 --> 00:09:34,870
+close it down carefully it's more or
+
+339
+00:09:34,870 --> 00:09:39,360
+close it down carefully it's more or
+less right so we just keep going stick
+
+340
+00:09:39,360 --> 00:09:39,370
+less right so we just keep going stick
+
+341
+00:09:39,370 --> 00:09:42,300
+less right so we just keep going stick
+another layer on top of that let's see
+
+342
+00:09:42,300 --> 00:09:42,310
+another layer on top of that let's see
+
+343
+00:09:42,310 --> 00:09:45,030
+another layer on top of that let's see
+if that one's going to fit a think so so
+
+344
+00:09:45,030 --> 00:09:45,040
+if that one's going to fit a think so so
+
+345
+00:09:45,040 --> 00:09:57,240
+if that one's going to fit a think so so
+put a crease in that so put glue on all
+
+346
+00:09:57,240 --> 00:09:57,250
+put a crease in that so put glue on all
+
+347
+00:09:57,250 --> 00:10:05,160
+put a crease in that so put glue on all
+these slap in the back on that corner
+
+348
+00:10:05,160 --> 00:10:05,170
+these slap in the back on that corner
+
+349
+00:10:05,170 --> 00:10:20,780
+these slap in the back on that corner
+put it into that close it down
+
+350
+00:10:20,780 --> 00:10:20,790
+
+
+351
+00:10:20,790 --> 00:10:24,150
+there we are we've gone to layers up and
+
+352
+00:10:24,150 --> 00:10:24,160
+there we are we've gone to layers up and
+
+353
+00:10:24,160 --> 00:10:27,420
+there we are we've gone to layers up and
+so he's still got between that gully and
+
+354
+00:10:27,420 --> 00:10:27,430
+so he's still got between that gully and
+
+355
+00:10:27,430 --> 00:10:29,640
+so he's still got between that gully and
+the outer rate so there should be room
+
+356
+00:10:29,640 --> 00:10:29,650
+the outer rate so there should be room
+
+357
+00:10:29,650 --> 00:10:32,940
+the outer rate so there should be room
+for yet a third lesson let's just try it
+
+358
+00:10:32,940 --> 00:10:32,950
+for yet a third lesson let's just try it
+
+359
+00:10:32,950 --> 00:10:35,400
+for yet a third lesson let's just try it
+this card is a little bit light ideally
+
+360
+00:10:35,400 --> 00:10:35,410
+this card is a little bit light ideally
+
+361
+00:10:35,410 --> 00:10:38,130
+this card is a little bit light ideally
+it would be would be a bit heavier and a
+
+362
+00:10:38,130 --> 00:10:38,140
+it would be would be a bit heavier and a
+
+363
+00:10:38,140 --> 00:10:40,470
+it would be would be a bit heavier and a
+bit more solid but we'll put another one
+
+364
+00:10:40,470 --> 00:10:40,480
+bit more solid but we'll put another one
+
+365
+00:10:40,480 --> 00:10:43,260
+bit more solid but we'll put another one
+in this one again it faces points that
+
+366
+00:10:43,260 --> 00:10:43,270
+in this one again it faces points that
+
+367
+00:10:43,270 --> 00:10:54,210
+in this one again it faces points that
+way yep still working it's still staying
+
+368
+00:10:54,210 --> 00:10:54,220
+way yep still working it's still staying
+
+369
+00:10:54,220 --> 00:10:58,050
+way yep still working it's still staying
+within the outer page so we'll just get
+
+370
+00:10:58,050 --> 00:10:58,060
+within the outer page so we'll just get
+
+371
+00:10:58,060 --> 00:11:00,300
+within the outer page so we'll just get
+the next layer parallel with that as
+
+372
+00:11:00,300 --> 00:11:00,310
+the next layer parallel with that as
+
+373
+00:11:00,310 --> 00:11:06,110
+the next layer parallel with that as
+well
+
+374
+00:11:06,110 --> 00:11:06,120
+
+
+375
+00:11:06,120 --> 00:11:09,330
+still working more or less bit rickety
+
+376
+00:11:09,330 --> 00:11:09,340
+still working more or less bit rickety
+
+377
+00:11:09,340 --> 00:11:11,220
+still working more or less bit rickety
+we'll put one more layer on top of that
+
+378
+00:11:11,220 --> 00:11:11,230
+we'll put one more layer on top of that
+
+379
+00:11:11,230 --> 00:11:15,750
+we'll put one more layer on top of that
+blue on all these four tabs and just fit
+
+380
+00:11:15,750 --> 00:11:15,760
+blue on all these four tabs and just fit
+
+381
+00:11:15,760 --> 00:11:28,950
+blue on all these four tabs and just fit
+this in there close it down that is
+
+382
+00:11:28,950 --> 00:11:28,960
+this in there close it down that is
+
+383
+00:11:28,960 --> 00:11:30,900
+this in there close it down that is
+going up three levels it's getting
+
+384
+00:11:30,900 --> 00:11:30,910
+going up three levels it's getting
+
+385
+00:11:30,910 --> 00:11:34,230
+going up three levels it's getting
+rickety rickety or as we go but you get
+
+386
+00:11:34,230 --> 00:11:34,240
+rickety rickety or as we go but you get
+
+387
+00:11:34,240 --> 00:11:38,100
+rickety rickety or as we go but you get
+the idea anyway it's still quite a lot
+
+388
+00:11:38,100 --> 00:11:38,110
+the idea anyway it's still quite a lot
+
+389
+00:11:38,110 --> 00:11:39,960
+the idea anyway it's still quite a lot
+bigger than the actual size of the page
+
+390
+00:11:39,960 --> 00:11:39,970
+bigger than the actual size of the page
+
+391
+00:11:39,970 --> 00:11:42,090
+bigger than the actual size of the page
+that it's rising from and you've still
+
+392
+00:11:42,090 --> 00:11:42,100
+that it's rising from and you've still
+
+393
+00:11:42,100 --> 00:11:44,610
+that it's rising from and you've still
+got clearance between here and the outer
+
+394
+00:11:44,610 --> 00:11:44,620
+got clearance between here and the outer
+
+395
+00:11:44,620 --> 00:11:47,280
+got clearance between here and the outer
+page so you can still put a new folder
+
+396
+00:11:47,280 --> 00:11:47,290
+page so you can still put a new folder
+
+397
+00:11:47,290 --> 00:11:49,320
+page so you can still put a new folder
+some sort on top of it let's just try
+
+398
+00:11:49,320 --> 00:11:49,330
+some sort on top of it let's just try
+
+399
+00:11:49,330 --> 00:11:51,060
+some sort on top of it let's just try
+one like this so I'll make this into an
+
+400
+00:11:51,060 --> 00:11:51,070
+one like this so I'll make this into an
+
+401
+00:11:51,070 --> 00:11:55,530
+one like this so I'll make this into an
+acute threefold this time the angle in
+
+402
+00:11:55,530 --> 00:11:55,540
+acute threefold this time the angle in
+
+403
+00:11:55,540 --> 00:11:59,910
+acute threefold this time the angle in
+the middle is less than 90 make a couple
+
+404
+00:11:59,910 --> 00:11:59,920
+the middle is less than 90 make a couple
+
+405
+00:11:59,920 --> 00:12:07,080
+the middle is less than 90 make a couple
+of tabs there just a little one two to
+
+406
+00:12:07,080 --> 00:12:07,090
+of tabs there just a little one two to
+
+407
+00:12:07,090 --> 00:12:09,240
+of tabs there just a little one two to
+finish it all off and make the most of
+
+408
+00:12:09,240 --> 00:12:09,250
+finish it all off and make the most of
+
+409
+00:12:09,250 --> 00:12:11,160
+finish it all off and make the most of
+the height we've managed to generate so
+
+410
+00:12:11,160 --> 00:12:11,170
+the height we've managed to generate so
+
+411
+00:12:11,170 --> 00:12:14,820
+the height we've managed to generate so
+this again will be pointing be pointing
+
+412
+00:12:14,820 --> 00:12:14,830
+this again will be pointing be pointing
+
+413
+00:12:14,830 --> 00:12:23,570
+this again will be pointing be pointing
+back towards me this is going like this
+
+414
+00:12:23,570 --> 00:12:23,580
+
+
+415
+00:12:23,580 --> 00:12:26,400
+maybe I'll put a counter fold in it just
+
+416
+00:12:26,400 --> 00:12:26,410
+maybe I'll put a counter fold in it just
+
+417
+00:12:26,410 --> 00:12:28,980
+maybe I'll put a counter fold in it just
+for a bit of extra pizzazz just fold it
+
+418
+00:12:28,980 --> 00:12:28,990
+for a bit of extra pizzazz just fold it
+
+419
+00:12:28,990 --> 00:12:34,890
+for a bit of extra pizzazz just fold it
+like that so here it is you've got a
+
+420
+00:12:34,890 --> 00:12:34,900
+like that so here it is you've got a
+
+421
+00:12:34,900 --> 00:12:39,300
+like that so here it is you've got a
+four level pop-up structure you can see
+
+422
+00:12:39,300 --> 00:12:39,310
+four level pop-up structure you can see
+
+423
+00:12:39,310 --> 00:12:42,360
+four level pop-up structure you can see
+the idea of what we're aiming at more
+
+424
+00:12:42,360 --> 00:12:42,370
+the idea of what we're aiming at more
+
+425
+00:12:42,370 --> 00:12:44,160
+the idea of what we're aiming at more
+rigid card would have helped more
+
+426
+00:12:44,160 --> 00:12:44,170
+rigid card would have helped more
+
+427
+00:12:44,170 --> 00:12:45,900
+rigid card would have helped more
+precise measuring with it help but
+
+428
+00:12:45,900 --> 00:12:45,910
+precise measuring with it help but
+
+429
+00:12:45,910 --> 00:12:47,970
+precise measuring with it help but
+overall you get the idea of what we're
+
+430
+00:12:47,970 --> 00:12:47,980
+overall you get the idea of what we're
+
+431
+00:12:47,980 --> 00:12:49,560
+overall you get the idea of what we're
+trying to do and we kind of structure
+
+432
+00:12:49,560 --> 00:12:49,570
+trying to do and we kind of structure
+
+433
+00:12:49,570 --> 00:12:52,680
+trying to do and we kind of structure
+much bigger than the original pages
+
+434
+00:12:52,680 --> 00:12:52,690
+much bigger than the original pages
+
+435
+00:12:52,690 --> 00:12:56,310
+much bigger than the original pages
+built into at the moment I am working on
+
+436
+00:12:56,310 --> 00:12:56,320
+built into at the moment I am working on
+
+437
+00:12:56,320 --> 00:12:58,500
+built into at the moment I am working on
+a book on a highly complex pop-up design
+
+438
+00:12:58,500 --> 00:12:58,510
+a book on a highly complex pop-up design
+
+439
+00:12:58,510 --> 00:13:00,240
+a book on a highly complex pop-up design
+and that's due to be published sometime
+
+440
+00:13:00,240 --> 00:13:00,250
+and that's due to be published sometime
+
+441
+00:13:00,250 --> 00:13:30,570
+and that's due to be published sometime
+in 2018
+
+442
+00:13:30,570 --> 00:13:30,580
+
+
+443
+00:13:30,580 --> 00:13:32,640
+you
+

@@ -1,0 +1,1220 @@
+1
+00:00:01,440 --> 00:00:36,130
+[Music]
+[音乐]
+
+2
+
+
+本教程是关于展开
+
+3
+00:00:36,140 --> 00:00:39,380
+this tutorial is about the unfurling
+机制，这是一个非常不寻常的小
+
+4
+00:00:39,380 --> 00:00:39,390
+this tutorial is about the unfurling
+我从这本书中学到的机制
+
+5
+00:00:39,390 --> 00:00:42,440
+this tutorial is about the unfurling
+mechanism it's a quite an unusual little
+大卫·佩洛姆（David Pellom）真的叫乌鸦（Raven）
+
+6
+00:00:42,440 --> 00:00:42,450
+mechanism it's a quite an unusual little
+很棒但是很漂亮
+
+7
+00:00:42,450 --> 00:00:45,640
+mechanism it's a quite an unusual little
+mechanism that I took from this book by
+插图和非常聪明的弹出式窗口
+
+8
+00:00:45,640 --> 00:00:45,650
+mechanism that I took from this book by
+我将贯穿整个过程，以便您看到
+
+9
+00:00:45,650 --> 00:00:49,070
+mechanism that I took from this book by
+David Pellom called the Raven really
+到底有多伟大
+
+10
+00:00:49,070 --> 00:00:49,080
+David Pellom called the Raven really
+我将在下面解释展开机制
+
+11
+00:00:49,080 --> 00:00:50,840
+David Pellom called the Raven really
+fantastic but really beautiful
+最终这些是点差，所以这是
+
+12
+00:00:50,840 --> 00:00:50,850
+fantastic but really beautiful
+展开机制，这是一个
+
+13
+00:00:50,850 --> 00:00:53,810
+fantastic but really beautiful
+illustration and very clever pop-ups so
+我将在本教程中进行解释
+
+14
+00:00:53,810 --> 00:00:53,820
+illustration and very clever pop-ups so
+然后这是本书的结尾
+
+15
+00:00:53,820 --> 00:00:55,880
+illustration and very clever pop-ups so
+I'll just run through it so you can see
+这是我认为的展开机制
+
+16
+00:00:55,880 --> 00:00:55,890
+I'll just run through it so you can see
+理解它的最好方法是看
+
+17
+00:00:55,890 --> 00:00:59,180
+I'll just run through it so you can see
+just how great it is really and then
+从后面看，您会看到
+
+18
+00:00:59,180 --> 00:00:59,190
+just how great it is really and then
+整个事物由v形折叠驱动
+
+19
+00:00:59,190 --> 00:01:02,180
+just how great it is really and then
+I'll explain the unfurling mechanism at
+在这里，v形是
+
+20
+00:01:02,180 --> 00:01:02,190
+I'll explain the unfurling mechanism at
+v折，v折上的角度
+
+21
+00:01:02,190 --> 00:01:15,380
+I'll explain the unfurling mechanism at
+the end these are the spreads so this is
+与页面上的角度相同
+
+22
+00:01:15,380 --> 00:01:15,390
+the end these are the spreads so this is
+因此，当页面平坦时，v形折叠位于
+
+23
+00:01:15,390 --> 00:01:17,300
+the end these are the spreads so this is
+the unfolding mechanism this is the one
+平v形折叠向上并
+
+24
+00:01:17,300 --> 00:01:17,310
+the unfolding mechanism this is the one
+有一块推向后
+
+25
+00:01:17,310 --> 00:01:19,670
+the unfolding mechanism this is the one
+I'm going to explain in this tutorial
+最容易向您展示的手指
+
+26
+00:01:19,670 --> 00:01:19,680
+I'm going to explain in this tutorial
+我做了这个，所以我把它
+
+27
+00:01:19,680 --> 00:01:23,740
+I'm going to explain in this tutorial
+and then this is the end of the book
+在那里，这是V故障
+
+28
+00:01:23,740 --> 00:01:23,750
+and then this is the end of the book
+这将是手的前面
+
+29
+00:01:23,750 --> 00:01:27,260
+and then this is the end of the book
+this is the unfurling mechanism I think
+是向上推手指的那一块
+
+30
+00:01:27,260 --> 00:01:27,270
+this is the unfurling mechanism I think
+它在这里向后推，
+
+31
+00:01:27,270 --> 00:01:30,260
+this is the unfurling mechanism I think
+the best way to understand it is to look
+手指实际上是铰接在顶部
+
+32
+00:01:30,260 --> 00:01:30,270
+the best way to understand it is to look
+V形折叠的延伸部分
+
+33
+00:01:30,270 --> 00:01:33,260
+the best way to understand it is to look
+at it from behind you'll see that the
+打开和关闭，您可以看到
+
+34
+00:01:33,260 --> 00:01:33,270
+at it from behind you'll see that the
+在书中工作而不是仅仅
+
+35
+00:01:33,270 --> 00:01:37,550
+at it from behind you'll see that the
+whole thing is powered by a v-fold in
+像我一样在这里变黄
+
+36
+00:01:37,550 --> 00:01:37,560
+whole thing is powered by a v-fold in
+做了一系列不同的
+
+37
+00:01:37,560 --> 00:01:40,250
+whole thing is powered by a v-fold in
+here and the v-fold is the type of
+不同手指的高度，如果
+
+38
+00:01:40,250 --> 00:01:40,260
+here and the v-fold is the type of
+我们从侧面看它，这里有一个
+
+39
+00:01:40,260 --> 00:01:42,170
+here and the v-fold is the type of
+v-fold where the angles on the v-fold
+所有人都有很多不同的身高
+
+40
+00:01:42,170 --> 00:01:42,180
+v-fold where the angles on the v-fold
+不同的形状，但都被向上推
+
+41
+00:01:42,180 --> 00:01:44,270
+v-fold where the angles on the v-fold
+are the same as the angles on the page
+推动这一切的一切
+
+42
+00:01:44,270 --> 00:01:44,280
+are the same as the angles on the page
+这些不同的水平和一块
+
+43
+00:01:44,280 --> 00:01:47,810
+are the same as the angles on the page
+so when the page is flat the v-fold lies
+它所反对的是不同的
+
+44
+00:01:47,810 --> 00:01:47,820
+so when the page is flat the v-fold lies
+水平，所以当你看着它会
+
+45
+00:01:47,820 --> 00:01:50,300
+so when the page is flat the v-fold lies
+flat the v-fold is extended up and
+真的是黄色的东西
+
+46
+00:01:50,300 --> 00:01:50,310
+flat the v-fold is extended up and
+不同级别，还有红色
+
+47
+00:01:50,310 --> 00:01:52,399
+flat the v-fold is extended up and
+there's a piece that pushes up the back
+会有不同的水平，但我已经
+
+48
+00:01:52,399 --> 00:01:52,409
+there's a piece that pushes up the back
+只是说清楚一点，所以你
+
+49
+00:01:52,409 --> 00:01:55,250
+there's a piece that pushes up the back
+of the fingers easiest to show you on
+可以理解，所以我现在做一个
+
+50
+00:01:55,250 --> 00:01:55,260
+of the fingers easiest to show you on
+我已经把所有的东西都剪了
+
+51
+00:01:55,260 --> 00:01:58,310
+of the fingers easiest to show you on
+this one that I've made so I'll put that
+所以我会解释给他们看
+
+52
+00:01:58,310 --> 00:01:58,320
+this one that I've made so I'll put that
+很简单，这是基础表
+
+53
+00:01:58,320 --> 00:02:03,760
+this one that I've made so I'll put that
+there so here it is this is the V fault
+完全对折
+
+54
+00:02:03,760 --> 00:02:03,770
+there so here it is this is the V fault
+这是这两个角度的V折
+
+55
+00:02:03,770 --> 00:02:06,980
+there so here it is this is the V fault
+this would be the front of the hand this
+45度增加了，我会的
+
+56
+00:02:06,980 --> 00:02:06,990
+this would be the front of the hand this
+现在就折一下，折起来
+
+57
+00:02:06,990 --> 00:02:09,139
+this would be the front of the hand this
+is the piece that pushes up the fingers
+你真的很认真地看着这个
+
+58
+00:02:09,139 --> 00:02:09,149
+is the piece that pushes up the fingers
+可以看到它在
+
+59
+00:02:09,149 --> 00:02:13,240
+is the piece that pushes up the fingers
+it pushes up at the back here and the
+页面，以便将成为V
+
+60
+00:02:13,240 --> 00:02:13,250
+it pushes up at the back here and the
+它会在页面顶部附近
+
+61
+00:02:13,250 --> 00:02:15,610
+it pushes up at the back here and the
+the finger is actually hinged on the top
+指向这样的东西
+
+62
+00:02:15,610 --> 00:02:15,620
+the finger is actually hinged on the top
+没错，所以我就把
+
+63
+00:02:15,620 --> 00:02:18,310
+the finger is actually hinged on the top
+of this extension to the v-fold so as it
+粘在那里，因为它是平坦的
+
+64
+00:02:18,310 --> 00:02:18,320
+of this extension to the v-fold so as it
+弹出式窗口是扁平的，可以将两面都粘上
+
+65
+00:02:18,320 --> 00:02:21,880
+of this extension to the v-fold so as it
+opens and closes you can see how that
+与此同时
+
+66
+00:02:21,880 --> 00:02:21,890
+opens and closes you can see how that
+我将其放置在此处，确保
+
+67
+00:02:21,890 --> 00:02:27,250
+opens and closes you can see how that
+works in the book rather than to just
+弹出窗口的中央折痕对齐
+
+68
+00:02:27,250 --> 00:02:27,260
+works in the book rather than to just
+与基地的中央折痕
+
+69
+00:02:27,260 --> 00:02:29,830
+works in the book rather than to just
+being one flat level here yellow as I've
+粘下来折叠起来只是为了使
+
+70
+00:02:29,830 --> 00:02:29,840
+being one flat level here yellow as I've
+确保一切顺利
+
+71
+00:02:29,840 --> 00:02:31,510
+being one flat level here yellow as I've
+made there's a whole series of different
+哦耶
+
+72
+00:02:31,510 --> 00:02:31,520
+made there's a whole series of different
+所以现在你会看到这块黄色的
+
+73
+00:02:31,520 --> 00:02:34,900
+made there's a whole series of different
+heights for the different fingers so if
+粘在v形折叠的一侧，所以
+
+74
+00:02:34,900 --> 00:02:34,910
+heights for the different fingers so if
+这是我要添加的黄色部分
+
+75
+00:02:34,910 --> 00:02:37,690
+heights for the different fingers so if
+we look at it sideways on here there's a
+上，你会看到那黄色
+
+76
+00:02:37,690 --> 00:02:37,700
+we look at it sideways on here there's a
+件粘在v形折叠的一侧
+
+77
+00:02:37,700 --> 00:02:40,210
+we look at it sideways on here there's a
+whole lot of different heights to all
+所以这是一块那么低的黄色
+
+78
+00:02:40,210 --> 00:02:40,220
+whole lot of different heights to all
+黄片，将被粘上
+
+79
+00:02:40,220 --> 00:02:42,070
+whole lot of different heights to all
+different shapes but all pushed up by
+在V形折叠的这一侧，请确保
+
+80
+00:02:42,070 --> 00:02:42,080
+different shapes but all pushed up by
+角落就在角落里，否则
+
+81
+00:02:42,080 --> 00:02:45,310
+different shapes but all pushed up by
+the the piece that's pushing it has all
+好吧，它显然不会关闭
+
+82
+00:02:45,310 --> 00:02:45,320
+the the piece that's pushing it has all
+正确地在这上面放一些胶水
+
+83
+00:02:45,320 --> 00:02:47,470
+the the piece that's pushing it has all
+these different levels and the piece
+这里的三角形那里胶太多
+
+84
+00:02:47,470 --> 00:02:47,480
+these different levels and the piece
+我待会儿干
+
+85
+00:02:47,480 --> 00:02:49,720
+these different levels and the piece
+that it's pushing against has different
+我将其关闭以确保其正常工作，
+
+86
+00:02:49,720 --> 00:02:49,730
+that it's pushing against has different
+现在给第二分钟
+
+87
+00:02:49,730 --> 00:02:51,880
+that it's pushing against has different
+levels so when you look at this it would
+这是一块带有插槽的零件
+
+88
+00:02:51,880 --> 00:02:51,890
+levels so when you look at this it would
+那红色的碎片穿过
+
+89
+00:02:51,890 --> 00:02:54,400
+levels so when you look at this it would
+be really the yellow piece would have
+这将继续在这里插槽是
+
+90
+00:02:54,400 --> 00:02:54,410
+be really the yellow piece would have
+刚好高于这里的水平
+
+91
+00:02:54,410 --> 00:02:57,130
+be really the yellow piece would have
+different levels and also the red piece
+你可能会把它全部
+
+92
+00:02:57,130 --> 00:02:57,140
+different levels and also the red piece
+一张卡，但我认为它也相当
+
+93
+00:02:57,140 --> 00:02:58,810
+different levels and also the red piece
+would have different levels but I've
+保持坚韧很好，这是几个
+
+94
+00:02:58,810 --> 00:02:58,820
+would have different levels but I've
+厚度，所以我已经标记了插槽
+
+95
+00:02:58,820 --> 00:03:01,750
+would have different levels but I've
+just made one to make it clear so you
+将与折痕平行
+
+96
+00:03:01,750 --> 00:03:01,760
+just made one to make it clear so you
+我刚刚把它切掉了
+
+97
+00:03:01,760 --> 00:03:04,350
+just made one to make it clear so you
+can understand it so now I'll make one
+好的
+
+98
+00:03:04,350 --> 00:03:04,360
+can understand it so now I'll make one
+荡妇需要在顶部上方
+
+99
+00:03:04,360 --> 00:03:07,510
+can understand it so now I'll make one
+I've cut out all the pieces in advance
+边缘，我将其粘在上面
+
+100
+00:03:07,510 --> 00:03:07,520
+I've cut out all the pieces in advance
+好吧，我将其关闭
+
+101
+00:03:07,520 --> 00:03:08,949
+I've cut out all the pieces in advance
+so I'll explain them all they're all
+确保一切正常，这显然是一个
+
+102
+00:03:08,949 --> 00:03:08,959
+so I'll explain them all they're all
+假人，你可以看到它伸出
+
+103
+00:03:08,959 --> 00:03:12,270
+so I'll explain them all they're all
+quite simple this is the base sheet
+边缘，但没关系，这只是
+
+104
+00:03:12,270 --> 00:03:12,280
+quite simple this is the base sheet
+解释机制，所以我们
+
+105
+00:03:12,280 --> 00:03:17,460
+quite simple this is the base sheet
+folded in half folded really thoroughly
+现在是那样移动吗红色
+
+106
+
+
+一块，这将推高
+
+107
+00:03:17,470 --> 00:03:21,250
+this is the V fold both these angles are
+整个东西实际上就是
+
+108
+00:03:21,250 --> 00:03:21,260
+this is the V fold both these angles are
+移动方式的机制
+
+109
+00:03:21,260 --> 00:03:24,699
+this is the V fold both these angles are
+45 degrees I have increased it yes I'll
+这是我做的地带
+
+110
+00:03:24,699 --> 00:03:24,709
+45 degrees I have increased it yes I'll
+压下中间，我要粘
+
+111
+00:03:24,709 --> 00:03:30,070
+45 degrees I have increased it yes I'll
+just crease that now so that crease
+一分钟
+
+112
+00:03:30,070 --> 00:03:30,080
+just crease that now so that crease
+但是首先我们要在其中一个
+
+113
+00:03:30,080 --> 00:03:33,610
+just crease that now so that crease
+really thoroughly you look at this you
+结束，所以我要在那儿剪一点
+
+114
+00:03:33,610 --> 00:03:33,620
+really thoroughly you look at this you
+所以这将是一个选项卡
+
+115
+00:03:33,620 --> 00:03:36,340
+really thoroughly you look at this you
+can see where it's positioned on the
+现在将其粘贴到页面上
+
+116
+00:03:36,340 --> 00:03:36,350
+can see where it's positioned on the
+此时，您会看到在
+
+117
+00:03:36,350 --> 00:03:41,920
+can see where it's positioned on the
+page so that piece is going to be the V
+这本书的底部是红色的全部
+
+118
+00:03:41,920 --> 00:03:41,930
+page so that piece is going to be the V
+制成一件，但由于
+
+119
+00:03:41,930 --> 00:03:44,440
+page so that piece is going to be the V
+it'll be near the top of the page
+测量和填充的并发症
+
+120
+00:03:44,440 --> 00:03:44,450
+it'll be near the top of the page
+我要用两块做成
+
+121
+00:03:44,450 --> 00:03:49,229
+it'll be near the top of the page
+pointing down it something like this
+这件，那件出现的
+
+122
+00:03:49,229 --> 00:03:49,239
+pointing down it something like this
+该高度必须与
+
+123
+00:03:49,239 --> 00:03:53,500
+pointing down it something like this
+that's about right so I'll just put the
+总黄色，因此现在已进入标签页
+
+124
+00:03:53,500 --> 00:03:53,510
+that's about right so I'll just put the
+一方面，我只需要衡量
+
+125
+00:03:53,510 --> 00:03:57,699
+that's about right so I'll just put the
+glue on there and as it's flat when the
+高整个事情需要来这个
+
+126
+00:03:57,699 --> 00:03:57,709
+glue on there and as it's flat when the
+时间，所以我将其标记为
+
+127
+00:03:57,709 --> 00:03:59,710
+glue on there and as it's flat when the
+pop-up is flat you can glue both sides
+与底部齐平，这是
+
+128
+00:03:59,710 --> 00:03:59,720
+pop-up is flat you can glue both sides
+其他标签将是，所以我要
+
+129
+00:03:59,720 --> 00:04:06,309
+pop-up is flat you can glue both sides
+at the same time
+切成一个标签，然后切
+
+130
+
+
+那关
+
+131
+00:04:06,319 --> 00:04:08,610
+I'll position it on there make sure the
+对，所以这将是另一个
+
+132
+00:04:08,610 --> 00:04:08,620
+I'll position it on there make sure the
+现在，我可以将双方粘合在一起
+
+133
+00:04:08,620 --> 00:04:12,819
+I'll position it on there make sure the
+central crease of the pop-up is
+在一起只是为了使其真正强大
+
+134
+00:04:12,819 --> 00:04:12,829
+central crease of the pop-up is
+推杆我们去
+
+135
+00:04:12,829 --> 00:04:14,999
+central crease of the pop-up is
+with the central crease of the base
+刚干的时候你在这里看到
+
+136
+00:04:14,999 --> 00:04:15,009
+with the central crease of the base
+因为我用红色做成了
+
+137
+00:04:15,009 --> 00:04:18,849
+with the central crease of the base
+stick it down fold it shut just to make
+我放了两根铰链
+
+138
+00:04:18,849 --> 00:04:18,859
+stick it down fold it shut just to make
+黄色的顶部，这样您就可以
+
+139
+00:04:18,859 --> 00:04:21,129
+stick it down fold it shut just to make
+sure that everything is working smoothly
+附加所有这就是铰链
+
+140
+00:04:21,129 --> 00:04:21,139
+sure that everything is working smoothly
+只是一小片，里面有折叠
+
+141
+00:04:21,139 --> 00:04:24,850
+sure that everything is working smoothly
+oh yeah
+中间需要与
+
+142
+00:04:24,850 --> 00:04:24,860
+oh yeah
+插槽
+
+143
+00:04:24,860 --> 00:04:27,960
+oh yeah
+so now you'll see that this yellow piece
+在上面放一些胶水，那就是
+
+144
+00:04:27,960 --> 00:04:27,970
+so now you'll see that this yellow piece
+要去那里好吧，我们要
+
+145
+00:04:27,970 --> 00:04:31,540
+so now you'll see that this yellow piece
+is stuck to one side of the v-fold so
+通过这个线程这将
+
+146
+00:04:31,540 --> 00:04:31,550
+is stuck to one side of the v-fold so
+坚持下去，它会上升
+
+147
+00:04:31,550 --> 00:04:33,820
+is stuck to one side of the v-fold so
+here's the yellow piece I'm going to add
+通过插槽并将其粘在
+
+148
+00:04:33,820 --> 00:04:33,830
+here's the yellow piece I'm going to add
+整个事情与
+
+149
+00:04:33,830 --> 00:04:36,760
+here's the yellow piece I'm going to add
+on and you can see that that yellow
+我戴上的铰链，所以我就放
+
+150
+00:04:36,760 --> 00:04:36,770
+on and you can see that that yellow
+该标签上的一些胶粘在那里
+
+151
+00:04:36,770 --> 00:04:39,159
+on and you can see that that yellow
+piece is glued to one side of the v-fold
+下来只是确保所有这些
+
+152
+00:04:39,159 --> 00:04:39,169
+piece is glued to one side of the v-fold
+工作得很好，我略有点击
+
+153
+00:04:39,169 --> 00:04:42,969
+piece is glued to one side of the v-fold
+so here's the yellow piece that low
+在那边，现在更直了
+
+154
+00:04:42,969 --> 00:04:42,979
+so here's the yellow piece that low
+当他们底座平的时候
+
+155
+00:04:42,979 --> 00:04:46,740
+so here's the yellow piece that low
+yellow piece and it's going to be glued
+整个手指都是扁平的，所以我要
+
+156
+00:04:46,740 --> 00:04:46,750
+yellow piece and it's going to be glued
+弄平这是我的作品
+
+157
+00:04:46,750 --> 00:04:50,800
+yellow piece and it's going to be glued
+to this side of the v-fold make sure the
+要添加它会坚持下去
+
+158
+00:04:50,800 --> 00:04:50,810
+to this side of the v-fold make sure the
+到这个，让我们关闭它
+
+159
+00:04:50,810 --> 00:04:53,490
+to this side of the v-fold make sure the
+corner is right in the corner otherwise
+这将坚持在那里，我已经
+
+160
+00:04:53,490 --> 00:04:53,500
+corner is right in the corner otherwise
+只需将胶水放在两个标签上即可
+
+161
+00:04:53,500 --> 00:04:56,020
+corner is right in the corner otherwise
+well it obviously won't won't close
+一个应该指向的红军
+
+162
+00:04:56,020 --> 00:04:56,030
+well it obviously won't won't close
+这样，当您向其中添加手指时
+
+163
+00:04:56,030 --> 00:04:59,920
+well it obviously won't won't close
+properly so put some glue on this
+该条的结尾继续
+
+164
+00:04:59,920 --> 00:04:59,930
+properly so put some glue on this
+躺下时起皱，您可以看到
+
+165
+00:04:59,930 --> 00:05:09,640
+properly so put some glue on this
+triangle here bit too much glue there
+太久了，这将
+
+166
+00:05:09,640 --> 00:05:09,650
+triangle here bit too much glue there
+下来在这里，所以我要修剪一些
+
+167
+00:05:09,650 --> 00:05:11,950
+triangle here bit too much glue there
+I'll just give it a moment to dry off
+立即关闭然后折叠
+
+168
+00:05:11,950 --> 00:05:11,960
+I'll just give it a moment to dry off
+这下来，你可以看到我
+
+169
+00:05:11,960 --> 00:05:17,409
+I'll just give it a moment to dry off
+I'll close it make sure it's working and
+实际上稍微离开那里，所以现在你
+
+170
+00:05:17,409 --> 00:05:17,419
+I'll close it make sure it's working and
+可以看到这是展开的
+
+171
+00:05:17,419 --> 00:05:20,460
+I'll close it make sure it's working and
+give that a minute now the second piece
+仍然有点长，倾向于陷入
+
+172
+00:05:20,460 --> 00:05:20,470
+give that a minute now the second piece
+页面有点，所以我可以切断
+
+173
+00:05:20,470 --> 00:05:23,350
+give that a minute now the second piece
+this is a piece here with the slot in it
+可能会有所帮助，所以这是
+
+174
+00:05:23,350 --> 00:05:23,360
+this is a piece here with the slot in it
+这是展开机制，
+
+175
+00:05:23,360 --> 00:05:26,680
+this is a piece here with the slot in it
+that the red piece goes through so
+如果你想用多个手指
+
+176
+00:05:26,680 --> 00:05:26,690
+that the red piece goes through so
+像在手中，那么你可以使
+
+177
+00:05:26,690 --> 00:05:30,760
+that the red piece goes through so
+that's going to go on here the slot is
+黄色在许多不同的水平和
+
+178
+00:05:30,760 --> 00:05:30,770
+that's going to go on here the slot is
+你可以做这件红色的
+
+179
+00:05:30,770 --> 00:05:33,610
+that's going to go on here the slot is
+going to be just above the level here
+推高许多不同的水平
+
+180
+00:05:33,610 --> 00:05:33,620
+going to be just above the level here
+这本书的另一个聪明之处是
+
+181
+00:05:33,620 --> 00:05:35,439
+going to be just above the level here
+you could probably make it all out of
+这个机制隐藏在David中
+
+182
+00:05:35,439 --> 00:05:35,449
+you could probably make it all out of
+佩勒姆（Pelham）的设计，所以我只告诉你
+
+183
+00:05:35,449 --> 00:05:38,080
+you could probably make it all out of
+one card but I think it's also quite
+页面打开时他是如何做到的
+
+184
+00:05:38,080 --> 00:05:38,090
+one card but I think it's also quite
+你看到那只手实际上是
+
+185
+00:05:38,090 --> 00:05:40,149
+one card but I think it's also quite
+good to keep it tough so it's several
+拿着一个小盒盒，所以实际上
+
+186
+00:05:40,149 --> 00:05:40,159
+good to keep it tough so it's several
+小盒挂在顶部
+
+187
+00:05:40,159 --> 00:05:42,909
+good to keep it tough so it's several
+thicknesses so I've marked slots it's
+黄色在这里，它上下滑动
+
+188
+00:05:42,909 --> 00:05:42,919
+thicknesses so I've marked slots it's
+这是单独的一块，所以如果我们举起
+
+189
+00:05:42,919 --> 00:05:44,409
+thicknesses so I've marked slots it's
+going to be parallel with the crease at
+那你会看到这件
+
+190
+00:05:44,409 --> 00:05:44,419
+going to be parallel with the crease at
+拇指是一块，这是
+
+191
+00:05:44,419 --> 00:05:59,040
+going to be parallel with the crease at
+the bottom I've just cut it out
+另一个使小盒实际上隐藏起来
+
+192
+
+
+所以实际上有一件
+
+193
+00:05:59,050 --> 00:06:00,370
+okay
+停留在这里即将到来
+
+194
+00:06:00,370 --> 00:06:00,380
+okay
+这里还有另外一块
+
+195
+00:06:00,380 --> 00:06:03,909
+okay
+that needs to be just above the top
+掉下来藏起来了
+
+196
+00:06:03,909 --> 00:06:03,919
+that needs to be just above the top
+我会这样做，以便您了解如何
+
+197
+00:06:03,919 --> 00:06:07,540
+that needs to be just above the top
+edge and I'll just glue that one on as
+它是隐藏的，我会用
+
+198
+00:06:07,540 --> 00:06:07,550
+edge and I'll just glue that one on as
+不同的颜色我会用一些
+
+199
+00:06:07,550 --> 00:06:17,469
+edge and I'll just glue that one on as
+well right again I'll just close it make
+绿色，所以我会做得非常
+
+200
+00:06:17,469 --> 00:06:17,479
+well right again I'll just close it make
+基本上是这样
+
+201
+00:06:17,479 --> 00:06:20,650
+well right again I'll just close it make
+sure it all works this is obviously a
+所以这会粘在红色上
+
+202
+00:06:20,650 --> 00:06:20,660
+sure it all works this is obviously a
+那里放了一点胶
+
+203
+00:06:20,660 --> 00:06:22,510
+sure it all works this is obviously a
+dummy you can see it sticking out of the
+坚持在那里，现在那里
+
+204
+00:06:22,510 --> 00:06:22,520
+dummy you can see it sticking out of the
+另一块重叠的绿色
+
+205
+00:06:22,520 --> 00:06:24,400
+dummy you can see it sticking out of the
+edge but it doesn't matter it's just
+有一块重叠的绿色
+
+206
+00:06:24,400 --> 00:06:24,410
+edge but it doesn't matter it's just
+在那里，将隐藏
+
+207
+00:06:24,410 --> 00:06:26,499
+edge but it doesn't matter it's just
+explaining the mechanisms so there we
+机制真的只是放少量
+
+208
+00:06:26,499 --> 00:06:26,509
+explaining the mechanisms so there we
+胶水粘在上面
+
+209
+00:06:26,509 --> 00:06:29,620
+explaining the mechanisms so there we
+are that's moving like that now the red
+顶部的一块不错，这是
+
+210
+00:06:29,620 --> 00:06:29,630
+are that's moving like that now the red
+隐藏我需要投射的机制
+
+211
+00:06:29,630 --> 00:06:31,540
+are that's moving like that now the red
+piece this is going to be pushing up the
+向下，这样就足够了
+
+212
+00:06:31,540 --> 00:06:31,550
+piece this is going to be pushing up the
+顶部边缘，但足够短
+
+213
+00:06:31,550 --> 00:06:33,670
+piece this is going to be pushing up the
+whole thing this is what actually makes
+它不会坠入胡同
+
+214
+00:06:33,670 --> 00:06:33,680
+whole thing this is what actually makes
+书中有
+
+215
+00:06:33,680 --> 00:06:36,180
+whole thing this is what actually makes
+the mechanism moving the way it does so
+显然，你知道这很聪明
+
+216
+00:06:36,180 --> 00:06:36,190
+the mechanism moving the way it does so
+这是一个小盒，所以事实是
+
+217
+00:06:36,190 --> 00:06:39,670
+the mechanism moving the way it does so
+here's the strip I've made it's got a
+移动就可以了
+
+218
+00:06:39,670 --> 00:06:39,680
+here's the strip I've made it's got a
+这就是展开的机制
+
+219
+00:06:39,680 --> 00:06:42,249
+here's the strip I've made it's got a
+crease down the middle I'm going to glue
+[音乐]
+
+220
+00:06:42,249 --> 00:06:42,259
+crease down the middle I'm going to glue
+[掌声]
+
+221
+00:06:42,259 --> 00:06:43,120
+crease down the middle I'm going to glue
+it in a minute
+您
+
+222
+00:06:43,120 --> 00:06:43,130
+it in a minute
+[音乐]
+
+223
+00:06:43,130 --> 00:06:47,740
+it in a minute
+but first we'll just make a tab at one

@@ -1,0 +1,583 @@
+1
+00:00:03,100 --> 00:00:35,130
+[Music]
+[音乐]
+
+2
+
+
+本教程是关于如何制作一个
+
+3
+00:00:35,140 --> 00:00:39,420
+this tutorial is about how to make a
+移动一块拉条，当你
+
+4
+00:00:39,420 --> 00:00:39,430
+this tutorial is about how to make a
+拉它使垂直的一块幻灯片
+
+5
+00:00:39,430 --> 00:00:42,279
+this tutorial is about how to make a
+moving piece a pull strip which when you
+在整个页面上，我会告诉你我的
+
+6
+00:00:42,279 --> 00:00:42,289
+moving piece a pull strip which when you
+版本第一，这非常简单，
+
+7
+00:00:42,289 --> 00:00:44,229
+moving piece a pull strip which when you
+pull it it makes a vertical piece slide
+最基本的是，这里有V型折叠
+
+8
+00:00:44,229 --> 00:00:44,239
+pull it it makes a vertical piece slide
+当您拉开条带时，它就变成了一块
+
+9
+00:00:44,239 --> 00:00:46,209
+pull it it makes a vertical piece slide
+across the page well I'll show you my
+在页面上滑动，因此相当
+
+10
+00:00:46,209 --> 00:00:46,219
+across the page well I'll show you my
+有用的，那很简单
+
+11
+00:00:46,219 --> 00:00:48,430
+across the page well I'll show you my
+version first which is quite simple and
+机制我在书中得到的例子
+
+12
+00:00:48,430 --> 00:00:48,440
+version first which is quite simple and
+这是Peter Rabbit弹出书吗
+
+13
+00:00:48,440 --> 00:00:52,540
+version first which is quite simple and
+basic here it is you've got a v-fold and
+而这个稍微多一点
+
+14
+00:00:52,540 --> 00:00:52,550
+basic here it is you've got a v-fold and
+拉动它时会使V型折叠复杂化
+
+15
+00:00:52,550 --> 00:00:55,779
+basic here it is you've got a v-fold and
+as you pull the strip it makes a piece
+该图是使用集线器清晰表达的
+
+16
+00:00:55,779 --> 00:00:55,789
+as you pull the strip it makes a piece
+这里后面有一个枢纽，还有一个
+
+17
+00:00:55,789 --> 00:00:57,700
+as you pull the strip it makes a piece
+glide across the page so it's quite
+集线器所有者在运动件上
+
+18
+00:00:57,700 --> 00:00:57,710
+glide across the page so it's quite
+放下这个数字可以移动，所以我只是
+
+19
+00:00:57,710 --> 00:00:59,229
+glide across the page so it's quite
+useful then it's quite a simple
+会告诉你如何做这个
+
+20
+00:00:59,229 --> 00:00:59,239
+useful then it's quite a simple
+活动件和轮毂的说明
+
+21
+00:00:59,239 --> 00:01:02,740
+useful then it's quite a simple
+mechanism the example I've got in books
+教程27集线器和枢轴
+
+22
+00:01:02,740 --> 00:01:02,750
+mechanism the example I've got in books
+您以这种方式看到的基础表
+
+23
+00:01:02,750 --> 00:01:05,649
+mechanism the example I've got in books
+is this one the Peter Rabbit pop-up book
+它有一个荡妇拉带要去
+
+24
+00:01:05,649 --> 00:01:05,659
+is this one the Peter Rabbit pop-up book
+进入下面，然后移动
+
+25
+00:01:05,659 --> 00:01:06,999
+is this one the Peter Rabbit pop-up book
+and this one is slightly more
+首先要超越它
+
+26
+00:01:06,999 --> 00:01:07,009
+and this one is slightly more
+贴在V形折叠上，这是常规的V
+
+27
+00:01:07,009 --> 00:01:10,660
+and this one is slightly more
+complicated the v-fold when you pull it
+折这是教程二
+
+28
+00:01:10,660 --> 00:01:10,670
+complicated the v-fold when you pull it
+对称正则直角V折
+
+29
+00:01:10,670 --> 00:01:13,510
+complicated the v-fold when you pull it
+the figure is articulated its using hubs
+将会向后折叠
+
+30
+00:01:13,510 --> 00:01:13,520
+the figure is articulated its using hubs
+页面关闭，我将其粘贴到
+
+31
+00:01:13,520 --> 00:01:16,149
+the figure is articulated its using hubs
+there's a hub behind here and there's a
+这一页
+
+32
+00:01:16,149 --> 00:01:16,159
+there's a hub behind here and there's a
+我已经放荡了
+
+33
+00:01:16,159 --> 00:01:18,340
+there's a hub behind here and there's a
+hub owner on the moving piece so as you
+在v形折叠前面
+
+34
+00:01:18,340 --> 00:01:18,350
+hub owner on the moving piece so as you
+您可能想在后面做荡妇
+
+35
+00:01:18,350 --> 00:01:20,920
+hub owner on the moving piece so as you
+put it the figure can move so I'm just
+V形折叠，在这种情况下，您可能需要
+
+36
+00:01:20,920 --> 00:01:20,930
+put it the figure can move so I'm just
+这两个选项卡而不是前进
+
+37
+00:01:20,930 --> 00:01:21,999
+put it the figure can move so I'm just
+going to show you how to make this
+向后走，但我决定让他们走
+
+38
+00:01:21,999 --> 00:01:22,009
+going to show you how to make this
+从你身上倒退，就是这样
+
+39
+00:01:22,009 --> 00:01:25,630
+going to show you how to make this
+moving piece and hubs are explained in
+与我已经拥有的荡妇保持一致
+
+40
+00:01:25,630 --> 00:01:25,640
+moving piece and hubs are explained in
+切好的荡妇大约两毫米宽
+
+41
+00:01:25,640 --> 00:01:30,770
+moving piece and hubs are explained in
+tutorial 27 hubs and pivots
+然后我们可以关闭它关闭
+
+42
+
+
+页面，使其自然粘住
+
+43
+00:01:30,780 --> 00:01:32,630
+the base sheets that you see it that way
+定位所有在
+
+44
+00:01:32,630 --> 00:01:32,640
+the base sheets that you see it that way
+教程一，现在我们
+
+45
+00:01:32,640 --> 00:01:35,000
+the base sheets that you see it that way
+it has a the pull strip is going to
+在前面需要一块
+
+46
+00:01:35,000 --> 00:01:35,010
+it has a the pull strip is going to
+将要移动的东西直立
+
+47
+00:01:35,010 --> 00:01:36,410
+it has a the pull strip is going to
+go underneath and then the moving piece
+所以也许我会把它放在
+
+48
+00:01:36,410 --> 00:01:36,420
+go underneath and then the moving piece
+运动这将是运动
+
+49
+00:01:36,420 --> 00:01:38,539
+go underneath and then the moving piece
+is going to come above it first we have
+这将是拉力带
+
+50
+00:01:38,539 --> 00:01:38,549
+is going to come above it first we have
+移动它，我将其粘贴到位
+
+51
+00:01:38,549 --> 00:01:41,539
+is going to come above it first we have
+to stick on a v-fold this is a regular V
+首先，在
+
+52
+00:01:41,539 --> 00:01:41,549
+to stick on a v-fold this is a regular V
+运动图像贴在一端
+
+53
+00:01:41,549 --> 00:01:43,840
+to stick on a v-fold this is a regular V
+fold this is tutorial number two a
+拉条拉条总是使
+
+54
+00:01:43,840 --> 00:01:43,850
+fold this is tutorial number two a
+他们的厚度翻倍了
+
+55
+00:01:43,850 --> 00:01:46,520
+fold this is tutorial number two a
+symmetrical regular right angle V fold
+中间给它额外的力量和
+
+56
+00:01:46,520 --> 00:01:46,530
+symmetrical regular right angle V fold
+然后把胶水一路拉
+
+57
+00:01:46,530 --> 00:01:48,680
+symmetrical regular right angle V fold
+there's going to fold down backwards as
+那衬衫胶合上就好了
+
+58
+00:01:48,680 --> 00:01:48,690
+there's going to fold down backwards as
+当你粘这些东西放他们
+
+59
+00:01:48,690 --> 00:01:51,620
+there's going to fold down backwards as
+the page closes I'll just glue that to
+弄平然后弄平
+
+60
+00:01:51,620 --> 00:01:51,630
+the page closes I'll just glue that to
+他们仍然可能会稍微弯曲
+
+61
+00:01:51,630 --> 00:02:05,250
+the page closes I'll just glue that to
+the page
+那就是现在我们可以将其倾斜
+
+62
+
+
+通过那里的插槽
+
+63
+00:02:05,260 --> 00:02:07,680
+I've made it with the is going to
+页现在这实际上在这一点上
+
+64
+00:02:07,680 --> 00:02:07,690
+I've made it with the is going to
+看起来好像很擅长
+
+65
+00:02:07,690 --> 00:02:09,090
+I've made it with the is going to
+be in front of the v-fold
+只是保持自己的直立
+
+66
+00:02:09,090 --> 00:02:09,100
+be in front of the v-fold
+但是只是为了确保我们会再放一个
+
+67
+00:02:09,100 --> 00:02:12,180
+be in front of the v-fold
+you might want to do the behind the
+一块在前面，所以我放了一个小标签
+
+68
+00:02:12,180 --> 00:02:12,190
+you might want to do the behind the
+一方面，然后另一端是
+
+69
+00:02:12,190 --> 00:02:14,850
+you might want to do the behind the
+v-fold in which case you'd probably need
+会紧密地融入其中
+
+70
+00:02:14,850 --> 00:02:14,860
+v-fold in which case you'd probably need
+需要这么长，所以我要削减
+
+71
+00:02:14,860 --> 00:02:17,010
+v-fold in which case you'd probably need
+these two tabs to go forwards instead of
+关闭它，您可能想保留它为
+
+72
+00:02:17,010 --> 00:02:17,020
+these two tabs to go forwards instead of
+长
+
+73
+00:02:17,020 --> 00:02:19,670
+these two tabs to go forwards instead of
+backwards but I decided to make them go
+另一侧的另一个滑动图像
+
+74
+00:02:19,670 --> 00:02:19,680
+backwards but I decided to make them go
+在上面放一些胶水
+
+75
+00:02:19,680 --> 00:02:23,820
+backwards but I decided to make them go
+backwards out of you so there it is it's
+这些标签上的胶水要小心
+
+76
+00:02:23,820 --> 00:02:23,830
+backwards out of you so there it is it's
+如果时间太长，可能会妨碍您
+
+77
+00:02:23,830 --> 00:02:25,920
+backwards out of you so there it is it's
+aligned with that that I've already
+然后开始限制样式
+
+78
+00:02:25,920 --> 00:02:25,930
+aligned with that that I've already
+动片，但我认为那是
+
+79
+00:02:25,930 --> 00:02:31,010
+aligned with that that I've already
+cut is about two millimeters wide
+好吧，现在如果我们拉这个，你可以看到
+
+80
+00:02:31,010 --> 00:02:31,020
+cut is about two millimeters wide
+它很好地上下移动
+
+81
+00:02:31,020 --> 00:02:34,380
+cut is about two millimeters wide
+then we can shut this down close the
+您仍然需要另外一块
+
+82
+00:02:34,380 --> 00:02:34,390
+then we can shut this down close the
+因此，使条带与
+
+83
+00:02:34,390 --> 00:02:36,480
+then we can shut this down close the
+page so it finds its natural sticking
+页面，所以我有一个很大的部分
+
+84
+00:02:36,480 --> 00:02:36,490
+page so it finds its natural sticking
+这有点太大，所以
+
+85
+00:02:36,490 --> 00:02:38,460
+page so it finds its natural sticking
+position all that's explained in
+那样坚持下去，所以你只是
+
+86
+00:02:38,460 --> 00:02:38,470
+position all that's explained in
+每个边缘需要一小滴胶水
+
+87
+00:02:38,470 --> 00:02:44,250
+position all that's explained in
+tutorial one there's that now we're
+要小心，但它不会丢失
+
+88
+00:02:44,250 --> 00:02:44,260
+tutorial one there's that now we're
+在条带下并粘上所有东西
+
+89
+00:02:44,260 --> 00:02:47,100
+tutorial one there's that now we're
+going to need a piece in front which is
+所以只增加一点点
+
+90
+00:02:47,100 --> 00:02:47,110
+going to need a piece in front which is
+像涂在它的每一面
+
+91
+00:02:47,110 --> 00:02:49,530
+going to need a piece in front which is
+going to hold the moving piece upright
+很好，让我们看看是的，您可能想要
+
+92
+00:02:49,530 --> 00:02:49,540
+going to hold the moving piece upright
+尽你所能
+
+93
+00:02:49,540 --> 00:02:52,140
+going to hold the moving piece upright
+so maybe I'll put that on after the
+要么切断它，要么你可以
+
+94
+00:02:52,140 --> 00:02:52,150
+so maybe I'll put that on after the
+剪掉它就这样剪掉
+
+95
+00:02:52,150 --> 00:02:53,460
+so maybe I'll put that on after the
+movement this is going to be the moving
+所以你可能想弯曲一点
+
+96
+00:02:53,460 --> 00:02:53,470
+movement this is going to be the moving
+在那里，您可以将其切断与
+
+97
+00:02:53,470 --> 00:02:56,310
+movement this is going to be the moving
+piece this is going to be the pull strip
+页面，并且仍然能够获取
+
+98
+00:02:56,310 --> 00:02:56,320
+piece this is going to be the pull strip
+握住它
+
+99
+00:02:56,320 --> 00:02:59,370
+piece this is going to be the pull strip
+that moves it I'll glue this into place
+有滑动的垂直图像
+
+100
+00:02:59,370 --> 00:02:59,380
+that moves it I'll glue this into place
+当然你可以把Suzy的
+
+101
+00:02:59,380 --> 00:03:01,590
+that moves it I'll glue this into place
+first so a little bit of glue on the
+一个在另一个后面，你可以
+
+102
+00:03:01,590 --> 00:03:01,600
+first so a little bit of glue on the
+可能如果您足够聪明，可以
+
+103
+00:03:01,600 --> 00:03:08,700
+first so a little bit of glue on the
+moving image stick that on one end of
+把它们全部拉下来
+
+104
+00:03:08,700 --> 00:03:08,710
+moving image stick that on one end of
+但我需要你解决这个问题
+
+105
+00:03:08,710 --> 00:03:15,270
+moving image stick that on one end of
+the pull strip pull strips always make
+你自己
+
+106
+00:03:15,270 --> 00:03:15,280
+the pull strip pull strips always make
+[音乐]
+
+107
+00:03:15,280 --> 00:03:17,100
+the pull strip pull strips always make
+them double thickness it's scored down
