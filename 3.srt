@@ -31,7 +31,7 @@ angle v-folds this is explained in part
 7
 00:01:09,800 --> 00:01:14,430
 this is also explained in part 1 the
-第三种尖角V形折
+第三种山形V折
 
 8
 00:01:14,430 --> 00:01:19,110
@@ -67,7 +67,7 @@ part 3 okay we're going to start by
 15
 00:01:43,350 --> 00:01:47,759
 making a pointed v-fold so start with
-首先制作个尖角V形折
+首先制作个山形V折
 
 16
 00:01:47,759 --> 00:01:51,179
@@ -227,7 +227,7 @@ tight you want it what actual shape of
 47
 00:03:35,150 --> 00:03:36,770
 pop-up you want do you want a really
-是想要特别紧的V形折
+是想要挺点的V形折
 
 48
 00:03:36,770 --> 00:03:39,980
@@ -261,167 +261,208 @@ with the flaps you can either cut them down
 
 54
 00:03:51,590 --> 00:03:55,010
-into narrow narrow flaps of v underneath
+into narrow flaps of v underneath
+你可以把它们剪小点藏在V折底下
 
 55
 00:03:55,010 --> 00:03:57,230
 it or you can leave them out wide and
+也可以保留着露外面
 
 56
 00:03:57,230 --> 00:04:00,110
 you can use these these folds for making
+利用折角制作些反折景层
 
 57
 00:04:00,110 --> 00:04:02,900
 that counter folds in so I'm going to do
+我下面演示下
 
 58
 00:04:02,900 --> 00:04:06,380
 that turn it into counter folds so we
+制作反折
 
 59
 00:04:06,380 --> 00:04:08,630
 start just cut into the cat into the
+折边叠起来
 
 60
 00:04:08,630 --> 00:04:11,959
 folded edge so say we just do a couple
+沿这边剪出两个折
 
 61
 00:04:11,959 --> 00:04:18,350
 like this here fold it over just crease
+折出折痕
 
 62
 00:04:18,350 --> 00:04:22,100
 it well this one I've made the two cuts
+我剪得两个折长度不一样
 
 63
 00:04:22,100 --> 00:04:23,510
 at different lengths so that will give
+这就产生出
 
 64
 00:04:23,510 --> 00:04:25,160
 us a slightly different shape in the
+两个略有不同的形状
 
 65
 00:04:25,160 --> 00:04:29,960
 pop-up open it up and push those through
+打开并把它们推进去
 
 66
 00:04:29,960 --> 00:04:34,379
 so that's one this is the other
+一个 再来一个
 
 67
 00:04:34,379 --> 00:04:40,599
 so that's the that's the shape we're
+这就成了。
 
 68
 00:04:40,599 --> 00:04:43,030
 going to get on it on the top crease you
+你当然可以给侧
 
 69
 00:04:43,030 --> 00:04:44,830
 can now do the same on the bottom crease
+折痕做同样事情 两侧都行
 
 70
 00:04:44,830 --> 00:04:48,400
 the bottom two creases so if we want it
+如果想让两侧对称
 
 71
 00:04:48,400 --> 00:04:52,449
 all symmetric we do it all with the two
+可以同时操作两边侧襟
 
 72
 00:04:52,449 --> 00:04:56,530
 folds to two outer flaps fold it up make
+把两边折起来
 
 73
 00:04:56,530 --> 00:05:00,069
 some cuts into those just do a couple
+剪出两个反折
 
 74
 00:05:00,069 --> 00:05:04,270
-here there's a lot of room for
+here there's a lot of room for creativity in this
+这里有很大的创作空间
 
 75
 00:05:04,270 --> 00:05:06,759
 creativity in this and understanding
+一些没固化要求的操作
 
 76
 00:05:06,759 --> 00:05:08,889
-something really a really simple option
+understanding something really a really simple option but you know
+你如果练习下就会很容易懂
 
 77
 00:05:08,889 --> 00:05:11,830
 but you know if you make your own you
+在制作时
 
 78
 00:05:11,830 --> 00:05:13,330
 can really play around with these you
+你可以随意尝试
 
 79
 00:05:13,330 --> 00:05:17,349
 can make them longer narrower multiple
+像反折的长短、宽窄、数量这些
 
 80
 00:05:17,349 --> 00:05:20,560
 there's all sorts of options so we'll
+都行的 继续看这个
 
 81
 00:05:20,560 --> 00:05:26,639
 open this one up push these through one
+打开并把反折推起来 一个
 
 82
 00:05:26,639 --> 00:05:36,789
 two three four push these ones down so
+两个 三个 四个  顶上是推进去
 
 83
 00:05:36,789 --> 00:05:38,919
 this is a shape you're gonna have now
+这就是效果啦
 
 84
 00:05:38,919 --> 00:05:40,449
 again you can decide that you want these
+然后你要决定
 
 85
 00:05:40,449 --> 00:05:42,639
 other flaps left as part of the design
+剩下的侧襟怎么处理 是当做设计的一部分
 
 86
 00:05:42,639 --> 00:05:44,800
 or you might decide to trim them down so
+还是修剪掉
 
 87
 00:05:44,800 --> 00:05:48,039
 I'm going to trim them down so again
+这里我是剪掉了
 
 88
 00:05:48,039 --> 00:05:49,630
 I'll just follow this sort of very
+呼应下这个尖尖的形状
 
 89
 00:05:49,630 --> 00:05:52,840
 pointy pointy shape so I'm just going to
+从侧面开始
 
 90
 00:05:52,840 --> 00:05:59,020
 cut it like this to the to the point so
+剪到定点为止
 
 91
 00:05:59,020 --> 00:06:00,460
 this is what your pop-up is going to be
+这就是立体结构要呈现的样子
 
 92
 00:06:00,460 --> 00:06:02,380
 like now again you can decide you want
+现在你可以决定
 
 93
 00:06:02,380 --> 00:06:04,210
 it really tight or do you want quite a
+是要更紧点还是宽点
 
 94
 00:06:04,210 --> 00:06:06,940
 quite a wide shape so I'm gonna go for
+这里我保持这个样子了
 
 95
 00:06:06,940 --> 00:06:08,819
@@ -430,50 +471,62 @@ something like this
 96
 00:06:08,819 --> 00:06:12,279
 start by gluing one side with all these
+开始上胶水
 
 97
 00:06:12,279 --> 00:06:15,219
 all pop ups you need you need symmetry
+这时立体结构要对称
 
 98
 00:06:15,219 --> 00:06:20,860
 so we're just glue one side smear the
+我们从一侧开始上胶水
 
 99
 00:06:20,860 --> 00:06:24,129
 glue right up to the crease I tend to
+我喜欢用小拇指
 
 100
 00:06:24,129 --> 00:06:26,680
 use my little finger so then all my
+这样我其他指头可以不受影响
 
 101
 00:06:26,680 --> 00:06:30,370
 other fingers stay free from glue and I
 
+
 102
 00:06:30,370 --> 00:06:32,500
 can I can use them to touch other things
+去碰别的东西
 
 103
 00:06:32,500 --> 00:06:35,800
 without cars sticking to them so there
+也不怕误粘住
 
 104
 00:06:35,800 --> 00:06:36,069
-we go
+so there we go
+好了
 
 105
 00:06:36,069 --> 00:06:40,690
 stick one side down maybe move it in a
+一侧向下 微调下
 
 106
 00:06:40,690 --> 00:06:43,990
-little bit more make sure the central
+little bit more make sure the central crease
+确保中间折痕
 
 107
 00:06:43,990 --> 00:06:45,520
 crease is lined up with the Central
+跟基础页中折线是在一排
 
 108
 00:06:45,520 --> 00:06:46,910
@@ -482,506 +535,523 @@ Valley of the base
 109
 00:06:46,910 --> 00:06:49,100
 fold the whole thing into its closed
+所有折页放回到收起位置
 
 110
 00:06:49,100 --> 00:06:50,680
-position
 
 111
 00:06:50,680 --> 00:06:59,590
-put glue under put glue on the other tab
+给另一粘口上胶水
 
 112
 00:06:59,590 --> 00:07:08,230
-smear the glue to the to the creases
+涂匀
 
 113
 00:07:08,230 --> 00:07:10,430
-fold it into its closed position and
+合上基础页
 
 114
 00:07:10,430 --> 00:07:15,980
-close the base so here it is now you
+就酱
 
 115
 00:07:15,980 --> 00:07:17,960
-might you might leave these counter
+也许反折就这样放着了
 
 116
 00:07:17,960 --> 00:07:19,730
-folds just as they are they're just part
+设计就是这样
 
 117
 00:07:19,730 --> 00:07:22,760
-of the design alternatively you can use
+另一种用法 这些反折可以当肌肉用
 
 118
 00:07:22,760 --> 00:07:24,710
-them as muscle to lift other pieces of
+支撑其他的元素
 
 119
 00:07:24,710 --> 00:07:27,350
-cards so we'll just try playing around
+我来演示下
 
 120
 00:07:27,350 --> 00:07:29,630
-with that for a bit so take a piece of
+拿出点卡纸剪成片
 
 121
 00:07:29,630 --> 00:07:32,960
-card just cut some pieces to play with
+来做实验
 
 122
 00:07:32,960 --> 00:07:35,660
-and these can these can actually be any
+你也可以剪成
 
 123
 00:07:35,660 --> 00:07:38,710
-size any shape it's completely up to you
+任何想要的形状或大小
 
 124
 00:07:38,710 --> 00:07:42,200
-I'm just doing something fairly random
+像我这 剪得就很放飞了
 
 125
 00:07:42,200 --> 00:07:47,990
-here so we put the put the glue on the
+把胶水涂到相对小的面上
 
 126
 00:07:47,990 --> 00:07:49,850
-smallest surface you don't put it on the
+不要涂到大的面
 
 127
 00:07:49,850 --> 00:07:51,770
-big surface which is sticking on you you
+会导致粘到你并不想被粘的地方
 
 128
 00:07:51,770 --> 00:07:55,310
-put the glue onto the small small
+这会是把胶水涂给相对小的反折
 
 129
 00:07:55,310 --> 00:07:57,950
-surface of the counter fold and you can
+粘上刚剪出的那片
 
 130
 00:07:57,950 --> 00:08:00,620
-just stick the stick the extra piece
+确认下粘牢了
 
 131
 00:08:00,620 --> 00:08:05,420
-onto that might as well do the same on
+对称位置不妨也弄个
 
 132
 00:08:05,420 --> 00:08:08,630
-the other side the card is slightly you
+刚粘这片纸尺寸
 
 133
 00:08:08,630 --> 00:08:11,600
-can see it's slightly thin for this this
+有点头重脚轻
 
 134
 00:08:11,600 --> 00:08:13,550
-length of piece so I might just trim
+等会再来修剪下
 
 135
 00:08:13,550 --> 00:08:16,070
-that down in a minute they put one on
+把这个粘上
 
 136
 00:08:16,070 --> 00:08:24,440
-there and you can actually use the other
+也可以给反折的
 
 137
 00:08:24,440 --> 00:08:27,410
-the other faces of the counter fold as
+另一个面粘些元素
 
 138
 00:08:27,410 --> 00:08:30,020
-well so let's just put the couple coming
+这就来做一对吧
 
 139
 00:08:30,020 --> 00:08:33,229
-up just so you can see all the all the
+尝试下所有的
 
 140
 00:08:33,229 --> 00:08:38,360
-possible options so put glue on those
+可能性
 
 141
 00:08:38,360 --> 00:08:44,540
-two so you have a piece of lifting up
+给两侧上胶水 给这边竖一个
 
 142
 00:08:44,540 --> 00:08:50,470
-like that and another one on here
+另一边也这样竖一个
 
 143
 00:08:50,470 --> 00:08:54,350
-lifting up like that and you can also
+也可以在顶上
 
 144
 00:08:54,350 --> 00:08:56,900
-play with these these some planes that
+这四个面(两个反折)
 
 145
 00:08:56,900 --> 00:08:57,910
-we've created
+做文章
 
 146
 00:08:57,910 --> 00:08:59,980
-in the top four so I'll just make one
+我来演示下
 
 147
 00:08:59,980 --> 00:09:02,320
-more really narrow piece that will fit
+剪出个略窄能放得下的纸条
 
 148
 00:09:02,320 --> 00:09:13,060
-into that fold it in half though again
+对折下
 
 149
 00:09:13,060 --> 00:09:14,500
-it doesn't actually need to be in half
+这里不一定是对折
 
 150
 00:09:14,500 --> 00:09:16,300
-you can have a phone anywhere on it if
+如果设计是非对称的
 
 151
 00:09:16,300 --> 00:09:18,730
-you wanted a more asymmetric design just
+在纸条合适位置
 
 152
 00:09:18,730 --> 00:09:22,870
-make a fold somewhere somewhere along
+折叠即可
 
 153
 00:09:22,870 --> 00:09:28,390
-this strip put the glue in and you can
+上胶水
 
 154
 00:09:28,390 --> 00:09:30,490
-just tuck that in there and stick it in
+让纸条能在这卡住
 
 155
 00:09:30,490 --> 00:09:32,980
-and after you've added these pieces shut
+添加好后 合上基本页
 
 156
 00:09:32,980 --> 00:09:36,850
-the base and press it firmly so that all
+牢牢按一会
 
 157
 00:09:36,850 --> 00:09:38,710
-that for the gluing is so and so there
+这就成型了
 
 158
 00:09:38,710 --> 00:09:39,190
-we are
 
 159
 00:09:39,190 --> 00:09:41,020
-this is just an abstract shape so you
+这是个抽象形状
 
 160
 00:09:41,020 --> 00:09:42,700
-can actually look at it anywhere there's
+可以从各方向观看
 
 161
 00:09:42,700 --> 00:09:45,400
-no right way there's no wrong way so you
+没那种是 对的错的
 
 162
 00:09:45,400 --> 00:09:47,200
-might choose to look at it like that you
+你可以正着
 
 163
 00:09:47,200 --> 00:09:49,600
-might choose to look at it like that
+背着
 
 164
 00:09:49,600 --> 00:09:54,010
-equally maybe this or even this it it's
+甚至俯视 俯视翻转
 
 165
 00:09:54,010 --> 00:09:56,530
-just abstract yeah abstract shape so you
+没错 看抽象的作品
 
 166
 00:09:56,530 --> 00:09:58,420
-can do what you like with it equally
+你开心就好
 
 167
 00:09:58,420 --> 00:10:01,210
-these two planes can be extended so so
+这个凹槽两面也能扩展
 
 168
 00:10:01,210 --> 00:10:03,850
-you take a couple of just a couple more
+剪两片小点的卡纸片
 
 169
 00:10:03,850 --> 00:10:13,810
-small pieces and I'll put the glue on
+给凹槽里上胶水
 
 170
 00:10:13,810 --> 00:10:20,790
-the into the video
 
 171
 00:10:20,790 --> 00:10:22,950
-so you can have a piece coming out like
+得到个露出来的纸条
 
 172
 00:10:22,950 --> 00:10:27,390
-that and maybe another one similar on
+另一个也一样
 
 173
 00:10:27,390 --> 00:10:33,990
-the other side a bit uneven though then
+貌似有点不太均衡
 
 174
 00:10:33,990 --> 00:10:38,910
-I trim that down so there's a point of
+我把另一个修齐
 
 175
 00:10:38,910 --> 00:10:40,290
-v-fold and now I'll just show you a
+这就是山形V折啦
 
 176
 00:10:40,290 --> 00:10:45,600
-couple of examples this this spread is
+下面看个例子
 
 177
 00:10:45,600 --> 00:10:48,810
-all made with this is a pointed v fault
+这里是个山形V折
 
 178
 00:10:48,810 --> 00:10:51,000
-with the end cut off and you've got
+尾部被剪掉了
 
 179
 00:10:51,000 --> 00:10:53,010
-counter folds on each side which are
+两头都被做成反折
 
 180
 00:10:53,010 --> 00:10:55,560
-used to raise the arms and legs this is
+用来撑起手脚
 
 181
 00:10:55,560 --> 00:10:57,660
-another point of view fold it's got the
+画面上另一个元素
 
 182
 00:10:57,660 --> 00:11:00,510
-very tip cut off that's making the head
+是个小的V折制作的头
 
 183
 00:11:00,510 --> 00:11:03,620
-so this is a couple of pointed v-folds
+这是一对山形V折
 
 184
 00:11:03,620 --> 00:11:11,940
-there it goes in books this is some ten
+来看些书的例子
 
 185
 00:11:11,940 --> 00:11:17,550
-little monsters and in this one here's
+《十只小怪兽》
 
 186
 00:11:17,550 --> 00:11:20,520
-the point of V folds in this case yeah
+这页是个山形V折
 
 187
 00:11:20,520 --> 00:11:22,320
-here here are the flaps that have been
+这里是侧襟
 
 188
 00:11:22,320 --> 00:11:23,940
-used to stick it down they're part of
+侧襟被融入到设计里
 
 189
 00:11:23,940 --> 00:11:26,730
-the design and in fact rather than doing
+这里把元素
 
 190
 00:11:26,730 --> 00:11:28,860
-counter falls pieces have been stuck on
+粘在了两个侧面
 
 191
 00:11:28,860 --> 00:11:31,410
-to each side that jut forward and the
+而不是反折上
 
 192
 00:11:31,410 --> 00:11:33,660
-head is just saying and you can look at
+头也是同理
+
 
 193
 00:11:33,660 --> 00:11:35,670
-it end on and see how it works
+从底部前方观察
 
 194
 00:11:35,670 --> 00:11:37,770
-and you get it straight on this is using
+能很直观的看明白
 
 195
 00:11:37,770 --> 00:11:43,170
-the book as background this is jungle
+来看《丛林岁月》
 
 196
 00:11:43,170 --> 00:11:47,460
-days by Helen bomber and the trunk of
+这里树干运用了山形V折
 
 197
 00:11:47,460 --> 00:11:50,010
-the tree is appointed V fold and it has
+一边还叠加了
 
 198
 00:11:50,010 --> 00:11:52,860
-as other v-folds added to the sides to
+另一个V形折
 
 199
 00:11:52,860 --> 00:11:55,320
-raise the figures it's got slots cut
+撑起人物
 
 200
 00:11:55,320 --> 00:11:57,600
-into it to make these limbs stick out
+还用了插槽实现树枝伸出效果
 
 201
 00:11:57,600 --> 00:12:00,510
-and anyway the point of this is the
+总之 这里关注的关键点
 
 202
 00:12:00,510 --> 00:12:03,620
-trunk of the tree is appointed V fold
+树干是山形V折
 
 203
 00:12:03,620 --> 00:12:07,860
-and lastly from Puss in Boots this is by
+最后看下《穿靴子的猫》
 
 204
 00:12:07,860 --> 00:12:11,880
-Wojtek cabassa czechoslovakian working
+六十年代的作品
 
 205
 00:12:11,880 --> 00:12:15,810
-in the 60s this this is two point of
+画面中有两个山形V折
 
 206
 00:12:15,810 --> 00:12:17,310
-view files this is an obviously
+这边是个较明显的山形V折
 
 207
 00:12:17,310 --> 00:12:18,480
-appointed v fault
 
 208
 00:12:18,480 --> 00:12:20,430
-this is a point of view fold with a
+这边是个
 
 209
 00:12:20,430 --> 00:12:23,130
-large amount cut away v files have
+被大幅裁掉的山形V折
 
 210
 00:12:23,130 --> 00:12:25,290
-converging creases that all lease at the
+所有折痕都汇聚向
 
 211
 00:12:25,290 --> 00:12:27,000
-same points on the spine so if you
+主轴上同一点
 
 212
 00:12:27,000 --> 00:12:29,490
-follow this crease here and this one and
+顺着这个折痕
 
 213
 00:12:29,490 --> 00:12:31,620
-this one you'll find they all meet at
+这个
 
 214
 00:12:31,620 --> 00:12:32,040
-the same
+和这个折痕
 
 215
 00:12:32,040 --> 00:12:34,500
-from this bond so that's the point of a
+就能验证这种关系 以上就是山形V折
 
 216
 00:12:34,500 --> 00:12:41,279
 fold now we'll move on to the obtuse
+我们继续钝角V折
 
 217
 00:12:41,279 --> 00:12:46,440
 angle default this one but this is the
+这个就是钝角V折
 
 218
 00:12:46,440 --> 00:12:49,199
 obtuse angle V fold the angles on each
+每个边上
 
 219
 00:12:49,199 --> 00:12:51,509
 side of the central crease of the pop up
+基础面和中心折线
 
 220
 00:12:51,509 --> 00:12:54,630
 are more than 90 degrees it's quite an
+呈的角度超过90度
 
 221
 00:12:54,630 --> 00:12:56,490
 unusual mechanism you don't see it very
+这种结构比较稀罕 不太常见
 
 222
 00:12:56,490 --> 00:12:58,470
 often I'll show you how to make one of
+我来演示下如何制作
 
 223
 00:12:58,470 --> 00:13:17,940
 these so take a base crease it well this
+拿出张卡纸做基础页
 
 224
 00:13:17,940 --> 00:13:20,040
 time we take out take the other half
+认真对折下
 
 225
 00:13:20,040 --> 00:13:29,329
 sheet of cards fold this in the middle
+拿出另一半卡纸做立体结构
 
 226
 00:13:29,329 --> 00:13:34,649
 crease it crease it thoroughly and then
+从中间对折  折彻底
 
 227
 00:13:34,649 --> 00:13:38,699
 this time here's the is the folded edge
+这次是沿折角
 
 228
 00:13:38,699 --> 00:13:41,130
 start about a third of the way up and
+大概三分之一位置
 
 229
 00:13:41,130 --> 00:13:45,600
 fold it downwards to the outer edges of
+向外边角折下来
 
 230
 00:13:45,600 --> 00:13:51,389
 the card so here it is fold it well when
+确定折彻底了
 
 231
 00:13:51,389 --> 00:13:55,260
 you when you open this up you see that
+展开后
 
 232
 00:13:55,260 --> 00:13:57,079
 you've got an upward pointing arrow
+能看到类似向上箭头的折痕
 
 233
 00:13:57,079 --> 00:13:59,880
 mostly with with them acute angle
+在锐角V折里
 
 234
 00:13:59,880 --> 00:14:01,350
 v-folds you'll have a downward pointing
+通常会是向下箭头
 
 235
 00:14:01,350 --> 00:14:03,029
@@ -990,6 +1060,7 @@ arrow that's the normal that's what
 236
 00:14:03,029 --> 00:14:04,529
 you're usually looking for but in this
+在这里箭头是向上
 
 237
 00:14:04,529 --> 00:14:07,050
@@ -998,74 +1069,92 @@ case the creases form an arrow pointing
 238
 00:14:07,050 --> 00:14:11,550
 up now cut out the from the point where
+从边上折痕开始地方开始
 
 239
 00:14:11,550 --> 00:14:14,870
 all the creases meet you just cut out a
+剪出比较窄的锲子形状
 
 240
 00:14:14,870 --> 00:14:18,660
 thin wedge you cut gluing tabs on to the
+然后剪出粘口
 
 241
 00:14:18,660 --> 00:14:24,449
 bottom cut off the end oh I'll make that
+在最后面
 
 242
 00:14:24,449 --> 00:14:29,759
 a bit bit tighter so this is your this
+剪紧一点收尾
 
 243
 00:14:29,759 --> 00:14:33,149
 is your obtuse angle we let this
+这就是锐角V折了
 
 244
 00:14:33,149 --> 00:14:35,970
 re-crease these these sand falls a bit
+再加强下折痕
 
 245
 00:14:35,970 --> 00:14:39,240
 and doing a bit more thoroughly if your
+如果折的不到位
 
 246
 00:14:39,240 --> 00:14:41,100
 folds up thoroughly enough crease leave
+打开时就不是那么顺畅
 
 247
 00:14:41,100 --> 00:14:43,240
 the pop-up either won't open
+所以
 
 248
 00:14:43,240 --> 00:14:46,180
 clothes very well so it's very important
+折彻底真非常重要
 
 249
 00:14:46,180 --> 00:14:49,510
 to increase it well this is going to sit
+放基本页上会是这样
 
 250
 00:14:49,510 --> 00:14:53,050
 on your page like this you can go quite
+你可以拉宽一点
 
 251
 00:14:53,050 --> 00:14:56,920
 wide you can go quite tight but if you
+也可以挺一点
 
 252
 00:14:56,920 --> 00:14:59,380
-go too wide you'll see it starts lifting
+go too wide you'll see it starts lifting off
+但如果拉过宽 会把页面绷起来
 
 253
 00:14:59,380 --> 00:15:02,350
 off the page so according to the angles
+所以角度决定
 
 254
 00:15:02,350 --> 00:15:04,420
 you've made and that will dictate how
+能展开宽度的阈值
 
 255
 00:15:04,420 --> 00:15:07,750
 wide you can go so again we stick down
+先来粘一侧
 
 256
 00:15:07,750 --> 00:15:15,670
@@ -1110,6 +1199,7 @@ of the base fold the whole thing shut to
 266
 00:15:41,529 --> 00:15:46,120
 press it well put glue on the other the
+给另一个粘口上胶水
 
 267
 00:15:46,120 --> 00:15:53,779
@@ -1118,34 +1208,42 @@ other tab
 268
 00:15:53,779 --> 00:15:56,029
 smear the glue right up to the crease
+把胶水在折痕要涂匀
 
 269
 00:15:56,029 --> 00:15:57,350
 that's pretty important
+这相当重要
 
 270
 00:15:57,350 --> 00:16:04,910
 fold it sucks there we go the two single
+盖起来压牢 钝角折就成了
 
 271
 00:16:04,910 --> 00:16:08,899
 V fold this is this is quite interesting
+这蛮有意思的
 
 272
 00:16:08,899 --> 00:16:11,990
 because the the central crease of the
+中间折线有向后倒的感觉
 
 273
 00:16:11,990 --> 00:16:15,560
 pop-up falls backwards the other one
+另一种会有向后倾倒感
 
 274
 00:16:15,560 --> 00:16:16,939
 that the central gully will lean
+的立体结构是
 
 275
 00:16:16,939 --> 00:16:19,819
 backwards is the right angle V fold
+直角V形折
 
 276
 00:16:19,819 --> 00:16:22,939
