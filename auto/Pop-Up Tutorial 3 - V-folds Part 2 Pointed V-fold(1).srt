@@ -1,0 +1,2704 @@
+1
+00:00:40,610 --> 00:00:45,680
+scissors glue burns card the details
+
+2
+00:00:45,680 --> 00:00:45,690
+scissors glue burns card the details
+
+3
+00:00:45,690 --> 00:00:48,560
+scissors glue burns card the details
+about these are all explained in v-folds
+
+4
+00:00:48,560 --> 00:00:48,570
+about these are all explained in v-folds
+
+5
+00:00:48,570 --> 00:00:56,600
+about these are all explained in v-folds
+tutorial part 1 so there are five kinds
+
+6
+00:00:56,600 --> 00:00:56,610
+tutorial part 1 so there are five kinds
+
+7
+00:00:56,610 --> 00:00:59,900
+tutorial part 1 so there are five kinds
+of default the first is the the right
+
+8
+00:00:59,900 --> 00:00:59,910
+of default the first is the the right
+
+9
+00:00:59,910 --> 00:01:02,389
+of default the first is the the right
+angle v-folds this is explained in part
+
+10
+00:01:02,389 --> 00:01:02,399
+angle v-folds this is explained in part
+
+11
+00:01:02,399 --> 00:01:09,790
+angle v-folds this is explained in part
+1 the second is the cute angle default
+
+12
+00:01:09,790 --> 00:01:09,800
+1 the second is the cute angle default
+
+13
+00:01:09,800 --> 00:01:14,420
+1 the second is the cute angle default
+this is also explained in part 1 the
+
+14
+00:01:14,420 --> 00:01:14,430
+this is also explained in part 1 the
+
+15
+00:01:14,430 --> 00:01:19,100
+this is also explained in part 1 the
+third is the pointed v-fold this we're
+
+16
+00:01:19,100 --> 00:01:19,110
+third is the pointed v-fold this we're
+
+17
+00:01:19,110 --> 00:01:22,249
+third is the pointed v-fold this we're
+going to deal with in this tutorial the
+
+18
+00:01:22,249 --> 00:01:22,259
+going to deal with in this tutorial the
+
+19
+00:01:22,259 --> 00:01:26,540
+going to deal with in this tutorial the
+fourth is the obtuse angle v-fold this
+
+20
+00:01:26,540 --> 00:01:26,550
+fourth is the obtuse angle v-fold this
+
+21
+00:01:26,550 --> 00:01:27,800
+fourth is the obtuse angle v-fold this
+also we're going to deal with in this
+
+22
+00:01:27,800 --> 00:01:27,810
+also we're going to deal with in this
+
+23
+00:01:27,810 --> 00:01:33,380
+also we're going to deal with in this
+tutorial and finally it's the asymmetric
+
+24
+00:01:33,380 --> 00:01:33,390
+tutorial and finally it's the asymmetric
+
+25
+00:01:33,390 --> 00:01:36,080
+tutorial and finally it's the asymmetric
+v-fold this will be in v-folds tutorial
+
+26
+00:01:36,080 --> 00:01:36,090
+v-fold this will be in v-folds tutorial
+
+27
+00:01:36,090 --> 00:01:43,340
+v-fold this will be in v-folds tutorial
+part 3 okay we're going to start by
+
+28
+00:01:43,340 --> 00:01:43,350
+part 3 okay we're going to start by
+
+29
+00:01:43,350 --> 00:01:47,749
+part 3 okay we're going to start by
+making a pointed v-fold so start with
+
+30
+00:01:47,749 --> 00:01:47,759
+making a pointed v-fold so start with
+
+31
+00:01:47,759 --> 00:01:51,169
+making a pointed v-fold so start with
+the base sheet fold the card in half no
+
+32
+00:01:51,169 --> 00:01:51,179
+the base sheet fold the card in half no
+
+33
+00:01:51,179 --> 00:01:53,389
+the base sheet fold the card in half no
+need to measure no need to score with
+
+34
+00:01:53,389 --> 00:01:53,399
+need to measure no need to score with
+
+35
+00:01:53,399 --> 00:01:56,930
+need to measure no need to score with
+this weight of cards at 160 g SN crease
+
+36
+00:01:56,930 --> 00:01:56,940
+this weight of cards at 160 g SN crease
+
+37
+00:01:56,940 --> 00:01:59,930
+this weight of cards at 160 g SN crease
+it really thoroughly fold it back on
+
+38
+00:01:59,930 --> 00:01:59,940
+it really thoroughly fold it back on
+
+39
+00:01:59,940 --> 00:02:05,270
+it really thoroughly fold it back on
+itself crease it again you can't crease
+
+40
+00:02:05,270 --> 00:02:05,280
+itself crease it again you can't crease
+
+41
+00:02:05,280 --> 00:02:07,609
+itself crease it again you can't crease
+it too much so fold it back up itself a
+
+42
+00:02:07,609 --> 00:02:07,619
+it too much so fold it back up itself a
+
+43
+00:02:07,619 --> 00:02:10,190
+it too much so fold it back up itself a
+couple more times and really crease it
+
+44
+00:02:10,190 --> 00:02:10,200
+couple more times and really crease it
+
+45
+00:02:10,200 --> 00:02:13,190
+couple more times and really crease it
+well this is this is the base sheet
+
+46
+00:02:13,190 --> 00:02:13,200
+well this is this is the base sheet
+
+47
+00:02:13,200 --> 00:02:14,780
+well this is this is the base sheet
+having it well creased means that the
+
+48
+00:02:14,780 --> 00:02:14,790
+having it well creased means that the
+
+49
+00:02:14,790 --> 00:02:17,780
+having it well creased means that the
+pop-up will move more sweetly so we
+
+50
+00:02:17,780 --> 00:02:17,790
+pop-up will move more sweetly so we
+
+51
+00:02:17,790 --> 00:02:23,479
+pop-up will move more sweetly so we
+might as well make a say a red one take
+
+52
+00:02:23,479 --> 00:02:23,489
+might as well make a say a red one take
+
+53
+00:02:23,489 --> 00:02:25,400
+might as well make a say a red one take
+your sheet of cards again no need to
+
+54
+00:02:25,400 --> 00:02:25,410
+your sheet of cards again no need to
+
+55
+00:02:25,410 --> 00:02:31,260
+your sheet of cards again no need to
+measure just cut it in half
+
+56
+00:02:31,260 --> 00:02:31,270
+
+
+57
+00:02:31,270 --> 00:02:35,620
+fold it in half no need to measure just
+
+58
+00:02:35,620 --> 00:02:35,630
+fold it in half no need to measure just
+
+59
+00:02:35,630 --> 00:02:38,860
+fold it in half no need to measure just
+do it by eye again as with all creases
+
+60
+00:02:38,860 --> 00:02:38,870
+do it by eye again as with all creases
+
+61
+00:02:38,870 --> 00:02:41,500
+do it by eye again as with all creases
+crease it really really thoroughly fold
+
+62
+00:02:41,500 --> 00:02:41,510
+crease it really really thoroughly fold
+
+63
+00:02:41,510 --> 00:02:44,580
+crease it really really thoroughly fold
+it back on itself
+
+64
+00:02:44,580 --> 00:02:44,590
+
+
+65
+00:02:44,590 --> 00:02:47,710
+this time you make the fold from corner
+
+66
+00:02:47,710 --> 00:02:47,720
+this time you make the fold from corner
+
+67
+00:02:47,720 --> 00:02:49,720
+this time you make the fold from corner
+to corner so you're doing a diagonal
+
+68
+00:02:49,720 --> 00:02:49,730
+to corner so you're doing a diagonal
+
+69
+00:02:49,730 --> 00:02:54,220
+to corner so you're doing a diagonal
+fold corner to corner with it with it
+
+70
+00:02:54,220 --> 00:02:54,230
+fold corner to corner with it with it
+
+71
+00:02:54,230 --> 00:02:57,880
+fold corner to corner with it with it
+folded in half so there's no wrong way
+
+72
+00:02:57,880 --> 00:02:57,890
+folded in half so there's no wrong way
+
+73
+00:02:57,890 --> 00:03:01,510
+folded in half so there's no wrong way
+to do this because it's symmetrical it
+
+74
+00:03:01,510 --> 00:03:01,520
+to do this because it's symmetrical it
+
+75
+00:03:01,520 --> 00:03:04,600
+to do this because it's symmetrical it
+can go either way fold it back on itself
+
+76
+00:03:04,600 --> 00:03:04,610
+can go either way fold it back on itself
+
+77
+00:03:04,610 --> 00:03:10,420
+can go either way fold it back on itself
+again so when you open it up you have an
+
+78
+00:03:10,420 --> 00:03:10,430
+again so when you open it up you have an
+
+79
+00:03:10,430 --> 00:03:13,030
+again so when you open it up you have an
+arrow all three all three creases are
+
+80
+00:03:13,030 --> 00:03:13,040
+arrow all three all three creases are
+
+81
+00:03:13,040 --> 00:03:15,130
+arrow all three all three creases are
+meeting at the same point and those
+
+82
+00:03:15,130 --> 00:03:15,140
+meeting at the same point and those
+
+83
+00:03:15,140 --> 00:03:17,860
+meeting at the same point and those
+extra creases the diagonal ones again
+
+84
+00:03:17,860 --> 00:03:17,870
+extra creases the diagonal ones again
+
+85
+00:03:17,870 --> 00:03:25,320
+extra creases the diagonal ones again
+you can reinforce those one more time
+
+86
+00:03:25,320 --> 00:03:25,330
+
+
+87
+00:03:25,330 --> 00:03:27,910
+now this is going to sit on your on your
+
+88
+00:03:27,910 --> 00:03:27,920
+now this is going to sit on your on your
+
+89
+00:03:27,920 --> 00:03:32,890
+now this is going to sit on your on your
+page like this so one question is how
+
+90
+00:03:32,890 --> 00:03:32,900
+page like this so one question is how
+
+91
+00:03:32,900 --> 00:03:35,140
+page like this so one question is how
+tight you want it what actual shape of
+
+92
+00:03:35,140 --> 00:03:35,150
+tight you want it what actual shape of
+
+93
+00:03:35,150 --> 00:03:36,760
+tight you want it what actual shape of
+pop-up you want do you want a really
+
+94
+00:03:36,760 --> 00:03:36,770
+pop-up you want do you want a really
+
+95
+00:03:36,770 --> 00:03:39,970
+pop-up you want do you want a really
+tight V fold or do you want a really
+
+96
+00:03:39,970 --> 00:03:39,980
+tight V fold or do you want a really
+
+97
+00:03:39,980 --> 00:03:42,370
+tight V fold or do you want a really
+flat shape you can even go all the way
+
+98
+00:03:42,370 --> 00:03:42,380
+flat shape you can even go all the way
+
+99
+00:03:42,380 --> 00:03:45,190
+flat shape you can even go all the way
+flat and it will still work so I'll go
+
+100
+00:03:45,190 --> 00:03:45,200
+flat and it will still work so I'll go
+
+101
+00:03:45,200 --> 00:03:47,590
+flat and it will still work so I'll go
+for something like this the second
+
+102
+00:03:47,590 --> 00:03:47,600
+for something like this the second
+
+103
+00:03:47,600 --> 00:03:49,660
+for something like this the second
+question is what you do with the with
+
+104
+00:03:49,660 --> 00:03:49,670
+question is what you do with the with
+
+105
+00:03:49,670 --> 00:03:51,580
+question is what you do with the with
+the flaps you can either cut them down
+
+106
+00:03:51,580 --> 00:03:51,590
+the flaps you can either cut them down
+
+107
+00:03:51,590 --> 00:03:55,000
+the flaps you can either cut them down
+into narrow narrow flaps of v underneath
+
+108
+00:03:55,000 --> 00:03:55,010
+into narrow narrow flaps of v underneath
+
+109
+00:03:55,010 --> 00:03:57,220
+into narrow narrow flaps of v underneath
+it or you can leave them out wide and
+
+110
+00:03:57,220 --> 00:03:57,230
+it or you can leave them out wide and
+
+111
+00:03:57,230 --> 00:04:00,100
+it or you can leave them out wide and
+you can use these these folds for making
+
+112
+00:04:00,100 --> 00:04:00,110
+you can use these these folds for making
+
+113
+00:04:00,110 --> 00:04:02,890
+you can use these these folds for making
+that counter folds in so I'm going to do
+
+114
+00:04:02,890 --> 00:04:02,900
+that counter folds in so I'm going to do
+
+115
+00:04:02,900 --> 00:04:06,370
+that counter folds in so I'm going to do
+that turn it into counter folds so we
+
+116
+00:04:06,370 --> 00:04:06,380
+that turn it into counter folds so we
+
+117
+00:04:06,380 --> 00:04:08,620
+that turn it into counter folds so we
+start just cut into the cat into the
+
+118
+00:04:08,620 --> 00:04:08,630
+start just cut into the cat into the
+
+119
+00:04:08,630 --> 00:04:11,949
+start just cut into the cat into the
+folded edge so say we just do a couple
+
+120
+00:04:11,949 --> 00:04:11,959
+folded edge so say we just do a couple
+
+121
+00:04:11,959 --> 00:04:18,340
+folded edge so say we just do a couple
+like this here fold it over just crease
+
+122
+00:04:18,340 --> 00:04:18,350
+like this here fold it over just crease
+
+123
+00:04:18,350 --> 00:04:22,090
+like this here fold it over just crease
+it well this one I've made the two cuts
+
+124
+00:04:22,090 --> 00:04:22,100
+it well this one I've made the two cuts
+
+125
+00:04:22,100 --> 00:04:23,500
+it well this one I've made the two cuts
+at different lengths so that will give
+
+126
+00:04:23,500 --> 00:04:23,510
+at different lengths so that will give
+
+127
+00:04:23,510 --> 00:04:25,150
+at different lengths so that will give
+us a slightly different shape in the
+
+128
+00:04:25,150 --> 00:04:25,160
+us a slightly different shape in the
+
+129
+00:04:25,160 --> 00:04:29,950
+us a slightly different shape in the
+pop-up open it up and push those through
+
+130
+00:04:29,950 --> 00:04:29,960
+pop-up open it up and push those through
+
+131
+00:04:29,960 --> 00:04:34,369
+pop-up open it up and push those through
+so that's one this is the other
+
+132
+00:04:34,369 --> 00:04:34,379
+so that's one this is the other
+
+133
+00:04:34,379 --> 00:04:40,589
+so that's one this is the other
+so that's the that's the shape we're
+
+134
+00:04:40,589 --> 00:04:40,599
+so that's the that's the shape we're
+
+135
+00:04:40,599 --> 00:04:43,020
+so that's the that's the shape we're
+going to get on it on the top crease you
+
+136
+00:04:43,020 --> 00:04:43,030
+going to get on it on the top crease you
+
+137
+00:04:43,030 --> 00:04:44,820
+going to get on it on the top crease you
+can now do the same on the bottom crease
+
+138
+00:04:44,820 --> 00:04:44,830
+can now do the same on the bottom crease
+
+139
+00:04:44,830 --> 00:04:48,390
+can now do the same on the bottom crease
+the bottom two creases so if we want it
+
+140
+00:04:48,390 --> 00:04:48,400
+the bottom two creases so if we want it
+
+141
+00:04:48,400 --> 00:04:52,439
+the bottom two creases so if we want it
+all symmetric we do it all with the two
+
+142
+00:04:52,439 --> 00:04:52,449
+all symmetric we do it all with the two
+
+143
+00:04:52,449 --> 00:04:56,520
+all symmetric we do it all with the two
+folds to two outer flaps fold it up make
+
+144
+00:04:56,520 --> 00:04:56,530
+folds to two outer flaps fold it up make
+
+145
+00:04:56,530 --> 00:05:00,059
+folds to two outer flaps fold it up make
+some cuts into those just do a couple
+
+146
+00:05:00,059 --> 00:05:00,069
+some cuts into those just do a couple
+
+147
+00:05:00,069 --> 00:05:04,260
+some cuts into those just do a couple
+here there's a lot of room for
+
+148
+00:05:04,260 --> 00:05:04,270
+here there's a lot of room for
+
+149
+00:05:04,270 --> 00:05:06,749
+here there's a lot of room for
+creativity in this and understanding
+
+150
+00:05:06,749 --> 00:05:06,759
+creativity in this and understanding
+
+151
+00:05:06,759 --> 00:05:08,879
+creativity in this and understanding
+something really a really simple option
+
+152
+00:05:08,879 --> 00:05:08,889
+something really a really simple option
+
+153
+00:05:08,889 --> 00:05:11,820
+something really a really simple option
+but you know if you make your own you
+
+154
+00:05:11,820 --> 00:05:11,830
+but you know if you make your own you
+
+155
+00:05:11,830 --> 00:05:13,320
+but you know if you make your own you
+can really play around with these you
+
+156
+00:05:13,320 --> 00:05:13,330
+can really play around with these you
+
+157
+00:05:13,330 --> 00:05:17,339
+can really play around with these you
+can make them longer narrower multiple
+
+158
+00:05:17,339 --> 00:05:17,349
+can make them longer narrower multiple
+
+159
+00:05:17,349 --> 00:05:20,550
+can make them longer narrower multiple
+there's all sorts of options so we'll
+
+160
+00:05:20,550 --> 00:05:20,560
+there's all sorts of options so we'll
+
+161
+00:05:20,560 --> 00:05:26,629
+there's all sorts of options so we'll
+open this one up push these through one
+
+162
+00:05:26,629 --> 00:05:26,639
+open this one up push these through one
+
+163
+00:05:26,639 --> 00:05:36,779
+open this one up push these through one
+two three four push these ones down so
+
+164
+00:05:36,779 --> 00:05:36,789
+two three four push these ones down so
+
+165
+00:05:36,789 --> 00:05:38,909
+two three four push these ones down so
+this is a shape you're gonna have now
+
+166
+00:05:38,909 --> 00:05:38,919
+this is a shape you're gonna have now
+
+167
+00:05:38,919 --> 00:05:40,439
+this is a shape you're gonna have now
+again you can decide that you want these
+
+168
+00:05:40,439 --> 00:05:40,449
+again you can decide that you want these
+
+169
+00:05:40,449 --> 00:05:42,629
+again you can decide that you want these
+other flaps left as part of the design
+
+170
+00:05:42,629 --> 00:05:42,639
+other flaps left as part of the design
+
+171
+00:05:42,639 --> 00:05:44,790
+other flaps left as part of the design
+or you might decide to trim them down so
+
+172
+00:05:44,790 --> 00:05:44,800
+or you might decide to trim them down so
+
+173
+00:05:44,800 --> 00:05:48,029
+or you might decide to trim them down so
+I'm going to trim them down so again
+
+174
+00:05:48,029 --> 00:05:48,039
+I'm going to trim them down so again
+
+175
+00:05:48,039 --> 00:05:49,620
+I'm going to trim them down so again
+I'll just follow this sort of very
+
+176
+00:05:49,620 --> 00:05:49,630
+I'll just follow this sort of very
+
+177
+00:05:49,630 --> 00:05:52,830
+I'll just follow this sort of very
+pointy pointy shape so I'm just going to
+
+178
+00:05:52,830 --> 00:05:52,840
+pointy pointy shape so I'm just going to
+
+179
+00:05:52,840 --> 00:05:59,010
+pointy pointy shape so I'm just going to
+cut it like this to the to the point so
+
+180
+00:05:59,010 --> 00:05:59,020
+cut it like this to the to the point so
+
+181
+00:05:59,020 --> 00:06:00,450
+cut it like this to the to the point so
+this is what your pop-up is going to be
+
+182
+00:06:00,450 --> 00:06:00,460
+this is what your pop-up is going to be
+
+183
+00:06:00,460 --> 00:06:02,370
+this is what your pop-up is going to be
+like now again you can decide you want
+
+184
+00:06:02,370 --> 00:06:02,380
+like now again you can decide you want
+
+185
+00:06:02,380 --> 00:06:04,200
+like now again you can decide you want
+it really tight or do you want quite a
+
+186
+00:06:04,200 --> 00:06:04,210
+it really tight or do you want quite a
+
+187
+00:06:04,210 --> 00:06:06,930
+it really tight or do you want quite a
+quite a wide shape so I'm gonna go for
+
+188
+00:06:06,930 --> 00:06:06,940
+quite a wide shape so I'm gonna go for
+
+189
+00:06:06,940 --> 00:06:08,809
+quite a wide shape so I'm gonna go for
+something like this
+
+190
+00:06:08,809 --> 00:06:08,819
+something like this
+
+191
+00:06:08,819 --> 00:06:12,269
+something like this
+start by gluing one side with all these
+
+192
+00:06:12,269 --> 00:06:12,279
+start by gluing one side with all these
+
+193
+00:06:12,279 --> 00:06:15,209
+start by gluing one side with all these
+all pop ups you need you need symmetry
+
+194
+00:06:15,209 --> 00:06:15,219
+all pop ups you need you need symmetry
+
+195
+00:06:15,219 --> 00:06:20,850
+all pop ups you need you need symmetry
+so we're just glue one side smear the
+
+196
+00:06:20,850 --> 00:06:20,860
+so we're just glue one side smear the
+
+197
+00:06:20,860 --> 00:06:24,119
+so we're just glue one side smear the
+glue right up to the crease I tend to
+
+198
+00:06:24,119 --> 00:06:24,129
+glue right up to the crease I tend to
+
+199
+00:06:24,129 --> 00:06:26,670
+glue right up to the crease I tend to
+use my little finger so then all my
+
+200
+00:06:26,670 --> 00:06:26,680
+use my little finger so then all my
+
+201
+00:06:26,680 --> 00:06:30,360
+use my little finger so then all my
+other fingers stay free from glue and I
+
+202
+00:06:30,360 --> 00:06:30,370
+other fingers stay free from glue and I
+
+203
+00:06:30,370 --> 00:06:32,490
+other fingers stay free from glue and I
+can I can use them to touch other things
+
+204
+00:06:32,490 --> 00:06:32,500
+can I can use them to touch other things
+
+205
+00:06:32,500 --> 00:06:35,790
+can I can use them to touch other things
+without cars sticking to them so there
+
+206
+00:06:35,790 --> 00:06:35,800
+without cars sticking to them so there
+
+207
+00:06:35,800 --> 00:06:36,059
+without cars sticking to them so there
+we go
+
+208
+00:06:36,059 --> 00:06:36,069
+we go
+
+209
+00:06:36,069 --> 00:06:40,680
+we go
+stick one side down maybe move it in a
+
+210
+00:06:40,680 --> 00:06:40,690
+stick one side down maybe move it in a
+
+211
+00:06:40,690 --> 00:06:43,980
+stick one side down maybe move it in a
+little bit more make sure the central
+
+212
+00:06:43,980 --> 00:06:43,990
+little bit more make sure the central
+
+213
+00:06:43,990 --> 00:06:45,510
+little bit more make sure the central
+crease is lined up with the Central
+
+214
+00:06:45,510 --> 00:06:45,520
+crease is lined up with the Central
+
+215
+00:06:45,520 --> 00:06:46,900
+crease is lined up with the Central
+Valley of the base
+
+216
+00:06:46,900 --> 00:06:46,910
+Valley of the base
+
+217
+00:06:46,910 --> 00:06:49,090
+Valley of the base
+fold the whole thing into its closed
+
+218
+00:06:49,090 --> 00:06:49,100
+fold the whole thing into its closed
+
+219
+00:06:49,100 --> 00:06:50,670
+fold the whole thing into its closed
+position
+
+220
+00:06:50,670 --> 00:06:50,680
+position
+
+221
+00:06:50,680 --> 00:06:59,580
+position
+put glue under put glue on the other tab
+
+222
+00:06:59,580 --> 00:06:59,590
+
+
+223
+00:06:59,590 --> 00:07:08,220
+smear the glue to the to the creases
+
+224
+00:07:08,220 --> 00:07:08,230
+
+
+225
+00:07:08,230 --> 00:07:10,420
+fold it into its closed position and
+
+226
+00:07:10,420 --> 00:07:10,430
+fold it into its closed position and
+
+227
+00:07:10,430 --> 00:07:15,970
+fold it into its closed position and
+close the base so here it is now you
+
+228
+00:07:15,970 --> 00:07:15,980
+close the base so here it is now you
+
+229
+00:07:15,980 --> 00:07:17,950
+close the base so here it is now you
+might you might leave these counter
+
+230
+00:07:17,950 --> 00:07:17,960
+might you might leave these counter
+
+231
+00:07:17,960 --> 00:07:19,720
+might you might leave these counter
+folds just as they are they're just part
+
+232
+00:07:19,720 --> 00:07:19,730
+folds just as they are they're just part
+
+233
+00:07:19,730 --> 00:07:22,750
+folds just as they are they're just part
+of the design alternatively you can use
+
+234
+00:07:22,750 --> 00:07:22,760
+of the design alternatively you can use
+
+235
+00:07:22,760 --> 00:07:24,700
+of the design alternatively you can use
+them as muscle to lift other pieces of
+
+236
+00:07:24,700 --> 00:07:24,710
+them as muscle to lift other pieces of
+
+237
+00:07:24,710 --> 00:07:27,340
+them as muscle to lift other pieces of
+cards so we'll just try playing around
+
+238
+00:07:27,340 --> 00:07:27,350
+cards so we'll just try playing around
+
+239
+00:07:27,350 --> 00:07:29,620
+cards so we'll just try playing around
+with that for a bit so take a piece of
+
+240
+00:07:29,620 --> 00:07:29,630
+with that for a bit so take a piece of
+
+241
+00:07:29,630 --> 00:07:32,950
+with that for a bit so take a piece of
+card just cut some pieces to play with
+
+242
+00:07:32,950 --> 00:07:32,960
+card just cut some pieces to play with
+
+243
+00:07:32,960 --> 00:07:35,650
+card just cut some pieces to play with
+and these can these can actually be any
+
+244
+00:07:35,650 --> 00:07:35,660
+and these can these can actually be any
+
+245
+00:07:35,660 --> 00:07:38,700
+and these can these can actually be any
+size any shape it's completely up to you
+
+246
+00:07:38,700 --> 00:07:38,710
+size any shape it's completely up to you
+
+247
+00:07:38,710 --> 00:07:42,190
+size any shape it's completely up to you
+I'm just doing something fairly random
+
+248
+00:07:42,190 --> 00:07:42,200
+I'm just doing something fairly random
+
+249
+00:07:42,200 --> 00:07:47,980
+I'm just doing something fairly random
+here so we put the put the glue on the
+
+250
+00:07:47,980 --> 00:07:47,990
+here so we put the put the glue on the
+
+251
+00:07:47,990 --> 00:07:49,840
+here so we put the put the glue on the
+smallest surface you don't put it on the
+
+252
+00:07:49,840 --> 00:07:49,850
+smallest surface you don't put it on the
+
+253
+00:07:49,850 --> 00:07:51,760
+smallest surface you don't put it on the
+big surface which is sticking on you you
+
+254
+00:07:51,760 --> 00:07:51,770
+big surface which is sticking on you you
+
+255
+00:07:51,770 --> 00:07:55,300
+big surface which is sticking on you you
+put the glue onto the small small
+
+256
+00:07:55,300 --> 00:07:55,310
+put the glue onto the small small
+
+257
+00:07:55,310 --> 00:07:57,940
+put the glue onto the small small
+surface of the counter fold and you can
+
+258
+00:07:57,940 --> 00:07:57,950
+surface of the counter fold and you can
+
+259
+00:07:57,950 --> 00:08:00,610
+surface of the counter fold and you can
+just stick the stick the extra piece
+
+260
+00:08:00,610 --> 00:08:00,620
+just stick the stick the extra piece
+
+261
+00:08:00,620 --> 00:08:05,410
+just stick the stick the extra piece
+onto that might as well do the same on
+
+262
+00:08:05,410 --> 00:08:05,420
+onto that might as well do the same on
+
+263
+00:08:05,420 --> 00:08:08,620
+onto that might as well do the same on
+the other side the card is slightly you
+
+264
+00:08:08,620 --> 00:08:08,630
+the other side the card is slightly you
+
+265
+00:08:08,630 --> 00:08:11,590
+the other side the card is slightly you
+can see it's slightly thin for this this
+
+266
+00:08:11,590 --> 00:08:11,600
+can see it's slightly thin for this this
+
+267
+00:08:11,600 --> 00:08:13,540
+can see it's slightly thin for this this
+length of piece so I might just trim
+
+268
+00:08:13,540 --> 00:08:13,550
+length of piece so I might just trim
+
+269
+00:08:13,550 --> 00:08:16,060
+length of piece so I might just trim
+that down in a minute they put one on
+
+270
+00:08:16,060 --> 00:08:16,070
+that down in a minute they put one on
+
+271
+00:08:16,070 --> 00:08:24,430
+that down in a minute they put one on
+there and you can actually use the other
+
+272
+00:08:24,430 --> 00:08:24,440
+there and you can actually use the other
+
+273
+00:08:24,440 --> 00:08:27,400
+there and you can actually use the other
+the other faces of the counter fold as
+
+274
+00:08:27,400 --> 00:08:27,410
+the other faces of the counter fold as
+
+275
+00:08:27,410 --> 00:08:30,010
+the other faces of the counter fold as
+well so let's just put the couple coming
+
+276
+00:08:30,010 --> 00:08:30,020
+well so let's just put the couple coming
+
+277
+00:08:30,020 --> 00:08:33,219
+well so let's just put the couple coming
+up just so you can see all the all the
+
+278
+00:08:33,219 --> 00:08:33,229
+up just so you can see all the all the
+
+279
+00:08:33,229 --> 00:08:38,350
+up just so you can see all the all the
+possible options so put glue on those
+
+280
+00:08:38,350 --> 00:08:38,360
+possible options so put glue on those
+
+281
+00:08:38,360 --> 00:08:44,530
+possible options so put glue on those
+two so you have a piece of lifting up
+
+282
+00:08:44,530 --> 00:08:44,540
+two so you have a piece of lifting up
+
+283
+00:08:44,540 --> 00:08:50,460
+two so you have a piece of lifting up
+like that and another one on here
+
+284
+00:08:50,460 --> 00:08:50,470
+
+
+285
+00:08:50,470 --> 00:08:54,340
+lifting up like that and you can also
+
+286
+00:08:54,340 --> 00:08:54,350
+lifting up like that and you can also
+
+287
+00:08:54,350 --> 00:08:56,890
+lifting up like that and you can also
+play with these these some planes that
+
+288
+00:08:56,890 --> 00:08:56,900
+play with these these some planes that
+
+289
+00:08:56,900 --> 00:08:57,900
+play with these these some planes that
+we've created
+
+290
+00:08:57,900 --> 00:08:57,910
+we've created
+
+291
+00:08:57,910 --> 00:08:59,970
+we've created
+in the top four so I'll just make one
+
+292
+00:08:59,970 --> 00:08:59,980
+in the top four so I'll just make one
+
+293
+00:08:59,980 --> 00:09:02,310
+in the top four so I'll just make one
+more really narrow piece that will fit
+
+294
+00:09:02,310 --> 00:09:02,320
+more really narrow piece that will fit
+
+295
+00:09:02,320 --> 00:09:13,050
+more really narrow piece that will fit
+into that fold it in half though again
+
+296
+00:09:13,050 --> 00:09:13,060
+into that fold it in half though again
+
+297
+00:09:13,060 --> 00:09:14,490
+into that fold it in half though again
+it doesn't actually need to be in half
+
+298
+00:09:14,490 --> 00:09:14,500
+it doesn't actually need to be in half
+
+299
+00:09:14,500 --> 00:09:16,290
+it doesn't actually need to be in half
+you can have a phone anywhere on it if
+
+300
+00:09:16,290 --> 00:09:16,300
+you can have a phone anywhere on it if
+
+301
+00:09:16,300 --> 00:09:18,720
+you can have a phone anywhere on it if
+you wanted a more asymmetric design just
+
+302
+00:09:18,720 --> 00:09:18,730
+you wanted a more asymmetric design just
+
+303
+00:09:18,730 --> 00:09:22,860
+you wanted a more asymmetric design just
+make a fold somewhere somewhere along
+
+304
+00:09:22,860 --> 00:09:22,870
+make a fold somewhere somewhere along
+
+305
+00:09:22,870 --> 00:09:28,380
+make a fold somewhere somewhere along
+this strip put the glue in and you can
+
+306
+00:09:28,380 --> 00:09:28,390
+this strip put the glue in and you can
+
+307
+00:09:28,390 --> 00:09:30,480
+this strip put the glue in and you can
+just tuck that in there and stick it in
+
+308
+00:09:30,480 --> 00:09:30,490
+just tuck that in there and stick it in
+
+309
+00:09:30,490 --> 00:09:32,970
+just tuck that in there and stick it in
+and after you've added these pieces shut
+
+310
+00:09:32,970 --> 00:09:32,980
+and after you've added these pieces shut
+
+311
+00:09:32,980 --> 00:09:36,840
+and after you've added these pieces shut
+the base and press it firmly so that all
+
+312
+00:09:36,840 --> 00:09:36,850
+the base and press it firmly so that all
+
+313
+00:09:36,850 --> 00:09:38,700
+the base and press it firmly so that all
+that for the gluing is so and so there
+
+314
+00:09:38,700 --> 00:09:38,710
+that for the gluing is so and so there
+
+315
+00:09:38,710 --> 00:09:39,180
+that for the gluing is so and so there
+we are
+
+316
+00:09:39,180 --> 00:09:39,190
+we are
+
+317
+00:09:39,190 --> 00:09:41,010
+we are
+this is just an abstract shape so you
+
+318
+00:09:41,010 --> 00:09:41,020
+this is just an abstract shape so you
+
+319
+00:09:41,020 --> 00:09:42,690
+this is just an abstract shape so you
+can actually look at it anywhere there's
+
+320
+00:09:42,690 --> 00:09:42,700
+can actually look at it anywhere there's
+
+321
+00:09:42,700 --> 00:09:45,390
+can actually look at it anywhere there's
+no right way there's no wrong way so you
+
+322
+00:09:45,390 --> 00:09:45,400
+no right way there's no wrong way so you
+
+323
+00:09:45,400 --> 00:09:47,190
+no right way there's no wrong way so you
+might choose to look at it like that you
+
+324
+00:09:47,190 --> 00:09:47,200
+might choose to look at it like that you
+
+325
+00:09:47,200 --> 00:09:49,590
+might choose to look at it like that you
+might choose to look at it like that
+
+326
+00:09:49,590 --> 00:09:49,600
+might choose to look at it like that
+
+327
+00:09:49,600 --> 00:09:54,000
+might choose to look at it like that
+equally maybe this or even this it it's
+
+328
+00:09:54,000 --> 00:09:54,010
+equally maybe this or even this it it's
+
+329
+00:09:54,010 --> 00:09:56,520
+equally maybe this or even this it it's
+just abstract yeah abstract shape so you
+
+330
+00:09:56,520 --> 00:09:56,530
+just abstract yeah abstract shape so you
+
+331
+00:09:56,530 --> 00:09:58,410
+just abstract yeah abstract shape so you
+can do what you like with it equally
+
+332
+00:09:58,410 --> 00:09:58,420
+can do what you like with it equally
+
+333
+00:09:58,420 --> 00:10:01,200
+can do what you like with it equally
+these two planes can be extended so so
+
+334
+00:10:01,200 --> 00:10:01,210
+these two planes can be extended so so
+
+335
+00:10:01,210 --> 00:10:03,840
+these two planes can be extended so so
+you take a couple of just a couple more
+
+336
+00:10:03,840 --> 00:10:03,850
+you take a couple of just a couple more
+
+337
+00:10:03,850 --> 00:10:13,800
+you take a couple of just a couple more
+small pieces and I'll put the glue on
+
+338
+00:10:13,800 --> 00:10:13,810
+small pieces and I'll put the glue on
+
+339
+00:10:13,810 --> 00:10:20,780
+small pieces and I'll put the glue on
+the into the video
+
+340
+00:10:20,780 --> 00:10:20,790
+
+
+341
+00:10:20,790 --> 00:10:22,940
+so you can have a piece coming out like
+
+342
+00:10:22,940 --> 00:10:22,950
+so you can have a piece coming out like
+
+343
+00:10:22,950 --> 00:10:27,380
+so you can have a piece coming out like
+that and maybe another one similar on
+
+344
+00:10:27,380 --> 00:10:27,390
+that and maybe another one similar on
+
+345
+00:10:27,390 --> 00:10:33,980
+that and maybe another one similar on
+the other side a bit uneven though then
+
+346
+00:10:33,980 --> 00:10:33,990
+the other side a bit uneven though then
+
+347
+00:10:33,990 --> 00:10:38,900
+the other side a bit uneven though then
+I trim that down so there's a point of
+
+348
+00:10:38,900 --> 00:10:38,910
+I trim that down so there's a point of
+
+349
+00:10:38,910 --> 00:10:40,280
+I trim that down so there's a point of
+v-fold and now I'll just show you a
+
+350
+00:10:40,280 --> 00:10:40,290
+v-fold and now I'll just show you a
+
+351
+00:10:40,290 --> 00:10:45,590
+v-fold and now I'll just show you a
+couple of examples this this spread is
+
+352
+00:10:45,590 --> 00:10:45,600
+couple of examples this this spread is
+
+353
+00:10:45,600 --> 00:10:48,800
+couple of examples this this spread is
+all made with this is a pointed v fault
+
+354
+00:10:48,800 --> 00:10:48,810
+all made with this is a pointed v fault
+
+355
+00:10:48,810 --> 00:10:50,990
+all made with this is a pointed v fault
+with the end cut off and you've got
+
+356
+00:10:50,990 --> 00:10:51,000
+with the end cut off and you've got
+
+357
+00:10:51,000 --> 00:10:53,000
+with the end cut off and you've got
+counter folds on each side which are
+
+358
+00:10:53,000 --> 00:10:53,010
+counter folds on each side which are
+
+359
+00:10:53,010 --> 00:10:55,550
+counter folds on each side which are
+used to raise the arms and legs this is
+
+360
+00:10:55,550 --> 00:10:55,560
+used to raise the arms and legs this is
+
+361
+00:10:55,560 --> 00:10:57,650
+used to raise the arms and legs this is
+another point of view fold it's got the
+
+362
+00:10:57,650 --> 00:10:57,660
+another point of view fold it's got the
+
+363
+00:10:57,660 --> 00:11:00,500
+another point of view fold it's got the
+very tip cut off that's making the head
+
+364
+00:11:00,500 --> 00:11:00,510
+very tip cut off that's making the head
+
+365
+00:11:00,510 --> 00:11:03,610
+very tip cut off that's making the head
+so this is a couple of pointed v-folds
+
+366
+00:11:03,610 --> 00:11:03,620
+so this is a couple of pointed v-folds
+
+367
+00:11:03,620 --> 00:11:11,930
+so this is a couple of pointed v-folds
+there it goes in books this is some ten
+
+368
+00:11:11,930 --> 00:11:11,940
+there it goes in books this is some ten
+
+369
+00:11:11,940 --> 00:11:17,540
+there it goes in books this is some ten
+little monsters and in this one here's
+
+370
+00:11:17,540 --> 00:11:17,550
+little monsters and in this one here's
+
+371
+00:11:17,550 --> 00:11:20,510
+little monsters and in this one here's
+the point of V folds in this case yeah
+
+372
+00:11:20,510 --> 00:11:20,520
+the point of V folds in this case yeah
+
+373
+00:11:20,520 --> 00:11:22,310
+the point of V folds in this case yeah
+here here are the flaps that have been
+
+374
+00:11:22,310 --> 00:11:22,320
+here here are the flaps that have been
+
+375
+00:11:22,320 --> 00:11:23,930
+here here are the flaps that have been
+used to stick it down they're part of
+
+376
+00:11:23,930 --> 00:11:23,940
+used to stick it down they're part of
+
+377
+00:11:23,940 --> 00:11:26,720
+used to stick it down they're part of
+the design and in fact rather than doing
+
+378
+00:11:26,720 --> 00:11:26,730
+the design and in fact rather than doing
+
+379
+00:11:26,730 --> 00:11:28,850
+the design and in fact rather than doing
+counter falls pieces have been stuck on
+
+380
+00:11:28,850 --> 00:11:28,860
+counter falls pieces have been stuck on
+
+381
+00:11:28,860 --> 00:11:31,400
+counter falls pieces have been stuck on
+to each side that jut forward and the
+
+382
+00:11:31,400 --> 00:11:31,410
+to each side that jut forward and the
+
+383
+00:11:31,410 --> 00:11:33,650
+to each side that jut forward and the
+head is just saying and you can look at
+
+384
+00:11:33,650 --> 00:11:33,660
+head is just saying and you can look at
+
+385
+00:11:33,660 --> 00:11:35,660
+head is just saying and you can look at
+it end on and see how it works
+
+386
+00:11:35,660 --> 00:11:35,670
+it end on and see how it works
+
+387
+00:11:35,670 --> 00:11:37,760
+it end on and see how it works
+and you get it straight on this is using
+
+388
+00:11:37,760 --> 00:11:37,770
+and you get it straight on this is using
+
+389
+00:11:37,770 --> 00:11:43,160
+and you get it straight on this is using
+the book as background this is jungle
+
+390
+00:11:43,160 --> 00:11:43,170
+the book as background this is jungle
+
+391
+00:11:43,170 --> 00:11:47,450
+the book as background this is jungle
+days by Helen bomber and the trunk of
+
+392
+00:11:47,450 --> 00:11:47,460
+days by Helen bomber and the trunk of
+
+393
+00:11:47,460 --> 00:11:50,000
+days by Helen bomber and the trunk of
+the tree is appointed V fold and it has
+
+394
+00:11:50,000 --> 00:11:50,010
+the tree is appointed V fold and it has
+
+395
+00:11:50,010 --> 00:11:52,850
+the tree is appointed V fold and it has
+as other v-folds added to the sides to
+
+396
+00:11:52,850 --> 00:11:52,860
+as other v-folds added to the sides to
+
+397
+00:11:52,860 --> 00:11:55,310
+as other v-folds added to the sides to
+raise the figures it's got slots cut
+
+398
+00:11:55,310 --> 00:11:55,320
+raise the figures it's got slots cut
+
+399
+00:11:55,320 --> 00:11:57,590
+raise the figures it's got slots cut
+into it to make these limbs stick out
+
+400
+00:11:57,590 --> 00:11:57,600
+into it to make these limbs stick out
+
+401
+00:11:57,600 --> 00:12:00,500
+into it to make these limbs stick out
+and anyway the point of this is the
+
+402
+00:12:00,500 --> 00:12:00,510
+and anyway the point of this is the
+
+403
+00:12:00,510 --> 00:12:03,610
+and anyway the point of this is the
+trunk of the tree is appointed V fold
+
+404
+00:12:03,610 --> 00:12:03,620
+trunk of the tree is appointed V fold
+
+405
+00:12:03,620 --> 00:12:07,850
+trunk of the tree is appointed V fold
+and lastly from Puss in Boots this is by
+
+406
+00:12:07,850 --> 00:12:07,860
+and lastly from Puss in Boots this is by
+
+407
+00:12:07,860 --> 00:12:11,870
+and lastly from Puss in Boots this is by
+Wojtek cabassa czechoslovakian working
+
+408
+00:12:11,870 --> 00:12:11,880
+Wojtek cabassa czechoslovakian working
+
+409
+00:12:11,880 --> 00:12:15,800
+Wojtek cabassa czechoslovakian working
+in the 60s this this is two point of
+
+410
+00:12:15,800 --> 00:12:15,810
+in the 60s this this is two point of
+
+411
+00:12:15,810 --> 00:12:17,300
+in the 60s this this is two point of
+view files this is an obviously
+
+412
+00:12:17,300 --> 00:12:17,310
+view files this is an obviously
+
+413
+00:12:17,310 --> 00:12:18,470
+view files this is an obviously
+appointed v fault
+
+414
+00:12:18,470 --> 00:12:18,480
+appointed v fault
+
+415
+00:12:18,480 --> 00:12:20,420
+appointed v fault
+this is a point of view fold with a
+
+416
+00:12:20,420 --> 00:12:20,430
+this is a point of view fold with a
+
+417
+00:12:20,430 --> 00:12:23,120
+this is a point of view fold with a
+large amount cut away v files have
+
+418
+00:12:23,120 --> 00:12:23,130
+large amount cut away v files have
+
+419
+00:12:23,130 --> 00:12:25,280
+large amount cut away v files have
+converging creases that all lease at the
+
+420
+00:12:25,280 --> 00:12:25,290
+converging creases that all lease at the
+
+421
+00:12:25,290 --> 00:12:26,990
+converging creases that all lease at the
+same points on the spine so if you
+
+422
+00:12:26,990 --> 00:12:27,000
+same points on the spine so if you
+
+423
+00:12:27,000 --> 00:12:29,480
+same points on the spine so if you
+follow this crease here and this one and
+
+424
+00:12:29,480 --> 00:12:29,490
+follow this crease here and this one and
+
+425
+00:12:29,490 --> 00:12:31,610
+follow this crease here and this one and
+this one you'll find they all meet at
+
+426
+00:12:31,610 --> 00:12:31,620
+this one you'll find they all meet at
+
+427
+00:12:31,620 --> 00:12:32,030
+this one you'll find they all meet at
+the same
+
+428
+00:12:32,030 --> 00:12:32,040
+the same
+
+429
+00:12:32,040 --> 00:12:34,490
+the same
+from this bond so that's the point of a
+
+430
+00:12:34,490 --> 00:12:34,500
+from this bond so that's the point of a
+
+431
+00:12:34,500 --> 00:12:41,269
+from this bond so that's the point of a
+fold now we'll move on to the obtuse
+
+432
+00:12:41,269 --> 00:12:41,279
+fold now we'll move on to the obtuse
+
+433
+00:12:41,279 --> 00:12:46,430
+fold now we'll move on to the obtuse
+angle default this one but this is the
+
+434
+00:12:46,430 --> 00:12:46,440
+angle default this one but this is the
+
+435
+00:12:46,440 --> 00:12:49,189
+angle default this one but this is the
+obtuse angle V fold the angles on each
+
+436
+00:12:49,189 --> 00:12:49,199
+obtuse angle V fold the angles on each
+
+437
+00:12:49,199 --> 00:12:51,499
+obtuse angle V fold the angles on each
+side of the central crease of the pop up
+
+438
+00:12:51,499 --> 00:12:51,509
+side of the central crease of the pop up
+
+439
+00:12:51,509 --> 00:12:54,620
+side of the central crease of the pop up
+are more than 90 degrees it's quite an
+
+440
+00:12:54,620 --> 00:12:54,630
+are more than 90 degrees it's quite an
+
+441
+00:12:54,630 --> 00:12:56,480
+are more than 90 degrees it's quite an
+unusual mechanism you don't see it very
+
+442
+00:12:56,480 --> 00:12:56,490
+unusual mechanism you don't see it very
+
+443
+00:12:56,490 --> 00:12:58,460
+unusual mechanism you don't see it very
+often I'll show you how to make one of
+
+444
+00:12:58,460 --> 00:12:58,470
+often I'll show you how to make one of
+
+445
+00:12:58,470 --> 00:13:17,930
+often I'll show you how to make one of
+these so take a base crease it well this
+
+446
+00:13:17,930 --> 00:13:17,940
+these so take a base crease it well this
+
+447
+00:13:17,940 --> 00:13:20,030
+these so take a base crease it well this
+time we take out take the other half
+
+448
+00:13:20,030 --> 00:13:20,040
+time we take out take the other half
+
+449
+00:13:20,040 --> 00:13:29,319
+time we take out take the other half
+sheet of cards fold this in the middle
+
+450
+00:13:29,319 --> 00:13:29,329
+
+
+451
+00:13:29,329 --> 00:13:34,639
+crease it crease it thoroughly and then
+
+452
+00:13:34,639 --> 00:13:34,649
+crease it crease it thoroughly and then
+
+453
+00:13:34,649 --> 00:13:38,689
+crease it crease it thoroughly and then
+this time here's the is the folded edge
+
+454
+00:13:38,689 --> 00:13:38,699
+this time here's the is the folded edge
+
+455
+00:13:38,699 --> 00:13:41,120
+this time here's the is the folded edge
+start about a third of the way up and
+
+456
+00:13:41,120 --> 00:13:41,130
+start about a third of the way up and
+
+457
+00:13:41,130 --> 00:13:45,590
+start about a third of the way up and
+fold it downwards to the outer edges of
+
+458
+00:13:45,590 --> 00:13:45,600
+fold it downwards to the outer edges of
+
+459
+00:13:45,600 --> 00:13:51,379
+fold it downwards to the outer edges of
+the card so here it is fold it well when
+
+460
+00:13:51,379 --> 00:13:51,389
+the card so here it is fold it well when
+
+461
+00:13:51,389 --> 00:13:55,250
+the card so here it is fold it well when
+you when you open this up you see that
+
+462
+00:13:55,250 --> 00:13:55,260
+you when you open this up you see that
+
+463
+00:13:55,260 --> 00:13:57,069
+you when you open this up you see that
+you've got an upward pointing arrow
+
+464
+00:13:57,069 --> 00:13:57,079
+you've got an upward pointing arrow
+
+465
+00:13:57,079 --> 00:13:59,870
+you've got an upward pointing arrow
+mostly with with them acute angle
+
+466
+00:13:59,870 --> 00:13:59,880
+mostly with with them acute angle
+
+467
+00:13:59,880 --> 00:14:01,340
+mostly with with them acute angle
+v-folds you'll have a downward pointing
+
+468
+00:14:01,340 --> 00:14:01,350
+v-folds you'll have a downward pointing
+
+469
+00:14:01,350 --> 00:14:03,019
+v-folds you'll have a downward pointing
+arrow that's the normal that's what
+
+470
+00:14:03,019 --> 00:14:03,029
+arrow that's the normal that's what
+
+471
+00:14:03,029 --> 00:14:04,519
+arrow that's the normal that's what
+you're usually looking for but in this
+
+472
+00:14:04,519 --> 00:14:04,529
+you're usually looking for but in this
+
+473
+00:14:04,529 --> 00:14:07,040
+you're usually looking for but in this
+case the creases form an arrow pointing
+
+474
+00:14:07,040 --> 00:14:07,050
+case the creases form an arrow pointing
+
+475
+00:14:07,050 --> 00:14:11,540
+case the creases form an arrow pointing
+up now cut out the from the point where
+
+476
+00:14:11,540 --> 00:14:11,550
+up now cut out the from the point where
+
+477
+00:14:11,550 --> 00:14:14,860
+up now cut out the from the point where
+all the creases meet you just cut out a
+
+478
+00:14:14,860 --> 00:14:14,870
+all the creases meet you just cut out a
+
+479
+00:14:14,870 --> 00:14:18,650
+all the creases meet you just cut out a
+thin wedge you cut gluing tabs on to the
+
+480
+00:14:18,650 --> 00:14:18,660
+thin wedge you cut gluing tabs on to the
+
+481
+00:14:18,660 --> 00:14:24,439
+thin wedge you cut gluing tabs on to the
+bottom cut off the end oh I'll make that
+
+482
+00:14:24,439 --> 00:14:24,449
+bottom cut off the end oh I'll make that
+
+483
+00:14:24,449 --> 00:14:29,749
+bottom cut off the end oh I'll make that
+a bit bit tighter so this is your this
+
+484
+00:14:29,749 --> 00:14:29,759
+a bit bit tighter so this is your this
+
+485
+00:14:29,759 --> 00:14:33,139
+a bit bit tighter so this is your this
+is your obtuse angle we let this
+
+486
+00:14:33,139 --> 00:14:33,149
+is your obtuse angle we let this
+
+487
+00:14:33,149 --> 00:14:35,960
+is your obtuse angle we let this
+re-crease these these sand falls a bit
+
+488
+00:14:35,960 --> 00:14:35,970
+re-crease these these sand falls a bit
+
+489
+00:14:35,970 --> 00:14:39,230
+re-crease these these sand falls a bit
+and doing a bit more thoroughly if your
+
+490
+00:14:39,230 --> 00:14:39,240
+and doing a bit more thoroughly if your
+
+491
+00:14:39,240 --> 00:14:41,090
+and doing a bit more thoroughly if your
+folds up thoroughly enough crease leave
+
+492
+00:14:41,090 --> 00:14:41,100
+folds up thoroughly enough crease leave
+
+493
+00:14:41,100 --> 00:14:43,230
+folds up thoroughly enough crease leave
+the pop-up either won't open
+
+494
+00:14:43,230 --> 00:14:43,240
+the pop-up either won't open
+
+495
+00:14:43,240 --> 00:14:46,170
+the pop-up either won't open
+clothes very well so it's very important
+
+496
+00:14:46,170 --> 00:14:46,180
+clothes very well so it's very important
+
+497
+00:14:46,180 --> 00:14:49,500
+clothes very well so it's very important
+to increase it well this is going to sit
+
+498
+00:14:49,500 --> 00:14:49,510
+to increase it well this is going to sit
+
+499
+00:14:49,510 --> 00:14:53,040
+to increase it well this is going to sit
+on your page like this you can go quite
+
+500
+00:14:53,040 --> 00:14:53,050
+on your page like this you can go quite
+
+501
+00:14:53,050 --> 00:14:56,910
+on your page like this you can go quite
+wide you can go quite tight but if you
+
+502
+00:14:56,910 --> 00:14:56,920
+wide you can go quite tight but if you
+
+503
+00:14:56,920 --> 00:14:59,370
+wide you can go quite tight but if you
+go too wide you'll see it starts lifting
+
+504
+00:14:59,370 --> 00:14:59,380
+go too wide you'll see it starts lifting
+
+505
+00:14:59,380 --> 00:15:02,340
+go too wide you'll see it starts lifting
+off the page so according to the angles
+
+506
+00:15:02,340 --> 00:15:02,350
+off the page so according to the angles
+
+507
+00:15:02,350 --> 00:15:04,410
+off the page so according to the angles
+you've made and that will dictate how
+
+508
+00:15:04,410 --> 00:15:04,420
+you've made and that will dictate how
+
+509
+00:15:04,420 --> 00:15:07,740
+you've made and that will dictate how
+wide you can go so again we stick down
+
+510
+00:15:07,740 --> 00:15:07,750
+wide you can go so again we stick down
+
+511
+00:15:07,750 --> 00:15:15,660
+wide you can go so again we stick down
+one side this symmetries is always
+
+512
+00:15:15,660 --> 00:15:15,670
+one side this symmetries is always
+
+513
+00:15:15,670 --> 00:15:18,870
+one side this symmetries is always
+important by cutting the by making the
+
+514
+00:15:18,870 --> 00:15:18,880
+important by cutting the by making the
+
+515
+00:15:18,880 --> 00:15:20,519
+important by cutting the by making the
+fold with it folded in half we get
+
+516
+00:15:20,519 --> 00:15:20,529
+fold with it folded in half we get
+
+517
+00:15:20,529 --> 00:15:22,980
+fold with it folded in half we get
+symmetrical angles on the pop-up and now
+
+518
+00:15:22,980 --> 00:15:22,990
+symmetrical angles on the pop-up and now
+
+519
+00:15:22,990 --> 00:15:24,480
+symmetrical angles on the pop-up and now
+the way we stick it down we're going to
+
+520
+00:15:24,480 --> 00:15:24,490
+the way we stick it down we're going to
+
+521
+00:15:24,490 --> 00:15:28,579
+the way we stick it down we're going to
+get symmetrical angles on the pant so
+
+522
+00:15:28,579 --> 00:15:28,589
+get symmetrical angles on the pant so
+
+523
+00:15:28,589 --> 00:15:33,120
+get symmetrical angles on the pant so
+there it is stick down one side make
+
+524
+00:15:33,120 --> 00:15:33,130
+there it is stick down one side make
+
+525
+00:15:33,130 --> 00:15:35,190
+there it is stick down one side make
+sure the the central crease in the
+
+526
+00:15:35,190 --> 00:15:35,200
+sure the the central crease in the
+
+527
+00:15:35,200 --> 00:15:37,260
+sure the the central crease in the
+pop-up is lined up with the gully gully
+
+528
+00:15:37,260 --> 00:15:37,270
+pop-up is lined up with the gully gully
+
+529
+00:15:37,270 --> 00:15:41,519
+pop-up is lined up with the gully gully
+of the base fold the whole thing shut to
+
+530
+00:15:41,519 --> 00:15:41,529
+of the base fold the whole thing shut to
+
+531
+00:15:41,529 --> 00:15:46,110
+of the base fold the whole thing shut to
+press it well put glue on the other the
+
+532
+00:15:46,110 --> 00:15:46,120
+press it well put glue on the other the
+
+533
+00:15:46,120 --> 00:15:53,769
+press it well put glue on the other the
+other tab
+
+534
+00:15:53,769 --> 00:15:53,779
+
+
+535
+00:15:53,779 --> 00:15:56,019
+smear the glue right up to the crease
+
+536
+00:15:56,019 --> 00:15:56,029
+smear the glue right up to the crease
+
+537
+00:15:56,029 --> 00:15:57,340
+smear the glue right up to the crease
+that's pretty important
+
+538
+00:15:57,340 --> 00:15:57,350
+that's pretty important
+
+539
+00:15:57,350 --> 00:16:04,900
+that's pretty important
+fold it sucks there we go the two single
+
+540
+00:16:04,900 --> 00:16:04,910
+fold it sucks there we go the two single
+
+541
+00:16:04,910 --> 00:16:08,889
+fold it sucks there we go the two single
+V fold this is this is quite interesting
+
+542
+00:16:08,889 --> 00:16:08,899
+V fold this is this is quite interesting
+
+543
+00:16:08,899 --> 00:16:11,980
+V fold this is this is quite interesting
+because the the central crease of the
+
+544
+00:16:11,980 --> 00:16:11,990
+because the the central crease of the
+
+545
+00:16:11,990 --> 00:16:15,550
+because the the central crease of the
+pop-up falls backwards the other one
+
+546
+00:16:15,550 --> 00:16:15,560
+pop-up falls backwards the other one
+
+547
+00:16:15,560 --> 00:16:16,929
+pop-up falls backwards the other one
+that the central gully will lean
+
+548
+00:16:16,929 --> 00:16:16,939
+that the central gully will lean
+
+549
+00:16:16,939 --> 00:16:19,809
+that the central gully will lean
+backwards is the right angle V fold
+
+550
+00:16:19,809 --> 00:16:19,819
+backwards is the right angle V fold
+
+551
+00:16:19,819 --> 00:16:22,929
+backwards is the right angle V fold
+so here's a version these are the right
+
+552
+00:16:22,929 --> 00:16:22,939
+so here's a version these are the right
+
+553
+00:16:22,939 --> 00:16:25,090
+so here's a version these are the right
+angle v-folds the angles on the bottom a
+
+554
+00:16:25,090 --> 00:16:25,100
+angle v-folds the angles on the bottom a
+
+555
+00:16:25,100 --> 00:16:27,369
+angle v-folds the angles on the bottom a
+90 degrees whereas on this one they're
+
+556
+00:16:27,369 --> 00:16:27,379
+90 degrees whereas on this one they're
+
+557
+00:16:27,379 --> 00:16:31,449
+90 degrees whereas on this one they're
+more than 90 and these ones because it
+
+558
+00:16:31,449 --> 00:16:31,459
+more than 90 and these ones because it
+
+559
+00:16:31,459 --> 00:16:34,119
+more than 90 and these ones because it
+because it falls down backwards and I
+
+560
+00:16:34,119 --> 00:16:34,129
+because it falls down backwards and I
+
+561
+00:16:34,129 --> 00:16:36,040
+because it falls down backwards and I
+think the higher you want the pop up
+
+562
+00:16:36,040 --> 00:16:36,050
+think the higher you want the pop up
+
+563
+00:16:36,050 --> 00:16:37,869
+think the higher you want the pop up
+that the nearer the front it has to be
+
+564
+00:16:37,869 --> 00:16:37,879
+that the nearer the front it has to be
+
+565
+00:16:37,879 --> 00:16:40,240
+that the nearer the front it has to be
+yeah I'll just show you in a couple of
+
+566
+00:16:40,240 --> 00:16:40,250
+yeah I'll just show you in a couple of
+
+567
+00:16:40,250 --> 00:16:43,780
+yeah I'll just show you in a couple of
+examples of obtuse angle V faults this
+
+568
+00:16:43,780 --> 00:16:43,790
+examples of obtuse angle V faults this
+
+569
+00:16:43,790 --> 00:16:46,179
+examples of obtuse angle V faults this
+is one you can see it just leans back
+
+570
+00:16:46,179 --> 00:16:46,189
+is one you can see it just leans back
+
+571
+00:16:46,189 --> 00:16:48,280
+is one you can see it just leans back
+slightly so that that works nicely for
+
+572
+00:16:48,280 --> 00:16:48,290
+slightly so that that works nicely for
+
+573
+00:16:48,290 --> 00:16:51,519
+slightly so that that works nicely for
+this design I've got one book that has
+
+574
+00:16:51,519 --> 00:16:51,529
+this design I've got one book that has
+
+575
+00:16:51,529 --> 00:16:55,869
+this design I've got one book that has
+them as a to tangle V fold and a pointed
+
+576
+00:16:55,869 --> 00:16:55,879
+them as a to tangle V fold and a pointed
+
+577
+00:16:55,879 --> 00:16:58,569
+them as a to tangle V fold and a pointed
+V fold in it so here it is the the book
+
+578
+00:16:58,569 --> 00:16:58,579
+V fold in it so here it is the the book
+
+579
+00:16:58,579 --> 00:17:03,549
+V fold in it so here it is the the book
+is Bow Wow by Chuck Murphy and this this
+
+580
+00:17:03,549 --> 00:17:03,559
+is Bow Wow by Chuck Murphy and this this
+
+581
+00:17:03,559 --> 00:17:05,980
+is Bow Wow by Chuck Murphy and this this
+is it under the triangle you open it up
+
+582
+00:17:05,980 --> 00:17:05,990
+is it under the triangle you open it up
+
+583
+00:17:05,990 --> 00:17:09,429
+is it under the triangle you open it up
+there's the pyramid is a pointed V fold
+
+584
+00:17:09,429 --> 00:17:09,439
+there's the pyramid is a pointed V fold
+
+585
+00:17:09,439 --> 00:17:12,490
+there's the pyramid is a pointed V fold
+and the dog is an obtuse angle V Falls
+
+586
+00:17:12,490 --> 00:17:12,500
+and the dog is an obtuse angle V Falls
+
+587
+00:17:12,500 --> 00:17:15,429
+and the dog is an obtuse angle V Falls
+and the best way to see this is to look
+
+588
+00:17:15,429 --> 00:17:15,439
+and the best way to see this is to look
+
+589
+00:17:15,439 --> 00:17:17,679
+and the best way to see this is to look
+at the back of the design and there you
+
+590
+00:17:17,679 --> 00:17:17,689
+at the back of the design and there you
+
+591
+00:17:17,689 --> 00:17:19,990
+at the back of the design and there you
+can see the the central crease of the
+
+592
+00:17:19,990 --> 00:17:20,000
+can see the the central crease of the
+
+593
+00:17:20,000 --> 00:17:22,659
+can see the the central crease of the
+dog is leaning backwards so the dog is
+
+594
+00:17:22,659 --> 00:17:22,669
+dog is leaning backwards so the dog is
+
+595
+00:17:22,669 --> 00:17:25,299
+dog is leaning backwards so the dog is
+obtuse angle V fold the pyramid is a
+
+596
+00:17:25,299 --> 00:17:25,309
+obtuse angle V fold the pyramid is a
+
+597
+00:17:25,309 --> 00:17:30,180
+obtuse angle V fold the pyramid is a
+pointed v-fold and that fits at some
+
+598
+00:17:30,180 --> 00:17:30,190
+pointed v-fold and that fits at some
+
+599
+00:17:30,190 --> 00:17:33,610
+pointed v-fold and that fits at some
+v-folds part to all the information I'm
+
+600
+00:17:33,610 --> 00:17:33,620
+v-folds part to all the information I'm
+
+601
+00:17:33,620 --> 00:17:35,980
+v-folds part to all the information I'm
+giving you is in booths my book pop-up
+
+602
+00:17:35,980 --> 00:17:35,990
+giving you is in booths my book pop-up
+
+603
+00:17:35,990 --> 00:17:39,789
+giving you is in booths my book pop-up
+design from paper mechanics
+
