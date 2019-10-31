@@ -1,0 +1,1209 @@
+1
+00:00:33,780 --> 00:00:36,299
+this tutorial is about moving arms which
+本教程是关于移动手臂的
+
+2
+00:00:36,299 --> 00:00:36,309
+this tutorial is about moving arms which
+这是一个非常微妙的机制
+
+3
+00:00:36,309 --> 00:00:38,700
+this tutorial is about moving arms which
+is a very subtle mechanism which has
+最多的变化和使用最多
+
+4
+00:00:38,700 --> 00:00:38,710
+is a very subtle mechanism which has
+基本是基于平行四边形
+
+5
+00:00:38,710 --> 00:00:42,149
+is a very subtle mechanism which has
+numerous variations and uses the most
+我们在教程5中介绍了
+
+6
+00:00:42,149 --> 00:00:42,159
+numerous variations and uses the most
+绿色位是平行四边形
+
+7
+00:00:42,159 --> 00:00:44,009
+numerous variations and uses the most
+basic is based on the parallelogram
+黄色的位是基本的动臂
+
+8
+00:00:44,009 --> 00:00:44,019
+basic is based on the parallelogram
+粉红色的位在手臂上加了一个肘
+
+9
+00:00:44,019 --> 00:00:47,700
+basic is based on the parallelogram
+which we cover in tutorial 5 here it is
+这使得运动看起来更加如此
+
+10
+00:00:47,700 --> 00:00:47,710
+which we cover in tutorial 5 here it is
+这是基本的变化
+
+11
+00:00:47,710 --> 00:00:50,279
+which we cover in tutorial 5 here it is
+the green bit is the parallelogram the
+这个例子是基本的平行四边形
+
+12
+00:00:50,279 --> 00:00:50,289
+the green bit is the parallelogram the
+您可以看到四个动臂
+
+13
+00:00:50,289 --> 00:00:52,649
+the green bit is the parallelogram the
+yellow bit is a basic moving arm the
+四肢或略微向内移动
+
+14
+00:00:52,649 --> 00:00:52,659
+yellow bit is a basic moving arm the
+不同的方向，如果我们看
+
+15
+00:00:52,659 --> 00:00:55,229
+yellow bit is a basic moving arm the
+pink bit is adding an elbow to the arm
+兰普和科夫斯基的鬼屋
+
+16
+00:00:55,229 --> 00:00:55,239
+pink bit is adding an elbow to the arm
+这有一个很好的例子，所以
+
+17
+00:00:55,239 --> 00:00:58,739
+pink bit is adding an elbow to the arm
+which makes appear to move even more so
+这是平行四边形这是两个
+
+18
+00:00:58,739 --> 00:00:58,749
+which makes appear to move even more so
+移动手臂，使其中一个移动
+
+19
+00:00:58,749 --> 00:01:02,250
+which makes appear to move even more so
+this is the basic variation here's an
+在页面上，您会看到相同的内容
+
+20
+00:01:02,250 --> 00:01:02,260
+this is the basic variation here's an
+卡的一面一直
+
+21
+00:01:02,260 --> 00:01:06,149
+this is the basic variation here's an
+example this is the basic parallelogram
+通过另一片翻转
+
+22
+00:01:06,149 --> 00:01:06,159
+example this is the basic parallelogram
+平行四边形有两个小
+
+23
+00:01:06,159 --> 00:01:09,209
+example this is the basic parallelogram
+you can see that with four moving arms
+三角形，这取决于哪个三角形
+
+24
+00:01:09,209 --> 00:01:09,219
+you can see that with four moving arms
+你坚持下去如果你坚持下去
+
+25
+00:01:09,219 --> 00:01:12,209
+you can see that with four moving arms
+on it four limbs or moving in slightly
+一个在另一边
+
+26
+00:01:12,209 --> 00:01:12,219
+on it four limbs or moving in slightly
+平行四边形就是
+
+27
+00:01:12,219 --> 00:01:15,620
+on it four limbs or moving in slightly
+different directions if we look at the
+相对页面旋转，因此
+
+28
+00:01:15,620 --> 00:01:15,630
+different directions if we look at the
+真的最有用的其他小
+
+29
+00:01:15,630 --> 00:01:20,209
+different directions if we look at the
+the haunted house by Lampe and Kowski
+三角形就是那个
+
+30
+00:01:20,209 --> 00:01:20,219
+the haunted house by Lampe and Kowski
+那辆车翻过来
+
+31
+00:01:20,219 --> 00:01:24,149
+the haunted house by Lampe and Kowski
+this has got a really good example so
+平行四边形也在此处形成沟壑
+
+32
+00:01:24,149 --> 00:01:24,159
+this has got a really good example so
+它连接页面的位置，因此您可以粘贴
+
+33
+00:01:24,159 --> 00:01:27,149
+this has got a really good example so
+here's the parallelogram here are two
+为此而动臂
+
+34
+00:01:27,149 --> 00:01:27,159
+here's the parallelogram here are two
+这是一个例子，这是基本的
+
+35
+00:01:27,159 --> 00:01:30,959
+here's the parallelogram here are two
+moving arms so one of them moves rotates
+平行四边形这是动臂
+
+36
+00:01:30,959 --> 00:01:30,969
+moving arms so one of them moves rotates
+我们已经看了另外两个
+
+37
+00:01:30,969 --> 00:01:33,359
+moving arms so one of them moves rotates
+against the page and you see the same
+小三角形卡在这个沟中
+
+38
+00:01:33,359 --> 00:01:33,369
+against the page and you see the same
+由平行四边形加入
+
+39
+00:01:33,369 --> 00:01:35,010
+against the page and you see the same
+side of the piece of card all the way
+页面，所以这两个有两个移动
+
+40
+00:01:35,010 --> 00:01:35,020
+side of the piece of card all the way
+手臂被卡住，如您所见
+
+41
+00:01:35,020 --> 00:01:37,590
+side of the piece of card all the way
+through the other piece flips over on
+打开和关闭它有一个不同的
+
+42
+00:01:37,590 --> 00:01:37,600
+through the other piece flips over on
+动作，这是另一个例子
+
+43
+00:01:37,600 --> 00:01:40,050
+through the other piece flips over on
+the parallelogram there are two small
+这是使用这种类型的机制吗
+
+44
+00:01:40,050 --> 00:01:40,060
+the parallelogram there are two small
+所以平行折叠到
+
+45
+00:01:40,060 --> 00:01:41,669
+the parallelogram there are two small
+triangles and it depends which triangle
+页面，我们被卡住了小三角形
+
+46
+00:01:41,669 --> 00:01:41,679
+triangles and it depends which triangle
+在，所以这些都让我们感动
+
+47
+00:01:41,679 --> 00:01:43,440
+triangles and it depends which triangle
+you stick it to if you stick it to this
+手臂朝着不同的方向运动
+
+48
+00:01:43,440 --> 00:01:43,450
+you stick it to if you stick it to this
+有很多方法可以做到这一点
+
+49
+00:01:43,450 --> 00:01:45,179
+you stick it to if you stick it to this
+one which is on the small side of the
+用过，所以这是一个非常复杂的
+
+50
+00:01:45,179 --> 00:01:45,189
+one which is on the small side of the
+所以这是基本的跳跃
+
+51
+00:01:45,189 --> 00:01:47,099
+one which is on the small side of the
+parallelogram that is the one that
+我刚刚告诉你的数字
+
+52
+00:01:47,099 --> 00:01:47,109
+parallelogram that is the one that
+其中两个有两个平行四边形
+
+53
+00:01:47,109 --> 00:01:49,169
+parallelogram that is the one that
+rotates against the page so that's
+与这些跳跃彼此建立
+
+54
+00:01:49,169 --> 00:01:49,179
+rotates against the page so that's
+算出其他变化，这是
+
+55
+00:01:49,179 --> 00:01:51,719
+rotates against the page so that's
+really the most useful the other small
+类型，所以这实际上是移动
+
+56
+00:01:51,719 --> 00:01:51,729
+really the most useful the other small
+手臂从面具后面出现，所以
+
+57
+00:01:51,729 --> 00:01:53,190
+really the most useful the other small
+triangle that's the one that will make
+绿色位是一个大的平行四边形，
+
+58
+00:01:53,190 --> 00:01:53,200
+triangle that's the one that will make
+手臂实际上粘在页面上
+
+59
+00:01:53,200 --> 00:01:56,340
+triangle that's the one that will make
+the the piece of car flip over the
+角度使它运动
+
+60
+00:01:56,340 --> 00:01:56,350
+the the piece of car flip over the
+当它打开和关闭时，这是
+
+61
+00:01:56,350 --> 00:01:58,800
+the the piece of car flip over the
+parallelogram also creates a gully here
+如果你看看它的另一种变化
+
+62
+00:01:58,800 --> 00:01:58,810
+parallelogram also creates a gully here
+这样一来，您会看到那些
+
+63
+00:01:58,810 --> 00:02:01,800
+parallelogram also creates a gully here
+where it joins the page so you can stick
+绿色里面有一个平行四边形
+
+64
+00:02:01,800 --> 00:02:01,810
+where it joins the page so you can stick
+一个只是一个面具，然后有一个
+
+65
+00:02:01,810 --> 00:02:07,469
+where it joins the page so you can stick
+moving arms in for that
+平行四边形与移动
+
+66
+
+
+手臂粘在上面，而不是看到
+
+67
+00:02:07,479 --> 00:02:11,740
+here's an example here's the basic
+整个机制及其运作方式
+
+68
+00:02:11,740 --> 00:02:11,750
+here's an example here's the basic
+只是看到图像从后面出现
+
+69
+00:02:11,750 --> 00:02:14,680
+here's an example here's the basic
+parallelogram this is the moving arm
+绿色面具后面
+
+70
+00:02:14,680 --> 00:02:14,690
+parallelogram this is the moving arm
+所以我只做其中之一
+
+71
+00:02:14,690 --> 00:02:16,990
+parallelogram this is the moving arm
+we've already looked at here's two more
+你可以看到如何制作它，你需要一个
+
+72
+00:02:16,990 --> 00:02:17,000
+we've already looked at here's two more
+卡片的底页将其对折
+
+73
+00:02:17,000 --> 00:02:19,330
+we've already looked at here's two more
+small triangles stuck into this gully
+彻底弄皱，需要一块
+
+74
+00:02:19,330 --> 00:02:19,340
+small triangles stuck into this gully
+使平行四边形与
+
+75
+00:02:19,340 --> 00:02:21,670
+small triangles stuck into this gully
+created by the parallelogram joining the
+一张像这样折的卡
+
+76
+00:02:21,670 --> 00:02:21,680
+created by the parallelogram joining the
+两端各有一个折痕
+
+77
+00:02:21,680 --> 00:02:24,369
+created by the parallelogram joining the
+page and so these two have two moving
+好吧，我们在这里制作平行四边形
+
+78
+00:02:24,369 --> 00:02:24,379
+page and so these two have two moving
+如教程5中所述，所以您只需
+
+79
+00:02:24,379 --> 00:02:26,320
+page and so these two have two moving
+arms stuck on and so as you see as you
+折叠一个额外的平行折痕，这样
+
+80
+00:02:26,320 --> 00:02:26,330
+arms stuck on and so as you see as you
+现在你得到的是
+
+81
+00:02:26,330 --> 00:02:28,780
+arms stuck on and so as you see as you
+open and close it they have a different
+三个平行的折痕
+
+82
+00:02:28,780 --> 00:02:28,790
+open and close it they have a different
+一面和短面，以便找出
+
+83
+00:02:28,790 --> 00:02:33,039
+open and close it they have a different
+action and here's another example this
+你把这个贴在哪里
+
+84
+00:02:33,039 --> 00:02:33,049
+action and here's another example this
+您只需要在页面上标记一个
+
+85
+00:02:33,049 --> 00:02:36,160
+action and here's another example this
+is this is using that type of mechanism
+的褶皱所在，所以我只标记
+
+86
+00:02:36,160 --> 00:02:36,170
+is this is using that type of mechanism
+短边的能力，然后
+
+87
+00:02:36,170 --> 00:02:38,979
+is this is using that type of mechanism
+so is the parallel fold through to the
+你要把它翻转过来
+
+88
+00:02:38,979 --> 00:02:38,989
+so is the parallel fold through to the
+遮住并留长边
+
+89
+00:02:38,989 --> 00:02:41,350
+so is the parallel fold through to the
+page and we've got small triangles stuck
+这将为您提供基本的
+
+90
+00:02:41,350 --> 00:02:41,360
+page and we've got small triangles stuck
+平行四边形，但在我们这样做之前
+
+91
+00:02:41,360 --> 00:02:44,170
+page and we've got small triangles stuck
+in and so those are giving us moving
+您还有另外一组折痕
+
+92
+00:02:44,170 --> 00:02:44,180
+in and so those are giving us moving
+做两个小三角形，这是
+
+93
+00:02:44,180 --> 00:02:48,150
+in and so those are giving us moving
+arms are moving in different directions
+您的卡这​​就是您的折痕
+
+94
+
+
+顶部边缘向下，所以它是齐平的
+
+95
+00:02:48,160 --> 00:02:51,819
+there are numerous ways that this can be
+有那个折痕所以很红
+
+96
+00:02:51,819 --> 00:02:51,829
+there are numerous ways that this can be
+折痕在那里然后折回去
+
+97
+00:02:51,829 --> 00:02:54,250
+there are numerous ways that this can be
+used so here's a really complicated one
+本身，是的，只是将其推入
+
+98
+00:02:54,250 --> 00:02:54,260
+used so here's a really complicated one
+确保一切正常
+
+99
+00:02:54,260 --> 00:02:57,250
+used so here's a really complicated one
+so this is this is the basic jumping
+再折回去，所以现在
+
+100
+00:02:57,250 --> 00:02:57,260
+so this is this is the basic jumping
+确保两个小
+
+101
+00:02:57,260 --> 00:02:58,660
+so this is this is the basic jumping
+figure that I just showed you got those
+三角形在顶部被卡住了
+
+102
+00:02:58,660 --> 00:02:58,670
+figure that I just showed you got those
+在页面底部附近粘贴
+
+103
+00:02:58,670 --> 00:03:00,220
+figure that I just showed you got those
+two of them there's two parallelograms
+您为标记所做的长边
+
+104
+00:03:00,220 --> 00:03:00,230
+two of them there's two parallelograms
+较短的一面，以便页面平整时
+
+105
+00:03:00,230 --> 00:03:03,520
+two of them there's two parallelograms
+built onto each other with these jumping
+平行四边形平放，所以您可以
+
+106
+00:03:03,520 --> 00:03:03,530
+built onto each other with these jumping
+同时粘贴两个标签
+
+107
+00:03:03,530 --> 00:03:09,759
+built onto each other with these jumping
+figures other variations there's this
+有胶水
+
+108
+00:03:09,759 --> 00:03:09,769
+figures other variations there's this
+对，所以用折痕压住它
+
+109
+00:03:09,769 --> 00:03:13,090
+figures other variations there's this
+type so this is actually the the moving
+做到这一点，以便
+
+110
+00:03:13,090 --> 00:03:13,100
+type so this is actually the the moving
+整个东西都是平整的
+
+111
+00:03:13,100 --> 00:03:16,750
+type so this is actually the the moving
+arm appears from behind a mask so the
+应与脊柱折叠平行
+
+112
+00:03:16,750 --> 00:03:16,760
+arm appears from behind a mask so the
+它关闭确保前进
+
+113
+00:03:16,760 --> 00:03:19,629
+arm appears from behind a mask so the
+green bit is a big parallelogram and the
+确保现在一切正常
+
+114
+00:03:19,629 --> 00:03:19,639
+green bit is a big parallelogram and the
+您可以将它们弹出来，这就是
+
+115
+00:03:19,639 --> 00:03:21,970
+green bit is a big parallelogram and the
+arm is actually stuck to the page at an
+基本的潜在机制
+
+116
+00:03:21,970 --> 00:03:21,980
+arm is actually stuck to the page at an
+平行四边形有两个小小的
+
+117
+00:03:21,980 --> 00:03:24,339
+arm is actually stuck to the page at an
+angle that's what gives it the movement
+添加三角形，然后您将
+
+118
+00:03:24,339 --> 00:03:24,349
+angle that's what gives it the movement
+移动手臂，这样就适合
+
+119
+00:03:24,349 --> 00:03:27,309
+angle that's what gives it the movement
+as it opens and closes and here's
+短边，所以很适合
+
+120
+00:03:27,309 --> 00:03:27,319
+as it opens and closes and here's
+在那个三角形上，你可以修剪
+
+121
+00:03:27,319 --> 00:03:30,490
+as it opens and closes and here's
+another variation of it if you look at
+那里放了一点胶水
+
+122
+00:03:30,490 --> 00:03:30,500
+another variation of it if you look at
+正确地粘在那里
+
+123
+00:03:30,500 --> 00:03:32,080
+another variation of it if you look at
+it this way around you'll see those
+我到这儿来的东西太久了
+
+124
+00:03:32,080 --> 00:03:32,090
+it this way around you'll see those
+关闭将紧缩
+
+125
+00:03:32,090 --> 00:03:35,289
+it this way around you'll see those
+there's a parallelogram inside the green
+脊椎，所以我只剪一块
+
+126
+00:03:35,289 --> 00:03:35,299
+there's a parallelogram inside the green
+如果合适的话，现在很合适
+
+127
+00:03:35,299 --> 00:03:37,509
+there's a parallelogram inside the green
+one is just a mask and then there's a
+如果需要的话，可以在参数中很好地
+
+128
+00:03:37,509 --> 00:03:37,519
+one is just a mask and then there's a
+让它给你额外的肘部
+
+129
+00:03:37,519 --> 00:03:40,089
+one is just a mask and then there's a
+parallelogram inside with the moving
+可以从车上切下来
+
+130
+00:03:40,089 --> 00:03:40,099
+parallelogram inside with the moving
+粘上
+
+131
+00:03:40,099 --> 00:03:42,069
+parallelogram inside with the moving
+arms stuck to it rather than seeing the
+所以这里有基本的动臂
+
+132
+00:03:42,069 --> 00:03:42,079
+arms stuck to it rather than seeing the
+这就是它的工作原理
+
+133
+00:03:42,079 --> 00:03:43,930
+arms stuck to it rather than seeing the
+whole mechanism and how it works you
+所以现在我将向您展示整个系列
+
+134
+00:03:43,930 --> 00:03:43,940
+whole mechanism and how it works you
+书中其他例子的例子
+
+135
+00:03:43,940 --> 00:03:45,970
+whole mechanism and how it works you
+just see the image appearing from behind
+所有的变化都非常有用
+
+136
+00:03:45,970 --> 00:03:45,980
+just see the image appearing from behind
+机制，所以首先我们要知道的是
+
+137
+00:03:45,980 --> 00:03:51,830
+just see the image appearing from behind
+behind the green mask
+罗伯茨帮助非洲的动物
+
+138
+
+
+óbuda，所以在这里，我们有一个
+
+139
+00:03:51,840 --> 00:03:54,119
+so I'll just make one of those just so
+动臂这是一个小的V型折
+
+140
+00:03:54,119 --> 00:03:54,129
+so I'll just make one of those just so
+尾巴移动
+
+141
+00:03:54,129 --> 00:03:56,399
+so I'll just make one of those just so
+you can see how to make it you'll need a
+这样身体就成为一个
+
+142
+00:03:56,399 --> 00:03:56,409
+you can see how to make it you'll need a
+平行四边形运动臂
+
+143
+00:03:56,409 --> 00:03:59,599
+you can see how to make it you'll need a
+base sheet sheet of card fold it in half
+面具下面的头在
+
+144
+00:03:59,599 --> 00:03:59,609
+base sheet sheet of card fold it in half
+移动臂，使其打开和关闭
+
+145
+00:03:59,609 --> 00:04:03,929
+base sheet sheet of card fold it in half
+crease thoroughly you need a piece to
+头部移动是下一个
+
+146
+00:04:03,929 --> 00:04:03,939
+crease thoroughly you need a piece to
+平行四边形支撑整个
+
+147
+00:04:03,939 --> 00:04:06,479
+crease thoroughly you need a piece to
+make the parallelogram with so just a
+斑马的头，我们有两个小
+
+148
+00:04:06,479 --> 00:04:06,489
+make the parallelogram with so just a
+这里的三角形和下面的另一个
+
+149
+00:04:06,489 --> 00:04:09,119
+make the parallelogram with so just a
+piece of card something like this fold
+面具
+
+150
+00:04:09,119 --> 00:04:09,129
+piece of card something like this fold
+所以当你打开和关闭它时，腿是
+
+151
+00:04:09,129 --> 00:04:13,259
+piece of card something like this fold
+the tab onto each end of it crease them
+他们是第三只动臂
+
+152
+00:04:13,259 --> 00:04:13,269
+the tab onto each end of it crease them
+这就是我可以显示的平行四边形
+
+153
+00:04:13,269 --> 00:04:20,580
+the tab onto each end of it crease them
+well we're making a parallelogram here
+这样一来，您可以看到
+
+154
+00:04:20,580 --> 00:04:20,590
+well we're making a parallelogram here
+显然有平行四边形
+
+155
+00:04:20,590 --> 00:04:23,360
+well we're making a parallelogram here
+as explained in tutorial 5 so you just
+有平行四边形和图像
+
+156
+00:04:23,360 --> 00:04:23,370
+as explained in tutorial 5 so you just
+粘在移动的手臂上并摆动
+
+157
+00:04:23,370 --> 00:04:30,120
+as explained in tutorial 5 so you just
+fold an extra parallel crease into it so
+页面打开时，这是另一个
+
+158
+00:04:30,120 --> 00:04:30,130
+fold an extra parallel crease into it so
+这是鸟的身体之一
+
+159
+00:04:30,130 --> 00:04:32,189
+fold an extra parallel crease into it so
+now what you've ended up with you've got
+平行四边形，你有两个
+
+160
+00:04:32,189 --> 00:04:32,199
+now what you've ended up with you've got
+动臂让您运动
+
+161
+00:04:32,199 --> 00:04:34,770
+now what you've ended up with you've got
+three parallel creases you've got a long
+方向，这里的最后一个得到了
+
+162
+00:04:34,770 --> 00:04:34,780
+three parallel creases you've got a long
+象头这样看你
+
+163
+00:04:34,780 --> 00:04:38,430
+three parallel creases you've got a long
+side and the short side so to find out
+可以很清楚地看到
+
+164
+00:04:38,430 --> 00:04:38,440
+side and the short side so to find out
+与小三角形平行四边形
+
+165
+00:04:38,440 --> 00:04:43,140
+side and the short side so to find out
+where you stick this put the piece on
+在页面打开时为您提供操作
+
+166
+00:04:43,140 --> 00:04:43,150
+where you stick this put the piece on
+然后关闭下一个是博物馆
+
+167
+00:04:43,150 --> 00:04:49,020
+where you stick this put the piece on
+the page you just need to mark where one
+基思·摩尔的非自然历史
+
+168
+00:04:49,020 --> 00:04:49,030
+the page you just need to mark where one
+有平行四边形
+
+169
+00:04:49,030 --> 00:04:50,879
+the page you just need to mark where one
+of the creases lies so I'll just mark
+实际上这里有两个平行四边形
+
+170
+00:04:50,879 --> 00:04:50,889
+of the creases lies so I'll just mark
+这里一个小，然后有一个
+
+171
+00:04:50,889 --> 00:04:53,909
+of the creases lies so I'll just mark
+the the short side bilities and then
+另一个在这里，一个给你
+
+172
+00:04:53,909 --> 00:04:53,919
+the the short side bilities and then
+这个运动的手臂，这给了
+
+173
+00:04:53,919 --> 00:04:56,250
+the the short side bilities and then
+you're going to flip this over flip it
+你那一个，因为它关闭两个是
+
+174
+00:04:56,250 --> 00:04:56,260
+you're going to flip this over flip it
+在一起
+
+175
+00:04:56,260 --> 00:04:59,279
+you're going to flip this over flip it
+over and stick the long side to the mark
+这是我的丛林弹出书
+
+176
+00:04:59,279 --> 00:04:59,289
+over and stick the long side to the mark
+乌龟是平行四边形和
+
+177
+00:04:59,289 --> 00:05:01,379
+over and stick the long side to the mark
+this will be giving you your basic
+你有两个动臂来自
+
+178
+00:05:01,379 --> 00:05:01,389
+this will be giving you your basic
+在面具后面，然后你有
+
+179
+00:05:01,389 --> 00:05:03,510
+this will be giving you your basic
+parallelogram but before we do that
+这两个尾鳍，如您所见
+
+180
+00:05:03,510 --> 00:05:03,520
+parallelogram but before we do that
+这是一种微妙的机制
+
+181
+00:05:03,520 --> 00:05:05,520
+parallelogram but before we do that
+you've got one more set of creases to
+你在各种方向上运动
+
+182
+00:05:05,520 --> 00:05:05,530
+you've got one more set of creases to
+这是我们这里的大猩猩
+
+183
+00:05:05,530 --> 00:05:08,730
+you've got one more set of creases to
+make the two small triangles so here's
+实际上这是一个浮动的游戏
+
+184
+00:05:08,730 --> 00:05:08,740
+make the two small triangles so here's
+这就是我们在教程12中介绍的内容
+
+185
+00:05:08,740 --> 00:05:11,640
+make the two small triangles so here's
+your card here's your crease just fold
+他们充当了手臂的面具
+
+186
+00:05:11,640 --> 00:05:11,650
+your card here's your crease just fold
+大猩猩移动，然后你有
+
+187
+00:05:11,650 --> 00:05:15,300
+your card here's your crease just fold
+the top edge down so it's it's flush
+另一个鳄鱼头熊猫
+
+188
+00:05:15,300 --> 00:05:15,310
+the top edge down so it's it's flush
+头所有这些都由
+
+189
+00:05:15,310 --> 00:05:19,439
+the top edge down so it's it's flush
+with that with that crease so it's flush
+动臂，这就是罗伯特的
+
+190
+00:05:19,439 --> 00:05:19,449
+with that with that crease so it's flush
+圣诞节前一天晚上的布达
+
+191
+00:05:19,449 --> 00:05:21,839
+with that with that crease so it's flush
+with that crease there and fold it back
+他正在用动臂
+
+192
+00:05:21,839 --> 00:05:21,849
+with that crease there and fold it back
+实际上使车轮转动
+
+193
+00:05:21,849 --> 00:05:26,249
+with that crease there and fold it back
+on itself and yeah just push it in just
+在这里的例子中，您可以看到轮子是
+
+194
+00:05:26,249 --> 00:05:26,259
+on itself and yeah just push it in just
+都朝着不同的方向前进
+
+195
+00:05:26,259 --> 00:05:29,570
+on itself and yeah just push it in just
+to make sure it's all working well so
+所以这是另一个真正微妙的用途
+
+196
+00:05:29,570 --> 00:05:29,580
+to make sure it's all working well so
+给你的动臂给你
+
+197
+00:05:29,580 --> 00:05:34,700
+to make sure it's all working well so
+fold it back again so there is so now
+转动车轮好吧，这是一个小
+
+198
+00:05:34,700 --> 00:05:34,710
+fold it back again so there is so now
+红帽造纸工程公司
+
+199
+00:05:34,710 --> 00:05:36,990
+fold it back again so there is so now
+making sure that the two little
+布鲁斯·福斯特（Bruce Foster），这就是狼
+
+200
+00:05:36,990 --> 00:05:37,000
+making sure that the two little
+狼的主体是一对
+
+201
+00:05:37,000 --> 00:05:39,510
+making sure that the two little
+triangles are on the top this is stuck
+平行四边形，然后是尾部和
+
+202
+00:05:39,510 --> 00:05:39,520
+triangles are on the top this is stuck
+后腿是推动我们前进的机制
+
+203
+00:05:39,520 --> 00:05:42,029
+triangles are on the top this is stuck
+near the bottom of your page glue the
+头和前脚是另一个
+
+204
+00:05:42,029 --> 00:05:42,039
+near the bottom of your page glue the
+一个人打开和关闭，你就会得到
+
+205
+00:05:42,039 --> 00:05:44,610
+near the bottom of your page glue the
+long side to the mark you made for the
+可爱的创始机制，然后
+
+206
+00:05:44,610 --> 00:05:44,620
+long side to the mark you made for the
+最后，我从马修那里得到了妈咪
+
+207
+00:05:44,620 --> 00:05:50,159
+long side to the mark you made for the
+shorter side so when the page is flat
+Reinhart这是杰作，是
+
+208
+00:05:50,159 --> 00:05:50,169
+shorter side so when the page is flat
+真的很棒的书，所以在这种传播
+
+209
+00:05:50,169 --> 00:05:52,560
+shorter side so when the page is flat
+the parallelogram lies flat so you can
+你有很多动臂
+
+210
+00:05:52,560 --> 00:05:52,570
+the parallelogram lies flat so you can
+周围，​​但我真正喜欢的是
+
+211
+00:05:52,570 --> 00:05:57,680
+the parallelogram lies flat so you can
+glue both tabs at the same time so
+最后一个更大的你有头
+
+212
+00:05:57,680 --> 00:05:57,690
+glue both tabs at the same time so
+武装他们正在移动的脚
+
+213
+00:05:57,690 --> 00:06:05,200
+glue both tabs at the same time so
+there's the glue
+不同的方式，这是一个非常聪明的
+
+214
+
+
+动臂的组合结构
+
+215
+00:06:05,210 --> 00:06:08,779
+right so stick that down with the crease
+所以是绝对的杰作
+
+216
+00:06:08,779 --> 00:06:08,789
+right so stick that down with the crease
+你有婴儿的手臂
+
+217
+00:06:08,789 --> 00:06:14,629
+right so stick that down with the crease
+to the mark do this one down so that the
+挥舞着手臂挥舞着名字
+
+218
+00:06:14,629 --> 00:06:14,639
+to the mark do this one down so that the
+这本书详细解释了
+
+219
+00:06:14,639 --> 00:06:17,210
+to the mark do this one down so that the
+whole thing is flat all the creases
+弹出式设计和纸张力学
+
+220
+00:06:17,210 --> 00:06:17,220
+whole thing is flat all the creases
+您
+
+221
+00:06:17,220 --> 00:06:21,379
+whole thing is flat all the creases
+should be parallel with the spine fold

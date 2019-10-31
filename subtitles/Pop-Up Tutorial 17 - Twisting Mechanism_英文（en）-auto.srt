@@ -1,0 +1,1764 @@
+1
+00:00:34,260 --> 00:00:36,599
+in this tutorial we're going to look at
+
+2
+00:00:36,599 --> 00:00:36,609
+in this tutorial we're going to look at
+
+3
+00:00:36,609 --> 00:00:39,119
+in this tutorial we're going to look at
+the twisting mechanism which is a very
+
+4
+00:00:39,119 --> 00:00:39,129
+the twisting mechanism which is a very
+
+5
+00:00:39,129 --> 00:00:40,939
+the twisting mechanism which is a very
+pleasing mechanism it has a very unusual
+
+6
+00:00:40,939 --> 00:00:40,949
+pleasing mechanism it has a very unusual
+
+7
+00:00:40,949 --> 00:00:44,819
+pleasing mechanism it has a very unusual
+action as the page opens the mechanism
+
+8
+00:00:44,819 --> 00:00:44,829
+action as the page opens the mechanism
+
+9
+00:00:44,829 --> 00:00:48,479
+action as the page opens the mechanism
+twists around it's it's made of two V
+
+10
+00:00:48,479 --> 00:00:48,489
+twists around it's it's made of two V
+
+11
+00:00:48,489 --> 00:00:51,029
+twists around it's it's made of two V
+files pointing at each other when when
+
+12
+00:00:51,029 --> 00:00:51,039
+files pointing at each other when when
+
+13
+00:00:51,039 --> 00:00:53,309
+files pointing at each other when when
+the base is flat they lie flat and then
+
+14
+00:00:53,309 --> 00:00:53,319
+the base is flat they lie flat and then
+
+15
+00:00:53,319 --> 00:00:54,869
+the base is flat they lie flat and then
+you can build a number of things on top
+
+16
+00:00:54,869 --> 00:00:54,879
+you can build a number of things on top
+
+17
+00:00:54,879 --> 00:01:01,229
+you can build a number of things on top
+of it so here is an example as it opens
+
+18
+00:01:01,229 --> 00:01:01,239
+of it so here is an example as it opens
+
+19
+00:01:01,239 --> 00:01:04,500
+of it so here is an example as it opens
+the figure twists around and opens up in
+
+20
+00:01:04,500 --> 00:01:04,510
+the figure twists around and opens up in
+
+21
+00:01:04,510 --> 00:01:08,190
+the figure twists around and opens up in
+essence you've got six planes so there's
+
+22
+00:01:08,190 --> 00:01:08,200
+essence you've got six planes so there's
+
+23
+00:01:08,200 --> 00:01:11,520
+essence you've got six planes so there's
+two on each top and bottom on each of
+
+24
+00:01:11,520 --> 00:01:11,530
+two on each top and bottom on each of
+
+25
+00:01:11,530 --> 00:01:13,170
+two on each top and bottom on each of
+the V folds and then it's got two on the
+
+26
+00:01:13,170 --> 00:01:13,180
+the V folds and then it's got two on the
+
+27
+00:01:13,180 --> 00:01:14,999
+the V folds and then it's got two on the
+parallel folds on top and then the
+
+28
+00:01:14,999 --> 00:01:15,009
+parallel folds on top and then the
+
+29
+00:01:15,009 --> 00:01:16,620
+parallel folds on top and then the
+gullies that you can build into the
+
+30
+00:01:16,620 --> 00:01:16,630
+gullies that you can build into the
+
+31
+00:01:16,630 --> 00:01:19,740
+gullies that you can build into the
+gullies that that close as the base
+
+32
+00:01:19,740 --> 00:01:19,750
+gullies that that close as the base
+
+33
+00:01:19,750 --> 00:01:22,170
+gullies that that close as the base
+closes you've got one obviously in the
+
+34
+00:01:22,170 --> 00:01:22,180
+closes you've got one obviously in the
+
+35
+00:01:22,180 --> 00:01:25,260
+closes you've got one obviously in the
+top underneath the parallel fold you've
+
+36
+00:01:25,260 --> 00:01:25,270
+top underneath the parallel fold you've
+
+37
+00:01:25,270 --> 00:01:27,599
+top underneath the parallel fold you've
+got two under top and two on the bottom
+
+38
+00:01:27,599 --> 00:01:27,609
+got two under top and two on the bottom
+
+39
+00:01:27,609 --> 00:01:30,209
+got two under top and two on the bottom
+where the V folds are and then within
+
+40
+00:01:30,209 --> 00:01:30,219
+where the V folds are and then within
+
+41
+00:01:30,219 --> 00:01:32,160
+where the V folds are and then within
+the v-folds you've got another two so
+
+42
+00:01:32,160 --> 00:01:32,170
+the v-folds you've got another two so
+
+43
+00:01:32,170 --> 00:01:35,219
+the v-folds you've got another two so
+you've got four there two there six and
+
+44
+00:01:35,219 --> 00:01:35,229
+you've got four there two there six and
+
+45
+00:01:35,229 --> 00:01:36,870
+you've got four there two there six and
+then one there so seven gullies to
+
+46
+00:01:36,870 --> 00:01:36,880
+then one there so seven gullies to
+
+47
+00:01:36,880 --> 00:01:39,810
+then one there so seven gullies to
+building and this one hasn't actually
+
+48
+00:01:39,810 --> 00:01:39,820
+building and this one hasn't actually
+
+49
+00:01:39,820 --> 00:01:41,760
+building and this one hasn't actually
+built into any of the gullies it's just
+
+50
+00:01:41,760 --> 00:01:41,770
+built into any of the gullies it's just
+
+51
+00:01:41,770 --> 00:01:44,580
+built into any of the gullies it's just
+extending the plains so that these the
+
+52
+00:01:44,580 --> 00:01:44,590
+extending the plains so that these the
+
+53
+00:01:44,590 --> 00:01:46,679
+extending the plains so that these the
+head and arm that's coming off one plane
+
+54
+00:01:46,679 --> 00:01:46,689
+head and arm that's coming off one plane
+
+55
+00:01:46,689 --> 00:01:48,389
+head and arm that's coming off one plane
+this is coming off one and then these
+
+56
+00:01:48,389 --> 00:01:48,399
+this is coming off one and then these
+
+57
+00:01:48,399 --> 00:01:50,580
+this is coming off one and then these
+are coming off two others so it's using
+
+58
+00:01:50,580 --> 00:01:50,590
+are coming off two others so it's using
+
+59
+00:01:50,590 --> 00:01:56,980
+are coming off two others so it's using
+four of their planes
+
+60
+00:01:56,980 --> 00:01:56,990
+
+
+61
+00:01:56,990 --> 00:01:59,859
+you need a base sheet here's the base
+
+62
+00:01:59,859 --> 00:01:59,869
+you need a base sheet here's the base
+
+63
+00:01:59,869 --> 00:02:02,980
+you need a base sheet here's the base
+sheet folded in half crease really
+
+64
+00:02:02,980 --> 00:02:02,990
+sheet folded in half crease really
+
+65
+00:02:02,990 --> 00:02:06,820
+sheet folded in half crease really
+thoroughly and then you need another
+
+66
+00:02:06,820 --> 00:02:06,830
+thoroughly and then you need another
+
+67
+00:02:06,830 --> 00:02:10,930
+thoroughly and then you need another
+another piece about this big I've
+
+68
+00:02:10,930 --> 00:02:10,940
+another piece about this big I've
+
+69
+00:02:10,940 --> 00:02:12,730
+another piece about this big I've
+actually already creased it in the
+
+70
+00:02:12,730 --> 00:02:12,740
+actually already creased it in the
+
+71
+00:02:12,740 --> 00:02:14,740
+actually already creased it in the
+middle that way folded it really
+
+72
+00:02:14,740 --> 00:02:14,750
+middle that way folded it really
+
+73
+00:02:14,750 --> 00:02:19,090
+middle that way folded it really
+thoroughly I've added a a crease at each
+
+74
+00:02:19,090 --> 00:02:19,100
+thoroughly I've added a a crease at each
+
+75
+00:02:19,100 --> 00:02:23,440
+thoroughly I've added a a crease at each
+end for gluing tags and then you want
+
+76
+00:02:23,440 --> 00:02:23,450
+end for gluing tags and then you want
+
+77
+00:02:23,450 --> 00:02:26,080
+end for gluing tags and then you want
+another crease going down the middle of
+
+78
+00:02:26,080 --> 00:02:26,090
+another crease going down the middle of
+
+79
+00:02:26,090 --> 00:02:29,020
+another crease going down the middle of
+it so you fold it lengthwise so make
+
+80
+00:02:29,020 --> 00:02:29,030
+it so you fold it lengthwise so make
+
+81
+00:02:29,030 --> 00:02:31,030
+it so you fold it lengthwise so make
+sure this time make sure those two
+
+82
+00:02:31,030 --> 00:02:31,040
+sure this time make sure those two
+
+83
+00:02:31,040 --> 00:02:33,460
+sure this time make sure those two
+central creases line up with each other
+
+84
+00:02:33,460 --> 00:02:33,470
+central creases line up with each other
+
+85
+00:02:33,470 --> 00:02:35,949
+central creases line up with each other
+so that you know it's all going to work
+
+86
+00:02:35,949 --> 00:02:35,959
+so that you know it's all going to work
+
+87
+00:02:35,959 --> 00:02:39,850
+so that you know it's all going to work
+nicely so there's the there's that
+
+88
+00:02:39,850 --> 00:02:39,860
+nicely so there's the there's that
+
+89
+00:02:39,860 --> 00:02:42,430
+nicely so there's the there's that
+crease fold it back on it so fold it
+
+90
+00:02:42,430 --> 00:02:42,440
+crease fold it back on it so fold it
+
+91
+00:02:42,440 --> 00:02:46,900
+crease fold it back on it so fold it
+really thoroughly so you've got you've
+
+92
+00:02:46,900 --> 00:02:46,910
+really thoroughly so you've got you've
+
+93
+00:02:46,910 --> 00:02:48,610
+really thoroughly so you've got you've
+got a cross shape now you actually need
+
+94
+00:02:48,610 --> 00:02:48,620
+got a cross shape now you actually need
+
+95
+00:02:48,620 --> 00:02:50,770
+got a cross shape now you actually need
+two more creases going across like this
+
+96
+00:02:50,770 --> 00:02:50,780
+two more creases going across like this
+
+97
+00:02:50,780 --> 00:02:54,220
+two more creases going across like this
+so one way is to just fold it across and
+
+98
+00:02:54,220 --> 00:02:54,230
+so one way is to just fold it across and
+
+99
+00:02:54,230 --> 00:02:57,400
+so one way is to just fold it across and
+bring the creasing lines so you can do
+
+100
+00:02:57,400 --> 00:02:57,410
+bring the creasing lines so you can do
+
+101
+00:02:57,410 --> 00:03:00,009
+bring the creasing lines so you can do
+it like that but that's one way of doing
+
+102
+00:03:00,009 --> 00:03:00,019
+it like that but that's one way of doing
+
+103
+00:03:00,019 --> 00:03:03,280
+it like that but that's one way of doing
+it and fold that back on it so the other
+
+104
+00:03:03,280 --> 00:03:03,290
+it and fold that back on it so the other
+
+105
+00:03:03,290 --> 00:03:05,050
+it and fold that back on it so the other
+other ways if you find that really
+
+106
+00:03:05,050 --> 00:03:05,060
+other ways if you find that really
+
+107
+00:03:05,060 --> 00:03:07,690
+other ways if you find that really
+difficult you can use a cassette square
+
+108
+00:03:07,690 --> 00:03:07,700
+difficult you can use a cassette square
+
+109
+00:03:07,700 --> 00:03:09,940
+difficult you can use a cassette square
+so the causes of the set square of 45
+
+110
+00:03:09,940 --> 00:03:09,950
+so the causes of the set square of 45
+
+111
+00:03:09,950 --> 00:03:11,710
+so the causes of the set square of 45
+degrees and what you're aiming for here
+
+112
+00:03:11,710 --> 00:03:11,720
+degrees and what you're aiming for here
+
+113
+00:03:11,720 --> 00:03:13,600
+degrees and what you're aiming for here
+is 8 angles and they're all going to be
+
+114
+00:03:13,600 --> 00:03:13,610
+is 8 angles and they're all going to be
+
+115
+00:03:13,610 --> 00:03:16,800
+is 8 angles and they're all going to be
+45 degrees so you can just put that down
+
+116
+00:03:16,800 --> 00:03:16,810
+45 degrees so you can just put that down
+
+117
+00:03:16,810 --> 00:03:19,990
+45 degrees so you can just put that down
+that central crease mark it with a
+
+118
+00:03:19,990 --> 00:03:20,000
+that central crease mark it with a
+
+119
+00:03:20,000 --> 00:03:22,870
+that central crease mark it with a
+pencil or score it with your bar oh so
+
+120
+00:03:22,870 --> 00:03:22,880
+pencil or score it with your bar oh so
+
+121
+00:03:22,880 --> 00:03:25,449
+pencil or score it with your bar oh so
+there's one and then you can do the same
+
+122
+00:03:25,449 --> 00:03:25,459
+there's one and then you can do the same
+
+123
+00:03:25,459 --> 00:03:31,720
+there's one and then you can do the same
+on the other side so that's the that's
+
+124
+00:03:31,720 --> 00:03:31,730
+on the other side so that's the that's
+
+125
+00:03:31,730 --> 00:03:34,420
+on the other side so that's the that's
+the line we want we won't fold it so now
+
+126
+00:03:34,420 --> 00:03:34,430
+the line we want we won't fold it so now
+
+127
+00:03:34,430 --> 00:03:37,990
+the line we want we won't fold it so now
+you just fold it along there you can
+
+128
+00:03:37,990 --> 00:03:38,000
+you just fold it along there you can
+
+129
+00:03:38,000 --> 00:03:40,440
+you just fold it along there you can
+check it by just making sure that these
+
+130
+00:03:40,440 --> 00:03:40,450
+check it by just making sure that these
+
+131
+00:03:40,450 --> 00:03:43,870
+check it by just making sure that these
+these creases line up and they look the
+
+132
+00:03:43,870 --> 00:03:43,880
+these creases line up and they look the
+
+133
+00:03:43,880 --> 00:03:48,520
+these creases line up and they look the
+early so that is a bit tricky it is a
+
+134
+00:03:48,520 --> 00:03:48,530
+early so that is a bit tricky it is a
+
+135
+00:03:48,530 --> 00:03:52,900
+early so that is a bit tricky it is a
+bit tricky but so that is you end up
+
+136
+00:03:52,900 --> 00:03:52,910
+bit tricky but so that is you end up
+
+137
+00:03:52,910 --> 00:03:55,000
+bit tricky but so that is you end up
+with the with the creases all making a
+
+138
+00:03:55,000 --> 00:03:55,010
+with the with the creases all making a
+
+139
+00:03:55,010 --> 00:03:57,250
+with the with the creases all making a
+star shape and now you should be able to
+
+140
+00:03:57,250 --> 00:03:57,260
+star shape and now you should be able to
+
+141
+00:03:57,260 --> 00:04:00,699
+star shape and now you should be able to
+push it in like that so this is the
+
+142
+00:04:00,699 --> 00:04:00,709
+push it in like that so this is the
+
+143
+00:04:00,709 --> 00:04:04,210
+push it in like that so this is the
+shape you end up with and these these
+
+144
+00:04:04,210 --> 00:04:04,220
+shape you end up with and these these
+
+145
+00:04:04,220 --> 00:04:06,129
+shape you end up with and these these
+two central creases should be flush with
+
+146
+00:04:06,129 --> 00:04:06,139
+two central creases should be flush with
+
+147
+00:04:06,139 --> 00:04:06,939
+two central creases should be flush with
+each other
+
+148
+00:04:06,939 --> 00:04:06,949
+each other
+
+149
+00:04:06,949 --> 00:04:09,490
+each other
+ideally there is a little bit of leeway
+
+150
+00:04:09,490 --> 00:04:09,500
+ideally there is a little bit of leeway
+
+151
+00:04:09,500 --> 00:04:10,210
+ideally there is a little bit of leeway
+but
+
+152
+00:04:10,210 --> 00:04:10,220
+but
+
+153
+00:04:10,220 --> 00:04:12,040
+but
+more flash they are with each other the
+
+154
+00:04:12,040 --> 00:04:12,050
+more flash they are with each other the
+
+155
+00:04:12,050 --> 00:04:14,680
+more flash they are with each other the
+better and then sometimes you can just
+
+156
+00:04:14,680 --> 00:04:14,690
+better and then sometimes you can just
+
+157
+00:04:14,690 --> 00:04:17,110
+better and then sometimes you can just
+cut out that final point because there's
+
+158
+00:04:17,110 --> 00:04:17,120
+cut out that final point because there's
+
+159
+00:04:17,120 --> 00:04:18,670
+cut out that final point because there's
+a whole lot of cards all come together
+
+160
+00:04:18,670 --> 00:04:18,680
+a whole lot of cards all come together
+
+161
+00:04:18,680 --> 00:04:21,099
+a whole lot of cards all come together
+there and it makes it a little bit thick
+
+162
+00:04:21,099 --> 00:04:21,109
+there and it makes it a little bit thick
+
+163
+00:04:21,109 --> 00:04:24,010
+there and it makes it a little bit thick
+so just to make it work a little more
+
+164
+00:04:24,010 --> 00:04:24,020
+so just to make it work a little more
+
+165
+00:04:24,020 --> 00:04:27,160
+so just to make it work a little more
+smoothly you can just cut that it off so
+
+166
+00:04:27,160 --> 00:04:27,170
+smoothly you can just cut that it off so
+
+167
+00:04:27,170 --> 00:04:29,790
+smoothly you can just cut that it off so
+this is the shape you've ended up with
+
+168
+00:04:29,790 --> 00:04:29,800
+this is the shape you've ended up with
+
+169
+00:04:29,800 --> 00:04:33,430
+this is the shape you've ended up with
+now you only want one tab on each end
+
+170
+00:04:33,430 --> 00:04:33,440
+now you only want one tab on each end
+
+171
+00:04:33,440 --> 00:04:36,670
+now you only want one tab on each end
+and so make a tab on this end up here
+
+172
+00:04:36,670 --> 00:04:36,680
+and so make a tab on this end up here
+
+173
+00:04:36,680 --> 00:04:40,870
+and so make a tab on this end up here
+and just cut it back a bit further
+
+174
+00:04:40,870 --> 00:04:40,880
+and just cut it back a bit further
+
+175
+00:04:40,880 --> 00:04:42,700
+and just cut it back a bit further
+rather than just cutting along the the
+
+176
+00:04:42,700 --> 00:04:42,710
+rather than just cutting along the the
+
+177
+00:04:42,710 --> 00:04:45,990
+rather than just cutting along the the
+crease there cut it back a bit bit more
+
+178
+00:04:45,990 --> 00:04:46,000
+crease there cut it back a bit bit more
+
+179
+00:04:46,000 --> 00:04:47,860
+crease there cut it back a bit bit more
+otherwise you'll end up with a point
+
+180
+00:04:47,860 --> 00:04:47,870
+otherwise you'll end up with a point
+
+181
+00:04:47,870 --> 00:04:50,140
+otherwise you'll end up with a point
+here which might snag on other things so
+
+182
+00:04:50,140 --> 00:04:50,150
+here which might snag on other things so
+
+183
+00:04:50,150 --> 00:04:52,180
+here which might snag on other things so
+you just cut that off to the to the
+
+184
+00:04:52,180 --> 00:04:52,190
+you just cut that off to the to the
+
+185
+00:04:52,190 --> 00:04:55,450
+you just cut that off to the to the
+corner take it off there so you've got a
+
+186
+00:04:55,450 --> 00:04:55,460
+corner take it off there so you've got a
+
+187
+00:04:55,460 --> 00:04:57,670
+corner take it off there so you've got a
+gluing tab off one end there and then
+
+188
+00:04:57,670 --> 00:04:57,680
+gluing tab off one end there and then
+
+189
+00:04:57,680 --> 00:05:00,100
+gluing tab off one end there and then
+the crucial thing is the other gluing
+
+190
+00:05:00,100 --> 00:05:00,110
+the crucial thing is the other gluing
+
+191
+00:05:00,110 --> 00:05:02,470
+the crucial thing is the other gluing
+tab must be diagonally opposite not on
+
+192
+00:05:02,470 --> 00:05:02,480
+tab must be diagonally opposite not on
+
+193
+00:05:02,480 --> 00:05:06,070
+tab must be diagonally opposite not on
+the same side so here's the second
+
+194
+00:05:06,070 --> 00:05:06,080
+the same side so here's the second
+
+195
+00:05:06,080 --> 00:05:16,270
+the same side so here's the second
+gluing time this is the shape you want
+
+196
+00:05:16,270 --> 00:05:16,280
+gluing time this is the shape you want
+
+197
+00:05:16,280 --> 00:05:18,430
+gluing time this is the shape you want
+to end up with and now you're going to
+
+198
+00:05:18,430 --> 00:05:18,440
+to end up with and now you're going to
+
+199
+00:05:18,440 --> 00:05:21,010
+to end up with and now you're going to
+put the glue I'll need four central
+
+200
+00:05:21,010 --> 00:05:21,020
+put the glue I'll need four central
+
+201
+00:05:21,020 --> 00:05:23,640
+put the glue I'll need four central
+panels and that's all going to glue down
+
+202
+00:05:23,640 --> 00:05:23,650
+panels and that's all going to glue down
+
+203
+00:05:23,650 --> 00:05:28,090
+panels and that's all going to glue down
+flat with the central crease lined up at
+
+204
+00:05:28,090 --> 00:05:28,100
+flat with the central crease lined up at
+
+205
+00:05:28,100 --> 00:05:30,070
+flat with the central crease lined up at
+the at the central crease of the base
+
+206
+00:05:30,070 --> 00:05:30,080
+the at the central crease of the base
+
+207
+00:05:30,080 --> 00:05:32,409
+the at the central crease of the base
+and these four glued down and you can
+
+208
+00:05:32,409 --> 00:05:32,419
+and these four glued down and you can
+
+209
+00:05:32,419 --> 00:05:34,510
+and these four glued down and you can
+glue the whole thing can glue down flat
+
+210
+00:05:34,510 --> 00:05:34,520
+glue the whole thing can glue down flat
+
+211
+00:05:34,520 --> 00:05:36,880
+glue the whole thing can glue down flat
+so you can put glue on all those four at
+
+212
+00:05:36,880 --> 00:05:36,890
+so you can put glue on all those four at
+
+213
+00:05:36,890 --> 00:05:40,900
+so you can put glue on all those four at
+the same time so just to make sure we
+
+214
+00:05:40,900 --> 00:05:40,910
+the same time so just to make sure we
+
+215
+00:05:40,910 --> 00:05:43,480
+the same time so just to make sure we
+don't miss the glue up which we fold it
+
+216
+00:05:43,480 --> 00:05:43,490
+don't miss the glue up which we fold it
+
+217
+00:05:43,490 --> 00:05:45,969
+don't miss the glue up which we fold it
+into that position it makes it easier to
+
+218
+00:05:45,969 --> 00:05:45,979
+into that position it makes it easier to
+
+219
+00:05:45,979 --> 00:05:49,120
+into that position it makes it easier to
+get the glue up to the creases and not
+
+220
+00:05:49,120 --> 00:05:49,130
+get the glue up to the creases and not
+
+221
+00:05:49,130 --> 00:05:59,629
+get the glue up to the creases and not
+beyond
+
+222
+00:05:59,629 --> 00:05:59,639
+
+
+223
+00:05:59,639 --> 00:06:06,089
+right so open it up flat
+
+224
+00:06:06,089 --> 00:06:06,099
+right so open it up flat
+
+225
+00:06:06,099 --> 00:06:08,189
+right so open it up flat
+central crease with the central crease
+
+226
+00:06:08,189 --> 00:06:08,199
+central crease with the central crease
+
+227
+00:06:08,199 --> 00:06:14,399
+central crease with the central crease
+on the base and glue it down there is so
+
+228
+00:06:14,399 --> 00:06:14,409
+on the base and glue it down there is so
+
+229
+00:06:14,409 --> 00:06:17,519
+on the base and glue it down there is so
+glue those down flat and now you close
+
+230
+00:06:17,519 --> 00:06:17,529
+glue those down flat and now you close
+
+231
+00:06:17,529 --> 00:06:19,920
+glue those down flat and now you close
+it and these these two pieces they
+
+232
+00:06:19,920 --> 00:06:19,930
+it and these these two pieces they
+
+233
+00:06:19,930 --> 00:06:28,110
+it and these these two pieces they
+should lift up and come together so
+
+234
+00:06:28,110 --> 00:06:28,120
+should lift up and come together so
+
+235
+00:06:28,120 --> 00:06:30,439
+should lift up and come together so
+there as you can see the two V fonts
+
+236
+00:06:30,439 --> 00:06:30,449
+there as you can see the two V fonts
+
+237
+00:06:30,449 --> 00:06:33,089
+there as you can see the two V fonts
+coming together as you open and close it
+
+238
+00:06:33,089 --> 00:06:33,099
+coming together as you open and close it
+
+239
+00:06:33,099 --> 00:06:34,320
+coming together as you open and close it
+so now you're going to stick another
+
+240
+00:06:34,320 --> 00:06:34,330
+so now you're going to stick another
+
+241
+00:06:34,330 --> 00:06:38,219
+so now you're going to stick another
+piece across between these two let's try
+
+242
+00:06:38,219 --> 00:06:38,229
+piece across between these two let's try
+
+243
+00:06:38,229 --> 00:06:39,809
+piece across between these two let's try
+a bit of red
+
+244
+00:06:39,809 --> 00:06:39,819
+a bit of red
+
+245
+00:06:39,819 --> 00:06:41,850
+a bit of red
+we don't want it any wider than this
+
+246
+00:06:41,850 --> 00:06:41,860
+we don't want it any wider than this
+
+247
+00:06:41,860 --> 00:06:44,909
+we don't want it any wider than this
+piece we've already attached so aim for
+
+248
+00:06:44,909 --> 00:06:44,919
+piece we've already attached so aim for
+
+249
+00:06:44,919 --> 00:06:56,249
+piece we've already attached so aim for
+the same with more or less and then it
+
+250
+00:06:56,249 --> 00:06:56,259
+the same with more or less and then it
+
+251
+00:06:56,259 --> 00:06:58,320
+the same with more or less and then it
+mustn't be shorter than the distance
+
+252
+00:06:58,320 --> 00:06:58,330
+mustn't be shorter than the distance
+
+253
+00:06:58,330 --> 00:07:00,570
+mustn't be shorter than the distance
+between these two creases if it's
+
+254
+00:07:00,570 --> 00:07:00,580
+between these two creases if it's
+
+255
+00:07:00,580 --> 00:07:03,300
+between these two creases if it's
+shorter then the whole mechanism can't
+
+256
+00:07:03,300 --> 00:07:03,310
+shorter then the whole mechanism can't
+
+257
+00:07:03,310 --> 00:07:05,189
+shorter then the whole mechanism can't
+open it can be longer the longer it is
+
+258
+00:07:05,189 --> 00:07:05,199
+open it can be longer the longer it is
+
+259
+00:07:05,199 --> 00:07:08,999
+open it can be longer the longer it is
+the more it'll stand up so we start by
+
+260
+00:07:08,999 --> 00:07:09,009
+the more it'll stand up so we start by
+
+261
+00:07:09,009 --> 00:07:12,149
+the more it'll stand up so we start by
+just folding it in the middle so you're
+
+262
+00:07:12,149 --> 00:07:12,159
+just folding it in the middle so you're
+
+263
+00:07:12,159 --> 00:07:14,790
+just folding it in the middle so you're
+going to a crease across the middle like
+
+264
+00:07:14,790 --> 00:07:14,800
+going to a crease across the middle like
+
+265
+00:07:14,800 --> 00:07:21,300
+going to a crease across the middle like
+that and then this is going to fit in
+
+266
+00:07:21,300 --> 00:07:21,310
+that and then this is going to fit in
+
+267
+00:07:21,310 --> 00:07:23,850
+that and then this is going to fit in
+like that so if we look at this it's
+
+268
+00:07:23,850 --> 00:07:23,860
+like that so if we look at this it's
+
+269
+00:07:23,860 --> 00:07:27,119
+like that so if we look at this it's
+about well we'll just take say a
+
+270
+00:07:27,119 --> 00:07:27,129
+about well we'll just take say a
+
+271
+00:07:27,129 --> 00:07:29,610
+about well we'll just take say a
+centimeter off each end so fold it in
+
+272
+00:07:29,610 --> 00:07:29,620
+centimeter off each end so fold it in
+
+273
+00:07:29,620 --> 00:07:30,110
+centimeter off each end so fold it in
+half
+
+274
+00:07:30,110 --> 00:07:30,120
+half
+
+275
+00:07:30,120 --> 00:07:33,089
+half
+keeping it symmetrical we can just take
+
+276
+00:07:33,089 --> 00:07:33,099
+keeping it symmetrical we can just take
+
+277
+00:07:33,099 --> 00:07:35,999
+keeping it symmetrical we can just take
+a piece off like that this is going to
+
+278
+00:07:35,999 --> 00:07:36,009
+a piece off like that this is going to
+
+279
+00:07:36,009 --> 00:07:39,269
+a piece off like that this is going to
+glue into in this position and so these
+
+280
+00:07:39,269 --> 00:07:39,279
+glue into in this position and so these
+
+281
+00:07:39,279 --> 00:07:41,639
+glue into in this position and so these
+tabs they can either go on top which
+
+282
+00:07:41,639 --> 00:07:41,649
+tabs they can either go on top which
+
+283
+00:07:41,649 --> 00:07:43,230
+tabs they can either go on top which
+case they're visible or you can hide
+
+284
+00:07:43,230 --> 00:07:43,240
+case they're visible or you can hide
+
+285
+00:07:43,240 --> 00:07:45,360
+case they're visible or you can hide
+them underneath so we put them
+
+286
+00:07:45,360 --> 00:07:45,370
+them underneath so we put them
+
+287
+00:07:45,370 --> 00:07:53,070
+them underneath so we put them
+underneath
+
+288
+00:07:53,070 --> 00:07:53,080
+
+
+289
+00:07:53,080 --> 00:07:56,950
+okay make sure the edge is flush with
+
+290
+00:07:56,950 --> 00:07:56,960
+okay make sure the edge is flush with
+
+291
+00:07:56,960 --> 00:08:00,120
+okay make sure the edge is flush with
+the grease and then that one goes there
+
+292
+00:08:00,120 --> 00:08:00,130
+the grease and then that one goes there
+
+293
+00:08:00,130 --> 00:08:04,480
+the grease and then that one goes there
+you can shut the base and made it all a
+
+294
+00:08:04,480 --> 00:08:04,490
+you can shut the base and made it all a
+
+295
+00:08:04,490 --> 00:08:07,600
+you can shut the base and made it all a
+bit big so it's just enough that's the
+
+296
+00:08:07,600 --> 00:08:07,610
+bit big so it's just enough that's the
+
+297
+00:08:07,610 --> 00:08:09,520
+bit big so it's just enough that's the
+way it goes with dummies so you make the
+
+298
+00:08:09,520 --> 00:08:09,530
+way it goes with dummies so you make the
+
+299
+00:08:09,530 --> 00:08:11,500
+way it goes with dummies so you make the
+dummy and then you see the dimensions
+
+300
+00:08:11,500 --> 00:08:11,510
+dummy and then you see the dimensions
+
+301
+00:08:11,510 --> 00:08:13,750
+dummy and then you see the dimensions
+and you can see what you grow you need
+
+302
+00:08:13,750 --> 00:08:13,760
+and you can see what you grow you need
+
+303
+00:08:13,760 --> 00:08:16,030
+and you can see what you grow you need
+to change so this is the dummy of the
+
+304
+00:08:16,030 --> 00:08:16,040
+to change so this is the dummy of the
+
+305
+00:08:16,040 --> 00:08:24,310
+to change so this is the dummy of the
+twisting mechanism so this is Little Red
+
+306
+00:08:24,310 --> 00:08:24,320
+twisting mechanism so this is Little Red
+
+307
+00:08:24,320 --> 00:08:25,420
+twisting mechanism so this is Little Red
+Riding Hood
+
+308
+00:08:25,420 --> 00:08:25,430
+Riding Hood
+
+309
+00:08:25,430 --> 00:08:28,810
+Riding Hood
+paper engineering by Bruce Foster and we
+
+310
+00:08:28,810 --> 00:08:28,820
+paper engineering by Bruce Foster and we
+
+311
+00:08:28,820 --> 00:08:31,360
+paper engineering by Bruce Foster and we
+open this up and this is the twisting
+
+312
+00:08:31,360 --> 00:08:31,370
+open this up and this is the twisting
+
+313
+00:08:31,370 --> 00:08:33,760
+open this up and this is the twisting
+mechanism and he's done into the wolf
+
+314
+00:08:33,760 --> 00:08:33,770
+mechanism and he's done into the wolf
+
+315
+00:08:33,770 --> 00:08:36,159
+mechanism and he's done into the wolf
+hiding from behind the tree you can
+
+316
+00:08:36,159 --> 00:08:36,169
+hiding from behind the tree you can
+
+317
+00:08:36,169 --> 00:08:39,700
+hiding from behind the tree you can
+probably see it this way you can see how
+
+318
+00:08:39,700 --> 00:08:39,710
+probably see it this way you can see how
+
+319
+00:08:39,710 --> 00:08:42,100
+probably see it this way you can see how
+it moves how it twists as it opens has
+
+320
+00:08:42,100 --> 00:08:42,110
+it moves how it twists as it opens has
+
+321
+00:08:42,110 --> 00:08:46,600
+it moves how it twists as it opens has
+extended the different planes anyway
+
+322
+00:08:46,600 --> 00:08:46,610
+extended the different planes anyway
+
+323
+00:08:46,610 --> 00:08:48,220
+extended the different planes anyway
+that's that one the next one is the
+
+324
+00:08:48,220 --> 00:08:48,230
+that's that one the next one is the
+
+325
+00:08:48,230 --> 00:08:50,920
+that's that one the next one is the
+night before Christmas by Roberts óbuda
+
+326
+00:08:50,920 --> 00:08:50,930
+night before Christmas by Roberts óbuda
+
+327
+00:08:50,930 --> 00:08:54,070
+night before Christmas by Roberts óbuda
+and under this flap you have a really
+
+328
+00:08:54,070 --> 00:08:54,080
+and under this flap you have a really
+
+329
+00:08:54,080 --> 00:08:55,600
+and under this flap you have a really
+amazing example of the twisting
+
+330
+00:08:55,600 --> 00:08:55,610
+amazing example of the twisting
+
+331
+00:08:55,610 --> 00:08:58,900
+amazing example of the twisting
+mechanism so who is opens up and he's
+
+332
+00:08:58,900 --> 00:08:58,910
+mechanism so who is opens up and he's
+
+333
+00:08:58,910 --> 00:09:02,110
+mechanism so who is opens up and he's
+got all the six planes or at least five
+
+334
+00:09:02,110 --> 00:09:02,120
+got all the six planes or at least five
+
+335
+00:09:02,120 --> 00:09:03,880
+got all the six planes or at least five
+of them have been extended with these
+
+336
+00:09:03,880 --> 00:09:03,890
+of them have been extended with these
+
+337
+00:09:03,890 --> 00:09:07,960
+of them have been extended with these
+these cutouts so as the flap opens and
+
+338
+00:09:07,960 --> 00:09:07,970
+these cutouts so as the flap opens and
+
+339
+00:09:07,970 --> 00:09:11,079
+these cutouts so as the flap opens and
+closes so you see it the whole gang of
+
+340
+00:09:11,079 --> 00:09:11,089
+closes so you see it the whole gang of
+
+341
+00:09:11,089 --> 00:09:13,420
+closes so you see it the whole gang of
+deer reindeer they all put me a
+
+342
+00:09:13,420 --> 00:09:13,430
+deer reindeer they all put me a
+
+343
+00:09:13,430 --> 00:09:16,510
+deer reindeer they all put me a
+pirouette around the action very nice
+
+344
+00:09:16,510 --> 00:09:16,520
+pirouette around the action very nice
+
+345
+00:09:16,520 --> 00:09:22,269
+pirouette around the action very nice
+example and then the next one is the
+
+346
+00:09:22,269 --> 00:09:22,279
+example and then the next one is the
+
+347
+00:09:22,279 --> 00:09:25,960
+example and then the next one is the
+Nutcracker by Nick Dench filled this has
+
+348
+00:09:25,960 --> 00:09:25,970
+Nutcracker by Nick Dench filled this has
+
+349
+00:09:25,970 --> 00:09:28,660
+Nutcracker by Nick Dench filled this has
+got an unusual variation he's using the
+
+350
+00:09:28,660 --> 00:09:28,670
+got an unusual variation he's using the
+
+351
+00:09:28,670 --> 00:09:30,160
+got an unusual variation he's using the
+twisting mechanism to raise the
+
+352
+00:09:30,160 --> 00:09:30,170
+twisting mechanism to raise the
+
+353
+00:09:30,170 --> 00:09:31,920
+twisting mechanism to raise the
+Christmas tree so this is actually a
+
+354
+00:09:31,920 --> 00:09:31,930
+Christmas tree so this is actually a
+
+355
+00:09:31,930 --> 00:09:34,900
+Christmas tree so this is actually a
+solid shape being lifted rather than
+
+356
+00:09:34,900 --> 00:09:34,910
+solid shape being lifted rather than
+
+357
+00:09:34,910 --> 00:09:39,310
+solid shape being lifted rather than
+just a couple of planes so you can see a
+
+358
+00:09:39,310 --> 00:09:39,320
+just a couple of planes so you can see a
+
+359
+00:09:39,320 --> 00:09:42,880
+just a couple of planes so you can see a
+nun you can see the see the v-folds
+
+360
+00:09:42,880 --> 00:09:42,890
+nun you can see the see the v-folds
+
+361
+00:09:42,890 --> 00:09:45,670
+nun you can see the see the v-folds
+going down again coming together and
+
+362
+00:09:45,670 --> 00:09:45,680
+going down again coming together and
+
+363
+00:09:45,680 --> 00:09:47,320
+going down again coming together and
+holding away in the Christmas tree
+
+364
+00:09:47,320 --> 00:09:47,330
+holding away in the Christmas tree
+
+365
+00:09:47,330 --> 00:09:50,170
+holding away in the Christmas tree
+spinning around so the last one I want
+
+366
+00:09:50,170 --> 00:09:50,180
+spinning around so the last one I want
+
+367
+00:09:50,180 --> 00:09:52,750
+spinning around so the last one I want
+to show you is my jungle pop-up book and
+
+368
+00:09:52,750 --> 00:09:52,760
+to show you is my jungle pop-up book and
+
+369
+00:09:52,760 --> 00:09:54,820
+to show you is my jungle pop-up book and
+this has a really interesting variation
+
+370
+00:09:54,820 --> 00:09:54,830
+this has a really interesting variation
+
+371
+00:09:54,830 --> 00:09:59,949
+this has a really interesting variation
+so here it is and in this case the
+
+372
+00:09:59,949 --> 00:09:59,959
+so here it is and in this case the
+
+373
+00:09:59,959 --> 00:10:02,050
+so here it is and in this case the
+v-folds don't lie flap when the page is
+
+374
+00:10:02,050 --> 00:10:02,060
+v-folds don't lie flap when the page is
+
+375
+00:10:02,060 --> 00:10:04,120
+v-folds don't lie flap when the page is
+flat they stand up and it's the piece
+
+376
+00:10:04,120 --> 00:10:04,130
+flat they stand up and it's the piece
+
+377
+00:10:04,130 --> 00:10:05,560
+flat they stand up and it's the piece
+lifting up on the top
+
+378
+00:10:05,560 --> 00:10:05,570
+lifting up on the top
+
+379
+00:10:05,570 --> 00:10:08,230
+lifting up on the top
+ends up flat rather than being a high
+
+380
+00:10:08,230 --> 00:10:08,240
+ends up flat rather than being a high
+
+381
+00:10:08,240 --> 00:10:11,590
+ends up flat rather than being a high
+right you know pointing up parallel fold
+
+382
+00:10:11,590 --> 00:10:11,600
+right you know pointing up parallel fold
+
+383
+00:10:11,600 --> 00:10:14,530
+right you know pointing up parallel fold
+so it folds down in between those two
+
+384
+00:10:14,530 --> 00:10:14,540
+so it folds down in between those two
+
+385
+00:10:14,540 --> 00:10:18,610
+so it folds down in between those two
+V's so yeah a nice example there and
+
+386
+00:10:18,610 --> 00:10:18,620
+V's so yeah a nice example there and
+
+387
+00:10:18,620 --> 00:10:21,160
+V's so yeah a nice example there and
+that's it for twisting mechanism it's
+
+388
+00:10:21,160 --> 00:10:21,170
+that's it for twisting mechanism it's
+
+389
+00:10:21,170 --> 00:10:23,949
+that's it for twisting mechanism it's
+all explained in more detail in my book
+
+390
+00:10:23,949 --> 00:10:23,959
+all explained in more detail in my book
+
+391
+00:10:23,959 --> 00:10:57,840
+all explained in more detail in my book
+pop-up design and paper mechanics
+
+392
+00:10:57,840 --> 00:10:57,850
+
+
+393
+00:10:57,850 --> 00:10:59,910
+you
+

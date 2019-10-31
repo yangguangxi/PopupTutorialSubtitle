@@ -1,0 +1,1173 @@
+1
+00:00:01,670 --> 00:00:33,930
+[Music]
+
+2
+00:00:33,930 --> 00:00:33,940
+
+
+3
+00:00:33,940 --> 00:00:37,390
+this card is a birthday card containing
+
+4
+00:00:37,390 --> 00:00:37,400
+this card is a birthday card containing
+
+5
+00:00:37,400 --> 00:00:39,460
+this card is a birthday card containing
+a boat and in this case I've done the
+
+6
+00:00:39,460 --> 00:00:39,470
+a boat and in this case I've done the
+
+7
+00:00:39,470 --> 00:00:41,860
+a boat and in this case I've done the
+Owl and the Pussycat it's quite a simple
+
+8
+00:00:41,860 --> 00:00:41,870
+Owl and the Pussycat it's quite a simple
+
+9
+00:00:41,870 --> 00:00:44,530
+Owl and the Pussycat it's quite a simple
+mechanism it's based on tutorial 14
+
+10
+00:00:44,530 --> 00:00:44,540
+mechanism it's based on tutorial 14
+
+11
+00:00:44,540 --> 00:00:47,889
+mechanism it's based on tutorial 14
+which is the box is an example of the
+
+12
+00:00:47,889 --> 00:00:47,899
+which is the box is an example of the
+
+13
+00:00:47,899 --> 00:00:50,550
+which is the box is an example of the
+box as you can see it's two
+
+14
+00:00:50,550 --> 00:00:50,560
+box as you can see it's two
+
+15
+00:00:50,560 --> 00:00:53,770
+box as you can see it's two
+parallelograms back-to-back and it's the
+
+16
+00:00:53,770 --> 00:00:53,780
+parallelograms back-to-back and it's the
+
+17
+00:00:53,780 --> 00:00:55,810
+parallelograms back-to-back and it's the
+piece on the end that makes it into a
+
+18
+00:00:55,810 --> 00:00:55,820
+piece on the end that makes it into a
+
+19
+00:00:55,820 --> 00:00:58,990
+piece on the end that makes it into a
+rigid shape and in this case rather than
+
+20
+00:00:58,990 --> 00:00:59,000
+rigid shape and in this case rather than
+
+21
+00:00:59,000 --> 00:01:00,580
+rigid shape and in this case rather than
+it being just a flat piece that goes
+
+22
+00:01:00,580 --> 00:01:00,590
+it being just a flat piece that goes
+
+23
+00:01:00,590 --> 00:01:03,370
+it being just a flat piece that goes
+across the end of the box we've got the
+
+24
+00:01:03,370 --> 00:01:03,380
+across the end of the box we've got the
+
+25
+00:01:03,380 --> 00:01:06,190
+across the end of the box we've got the
+boat shape this goes across the end of
+
+26
+00:01:06,190 --> 00:01:06,200
+boat shape this goes across the end of
+
+27
+00:01:06,200 --> 00:01:08,100
+boat shape this goes across the end of
+the box and holds the whole thing rigid
+
+28
+00:01:08,100 --> 00:01:08,110
+the box and holds the whole thing rigid
+
+29
+00:01:08,110 --> 00:01:12,219
+the box and holds the whole thing rigid
+the parts you need to make this these
+
+30
+00:01:12,219 --> 00:01:12,229
+the parts you need to make this these
+
+31
+00:01:12,229 --> 00:01:13,899
+the parts you need to make this these
+are the parts I've already cut them out
+
+32
+00:01:13,899 --> 00:01:13,909
+are the parts I've already cut them out
+
+33
+00:01:13,909 --> 00:01:17,109
+are the parts I've already cut them out
+and measured them these are the two bits
+
+34
+00:01:17,109 --> 00:01:17,119
+and measured them these are the two bits
+
+35
+00:01:17,119 --> 00:01:19,230
+and measured them these are the two bits
+which will turn into the parallelograms
+
+36
+00:01:19,230 --> 00:01:19,240
+which will turn into the parallelograms
+
+37
+00:01:19,240 --> 00:01:23,980
+which will turn into the parallelograms
+it's three sections 2,5 centimeters 2,5
+
+38
+00:01:23,980 --> 00:01:23,990
+it's three sections 2,5 centimeters 2,5
+
+39
+00:01:23,990 --> 00:01:28,030
+it's three sections 2,5 centimeters 2,5
+2,5 with a tab at each end and both of
+
+40
+00:01:28,030 --> 00:01:28,040
+2,5 with a tab at each end and both of
+
+41
+00:01:28,040 --> 00:01:31,390
+2,5 with a tab at each end and both of
+them they're just 5 centimetres wide and
+
+42
+00:01:31,390 --> 00:01:31,400
+them they're just 5 centimetres wide and
+
+43
+00:01:31,400 --> 00:01:32,789
+them they're just 5 centimetres wide and
+then these are the sides of the boat
+
+44
+00:01:32,789 --> 00:01:32,799
+then these are the sides of the boat
+
+45
+00:01:32,799 --> 00:01:36,160
+then these are the sides of the boat
+from crease to crease it's 16
+
+46
+00:01:36,160 --> 00:01:36,170
+from crease to crease it's 16
+
+47
+00:01:36,170 --> 00:01:39,219
+from crease to crease it's 16
+centimetres you've got two tabs on the
+
+48
+00:01:39,219 --> 00:01:39,229
+centimetres you've got two tabs on the
+
+49
+00:01:39,229 --> 00:01:41,170
+centimetres you've got two tabs on the
+end of one of the pieces and the other
+
+50
+00:01:41,170 --> 00:01:41,180
+end of one of the pieces and the other
+
+51
+00:01:41,180 --> 00:01:43,149
+end of one of the pieces and the other
+piece doesn't need tabs so from the
+
+52
+00:01:43,149 --> 00:01:43,159
+piece doesn't need tabs so from the
+
+53
+00:01:43,159 --> 00:01:45,219
+piece doesn't need tabs so from the
+cottage to the cottage that 16
+
+54
+00:01:45,219 --> 00:01:45,229
+cottage to the cottage that 16
+
+55
+00:01:45,229 --> 00:01:47,499
+cottage to the cottage that 16
+centimetres and the final piece this is
+
+56
+00:01:47,499 --> 00:01:47,509
+centimetres and the final piece this is
+
+57
+00:01:47,509 --> 00:01:49,810
+centimetres and the final piece this is
+the mast so now I'll just show you how
+
+58
+00:01:49,810 --> 00:01:49,820
+the mast so now I'll just show you how
+
+59
+00:01:49,820 --> 00:01:52,390
+the mast so now I'll just show you how
+to stick them all together first of all
+
+60
+00:01:52,390 --> 00:01:52,400
+to stick them all together first of all
+
+61
+00:01:52,400 --> 00:01:55,480
+to stick them all together first of all
+make sure all the creases are really
+
+62
+00:01:55,480 --> 00:01:55,490
+make sure all the creases are really
+
+63
+00:01:55,490 --> 00:01:59,560
+make sure all the creases are really
+well enforced so I'll just crease all
+
+64
+00:01:59,560 --> 00:01:59,570
+well enforced so I'll just crease all
+
+65
+00:01:59,570 --> 00:02:03,860
+well enforced so I'll just crease all
+those
+
+66
+00:02:03,860 --> 00:02:03,870
+
+
+67
+00:02:03,870 --> 00:02:06,450
+when you're making these you don't need
+
+68
+00:02:06,450 --> 00:02:06,460
+when you're making these you don't need
+
+69
+00:02:06,460 --> 00:02:08,580
+when you're making these you don't need
+to measure where the pieces go on the
+
+70
+00:02:08,580 --> 00:02:08,590
+to measure where the pieces go on the
+
+71
+00:02:08,590 --> 00:02:11,810
+to measure where the pieces go on the
+base so I'll just start with one you
+
+72
+00:02:11,810 --> 00:02:11,820
+base so I'll just start with one you
+
+73
+00:02:11,820 --> 00:02:16,020
+base so I'll just start with one you
+glue one of the tabs flush with the
+
+74
+00:02:16,020 --> 00:02:16,030
+glue one of the tabs flush with the
+
+75
+00:02:16,030 --> 00:02:19,080
+glue one of the tabs flush with the
+spine make sure the glue goes right up
+
+76
+00:02:19,080 --> 00:02:19,090
+spine make sure the glue goes right up
+
+77
+00:02:19,090 --> 00:02:22,470
+spine make sure the glue goes right up
+to the crease and you stick that in the
+
+78
+00:02:22,470 --> 00:02:22,480
+to the crease and you stick that in the
+
+79
+00:02:22,480 --> 00:02:29,100
+to the crease and you stick that in the
+middle flush with the spine and then to
+
+80
+00:02:29,100 --> 00:02:29,110
+middle flush with the spine and then to
+
+81
+00:02:29,110 --> 00:02:32,550
+middle flush with the spine and then to
+find its natural sticking place you fold
+
+82
+00:02:32,550 --> 00:02:32,560
+find its natural sticking place you fold
+
+83
+00:02:32,560 --> 00:02:34,380
+find its natural sticking place you fold
+the whole thing into its what's going to
+
+84
+00:02:34,380 --> 00:02:34,390
+the whole thing into its what's going to
+
+85
+00:02:34,390 --> 00:02:37,040
+the whole thing into its what's going to
+be its closed position
+
+86
+00:02:37,040 --> 00:02:37,050
+be its closed position
+
+87
+00:02:37,050 --> 00:02:50,010
+be its closed position
+put glue on that other tab and then fold
+
+88
+00:02:50,010 --> 00:02:50,020
+put glue on that other tab and then fold
+
+89
+00:02:50,020 --> 00:02:55,800
+put glue on that other tab and then fold
+the base closed so that gives you your
+
+90
+00:02:55,800 --> 00:02:55,810
+the base closed so that gives you your
+
+91
+00:02:55,810 --> 00:02:59,490
+the base closed so that gives you your
+first parallelogram the next one again
+
+92
+00:02:59,490 --> 00:02:59,500
+first parallelogram the next one again
+
+93
+00:02:59,500 --> 00:03:05,010
+first parallelogram the next one again
+you stick it one side flush with the
+
+94
+00:03:05,010 --> 00:03:05,020
+you stick it one side flush with the
+
+95
+00:03:05,020 --> 00:03:12,600
+you stick it one side flush with the
+spine
+
+96
+00:03:12,600 --> 00:03:12,610
+
+
+97
+00:03:12,610 --> 00:03:15,600
+fold it into its closed position and put
+
+98
+00:03:15,600 --> 00:03:15,610
+fold it into its closed position and put
+
+99
+00:03:15,610 --> 00:03:24,270
+fold it into its closed position and put
+glue on the other tab and then you fold
+
+100
+00:03:24,270 --> 00:03:24,280
+glue on the other tab and then you fold
+
+101
+00:03:24,280 --> 00:03:30,870
+glue on the other tab and then you fold
+the base closed so these are your two
+
+102
+00:03:30,870 --> 00:03:30,880
+the base closed so these are your two
+
+103
+00:03:30,880 --> 00:03:33,330
+the base closed so these are your two
+parallelograms now is your chance to
+
+104
+00:03:33,330 --> 00:03:33,340
+parallelograms now is your chance to
+
+105
+00:03:33,340 --> 00:03:35,040
+parallelograms now is your chance to
+stick in the mast in a minute we're
+
+106
+00:03:35,040 --> 00:03:35,050
+stick in the mast in a minute we're
+
+107
+00:03:35,050 --> 00:03:36,810
+stick in the mast in a minute we're
+going to stick them back to back to make
+
+108
+00:03:36,810 --> 00:03:36,820
+going to stick them back to back to make
+
+109
+00:03:36,820 --> 00:03:39,870
+going to stick them back to back to make
+the solid shape but before you do that
+
+110
+00:03:39,870 --> 00:03:39,880
+the solid shape but before you do that
+
+111
+00:03:39,880 --> 00:03:42,210
+the solid shape but before you do that
+you can put in the mast or sail or
+
+112
+00:03:42,210 --> 00:03:42,220
+you can put in the mast or sail or
+
+113
+00:03:42,220 --> 00:03:43,800
+you can put in the mast or sail or
+anything else so you just put a bit of
+
+114
+00:03:43,800 --> 00:03:43,810
+anything else so you just put a bit of
+
+115
+00:03:43,810 --> 00:03:51,720
+anything else so you just put a bit of
+glue on that stick that in place and now
+
+116
+00:03:51,720 --> 00:03:51,730
+glue on that stick that in place and now
+
+117
+00:03:51,730 --> 00:03:54,660
+glue on that stick that in place and now
+you put glue all over one of these
+
+118
+00:03:54,660 --> 00:03:54,670
+you put glue all over one of these
+
+119
+00:03:54,670 --> 00:04:14,640
+you put glue all over one of these
+surfaces close it so there it is it's
+
+120
+00:04:14,640 --> 00:04:14,650
+surfaces close it so there it is it's
+
+121
+00:04:14,650 --> 00:04:16,410
+surfaces close it so there it is it's
+the two parallelograms it's still not a
+
+122
+00:04:16,410 --> 00:04:16,420
+the two parallelograms it's still not a
+
+123
+00:04:16,420 --> 00:04:18,150
+the two parallelograms it's still not a
+stable shape because there's nothing
+
+124
+00:04:18,150 --> 00:04:18,160
+stable shape because there's nothing
+
+125
+00:04:18,160 --> 00:04:21,750
+stable shape because there's nothing
+joining these two outer sides so I'll
+
+126
+00:04:21,750 --> 00:04:21,760
+joining these two outer sides so I'll
+
+127
+00:04:21,760 --> 00:04:26,240
+joining these two outer sides so I'll
+just glue the two boat pieces together
+
+128
+00:04:26,240 --> 00:04:26,250
+
+
+129
+00:04:26,250 --> 00:04:29,970
+so these can be glued both at the same
+
+130
+00:04:29,970 --> 00:04:29,980
+so these can be glued both at the same
+
+131
+00:04:29,980 --> 00:04:40,900
+so these can be glued both at the same
+time
+
+132
+00:04:40,900 --> 00:04:40,910
+
+
+133
+00:04:40,910 --> 00:04:43,840
+so you keep any measuring marks on the
+
+134
+00:04:43,840 --> 00:04:43,850
+so you keep any measuring marks on the
+
+135
+00:04:43,850 --> 00:05:05,710
+so you keep any measuring marks on the
+inside hidden from you now this will
+
+136
+00:05:05,710 --> 00:05:05,720
+inside hidden from you now this will
+
+137
+00:05:05,720 --> 00:05:08,440
+inside hidden from you now this will
+come down over here and stick to those
+
+138
+00:05:08,440 --> 00:05:08,450
+come down over here and stick to those
+
+139
+00:05:08,450 --> 00:05:11,170
+come down over here and stick to those
+two sides making the whole thing rigid
+
+140
+00:05:11,170 --> 00:05:11,180
+two sides making the whole thing rigid
+
+141
+00:05:11,180 --> 00:05:13,750
+two sides making the whole thing rigid
+so again we just put the glue on these
+
+142
+00:05:13,750 --> 00:05:13,760
+so again we just put the glue on these
+
+143
+00:05:13,760 --> 00:05:32,740
+so again we just put the glue on these
+outer edges drop it into place and you
+
+144
+00:05:32,740 --> 00:05:32,750
+outer edges drop it into place and you
+
+145
+00:05:32,750 --> 00:05:35,620
+outer edges drop it into place and you
+can just really Center this up by eye it
+
+146
+00:05:35,620 --> 00:05:35,630
+can just really Center this up by eye it
+
+147
+00:05:35,630 --> 00:05:39,130
+can just really Center this up by eye it
+doesn't really matter whether the box
+
+148
+00:05:39,130 --> 00:05:39,140
+doesn't really matter whether the box
+
+149
+00:05:39,140 --> 00:05:43,840
+doesn't really matter whether the box
+shape is actually writing or not now we
+
+150
+00:05:43,840 --> 00:05:43,850
+shape is actually writing or not now we
+
+151
+00:05:43,850 --> 00:05:46,540
+shape is actually writing or not now we
+stuck the outside edges on you can see
+
+152
+00:05:46,540 --> 00:05:46,550
+stuck the outside edges on you can see
+
+153
+00:05:46,550 --> 00:05:48,550
+stuck the outside edges on you can see
+as it closes the end of the boat
+
+154
+00:05:48,550 --> 00:05:48,560
+as it closes the end of the boat
+
+155
+00:05:48,560 --> 00:05:52,270
+as it closes the end of the boat
+actually lifts up but so this is a
+
+156
+00:05:52,270 --> 00:05:52,280
+actually lifts up but so this is a
+
+157
+00:05:52,280 --> 00:05:58,270
+actually lifts up but so this is a
+variation on the box mechanism 14 and at
+
+158
+00:05:58,270 --> 00:05:58,280
+variation on the box mechanism 14 and at
+
+159
+00:05:58,280 --> 00:06:00,730
+variation on the box mechanism 14 and at
+this point this is where you can start
+
+160
+00:06:00,730 --> 00:06:00,740
+this point this is where you can start
+
+161
+00:06:00,740 --> 00:06:03,480
+this point this is where you can start
+adding your decorations so in this case
+
+162
+00:06:03,480 --> 00:06:03,490
+adding your decorations so in this case
+
+163
+00:06:03,490 --> 00:06:06,070
+adding your decorations so in this case
+the owl is stuck to the side of the
+
+164
+00:06:06,070 --> 00:06:06,080
+the owl is stuck to the side of the
+
+165
+00:06:06,080 --> 00:06:08,080
+the owl is stuck to the side of the
+boats the pussycat is stuck to the mast
+
+166
+00:06:08,080 --> 00:06:08,090
+boats the pussycat is stuck to the mast
+
+167
+00:06:08,090 --> 00:06:10,750
+boats the pussycat is stuck to the mast
+you can add a flag if you want you've
+
+168
+00:06:10,750 --> 00:06:10,760
+you can add a flag if you want you've
+
+169
+00:06:10,760 --> 00:06:12,490
+you can add a flag if you want you've
+also got the gully here you can build
+
+170
+00:06:12,490 --> 00:06:12,500
+also got the gully here you can build
+
+171
+00:06:12,500 --> 00:06:14,830
+also got the gully here you can build
+into and another one here you can build
+
+172
+00:06:14,830 --> 00:06:14,840
+into and another one here you can build
+
+173
+00:06:14,840 --> 00:06:18,160
+into and another one here you can build
+out from tutorial 8 talks about adding
+
+174
+00:06:18,160 --> 00:06:18,170
+out from tutorial 8 talks about adding
+
+175
+00:06:18,170 --> 00:06:20,530
+out from tutorial 8 talks about adding
+small 3d pieces that you could add into
+
+176
+00:06:20,530 --> 00:06:20,540
+small 3d pieces that you could add into
+
+177
+00:06:20,540 --> 00:06:23,770
+small 3d pieces that you could add into
+any of these gullies that close as the
+
+178
+00:06:23,770 --> 00:06:23,780
+any of these gullies that close as the
+
+179
+00:06:23,780 --> 00:06:27,550
+any of these gullies that close as the
+card closes so that's your boat if you
+
+180
+00:06:27,550 --> 00:06:27,560
+card closes so that's your boat if you
+
+181
+00:06:27,560 --> 00:06:30,040
+card closes so that's your boat if you
+did want to build a deck into it you
+
+182
+00:06:30,040 --> 00:06:30,050
+did want to build a deck into it you
+
+183
+00:06:30,050 --> 00:06:32,290
+did want to build a deck into it you
+would actually have to tailor that to
+
+184
+00:06:32,290 --> 00:06:32,300
+would actually have to tailor that to
+
+185
+00:06:32,300 --> 00:06:35,170
+would actually have to tailor that to
+fit so if I just take this piece of card
+
+186
+00:06:35,170 --> 00:06:35,180
+fit so if I just take this piece of card
+
+187
+00:06:35,180 --> 00:06:38,170
+fit so if I just take this piece of card
+here you'd need to have a crease down
+
+188
+00:06:38,170 --> 00:06:38,180
+here you'd need to have a crease down
+
+189
+00:06:38,180 --> 00:06:43,680
+here you'd need to have a crease down
+the middle
+
+190
+00:06:43,680 --> 00:06:43,690
+
+
+191
+00:06:43,690 --> 00:06:46,660
+you'd have to have a hole in the middle
+
+192
+00:06:46,660 --> 00:06:46,670
+you'd have to have a hole in the middle
+
+193
+00:06:46,670 --> 00:06:54,300
+you'd have to have a hole in the middle
+which the Masters going to go through
+
+194
+00:06:54,300 --> 00:06:54,310
+
+
+195
+00:06:54,310 --> 00:06:57,700
+you need it to be the same length as the
+
+196
+00:06:57,700 --> 00:06:57,710
+you need it to be the same length as the
+
+197
+00:06:57,710 --> 00:07:02,650
+you need it to be the same length as the
+whole boat so here's the end it's one
+
+198
+00:07:02,650 --> 00:07:02,660
+whole boat so here's the end it's one
+
+199
+00:07:02,660 --> 00:07:07,870
+whole boat so here's the end it's one
+end and the other end so this is going
+
+200
+00:07:07,870 --> 00:07:07,880
+end and the other end so this is going
+
+201
+00:07:07,880 --> 00:07:09,940
+end and the other end so this is going
+to fit on it like that that will stick
+
+202
+00:07:09,940 --> 00:07:09,950
+to fit on it like that that will stick
+
+203
+00:07:09,950 --> 00:07:13,840
+to fit on it like that that will stick
+down onto the top of this box shape but
+
+204
+00:07:13,840 --> 00:07:13,850
+down onto the top of this box shape but
+
+205
+00:07:13,850 --> 00:07:16,870
+down onto the top of this box shape but
+to actually make it fit
+
+206
+00:07:16,870 --> 00:07:16,880
+to actually make it fit
+
+207
+00:07:16,880 --> 00:07:20,770
+to actually make it fit
+you need to just shape it sort of
+
+208
+00:07:20,770 --> 00:07:20,780
+you need to just shape it sort of
+
+209
+00:07:20,780 --> 00:07:24,310
+you need to just shape it sort of
+tailoring it rigid so I just take this
+
+210
+00:07:24,310 --> 00:07:24,320
+tailoring it rigid so I just take this
+
+211
+00:07:24,320 --> 00:07:27,340
+tailoring it rigid so I just take this
+and looking at roughly the shape I've
+
+212
+00:07:27,340 --> 00:07:27,350
+and looking at roughly the shape I've
+
+213
+00:07:27,350 --> 00:07:34,550
+and looking at roughly the shape I've
+got on the boat
+
+214
+00:07:34,550 --> 00:07:34,560
+
+
+215
+00:07:34,560 --> 00:07:37,350
+this could not fit on there you can see
+
+216
+00:07:37,350 --> 00:07:37,360
+this could not fit on there you can see
+
+217
+00:07:37,360 --> 00:07:39,210
+this could not fit on there you can see
+it's still a little bit big I'm nearly
+
+218
+00:07:39,210 --> 00:07:39,220
+it's still a little bit big I'm nearly
+
+219
+00:07:39,220 --> 00:07:52,320
+it's still a little bit big I'm nearly
+there I'll take a bit more off here all
+
+220
+00:07:52,320 --> 00:07:52,330
+there I'll take a bit more off here all
+
+221
+00:07:52,330 --> 00:07:54,029
+there I'll take a bit more off here all
+right there we go so now that will fit
+
+222
+00:07:54,029 --> 00:07:54,039
+right there we go so now that will fit
+
+223
+00:07:54,039 --> 00:07:57,659
+right there we go so now that will fit
+into the boat I can get it out again put
+
+224
+00:07:57,659 --> 00:07:57,669
+into the boat I can get it out again put
+
+225
+00:07:57,669 --> 00:08:04,369
+into the boat I can get it out again put
+some glue on the top of the box bits
+
+226
+00:08:04,369 --> 00:08:04,379
+
+
+227
+00:08:04,379 --> 00:08:11,550
+smear it around make sure that crease is
+
+228
+00:08:11,550 --> 00:08:11,560
+smear it around make sure that crease is
+
+229
+00:08:11,560 --> 00:08:13,379
+smear it around make sure that crease is
+good so the deck it's gonna stay flat
+
+230
+00:08:13,379 --> 00:08:13,389
+good so the deck it's gonna stay flat
+
+231
+00:08:13,389 --> 00:08:17,070
+good so the deck it's gonna stay flat
+when there when the boat is open and
+
+232
+00:08:17,070 --> 00:08:17,080
+when there when the boat is open and
+
+233
+00:08:17,080 --> 00:08:21,930
+when there when the boat is open and
+just drop it in over the mouth you press
+
+234
+00:08:21,930 --> 00:08:21,940
+just drop it in over the mouth you press
+
+235
+00:08:21,940 --> 00:08:27,809
+just drop it in over the mouth you press
+it down onto those it's there so now as
+
+236
+00:08:27,809 --> 00:08:27,819
+it down onto those it's there so now as
+
+237
+00:08:27,819 --> 00:08:33,509
+it down onto those it's there so now as
+you close it the deck closes along with
+
+238
+00:08:33,509 --> 00:08:33,519
+you close it the deck closes along with
+
+239
+00:08:33,519 --> 00:08:36,480
+you close it the deck closes along with
+the boat so you don't really need a deck
+
+240
+00:08:36,480 --> 00:08:36,490
+the boat so you don't really need a deck
+
+241
+00:08:36,490 --> 00:08:38,279
+the boat so you don't really need a deck
+if you look at this one there is no deck
+
+242
+00:08:38,279 --> 00:08:38,289
+if you look at this one there is no deck
+
+243
+00:08:38,289 --> 00:08:40,230
+if you look at this one there is no deck
+and as a design it does work pretty
+
+244
+00:08:40,230 --> 00:08:40,240
+and as a design it does work pretty
+
+245
+00:08:40,240 --> 00:08:42,689
+and as a design it does work pretty
+satisfactorily so that's it's the boat
+
+246
+00:08:42,689 --> 00:08:42,699
+satisfactorily so that's it's the boat
+
+247
+00:08:42,699 --> 00:08:45,240
+satisfactorily so that's it's the boat
+birthday cards it's up to you to
+
+248
+00:08:45,240 --> 00:08:45,250
+birthday cards it's up to you to
+
+249
+00:08:45,250 --> 00:08:48,000
+birthday cards it's up to you to
+decorate it with any other bits and
+
+250
+00:08:48,000 --> 00:08:48,010
+decorate it with any other bits and
+
+251
+00:08:48,010 --> 00:08:49,319
+decorate it with any other bits and
+pieces that you like you might use
+
+252
+00:08:49,319 --> 00:08:49,329
+pieces that you like you might use
+
+253
+00:08:49,329 --> 00:08:51,420
+pieces that you like you might use
+photographs of the people concerned or
+
+254
+00:08:51,420 --> 00:08:51,430
+photographs of the people concerned or
+
+255
+00:08:51,430 --> 00:08:53,759
+photographs of the people concerned or
+cut out bits and other postcards or
+
+256
+00:08:53,759 --> 00:08:53,769
+cut out bits and other postcards or
+
+257
+00:08:53,769 --> 00:08:57,300
+cut out bits and other postcards or
+anything amusing fish mermaids Captain
+
+258
+00:08:57,300 --> 00:08:57,310
+anything amusing fish mermaids Captain
+
+259
+00:08:57,310 --> 00:09:07,340
+anything amusing fish mermaids Captain
+Pugwash up to you
+
+260
+00:09:07,340 --> 00:09:07,350
+
+
+261
+00:09:07,350 --> 00:09:09,390
+you
+
+262
+00:09:09,390 --> 00:09:09,400
+you
+
+263
+00:09:09,400 --> 00:09:12,510
+you
+[Music]
+

@@ -1,0 +1,696 @@
+1
+00:00:33,760 --> 00:00:36,130
+this tutorial is about how to use
+
+2
+00:00:36,130 --> 00:00:36,140
+this tutorial is about how to use
+
+3
+00:00:36,140 --> 00:00:39,250
+this tutorial is about how to use
+asymmetric v-folds to raise a structure
+
+4
+00:00:39,250 --> 00:00:39,260
+asymmetric v-folds to raise a structure
+
+5
+00:00:39,260 --> 00:00:41,680
+asymmetric v-folds to raise a structure
+on one side of the page the first
+
+6
+00:00:41,680 --> 00:00:41,690
+on one side of the page the first
+
+7
+00:00:41,690 --> 00:00:43,780
+on one side of the page the first
+example I've got is mommy by Matthew
+
+8
+00:00:43,780 --> 00:00:43,790
+example I've got is mommy by Matthew
+
+9
+00:00:43,790 --> 00:00:44,380
+example I've got is mommy by Matthew
+Reinhart
+
+10
+00:00:44,380 --> 00:00:44,390
+Reinhart
+
+11
+00:00:44,390 --> 00:00:46,900
+Reinhart
+illustrated by Maurice Sendak and the
+
+12
+00:00:46,900 --> 00:00:46,910
+illustrated by Maurice Sendak and the
+
+13
+00:00:46,910 --> 00:00:50,650
+illustrated by Maurice Sendak and the
+final amazing spread on the right you've
+
+14
+00:00:50,650 --> 00:00:50,660
+final amazing spread on the right you've
+
+15
+00:00:50,660 --> 00:00:54,729
+final amazing spread on the right you've
+got this flap this is the structure the
+
+16
+00:00:54,729 --> 00:00:54,739
+got this flap this is the structure the
+
+17
+00:00:54,739 --> 00:00:56,950
+got this flap this is the structure the
+sculpture being made this is the gully
+
+18
+00:00:56,950 --> 00:00:56,960
+sculpture being made this is the gully
+
+19
+00:00:56,960 --> 00:00:58,600
+sculpture being made this is the gully
+down here and this is the sculpture
+
+20
+00:00:58,600 --> 00:00:58,610
+down here and this is the sculpture
+
+21
+00:00:58,610 --> 00:01:00,760
+down here and this is the sculpture
+being raised on one side of it and these
+
+22
+00:01:00,760 --> 00:01:00,770
+being raised on one side of it and these
+
+23
+00:01:00,770 --> 00:01:02,680
+being raised on one side of it and these
+two little pieces here these are the
+
+24
+00:01:02,680 --> 00:01:02,690
+two little pieces here these are the
+
+25
+00:01:02,690 --> 00:01:05,380
+two little pieces here these are the
+asymmetric v-folds that lift the whole
+
+26
+00:01:05,380 --> 00:01:05,390
+asymmetric v-folds that lift the whole
+
+27
+00:01:05,390 --> 00:01:08,649
+asymmetric v-folds that lift the whole
+thing really delightful piece of work
+
+28
+00:01:08,649 --> 00:01:08,659
+thing really delightful piece of work
+
+29
+00:01:08,659 --> 00:01:10,360
+thing really delightful piece of work
+that the way the head moves the arms
+
+30
+00:01:10,360 --> 00:01:10,370
+that the way the head moves the arms
+
+31
+00:01:10,370 --> 00:01:13,750
+that the way the head moves the arms
+move I can tell you which previous
+
+32
+00:01:13,750 --> 00:01:13,760
+move I can tell you which previous
+
+33
+00:01:13,760 --> 00:01:17,850
+move I can tell you which previous
+tutorials lead up to this tutorial for
+
+34
+00:01:17,850 --> 00:01:17,860
+tutorials lead up to this tutorial for
+
+35
+00:01:17,860 --> 00:01:22,060
+tutorials lead up to this tutorial for
+is asymmetric v-folds tutorial 5 is
+
+36
+00:01:22,060 --> 00:01:22,070
+is asymmetric v-folds tutorial 5 is
+
+37
+00:01:22,070 --> 00:01:24,390
+is asymmetric v-folds tutorial 5 is
+parallelograms which it's built onto
+
+38
+00:01:24,390 --> 00:01:24,400
+parallelograms which it's built onto
+
+39
+00:01:24,400 --> 00:01:28,330
+parallelograms which it's built onto
+tutorial 15 is moving arms and tutorial
+
+40
+00:01:28,330 --> 00:01:28,340
+tutorial 15 is moving arms and tutorial
+
+41
+00:01:28,340 --> 00:01:31,060
+tutorial 15 is moving arms and tutorial
+24 is circular movement so those are all
+
+42
+00:01:31,060 --> 00:01:31,070
+24 is circular movement so those are all
+
+43
+00:01:31,070 --> 00:01:34,780
+24 is circular movement so those are all
+used to make that that mechanism and the
+
+44
+00:01:34,780 --> 00:01:34,790
+used to make that that mechanism and the
+
+45
+00:01:34,790 --> 00:01:36,580
+used to make that that mechanism and the
+other one I'd like to show you is this
+
+46
+00:01:36,580 --> 00:01:36,590
+other one I'd like to show you is this
+
+47
+00:01:36,590 --> 00:01:38,050
+other one I'd like to show you is this
+one very different
+
+48
+00:01:38,050 --> 00:01:38,060
+one very different
+
+49
+00:01:38,060 --> 00:01:40,600
+one very different
+this is pop-up book and Nursery Rhymes
+
+50
+00:01:40,600 --> 00:01:40,610
+this is pop-up book and Nursery Rhymes
+
+51
+00:01:40,610 --> 00:01:44,230
+this is pop-up book and Nursery Rhymes
+again it's by Mathew Reinhardt this is
+
+52
+00:01:44,230 --> 00:01:44,240
+again it's by Mathew Reinhardt this is
+
+53
+00:01:44,240 --> 00:01:47,020
+again it's by Mathew Reinhardt this is
+the spread so in this case this is the
+
+54
+00:01:47,020 --> 00:01:47,030
+the spread so in this case this is the
+
+55
+00:01:47,030 --> 00:01:49,660
+the spread so in this case this is the
+structure that's been raised on the one
+
+56
+00:01:49,660 --> 00:01:49,670
+structure that's been raised on the one
+
+57
+00:01:49,670 --> 00:01:52,410
+structure that's been raised on the one
+side of this crease here and the
+
+58
+00:01:52,410 --> 00:01:52,420
+side of this crease here and the
+
+59
+00:01:52,420 --> 00:01:54,760
+side of this crease here and the
+asymmetric V pod is actually hidden
+
+60
+00:01:54,760 --> 00:01:54,770
+asymmetric V pod is actually hidden
+
+61
+00:01:54,770 --> 00:01:58,660
+asymmetric V pod is actually hidden
+underneath this floating plane so here
+
+62
+00:01:58,660 --> 00:01:58,670
+underneath this floating plane so here
+
+63
+00:01:58,670 --> 00:02:00,370
+underneath this floating plane so here
+you can see this is the floating plane
+
+64
+00:02:00,370 --> 00:02:00,380
+you can see this is the floating plane
+
+65
+00:02:00,380 --> 00:02:04,780
+you can see this is the floating plane
+this is the asymmetric V fold which has
+
+66
+00:02:04,780 --> 00:02:04,790
+this is the asymmetric V fold which has
+
+67
+00:02:04,790 --> 00:02:07,929
+this is the asymmetric V fold which has
+been used to raise this structure if you
+
+68
+00:02:07,929 --> 00:02:07,939
+been used to raise this structure if you
+
+69
+00:02:07,939 --> 00:02:10,240
+been used to raise this structure if you
+look at this structure end on you can
+
+70
+00:02:10,240 --> 00:02:10,250
+look at this structure end on you can
+
+71
+00:02:10,250 --> 00:02:12,699
+look at this structure end on you can
+see it's all parallelograms all being
+
+72
+00:02:12,699 --> 00:02:12,709
+see it's all parallelograms all being
+
+73
+00:02:12,709 --> 00:02:13,370
+see it's all parallelograms all being
+raised by
+
+74
+00:02:13,370 --> 00:02:13,380
+raised by
+
+75
+00:02:13,380 --> 00:02:15,020
+raised by
+one plane which is lifted by the
+
+76
+00:02:15,020 --> 00:02:15,030
+one plane which is lifted by the
+
+77
+00:02:15,030 --> 00:02:17,750
+one plane which is lifted by the
+asymmetric v-fold so now I'll just run
+
+78
+00:02:17,750 --> 00:02:17,760
+asymmetric v-fold so now I'll just run
+
+79
+00:02:17,760 --> 00:02:19,520
+asymmetric v-fold so now I'll just run
+through some angles for the isometric
+
+80
+00:02:19,520 --> 00:02:19,530
+through some angles for the isometric
+
+81
+00:02:19,530 --> 00:02:23,000
+through some angles for the isometric
+viewpoint even a couple of examples in
+
+82
+00:02:23,000 --> 00:02:23,010
+viewpoint even a couple of examples in
+
+83
+00:02:23,010 --> 00:02:26,510
+viewpoint even a couple of examples in
+this one this small angle is 30 degrees
+
+84
+00:02:26,510 --> 00:02:26,520
+this one this small angle is 30 degrees
+
+85
+00:02:26,520 --> 00:02:29,540
+this one this small angle is 30 degrees
+and this is 90 degrees and on the page
+
+86
+00:02:29,540 --> 00:02:29,550
+and this is 90 degrees and on the page
+
+87
+00:02:29,550 --> 00:02:32,030
+and this is 90 degrees and on the page
+the angle between the spine and where it
+
+88
+00:02:32,030 --> 00:02:32,040
+the angle between the spine and where it
+
+89
+00:02:32,040 --> 00:02:34,550
+the angle between the spine and where it
+sticks down that's 30 and the angle
+
+90
+00:02:34,550 --> 00:02:34,560
+sticks down that's 30 and the angle
+
+91
+00:02:34,560 --> 00:02:36,440
+sticks down that's 30 and the angle
+between the spine or it sticks down here
+
+92
+00:02:36,440 --> 00:02:36,450
+between the spine or it sticks down here
+
+93
+00:02:36,450 --> 00:02:38,990
+between the spine or it sticks down here
+that's 90 when the whole thing is flat
+
+94
+00:02:38,990 --> 00:02:39,000
+that's 90 when the whole thing is flat
+
+95
+00:02:39,000 --> 00:02:41,270
+that's 90 when the whole thing is flat
+the whole single life left and as you
+
+96
+00:02:41,270 --> 00:02:41,280
+the whole single life left and as you
+
+97
+00:02:41,280 --> 00:02:43,430
+the whole single life left and as you
+can see as it closes like this the whole
+
+98
+00:02:43,430 --> 00:02:43,440
+can see as it closes like this the whole
+
+99
+00:02:43,440 --> 00:02:45,050
+can see as it closes like this the whole
+thing moves forward so you can build
+
+100
+00:02:45,050 --> 00:02:45,060
+thing moves forward so you can build
+
+101
+00:02:45,060 --> 00:02:49,070
+thing moves forward so you can build
+parallelograms onto this flap here in
+
+102
+00:02:49,070 --> 00:02:49,080
+parallelograms onto this flap here in
+
+103
+00:02:49,080 --> 00:02:52,340
+parallelograms onto this flap here in
+this version the angle and the base is
+
+104
+00:02:52,340 --> 00:02:52,350
+this version the angle and the base is
+
+105
+00:02:52,350 --> 00:02:54,770
+this version the angle and the base is
+still 30 but the small angle and the
+
+106
+00:02:54,770 --> 00:02:54,780
+still 30 but the small angle and the
+
+107
+00:02:54,780 --> 00:02:58,160
+still 30 but the small angle and the
+asymmetric v-fold is 35 and the angle on
+
+108
+00:02:58,160 --> 00:02:58,170
+asymmetric v-fold is 35 and the angle on
+
+109
+00:02:58,170 --> 00:03:00,500
+asymmetric v-fold is 35 and the angle on
+the base is 90 and the angle on the
+
+110
+00:03:00,500 --> 00:03:00,510
+the base is 90 and the angle on the
+
+111
+00:03:00,510 --> 00:03:03,890
+the base is 90 and the angle on the
+asymmetric v-fold is 95 so I've made one
+
+112
+00:03:03,890 --> 00:03:03,900
+asymmetric v-fold is 95 so I've made one
+
+113
+00:03:03,900 --> 00:03:07,250
+asymmetric v-fold is 95 so I've made one
+of those here here's the piece you've
+
+114
+00:03:07,250 --> 00:03:07,260
+of those here here's the piece you've
+
+115
+00:03:07,260 --> 00:03:09,380
+of those here here's the piece you've
+got the big angle on the asymmetric
+
+116
+00:03:09,380 --> 00:03:09,390
+got the big angle on the asymmetric
+
+117
+00:03:09,390 --> 00:03:12,170
+got the big angle on the asymmetric
+piece is 95 and the small angle on it is
+
+118
+00:03:12,170 --> 00:03:12,180
+piece is 95 and the small angle on it is
+
+119
+00:03:12,180 --> 00:03:16,150
+piece is 95 and the small angle on it is
+40 degrees on the base you've got 90 and
+
+120
+00:03:16,150 --> 00:03:16,160
+40 degrees on the base you've got 90 and
+
+121
+00:03:16,160 --> 00:03:18,800
+40 degrees on the base you've got 90 and
+35 so I'll just stick that band so you
+
+122
+00:03:18,800 --> 00:03:18,810
+35 so I'll just stick that band so you
+
+123
+00:03:18,810 --> 00:03:23,650
+35 so I'll just stick that band so you
+can see how it goes with all these
+
+124
+00:03:23,650 --> 00:03:23,660
+can see how it goes with all these
+
+125
+00:03:23,660 --> 00:03:26,510
+can see how it goes with all these
+asymmetric so you have a the small angle
+
+126
+00:03:26,510 --> 00:03:26,520
+asymmetric so you have a the small angle
+
+127
+00:03:26,520 --> 00:03:28,970
+asymmetric so you have a the small angle
+on the pop-up goes over the big angle on
+
+128
+00:03:28,970 --> 00:03:28,980
+on the pop-up goes over the big angle on
+
+129
+00:03:28,980 --> 00:03:31,040
+on the pop-up goes over the big angle on
+the page the big angle on the pop-up
+
+130
+00:03:31,040 --> 00:03:31,050
+the page the big angle on the pop-up
+
+131
+00:03:31,050 --> 00:03:33,110
+the page the big angle on the pop-up
+goes over the small angle on the page so
+
+132
+00:03:33,110 --> 00:03:33,120
+goes over the small angle on the page so
+
+133
+00:03:33,120 --> 00:03:35,950
+goes over the small angle on the page so
+it's going to stick though like that
+
+134
+00:03:35,950 --> 00:03:35,960
+it's going to stick though like that
+
+135
+00:03:35,960 --> 00:03:39,110
+it's going to stick though like that
+I'll just glue this and stick it on as
+
+136
+00:03:39,110 --> 00:03:39,120
+I'll just glue this and stick it on as
+
+137
+00:03:39,120 --> 00:03:41,540
+I'll just glue this and stick it on as
+I've measured the positions on the base
+
+138
+00:03:41,540 --> 00:03:41,550
+I've measured the positions on the base
+
+139
+00:03:41,550 --> 00:03:45,170
+I've measured the positions on the base
+and on the pop-up I can just do it all
+
+140
+00:03:45,170 --> 00:03:45,180
+and on the pop-up I can just do it all
+
+141
+00:03:45,180 --> 00:03:46,880
+and on the pop-up I can just do it all
+rather than sticking down one side and
+
+142
+00:03:46,880 --> 00:03:46,890
+rather than sticking down one side and
+
+143
+00:03:46,890 --> 00:03:54,680
+rather than sticking down one side and
+letting it find its natural position
+
+144
+00:03:54,680 --> 00:03:54,690
+
+
+145
+00:03:54,690 --> 00:04:00,930
+stick that down there and that down
+
+146
+00:04:00,930 --> 00:04:00,940
+stick that down there and that down
+
+147
+00:04:00,940 --> 00:04:06,630
+stick that down there and that down
+there there it is close it down I've
+
+148
+00:04:06,630 --> 00:04:06,640
+there there it is close it down I've
+
+149
+00:04:06,640 --> 00:04:08,670
+there there it is close it down I've
+left this flap on the top just so you
+
+150
+00:04:08,670 --> 00:04:08,680
+left this flap on the top just so you
+
+151
+00:04:08,680 --> 00:04:12,259
+left this flap on the top just so you
+can build parallelograms onto it and
+
+152
+00:04:12,259 --> 00:04:12,269
+can build parallelograms onto it and
+
+153
+00:04:12,269 --> 00:04:15,150
+can build parallelograms onto it and
+that's it really the useful tip for
+
+154
+00:04:15,150 --> 00:04:15,160
+that's it really the useful tip for
+
+155
+00:04:15,160 --> 00:04:18,600
+that's it really the useful tip for
+building things on one side of the base
+
