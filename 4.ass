@@ -14,9 +14,10 @@ Audio File: ../../stash/4.mp4
 Video File: ../../stash/4.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Active Line: 7
-Video Position: 968
+Video Zoom Percent: 1.000000
+Scroll Position: 215
+Active Line: 222
+Video Position: 19829
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -31,219 +32,221 @@ Dialogue: 0,0:00:04.06,0:00:12.74,Default,,0,0,0,,这套教程 介绍如何制�
 Dialogue: 0,0:00:12.74,0:00:17.46,Default,,0,0,0,,课程第一集是该系列的简介\N包含制作立体书所需材料
 Dialogue: 0,0:00:17.46,0:00:24.54,Default,,0,0,0,,同时解释了立体书遵循的一些规则
 Dialogue: 0,0:00:24.54,0:00:30.58,Default,,0,0,0,,尽管所有教程都是独立的\N但还是推荐探索前先看完第一集基础教程
-Dialogue: 0,0:00:30.58,0:00:32.54,h2,,0,0,0,,教程3
-Dialogue: 0,0:00:32.54,0:00:35.22,Default,,0,0,0,,V形折 第二部分\N山形V形折和锐角钝角V形折
-Dialogue: 0,0:00:38.71,0:00:43.39,Default,,0,0,0,,the same as in 1 & 2 we need cart\N跟第一部分和第二部分一样
-Dialogue: 0,0:00:43.39,0:00:47.39,Default,,0,0,0,,this is photocopy cards 160 GSM scissors\N我们需要卡纸 这里是160克的
-Dialogue: 0,0:00:47.39,0:00:50.53,Default,,0,0,0,,need no explanation and glue the same\N剪刀 不解释
-Dialogue: 0,0:00:50.53,0:00:59.39,Default,,0,0,0,,same glue as was explained in part 1 so\N胶水 不解释  胶水教程1详细说过了
-Dialogue: 0,0:00:59.39,0:01:03.59,Default,,0,0,0,,there are five kinds of v-fold the first\N这是五种类型的V形折
-Dialogue: 0,0:01:03.59,0:01:06.38,Default,,0,0,0,,is the the right angle default this is\N第一种是直角V形折 教程2第一部分解说过了
-Dialogue: 0,0:01:06.38,0:01:10.68,Default,,0,0,0,,explained in part 1 the second is the\N第二种 锐角V形折
-Dialogue: 0,0:01:10.68,0:01:13.42,Default,,0,0,0,,acute angle v-fold these also explained\N也是教程2第一部分解说的
-Dialogue: 0,0:01:13.42,0:01:18.31,Default,,0,0,0,,in part 1 the third is the point of view\N第三种 山形V形折
-Dialogue: 0,0:01:18.31,0:01:21.95,Default,,0,0,0,,fault this is V Falls part two and the\N在教程3 V形折第二部分溜过
-Dialogue: 0,0:01:21.95,0:01:25.42,Default,,0,0,0,,two single V fold is also V Falls part\N第四种 钝角V形折 也是教程3第二部分
-Dialogue: 0,0:01:25.42,0:01:28.54,Default,,0,0,0,,two and the fifth and final type of V\N第五种最后一种V形折
-Dialogue: 0,0:01:28.54,0:01:31.36,Default,,0,0,0,,fold this is the asymmetric V fault\N异形状V形折
-Dialogue: 0,0:01:31.36,0:01:33.02,Default,,0,0,0,,this is too tall it's all about the\N这节教程的主角
-Dialogue: 0,0:01:33.02,0:01:36.52,Default,,0,0,0,,asymmetric v-fold most v-folds most pop\N大多数V形折或者说
-Dialogue: 0,0:01:36.52,0:01:39.64,Default,,0,0,0,,up mechanisms are centered on the on the\N大多立起结构都是
-Dialogue: 0,0:01:39.64,0:01:41.45,Default,,0,0,0,,spine fold and they're completely\N垂直对齐主折线的
-Dialogue: 0,0:01:41.45,0:01:44.29,Default,,0,0,0,,symmetric so the asymmetric V fold is\N它们是完全对称的
-Dialogue: 0,0:01:44.29,0:01:47.50,Default,,0,0,0,,useful it takes the takes the design off\N非对称V形折在偏中心设计很好使
-Dialogue: 0,0:01:47.50,0:01:49.84,Default,,0,0,0,,center and is why it just makes the\N简直跟鲇鱼一样的存在
-Dialogue: 0,0:01:49.84,0:01:51.56,Default,,0,0,0,,whole thing much more interesting those\N能盘活整个设计
-Dialogue: 0,0:01:51.56,0:01:54.20,Default,,0,0,0,,are it's very varied so I've got a whole\N我这列举了
-Dialogue: 0,0:01:54.20,0:01:58.52,Default,,0,0,0,,array of them here everyone different it\N它们常见的几种形态 每个都不一样
-Dialogue: 0,0:01:58.52,0:02:00.70,Default,,0,0,0,,all depends on the angles on the pop-up\N所有都是依赖立起结构角度
-Dialogue: 0,0:02:00.70,0:02:03.13,Default,,0,0,0,,and the angles on the page and in each\N和基础页的角度
-Dialogue: 0,0:02:03.13,0:02:05.04,Default,,0,0,0,,case all four angles are different\N每个例子四个角都不同
-Dialogue: 0,0:02:05.04,0:02:11.59,Default,,0,0,0,,scientists show enough an array of these\N所以我就随意拎个出来举例子
-Dialogue: 0,0:02:11.59,0:02:17.58,Default,,0,0,0,,[Applause]
-Dialogue: 0,0:02:17.58,0:02:20.29,Default,,0,0,0,,they're very hard to actually work out\N很难主观臆测会制作出
-Dialogue: 0,0:02:20.29,0:02:23.08,Default,,0,0,0,,what the what shape you're going to make\N什么形状
-Dialogue: 0,0:02:23.08,0:02:26.41,Default,,0,0,0,,so you either need to know it's good to\N所以不断试错
-Dialogue: 0,0:02:26.41,0:02:28.75,Default,,0,0,0,,make just make trial and error make a\N是掌握这种V折不错的方法
-Dialogue: 0,0:02:28.75,0:02:32.23,Default,,0,0,0,,whole series alternatively I'll explain\N或者我的书里有个章节解释了
-Dialogue: 0,0:02:32.23,0:02:33.70,Default,,0,0,0,,in a minute in my book there's a\N如何做选择
-Dialogue: 0,0:02:33.70,0:02:38.20,Default,,0,0,0,,reference set that you can look at so so\N有兴趣可以去了解
-Dialogue: 0,0:02:38.20,0:02:40.69,Default,,0,0,0,,so here they are as you can see\N就像现在看到的
-Dialogue: 0,0:02:40.69,0:02:43.26,Default,,0,0,0,,they the angles just moved all over the place and\N稍微改变角度 就产生不一样的形状
-Dialogue: 0,0:02:43.26,0:02:48.78,Default,,0,0,0,,have an enormous amount of potential\N具有很多种的可能性
-Dialogue: 0,0:02:48.78,0:02:54.16,Default,,0,0,0,,right take a face sheet and fold it well\N来吧 拿张卡纸做基础页
-Dialogue: 0,0:02:54.16,0:03:01.90,Default,,0,0,0,,so here's a base sheet thoroughly\N多折一折
-Dialogue: 0,0:03:01.90,0:03:04.87,Default,,0,0,0,,creased as always counts can't stress\N一直到折起后
-Dialogue: 0,0:03:04.87,0:03:08.17,Default,,0,0,0,,that enough fold it back on itself and\N不会有反弹
-Dialogue: 0,0:03:08.17,0:03:14.68,Default,,0,0,0,,again and again so opens and closes nice\N确认展开合上都是良好 顺滑
-Dialogue: 0,0:03:14.68,0:03:20.54,Default,,0,0,0,,and smoothly we'll take a sheet of cards\N再来拿出张卡纸
-Dialogue: 0,0:03:20.54,0:03:34.72,Default,,0,0,0,,cut it in half fold it in half there\N剪一半 对折
-Dialogue: 0,0:03:34.72,0:03:37.66,Default,,0,0,0,,most nice pop-ups when you want the two\N大多数立起结构
-Dialogue: 0,0:03:37.66,0:03:40.26,Default,,0,0,0,,angles on each side in the pop-up piece\N你都是想要两边角度对称的
-Dialogue: 0,0:03:40.26,0:03:43.32,Default,,0,0,0,,to be symmetric so most pop-ups most\N所以大多立起结构、
-Dialogue: 0,0:03:43.32,0:03:46.29,Default,,0,0,0,,v-folds having folded it in half you\N大多V形折一般先会对折
-Dialogue: 0,0:03:46.29,0:03:49.03,Default,,0,0,0,,then fold the tabs on to it in this case\N然后折起粘口
-Dialogue: 0,0:03:49.03,0:03:50.82,Default,,0,0,0,,all four angles are different the two\N现在的这种 四个角都是不一样的
-Dialogue: 0,0:03:50.82,0:03:52.72,Default,,0,0,0,,angles on the pop-up and the two angles\N即立起结构的两个角
-Dialogue: 0,0:03:52.72,0:03:55.03,Default,,0,0,0,,on the base they're all different so in\N和基础页上的两个角，他们都不同
-Dialogue: 0,0:03:55.03,0:03:58.29,Default,,0,0,0,,this case having folded it in half just\N在这里 折叠起来
-Dialogue: 0,0:03:58.29,0:04:01.03,Default,,0,0,0,,cast a little wedge wedge acid the\N沿着立起结构对折边
-Dialogue: 0,0:04:01.03,0:04:02.94,Default,,0,0,0,,bottom corner this is your folded sides\N在底角剪出一个楔形口
-Dialogue: 0,0:04:02.94,0:04:06.67,Default,,0,0,0,,so we just just cut a wedge out and now
-Dialogue: 0,0:04:06.67,0:04:09.06,Default,,0,0,0,,we now we fold the gluing tabs on to it\N然后制作粘胶水的粘口
-Dialogue: 0,0:04:09.06,0:04:13.00,Default,,0,0,0,,so start with one side fold it maybe you\N从一边开始
-Dialogue: 0,0:04:13.00,0:04:18.51,Default,,0,0,0,,make quite a quite a large angle and\N先制作一个大角度的侧面
-Dialogue: 0,0:04:18.51,0:04:21.40,Default,,0,0,0,,maybe trim those chill nose corners down\N粘口边上修正一点
-Dialogue: 0,0:04:21.40,0:04:23.62,Default,,0,0,0,,a bit more
-Dialogue: 0,0:04:23.62,0:04:28.43,Default,,0,0,0,,so there we are and then the other one\N这样差不多了
-Dialogue: 0,0:04:28.43,0:04:32.24,Default,,0,0,0,,let's make it much more acute so we'll\N另一个做个更偏锐角的
-Dialogue: 0,0:04:32.24,0:04:40.96,Default,,0,0,0,,come right up like this so we've got the\N马上开始
-Dialogue: 0,0:04:40.96,0:04:43.61,Default,,0,0,0,,two angles on your pop-up piece are\N这样现在的立起结构
-Dialogue: 0,0:04:43.61,0:04:45.77,Default,,0,0,0,,completely different and again you know\N有两个完全不同的角
-Dialogue: 0,0:04:45.77,0:04:56.81,Default,,0,0,0,,just cut that into the gluing time now\N修一下粘口
-Dialogue: 0,0:04:56.81,0:04:59.39,Default,,0,0,0,,you put this on the put this on the page\N修完后放基础页上
-Dialogue: 0,0:04:59.39,0:05:01.55,Default,,0,0,0,,this is the very fold always falls in\NV折折叠收起时
-Dialogue: 0,0:05:01.55,0:05:03.89,Default,,0,0,0,,the direction that the V is pointing\N一般是朝向V指的方向
-Dialogue: 0,0:05:03.89,0:05:05.93,Default,,0,0,0,,it's going to be on your page something\N在基础页上的体现是
-Dialogue: 0,0:05:05.93,0:05:06.62,Default,,0,0,0,,like this\N会超前倾倒
-Dialogue: 0,0:05:06.62,0:05:08.57,Default,,0,0,0,,so it's going to fold down forward so\N所以在粘贴时
-Dialogue: 0,0:05:08.57,0:05:10.85,Default,,0,0,0,,you need to position it up near the top\N应该是粘在基础页
-Dialogue: 0,0:05:10.85,0:05:11.80,Default,,0,0,0,,of the page\N偏后一点位置
-Dialogue: 0,0:05:11.80,0:05:15.74,Default,,0,0,0,,lay up the central crease with the\N粘口的折痕紧贴
-Dialogue: 0,0:05:15.74,0:05:17.69,Default,,0,0,0,,gulley on the base so the central crease\N基础页的中折线
-Dialogue: 0,0:05:17.69,0:05:20.57,Default,,0,0,0,,of the pop-up is lined up with the the\N立起结构和基础页的中折线平行相交
-Dialogue: 0,0:05:20.57,0:05:25.16,Default,,0,0,0,,crease of the base now mark the small\N现在在小角度边做个标记
-Dialogue: 0,0:05:25.16,0:05:27.47,Default,,0,0,0,,angle so you on your pop-up you've got a\N立起结构现在是有一个大角 一个小角
-Dialogue: 0,0:05:27.47,0:05:30.38,Default,,0,0,0,,big angle and a small angle but this\N我们标记的是小的
-Dialogue: 0,0:05:30.38,0:05:35.36,Default,,0,0,0,,small angle so here's the line now this\N来 跟我右手一起画条线
-Dialogue: 0,0:05:35.36,0:05:37.43,Default,,0,0,0,,is a crucial bit you flip the whole\N划重点 这里是关键
-Dialogue: 0,0:05:37.43,0:05:40.55,Default,,0,0,0,,thing over so now you've got the big the\N整个立起结构翻个面
-Dialogue: 0,0:05:40.55,0:05:43.37,Default,,0,0,0,,big angle on the pop-up above the small\N现在红色卡纸大角度会在
-Dialogue: 0,0:05:43.37,0:05:46.70,Default,,0,0,0,,angle on the page so if you were to glue\N基础页划线的小角度面上方
-Dialogue: 0,0:05:46.70,0:05:50.24,Default,,0,0,0,,it down following that line you could\N如果直接沿线上胶水
-Dialogue: 0,0:05:50.24,0:05:52.16,Default,,0,0,0,,glue it down like this in which case the\N效果就会成这样
-Dialogue: 0,0:05:52.16,0:05:54.74,Default,,0,0,0,,whole pop-up would lie flat when the\N立起结构会平摊在基础页上
-Dialogue: 0,0:05:54.74,0:05:56.84,Default,,0,0,0,,when the page is flat but in this case\N这不是我们想要的效果
-Dialogue: 0,0:05:56.84,0:05:59.06,Default,,0,0,0,,you want it to be in dimension you want\N这里我们想要立体的效果
-Dialogue: 0,0:05:59.06,0:06:02.78,Default,,0,0,0,,it 3d so you move this move this piece\N所以把角度略微向内收一收
-Dialogue: 0,0:06:02.78,0:06:05.69,Default,,0,0,0,,in slightly and it's just got to be\N也就是粘的时候
-Dialogue: 0,0:06:05.69,0:06:08.27,Default,,0,0,0,,glued down somewhere between the line\N粘口放在
-Dialogue: 0,0:06:08.27,0:06:10.70,Default,,0,0,0,,you've marked and the central central\N标记的线和中折线之间
-Dialogue: 0,0:06:10.70,0:06:14.51,Default,,0,0,0,,gully of the the page and according to\N另一边的粘口粘在哪
-Dialogue: 0,0:06:14.51,0:06:15.83,Default,,0,0,0,,where you can learn it that would affect\N会影响最终的形状
-Dialogue: 0,0:06:15.83,0:06:18.83,Default,,0,0,0,,though the shape that you end up with so\N结果说话
-Dialogue: 0,0:06:18.83,0:06:25.97,Default,,0,0,0,,I'll just glue that\N直接上胶水吧
-Dialogue: 0,0:06:25.97,0:06:28.71,Default,,0,0,0,,the really crucial thing with this is to\N再强调下最重要的：
-Dialogue: 0,0:06:28.71,0:06:30.60,Default,,0,0,0,,make sure you flip it over so you get\N翻转立起结构
-Dialogue: 0,0:06:30.60,0:06:33.35,Default,,0,0,0,,the large the large angle on the pop-up\N立起结构大角度边粘在
-Dialogue: 0,0:06:33.35,0:06:36.18,Default,,0,0,0,,sticking over the small angle on the\N基础页有小角度边的这面
-Dialogue: 0,0:06:36.18,0:06:43.11,Default,,0,0,0,,page so here we are they make sure that\N就像这样
-Dialogue: 0,0:06:43.11,0:06:45.36,Default,,0,0,0,,you're gluing tab isn't going over there\N要确保粘口不超过中折线谷沟
-Dialogue: 0,0:06:45.36,0:06:47.34,Default,,0,0,0,,over the central gully if it does just\N如果超过
-Dialogue: 0,0:06:47.34,0:06:50.16,Default,,0,0,0,,trim it back a bit so that's that one\N要剪掉那些超出部分
-Dialogue: 0,0:06:50.16,0:06:53.28,Default,,0,0,0,,glued down now put the whole thing into\N一边粘好后
-Dialogue: 0,0:06:53.28,0:06:54.84,Default,,0,0,0,,its closed position\N合起立起结构到折叠状态
-Dialogue: 0,0:06:54.84,0:07:00.48,Default,,0,0,0,,but glue on the other tab smear it right\N给另一边上胶水
-Dialogue: 0,0:07:00.48,0:07:12.54,Default,,0,0,0,,up to the crease bit more glue and then\N涂抹均匀
-Dialogue: 0,0:07:12.54,0:07:17.00,Default,,0,0,0,,fold it shut\N折叠起来
-Dialogue: 0,0:07:17.00,0:07:21.35,Default,,0,0,0,,so here we have an asymmetric free fold\N这就是非对称V形折了
-Dialogue: 0,0:07:21.35,0:07:24.89,Default,,0,0,0,,[Music]
-Dialogue: 0,0:07:24.89,0:07:27.48,Default,,0,0,0,,all four angles are different the two\N这种结构四个角都是不同的
-Dialogue: 0,0:07:27.48,0:07:29.40,Default,,0,0,0,,angles on the pop-up a difference and\N立起结构两个角不同
-Dialogue: 0,0:07:29.40,0:07:32.13,Default,,0,0,0,,the two angles on the on the base are\N基础页的两个角也不同
-Dialogue: 0,0:07:32.13,0:07:33.63,Default,,0,0,0,,different so now I'll just do a little\N下面我画个图解释下
-Dialogue: 0,0:07:33.63,0:07:37.68,Default,,0,0,0,,little diagram to explain how that how\N其中原理
-Dialogue: 0,0:07:37.68,0:07:45.75,Default,,0,0,0,,that works so if we take this is the\N假设
-Dialogue: 0,0:07:45.75,0:07:53.55,Default,,0,0,0,,this is the base sheet with the with the\N这是基础页
-Dialogue: 0,0:07:53.55,0:07:56.43,Default,,0,0,0,,crease down the middle and I'll just\N中折线在中间
-Dialogue: 0,0:07:56.43,0:07:58.97,Default,,0,0,0,,copy this one we've got the angle that\N我仿照下这个形状
-Dialogue: 0,0:07:58.97,0:08:01.62,Default,,0,0,0,,it's glued down to is here this is where\N这个角是刚粘的位置
-Dialogue: 0,0:08:01.62,0:08:04.65,Default,,0,0,0,,the one side is glued we'll call that\N和中折线呈的角定为 A
-Dialogue: 0,0:08:04.65,0:08:07.89,Default,,0,0,0,,angle a on the other side we've got a
-Dialogue: 0,0:08:07.89,0:08:11.58,Default,,0,0,0,,much much wider angle we'll call that\N另一边很大的这个角定为 B
-Dialogue: 0,0:08:11.58,0:08:18.41,Default,,0,0,0,,angle B on the pop-up piece is the is\N立起结构用虚线表示
-Dialogue: 0,0:08:18.41,0:08:23.46,Default,,0,0,0,,the dotted line we've got a big angle so\N画个大点的角度
-Dialogue: 0,0:08:23.46,0:08:28.29,Default,,0,0,0,,that's here with the with the tab and\N画粘口
-Dialogue: 0,0:08:28.29,0:08:32.09,Default,,0,0,0,,we've got a small angle here with the\N画小角度面
-Dialogue: 0,0:08:32.09,0:08:36.21,Default,,0,0,0,,tab and this is the rest of the cards\N画粘口 和卡纸其它部分
-Dialogue: 0,0:08:36.21,0:08:40.89,Default,,0,0,0,,so we call these C this is angle C and\N定大角度为 C
-Dialogue: 0,0:08:40.89,0:08:46.58,Default,,0,0,0,,this is angle D right the crucial thing\N另一个角度为 D
-Dialogue: 0,0:08:46.58,0:08:50.64,Default,,0,0,0,,is the angles on each sides the angles\N关键来了：
-Dialogue: 0,0:08:50.64,0:08:53.64,Default,,0,0,0,,on the pop-up plus the base must be the\N一边的立起结构角加基础面的角
-Dialogue: 0,0:08:53.64,0:08:55.95,Default,,0,0,0,,same on the left and on the right so in\N等于另一边立起结构角加基础面的角
-Dialogue: 0,0:08:55.95,0:09:07.13,Default,,0,0,0,,this case a plus C must equal B plus D\N在这里就是 A + C = B + D
-Dialogue: 0,0:09:07.13,0:09:09.87,Default,,0,0,0,,and the other factor is the angles on\N另一个条件
-Dialogue: 0,0:09:09.87,0:09:12.27,Default,,0,0,0,,the pop-up must be bigger than the\N立起结构的两个角加起来
-Dialogue: 0,0:09:12.27,0:09:18.23,Default,,0,0,0,,angles on the on the base so C plus D\N要大于基础页的两个角之和
-Dialogue: 0,0:09:18.23,0:09:30.14,Default,,0,0,0,,must be bigger then a plus B I'll just\N也就是 C + D > A + B
-Dialogue: 0,0:09:30.14,0:09:32.19,Default,,0,0,0,,turn that around so you can so you can\N我转下方向到镜头 看着更清晰
-Dialogue: 0,0:09:32.19,0:09:36.02,Default,,0,0,0,,see it clearly so a and B are the angles\NA和B是基础页上的角
-Dialogue: 0,0:09:36.02,0:09:39.66,Default,,0,0,0,,on the base C and D are the angles on\NC和D是立起结构上的角
-Dialogue: 0,0:09:39.66,0:09:40.38,Default,,0,0,0,,the pop-up
-Dialogue: 0,0:09:40.38,0:09:46.65,Default,,0,0,0,,so a plus C must equal B plus D so that\NA + C = B + D
-Dialogue: 0,0:09:46.65,0:09:49.08,Default,,0,0,0,,you have balance and so that the whole\N这样达到了均衡
-Dialogue: 0,0:09:49.08,0:09:51.12,Default,,0,0,0,,while thing stands up and doesn't lie flat on\N为了让结构立起不趴在页面
-Dialogue: 0,0:09:51.12,0:09:54.15,Default,,0,0,0,,the page the angles on the on the pop-up\N立起结构的角之和
-Dialogue: 0,0:09:54.15,0:09:56.22,Default,,0,0,0,,must be bigger than the angles on the\N必须大于基础页上的角之和
-Dialogue: 0,0:09:56.22,0:09:59.58,Default,,0,0,0,,page so C plus D must be bigger than a\N也就是 C + D > B + D
-Dialogue: 0,0:09:59.58,0:10:01.56,Default,,0,0,0,,plus B I've got a few books that\N下面介绍几本书
-Dialogue: 0,0:10:01.56,0:10:04.68,Default,,0,0,0,,demonstrate the asymmetric v-fold first\N演示非对称V形折
-Dialogue: 0,0:10:04.68,0:10:10.35,Default,,0,0,0,,dinah topia so here it is the pop-up\N第一本《恐龙帝国》\N158\N00:10:10,350 --> 00:10:13,470\Nthat the dinosaur is rising from the\N这个恐龙就是基于
-Dialogue: 0,0:10:13.47,0:10:16.26,Default,,0,0,0,,dinosaur is rising from an asymmetric\N非对称V形折
-Dialogue: 0,0:10:16.26,0:10:19.23,Default,,0,0,0,,v-fold so you'll see that the angle here\N可以看到立起结构的角
-Dialogue: 0,0:10:19.23,0:10:22.52,Default,,0,0,0,,on the pop-up is bigger than the angle\N大于基础页的角
-Dialogue: 0,0:10:22.52,0:10:25.11,Default,,0,0,0,,on the page and the angle here on the\N另一面这边立起结构的角
-Dialogue: 0,0:10:25.11,0:10:28.62,Default,,0,0,0,,pop-up is smaller than the angle on the\N小于基础页上的角
-Dialogue: 0,0:10:28.62,0:10:31.02,Default,,0,0,0,,page so that's the first one the the\N这就是第一个例子
-Dialogue: 0,0:10:31.02,0:10:33.18,Default,,0,0,0,,angle on the pop-up the two angles on\N立起结构上两个角度和
-Dialogue: 0,0:10:33.18,0:10:34.92,Default,,0,0,0,,the pop-up are the same as the two\N等于基础页的两个角之和
-Dialogue: 0,0:10:34.92,0:10:37.38,Default,,0,0,0,,angles on the page so when the page is\N页面完全展开时
-Dialogue: 0,0:10:37.38,0:10:42.08,Default,,0,0,0,,flat the pop-up is flat the second book\N立起结构也会摊平
-Dialogue: 0,0:10:42.08,0:10:44.90,Default,,0,0,0,,is B where de storybook wolves\N第二本《当心狼》
-Dialogue: 0,0:10:44.90,0:10:48.02,Default,,0,0,0,,beware the storybook wolves and in this
-Dialogue: 0,0:10:48.02,0:10:50.96,Default,,0,0,0,,one this is by a paper engineering by\N作者是
-Dialogue: 0,0:10:50.96,0:10:52.88,Default,,0,0,0,,Corrine Fletcher I think she's a really\N赵四 [见视频末尾:)]
-Dialogue: 0,0:10:52.88,0:10:56.30,Default,,0,0,0,,great paper engineer so here it is this\N他是个了不起的纸艺工程师
-Dialogue: 0,0:10:56.30,0:10:59.54,Default,,0,0,0,,fairy falling out of the page you can\N这里是个小仙女落出页面
-Dialogue: 0,0:10:59.54,0:11:02.54,Default,,0,0,0,,see the central the central gully on\N可以看到中折线和仙女的谷沟
-Dialogue: 0,0:11:02.54,0:11:05.93,Default,,0,0,0,,that on the ferry is really off-center\N是偏离中心的
-Dialogue: 0,0:11:05.93,0:11:09.77,Default,,0,0,0,,so this is an asymmetric v-fold you can\N这是个非对称V形折
-Dialogue: 0,0:11:09.77,0:11:11.75,Default,,0,0,0,,see it's asymmetric the central crease\N可以观察到V形折的中折线
-Dialogue: 0,0:11:11.75,0:11:15.14,Default,,0,0,0,,of the of the default is not lined up\N没有跟主轴线
-Dialogue: 0,0:11:15.14,0:11:16.88,Default,,0,0,0,,with the spine it's coming up with an\N在一条线 而是有个角度
-Dialogue: 0,0:11:16.88,0:11:19.55,Default,,0,0,0,,angle so this is the asymmetric V fold V\N这就是非对称V形折
-Dialogue: 0,0:11:19.55,0:11:22.16,Default,,0,0,0,,folds fold down in the direction the\N立起结构V指向的方向
-Dialogue: 0,0:11:22.16,0:11:24.38,Default,,0,0,0,,direction that the V is pointing so\N就是立起结构合闭的方向
-Dialogue: 0,0:11:24.38,0:11:27.80,Default,,0,0,0,,there is as you close the page the V
-Dialogue: 0,0:11:27.80,0:11:30.52,Default,,0,0,0,,fold folds up into it normally pop-ups
-Dialogue: 0,0:11:30.52,0:11:32.36,Default,,0,0,0,,are always built further up the page so
-Dialogue: 0,0:11:32.36,0:11:34.37,Default,,0,0,0,,everything remains within there within
-Dialogue: 0,0:11:34.37,0:11:36.56,Default,,0,0,0,,the frame of the book the way their head
-Dialogue: 0,0:11:36.56,0:11:38.33,Default,,0,0,0,,is lifted up that's just a small
-Dialogue: 0,0:11:38.33,0:11:40.79,Default,,0,0,0,,parallel fold built into the gulley
-Dialogue: 0,0:11:40.79,0:11:43.10,Default,,0,0,0,,whether the v-fold attaches to the page
-Dialogue: 0,0:11:43.10,0:11:45.35,Default,,0,0,0,,you can see that if I turn it round
-Dialogue: 0,0:11:45.35,0:11:48.26,Default,,0,0,0,,slightly you can see that's a parallel
-Dialogue: 0,0:11:48.26,0:11:51.74,Default,,0,0,0,,fold raising her head and the last one
-Dialogue: 0,0:11:51.74,0:11:54.62,Default,,0,0,0,,I'd like to show you is the little fish\N最后要介绍的是
-Dialogue: 0,0:11:54.62,0:11:56.45,Default,,0,0,0,,who cried shark and this has got a\N《哭鲨小鱼》
-Dialogue: 0,0:11:56.45,0:11:59.95,Default,,0,0,0,,massive messy shark at the end these\N最后页的鲨鱼
-Dialogue: 0,0:11:59.95,0:12:02.12,Default,,0,0,0,,both the head and the tail they're both\N头和尾部都是非对称V形折
-Dialogue: 0,0:12:02.12,0:12:04.31,Default,,0,0,0,,asymmetric v-folds you can see the\N可以看到
-Dialogue: 0,0:12:04.31,0:12:06.98,Default,,0,0,0,,central crease on both these pop-ups\N这些立起结构的折线
-Dialogue: 0,0:12:06.98,0:12:10.45,Default,,0,0,0,,lean lean away from the central gully of\N都是偏离书的谷沟
-Dialogue: 0,0:12:10.45,0:12:13.27,Default,,0,0,0,,the of the book and the tail this is a\N最尾部是个反折
-Dialogue: 0,0:12:13.27,0:12:17.30,Default,,0,0,0,,this is a counter fold so and again it's\N严格说
-Dialogue: 0,0:12:17.30,0:12:19.25,Default,,0,0,0,,actually an asymmetric one so you can\N也是个非对称V形折
-Dialogue: 0,0:12:19.25,0:12:21.49,Default,,0,0,0,,see that's giving you an extra pair of
-Dialogue: 0,0:12:21.49,0:12:25.97,Default,,0,0,0,,extra pair of planes so that's a
-Dialogue: 0,0:12:25.97,0:12:28.79,Default,,0,0,0,,symmetric V folds and all of that is
-Dialogue: 0,0:12:28.79,0:12:33.02,Default,,0,0,0,,explained in even more detail in in this
-Dialogue: 0,0:12:33.02,0:12:34.85,Default,,0,0,0,,以上就是本节教程啦
-Dialogue: 0,0:12:34.85,0:12:36.83,Default,,0,0,0,,如果想了解更多
-Dialogue: 0,0:12:36.83,0:12:38.54,Default,,0,0,0,,可以考虑下我的书「pop-up design and paper mechanics」
+Dialogue: 0,0:00:30.58,0:00:32.54,h2,,0,0,0,,教程4
+Dialogue: 0,0:00:32.54,0:00:34.38,Default,,0,0,0,,V形折 第三部分\N非对称V形折
+Dialogue: 0,0:00:34.58,0:00:37.78,Default,,0,0,0,,本节课程是V形折第三部分
+Dialogue: 0,0:00:37.82,0:00:39.74,Default,,0,0,0,,需要使用的材料
+Dialogue: 0,0:00:40.18,0:00:43.39,Default,,0,0,0,,跟第一部分和第二部分一样
+Dialogue: 0,0:00:43.39,0:00:47.39,Default,,0,0,0,,我们需要卡纸 这里是160克的
+Dialogue: 0,0:00:47.39,0:00:50.53,Default,,0,0,0,,剪刀 不用太多解释
+Dialogue: 0,0:00:50.53,0:00:53.90,Default,,0,0,0,,胶水  胶水教程1详细说过了
+Dialogue: 0,0:00:54.54,0:00:57.30,h2,,0,0,0,,五种V形折
+Dialogue: 0,0:00:59.39,0:01:03.59,Default,,0,0,0,,这是五种类型的V形折
+Dialogue: 0,0:01:03.59,0:01:06.38,Default,,0,0,0,,第一种是直角V形折 教程2第一部分解说过了
+Dialogue: 0,0:01:06.38,0:01:10.68,Default,,0,0,0,,第二种 锐角V形折
+Dialogue: 0,0:01:10.68,0:01:13.42,Default,,0,0,0,,也是教程2第一部分解说的
+Dialogue: 0,0:01:13.42,0:01:18.31,Default,,0,0,0,,第三种 山形V形折
+Dialogue: 0,0:01:18.31,0:01:21.95,Default,,0,0,0,,在教程3 V形折第二部分溜过
+Dialogue: 0,0:01:21.95,0:01:25.42,Default,,0,0,0,,第四种 钝角V形折 也是教程3第二部分
+Dialogue: 0,0:01:25.42,0:01:28.54,Default,,0,0,0,,第五种最后一种V形折
+Dialogue: 0,0:01:28.54,0:01:31.36,Default,,0,0,0,,非对称V形折
+Dialogue: 0,0:01:31.36,0:01:33.02,Default,,0,0,0,,这节教程的主角
+Dialogue: 0,0:01:33.02,0:01:36.52,Default,,0,0,0,,大多数V形折或者说
+Dialogue: 0,0:01:36.52,0:01:39.64,Default,,0,0,0,,大多立起结构都是
+Dialogue: 0,0:01:39.64,0:01:41.45,Default,,0,0,0,,垂直对齐主折线的
+Dialogue: 0,0:01:41.45,0:01:44.29,Default,,0,0,0,,它们是完全对称的
+Dialogue: 0,0:01:44.29,0:01:47.50,Default,,0,0,0,,非对称V形折在偏中心设计很好使
+Dialogue: 0,0:01:47.50,0:01:49.84,Default,,0,0,0,,它们形式有趣
+Dialogue: 0,0:01:49.84,0:01:51.56,Default,,0,0,0,,种类繁多
+Dialogue: 0,0:01:51.56,0:01:54.20,Default,,0,0,0,,我这列举了
+Dialogue: 0,0:01:54.20,0:01:58.52,Default,,0,0,0,,它们常见的几种形态 每个都不一样
+Dialogue: 0,0:01:58.52,0:02:00.70,Default,,0,0,0,,所有都是依赖立起结构角度
+Dialogue: 0,0:02:00.70,0:02:03.13,Default,,0,0,0,,和基础页的角度
+Dialogue: 0,0:02:03.13,0:02:05.04,Default,,0,0,0,,每个例子四个角都不同
+Dialogue: 0,0:02:05.04,0:02:11.59,Default,,0,0,0,,所以我就拎个出来举例子
+Dialogue: 0,0:02:11.59,0:02:17.58,Default,,0,0,0,,
+Dialogue: 0,0:02:17.58,0:02:20.29,Default,,0,0,0,,很难主观臆测会制作出
+Dialogue: 0,0:02:20.29,0:02:23.08,Default,,0,0,0,,什么形状
+Dialogue: 0,0:02:23.08,0:02:26.41,Default,,0,0,0,,所以不断试错
+Dialogue: 0,0:02:26.41,0:02:28.75,Default,,0,0,0,,是掌握这种V折不错的方法
+Dialogue: 0,0:02:28.75,0:02:32.23,Default,,0,0,0,,或者我的书里有个章节解释了
+Dialogue: 0,0:02:32.23,0:02:33.70,Default,,0,0,0,,如何做选择
+Dialogue: 0,0:02:33.70,0:02:38.20,Default,,0,0,0,,有兴趣可以去了解
+Dialogue: 0,0:02:38.20,0:02:40.69,Default,,0,0,0,,就像现在看到的
+Dialogue: 0,0:02:40.69,0:02:43.26,Default,,0,0,0,,稍微改变角度 就产生不一样的形状
+Dialogue: 0,0:02:43.26,0:02:46.26,Default,,0,0,0,,具有很多种的可能性
+Dialogue: 0,0:02:46.66,0:02:48.74,h2,,0,0,0,,制作非对称V形折
+Dialogue: 0,0:02:48.78,0:02:54.16,Default,,0,0,0,,来吧 拿张卡纸做基础页
+Dialogue: 0,0:02:54.16,0:03:01.90,Default,,0,0,0,,多折一折
+Dialogue: 0,0:03:01.90,0:03:04.87,Default,,0,0,0,,一直到折角
+Dialogue: 0,0:03:04.87,0:03:08.17,Default,,0,0,0,,不会有反弹感觉
+Dialogue: 0,0:03:08.17,0:03:14.68,Default,,0,0,0,,确认展开合上都是良好 顺滑
+Dialogue: 0,0:03:14.68,0:03:20.54,Default,,0,0,0,,再来拿出张卡纸
+Dialogue: 0,0:03:20.54,0:03:34.72,Default,,0,0,0,,剪一半 对折
+Dialogue: 0,0:03:34.72,0:03:37.66,Default,,0,0,0,,大多数立起结构
+Dialogue: 0,0:03:37.66,0:03:40.26,Default,,0,0,0,,你都是想要两边角度对称的
+Dialogue: 0,0:03:40.26,0:03:43.32,Default,,0,0,0,,所以大多立起结构
+Dialogue: 0,0:03:43.32,0:03:46.29,Default,,0,0,0,,大多V形折一般先会对折
+Dialogue: 0,0:03:46.29,0:03:49.03,Default,,0,0,0,,然后折起粘口
+Dialogue: 0,0:03:49.03,0:03:50.82,Default,,0,0,0,,现在的这种 四个角都是不一样的
+Dialogue: 0,0:03:50.82,0:03:52.72,Default,,0,0,0,,就是说立起结构的两个角
+Dialogue: 0,0:03:52.72,0:03:55.03,Default,,0,0,0,,和基础页上的两个角 角度都不同
+Dialogue: 0,0:03:55.03,0:03:58.29,Default,,0,0,0,,在这里 折叠起来
+Dialogue: 0,0:03:58.29,0:04:01.03,Default,,0,0,0,,沿着立起结构对折边
+Dialogue: 0,0:04:01.03,0:04:02.94,Default,,0,0,0,,在底角剪出一个楔形口
+Dialogue: 0,0:04:02.94,0:04:06.67,Default,,0,0,0,,只剪出一小口就行
+Dialogue: 0,0:04:06.67,0:04:09.06,Default,,0,0,0,,然后制作粘胶水的粘口
+Dialogue: 0,0:04:09.06,0:04:13.00,Default,,0,0,0,,从一边开始
+Dialogue: 0,0:04:13.00,0:04:18.51,Default,,0,0,0,,先制作一个大角度的侧面
+Dialogue: 0,0:04:18.51,0:04:21.40,Default,,0,0,0,,粘口边上修正一点
+Dialogue: 0,0:04:21.40,0:04:23.62,Default,,0,0,0,,
+Dialogue: 0,0:04:23.62,0:04:28.43,Default,,0,0,0,,这样差不多了
+Dialogue: 0,0:04:28.43,0:04:32.24,Default,,0,0,0,,另一个做个更偏锐角的
+Dialogue: 0,0:04:32.24,0:04:34.74,Default,,0,0,0,,马上开始
+Dialogue: 0,0:04:40.96,0:04:43.61,Default,,0,0,0,,这样现在的立起结构
+Dialogue: 0,0:04:43.61,0:04:45.77,Default,,0,0,0,,有两个完全不同的角
+Dialogue: 0,0:04:45.77,0:04:56.81,Default,,0,0,0,,修一下粘口
+Dialogue: 0,0:04:56.81,0:04:59.39,Default,,0,0,0,,修完后放基础页上
+Dialogue: 0,0:04:59.39,0:05:01.55,Default,,0,0,0,,V折折叠收起时
+Dialogue: 0,0:05:01.55,0:05:03.89,Default,,0,0,0,,一般是朝向V指的方向
+Dialogue: 0,0:05:03.89,0:05:05.93,Default,,0,0,0,,在基础页上的体现是
+Dialogue: 0,0:05:05.93,0:05:06.62,Default,,0,0,0,,会朝前倾倒
+Dialogue: 0,0:05:06.62,0:05:08.57,Default,,0,0,0,,所以在粘贴时
+Dialogue: 0,0:05:08.57,0:05:10.85,Default,,0,0,0,,应该是粘在基础页
+Dialogue: 0,0:05:10.85,0:05:11.80,Default,,0,0,0,,偏后一点位置
+Dialogue: 0,0:05:11.80,0:05:15.74,Default,,0,0,0,,粘口的折痕紧贴
+Dialogue: 0,0:05:15.74,0:05:17.69,Default,,0,0,0,,基础页的中折线
+Dialogue: 0,0:05:17.69,0:05:20.57,Default,,0,0,0,,立起结构和基础页的中折线平行相交
+Dialogue: 0,0:05:20.57,0:05:25.16,Default,,0,0,0,,现在在小角度边做个标记
+Dialogue: 0,0:05:25.16,0:05:27.47,Default,,0,0,0,,立起结构现在是有一个大角 一个小角
+Dialogue: 0,0:05:27.47,0:05:30.38,Default,,0,0,0,,我们标记的是小的
+Dialogue: 0,0:05:30.38,0:05:35.36,Default,,0,0,0,,来 跟我右手一起画条线
+Dialogue: 0,0:05:35.36,0:05:37.43,Default,,0,0,0,,划重点 这里是关键
+Dialogue: 0,0:05:37.43,0:05:40.55,Default,,0,0,0,,整个立起结构翻个面
+Dialogue: 0,0:05:40.55,0:05:43.37,Default,,0,0,0,,现在红色卡纸大角度会在
+Dialogue: 0,0:05:43.37,0:05:46.70,Default,,0,0,0,,基础页划线的小角度面上方
+Dialogue: 0,0:05:46.70,0:05:50.24,Default,,0,0,0,,如果直接沿标记线上胶水
+Dialogue: 0,0:05:50.24,0:05:52.16,Default,,0,0,0,,效果就会成这样
+Dialogue: 0,0:05:52.16,0:05:54.74,Default,,0,0,0,,立起结构会平摊在基础页上
+Dialogue: 0,0:05:54.74,0:05:56.84,Default,,0,0,0,,这不是我们想要的效果
+Dialogue: 0,0:05:56.84,0:05:59.06,Default,,0,0,0,,这里我们想要立体的效果
+Dialogue: 0,0:05:59.06,0:06:02.78,Default,,0,0,0,,所以把角度略微向内收一收
+Dialogue: 0,0:06:02.78,0:06:05.69,Default,,0,0,0,,也就是粘的时候
+Dialogue: 0,0:06:05.69,0:06:08.27,Default,,0,0,0,,粘口放在
+Dialogue: 0,0:06:08.27,0:06:10.70,Default,,0,0,0,,标记的线和中折线之间
+Dialogue: 0,0:06:10.70,0:06:14.51,Default,,0,0,0,,另一边的粘口粘在哪
+Dialogue: 0,0:06:14.51,0:06:15.83,Default,,0,0,0,,会影响最终的形状
+Dialogue: 0,0:06:15.83,0:06:18.83,Default,,0,0,0,,结果说话
+Dialogue: 0,0:06:18.83,0:06:25.97,Default,,0,0,0,,直接上胶水吧
+Dialogue: 0,0:06:25.97,0:06:28.71,Default,,0,0,0,,再强调下最重要的：
+Dialogue: 0,0:06:28.71,0:06:30.60,Default,,0,0,0,,翻转立起结构
+Dialogue: 0,0:06:30.60,0:06:33.35,Default,,0,0,0,,立起结构大角度边粘在
+Dialogue: 0,0:06:33.35,0:06:36.18,Default,,0,0,0,,基础页有小角度边的这面
+Dialogue: 0,0:06:36.18,0:06:43.11,Default,,0,0,0,,就像这样
+Dialogue: 0,0:06:43.11,0:06:45.36,Default,,0,0,0,,要确保粘口不超过中折线谷沟
+Dialogue: 0,0:06:45.36,0:06:47.34,Default,,0,0,0,,如果超过
+Dialogue: 0,0:06:47.34,0:06:50.16,Default,,0,0,0,,要剪掉那些超出部分
+Dialogue: 0,0:06:50.16,0:06:53.28,Default,,0,0,0,,一边粘好后
+Dialogue: 0,0:06:53.28,0:06:54.84,Default,,0,0,0,,合起立起结构到折叠状态
+Dialogue: 0,0:06:54.84,0:07:00.48,Default,,0,0,0,,给另一边上胶水
+Dialogue: 0,0:07:00.48,0:07:12.54,Default,,0,0,0,,涂抹均匀
+Dialogue: 0,0:07:12.54,0:07:17.00,Default,,0,0,0,,折叠起来
+Dialogue: 0,0:07:17.00,0:07:21.35,Default,,0,0,0,,这就是非对称V形折了
+Dialogue: 0,0:07:21.34,0:07:23.78,h2,,0,0,0,,非对称V形折讲解
+Dialogue: 0,0:07:24.89,0:07:27.48,Default,,0,0,0,,这种结构四个角都是不同的
+Dialogue: 0,0:07:27.48,0:07:29.40,Default,,0,0,0,,立起结构两个角不同
+Dialogue: 0,0:07:29.40,0:07:32.13,Default,,0,0,0,,基础页的两个角也不同
+Dialogue: 0,0:07:32.13,0:07:33.63,Default,,0,0,0,,下面我画个图解释下
+Dialogue: 0,0:07:33.63,0:07:37.68,Default,,0,0,0,,其中原理
+Dialogue: 0,0:07:42.06,0:07:45.75,Default,,0,0,0,,假设
+Dialogue: 0,0:07:45.75,0:07:53.55,Default,,0,0,0,,这是基础页
+Dialogue: 0,0:07:53.55,0:07:56.43,Default,,0,0,0,,中折线在中间
+Dialogue: 0,0:07:56.43,0:07:58.97,Default,,0,0,0,,我仿照下这个形状
+Dialogue: 0,0:07:58.97,0:08:01.62,Default,,0,0,0,,这个角是刚粘的位置
+Dialogue: 0,0:08:01.62,0:08:04.65,Default,,0,0,0,,和中折线呈的角
+Dialogue: 0,0:08:04.65,0:08:07.89,Default,,0,0,0,,定为 A
+Dialogue: 0,0:08:07.89,0:08:11.58,Default,,0,0,0,,另一边很大的这个角 定为 B
+Dialogue: 0,0:08:11.58,0:08:18.41,Default,,0,0,0,,立起结构用虚线表示
+Dialogue: 0,0:08:18.41,0:08:23.46,Default,,0,0,0,,画个大点的角度
+Dialogue: 0,0:08:23.46,0:08:28.29,Default,,0,0,0,,画粘口
+Dialogue: 0,0:08:28.29,0:08:32.09,Default,,0,0,0,,画小角度面
+Dialogue: 0,0:08:32.09,0:08:36.21,Default,,0,0,0,,画粘口 和卡纸其它部分
+Dialogue: 0,0:08:36.21,0:08:40.89,Default,,0,0,0,,定大角度为 C
+Dialogue: 0,0:08:40.89,0:08:46.58,Default,,0,0,0,,另一个角度为 D
+Dialogue: 0,0:08:46.58,0:08:48.38,Default,,0,0,0,,划重点了 --
+Dialogue: 0,0:08:48.42,0:08:53.64,Default,,0,0,0,,一边的立起结构角加基础面的角
+Dialogue: 0,0:08:53.64,0:08:55.95,Default,,0,0,0,,等于另一边立起结构角加基础面的角
+Dialogue: 0,0:08:55.95,0:09:07.13,Default,,0,0,0,,在这里就是 A + C = B + D
+Dialogue: 0,0:09:07.13,0:09:09.87,Default,,0,0,0,,另一个因子
+Dialogue: 0,0:09:09.87,0:09:12.27,Default,,0,0,0,,立起结构的两个角加起来
+Dialogue: 0,0:09:12.27,0:09:18.23,Default,,0,0,0,,要大于基础页的两个角之和
+Dialogue: 0,0:09:18.23,0:09:30.14,Default,,0,0,0,,也就是 C + D > A + B
+Dialogue: 0,0:09:30.14,0:09:32.19,Default,,0,0,0,,我转下方向到镜头 看着更清晰
+Dialogue: 0,0:09:32.19,0:09:36.02,Default,,0,0,0,,A和B是基础页上的角
+Dialogue: 0,0:09:36.02,0:09:39.66,Default,,0,0,0,,C和D是立起结构上的角
+Dialogue: 0,0:09:39.66,0:09:40.38,Default,,0,0,0,,
+Dialogue: 0,0:09:40.38,0:09:46.65,Default,,0,0,0,,A + C = B + D
+Dialogue: 0,0:09:46.65,0:09:49.08,Default,,0,0,0,,这样达到了均衡
+Dialogue: 0,0:09:49.08,0:09:51.12,Default,,0,0,0,,为了让结构立起不趴在页面
+Dialogue: 0,0:09:51.12,0:09:54.15,Default,,0,0,0,,立起结构的角之和
+Dialogue: 0,0:09:54.15,0:09:56.22,Default,,0,0,0,,必须大于基础页上的角之和
+Dialogue: 0,0:09:56.22,0:09:59.58,Default,,0,0,0,,也就是 C + D > B + D
+Dialogue: 0,0:09:59.58,0:10:01.56,Default,,0,0,0,,下面介绍几本书
+Dialogue: 0,0:10:01.56,0:10:04.68,Default,,0,0,0,,演示非对称V形折
+Dialogue: 0,0:10:04.68,0:10:10.35,Default,,0,0,0,,第一本《恐龙帝国》
+Dialogue: 0,0:10:10.46,0:10:13.38,Default,,0,0,0,,这个恐龙就是基于
+Dialogue: 0,0:10:13.47,0:10:16.26,Default,,0,0,0,,非对称V形折
+Dialogue: 0,0:10:16.26,0:10:19.23,Default,,0,0,0,,可以看到立起结构的角
+Dialogue: 0,0:10:19.23,0:10:22.52,Default,,0,0,0,,大于基础页的角
+Dialogue: 0,0:10:22.52,0:10:25.11,Default,,0,0,0,,另一面这边立起结构的角
+Dialogue: 0,0:10:25.11,0:10:28.62,Default,,0,0,0,,小于基础页上的角
+Dialogue: 0,0:10:28.62,0:10:31.02,Default,,0,0,0,,这就是第一个例子
+Dialogue: 0,0:10:31.02,0:10:33.18,Default,,0,0,0,,立起结构上两个角度和
+Dialogue: 0,0:10:33.18,0:10:34.92,Default,,0,0,0,,等于基础页的两个角之和
+Dialogue: 0,0:10:34.92,0:10:37.38,Default,,0,0,0,,页面完全展开时
+Dialogue: 0,0:10:37.38,0:10:39.90,Default,,0,0,0,,立起结构也会摊平
+Dialogue: 0,0:10:42.08,0:10:44.90,Default,,0,0,0,,第二本《当心狼》
+Dialogue: 0,0:10:48.02,0:10:50.96,Default,,0,0,0,,作者是
+Dialogue: 0,0:10:50.96,0:10:52.88,Default,,0,0,0,,赵四吧 [见视频末尾:)]
+Dialogue: 0,0:10:52.88,0:10:56.30,Default,,0,0,0,,他是个了不起的纸艺工程师
+Dialogue: 0,0:10:56.30,0:10:59.54,Default,,0,0,0,,这里是个小仙女落出页面
+Dialogue: 0,0:10:59.54,0:11:02.54,Default,,0,0,0,,可以看到中折线和仙女的谷沟
+Dialogue: 0,0:11:02.54,0:11:05.93,Default,,0,0,0,,是偏离中心的
+Dialogue: 0,0:11:05.93,0:11:09.77,Default,,0,0,0,,这是个非对称V形折
+Dialogue: 0,0:11:09.77,0:11:11.75,Default,,0,0,0,,可以观察到V形折的中折线
+Dialogue: 0,0:11:11.75,0:11:15.14,Default,,0,0,0,,没有跟主轴线
+Dialogue: 0,0:11:15.14,0:11:16.88,Default,,0,0,0,,在一条线 而是有个角度
+Dialogue: 0,0:11:16.88,0:11:19.55,Default,,0,0,0,,这就是非对称V形折
+Dialogue: 0,0:11:19.55,0:11:22.16,Default,,0,0,0,,立起结构V指向的方向
+Dialogue: 0,0:11:22.16,0:11:24.38,Default,,0,0,0,,就是立起结构合闭的方向
+Dialogue: 0,0:11:24.38,0:11:27.80,Default,,0,0,0,,这里当合上书时
+Dialogue: 0,0:11:27.80,0:11:30.52,Default,,0,0,0,,V形折会正常的折叠
+Dialogue: 0,0:11:30.52,0:11:32.36,Default,,0,0,0,,通常立起结构是建立在页面上方
+Dialogue: 0,0:11:32.36,0:11:34.37,Default,,0,0,0,,一切都限制在
+Dialogue: 0,0:11:34.37,0:11:36.56,Default,,0,0,0,,书的框架内
+Dialogue: 0,0:11:36.56,0:11:38.33,Default,,0,0,0,,她的头有个轻微抬起
+Dialogue: 0,0:11:38.33,0:11:40.79,Default,,0,0,0,,是因为谷沟边上做了个平行折
+Dialogue: 0,0:11:40.79,0:11:43.10,Default,,0,0,0,,致使V形折没触到页面
+Dialogue: 0,0:11:43.10,0:11:45.35,Default,,0,0,0,,我翻过来就能略微看到
+Dialogue: 0,0:11:45.35,0:11:48.26,Default,,0,0,0,,这是个平行折
+Dialogue: 0,0:11:48.26,0:11:51.74,Default,,0,0,0,,支起了头部
+Dialogue: 0,0:11:51.74,0:11:54.62,Default,,0,0,0,,最后要介绍的是
+Dialogue: 0,0:11:54.62,0:11:56.45,Default,,0,0,0,,《哭鲨小鱼》
+Dialogue: 0,0:11:56.45,0:11:59.95,Default,,0,0,0,,最后页是个巨大的鲨鱼
+Dialogue: 0,0:11:59.95,0:12:02.12,Default,,0,0,0,,头和尾部都是非对称V形折
+Dialogue: 0,0:12:02.12,0:12:04.31,Default,,0,0,0,,可以看到
+Dialogue: 0,0:12:04.31,0:12:06.98,Default,,0,0,0,,这些立起结构的折线
+Dialogue: 0,0:12:06.98,0:12:10.45,Default,,0,0,0,,都是偏离书的谷沟
+Dialogue: 0,0:12:10.45,0:12:16.46,Default,,0,0,0,,最尾部是个反折
+Dialogue: 0,0:12:16.50,0:12:17.30,Default,,0,0,0,,严格说
+Dialogue: 0,0:12:17.30,0:12:19.25,Default,,0,0,0,,也是个非对称V形折
+Dialogue: 0,0:12:19.25,0:12:21.49,Default,,0,0,0,,这给了额外的
+Dialogue: 0,0:12:21.49,0:12:25.97,Default,,0,0,0,,一对折角
+Dialogue: 0,0:12:25.97,0:12:28.79,Default,,0,0,0,,以上就是非对称V形折 就是本节教程啦
+Dialogue: 0,0:12:29.02,0:12:32.62,Default,,0,0,0,,如果想了解更多
+Dialogue: 0,0:12:32.78,0:12:38.54,Default,,0,0,0,,可以考虑下我的书「pop-up design and paper mechanics」
 Dialogue: 0,0:12:38.54,0:12:41.12,Default,,0,0,0,,前面说的内容
 Dialogue: 0,0:12:41.12,0:12:43.66,Default,,0,0,0,,这本书中都有
 Dialogue: 0,0:12:43.66,0:12:59.34,Default,,0,0,0,,[字幕：Cash Yang][公众号：2274]
-Dialogue: 0,0:12:59.34,0:13:13.15,Default,,0,0,0,,[Applause]
-Dialogue: 0,0:13:13.15,0:13:16.25,Default,,0,0,0,,[Music]
+Dialogue: 0,0:12:59.34,0:13:13.15,Default,,0,0,0,,
+Dialogue: 0,0:13:13.15,0:13:16.25,Default,,0,0,0,,蟹蟹观看
