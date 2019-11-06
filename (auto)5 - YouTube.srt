@@ -1,274 +1,343 @@
 ﻿1
 00:00:01,880 --> 00:00:40,180
 [Music]
+这是平行折章节的第一部分
+
 
 2
 00:00:40,180 --> 00:00:46,820
 blue scissors and card and the details
+需要的材料 胶水 剪刀和卡纸
 
 3
 00:00:46,820 --> 00:00:48,410
 of these are all explained in the
+具体在教程1里解释过了
+三种类型的平行折
 
 4
 00:00:48,410 --> 00:00:55,340
 introductory tutorial so there are three
+这有三种平行折
 
 5
 00:00:55,340 --> 00:00:59,890
 kinds of parallel fault the first and
+第一种 也差不多是最重要的
 
 6
 00:00:59,890 --> 00:01:02,059
 possibly the most important is the
+平行四边形
 
 7
 00:01:02,059 --> 00:01:04,670
 parallelogram the parallelogram is a
+平行四边形蛮有趣的
 
 8
 00:01:04,670 --> 00:01:06,679
 funny one when you open the base flat
+当展开页面
 
 9
 00:01:06,679 --> 00:01:09,709
 the parallelogram goes flat it's only in
+平行四边形也会摊平
 
 10
 00:01:09,709 --> 00:01:12,350
 dimension when the bases it's on is is
+只在页面展开过程中是立体的
 
 11
 00:01:12,350 --> 00:01:17,450
 not flat the other two are the symmetric
+另外两种分别是'对称平行折'
 
 12
 00:01:17,450 --> 00:01:20,209
 parallel fold so the length on each side
+立起结构两侧
 
 13
 00:01:20,209 --> 00:01:22,450
 of the pop-up are exactly the same and
+长度完全一致
 
 14
 00:01:22,450 --> 00:01:26,569
 the asymmetric parallel folds where the
+'非对称平行折'
 
 15
 00:01:26,569 --> 00:01:28,429
 two lengths on the pop-up are different
+立起结构两侧长度不同
 
 16
 00:01:28,429 --> 00:01:31,639
 so these last two we'll be doing in part
+后两种在第二部分展开说
 
 17
 00:01:31,639 --> 00:01:34,939
 two parallel folds this this tutorial is
+这节教程完全献给
 
 18
 00:01:34,939 --> 00:01:39,969
 completely devoted to the parallelogram
+平行四边形
 
 19
 00:01:39,969 --> 00:01:42,889
 parallelograms can be used quite nicely
+平行四边形在组合结构里很好用
 
 20
 00:01:42,889 --> 00:01:46,909
 in combination so here's an example you
+这是个例子
 
 21
 00:01:46,909 --> 00:01:49,389
 can use them this way with the base as a
+你可以像这样
 
 22
 00:01:49,389 --> 00:01:52,520
 base card as a base and a background in
+把它们用作背景
 
 23
 00:01:52,520 --> 00:01:54,560
 which case this has created a whole
+重叠多个图板
 
 24
 00:01:54,560 --> 00:01:56,599
-series of planes and you can stick
+series of plates and you can stick
+上面可以
 
 25
 00:01:56,599 --> 00:01:58,459
 bigger pieces of card onto any of those
+粘一些别的元素
 
 26
 00:01:58,459 --> 00:02:01,579
 either vertical or horizontal so you can
+不管是垂直还是水平方向
 
 27
 00:02:01,579 --> 00:02:02,630
 play with it that way
+你可以这样横着玩
 
 28
 00:02:02,630 --> 00:02:05,450
 you can also play in it this way so yeah
+也可以这样竖着玩
 
 29
 00:02:05,450 --> 00:02:08,209
 lots of potential there so first I just
+有很多可能性
 
 30
 00:02:08,209 --> 00:02:10,530
 like to show some examples of the
+我想先展示些例子
 
 31
 00:02:10,530 --> 00:02:13,260
-so this is Yankee and Cassidy's haunted
+so this is Yankee and Cassidy's haunted house
+先看下这本《鬼屋》
 
 32
 00:02:13,260 --> 00:02:16,170
 house on the first page we have this
+第一页的楼梯
 
 33
 00:02:16,170 --> 00:02:17,880
 staircase this is actually two
+这里有两个平行四边形
 
 34
 00:02:17,880 --> 00:02:20,510
 parallelograms this is the first one
+右侧这是第一个
 
 35
 00:02:20,510 --> 00:02:23,069
 built into the gulley created by the
+紧靠书中间谷沟
 
 36
 00:02:23,069 --> 00:02:25,980
 book this is the second one built into
+左侧二楼这是另一个
 
 37
 00:02:25,980 --> 00:02:27,690
 the gulley created by the first
+依附在前一个平行四边形的谷沟
 
 38
 00:02:27,690 --> 00:02:30,120
 parallelogram and when the page goes
+页面完全展开时
 
 39
 00:02:30,120 --> 00:02:33,810
 flat the whole pop up goes flat the
+立起结构也完全展开
 
 40
 00:02:33,810 --> 00:02:37,080
 second one this is a symmetric parallel
+第二个 这是个对称平行折
 
 41
 00:02:37,080 --> 00:02:39,780
 fold so this fridge here the two sides
+画面左右两侧是相同的
 
 42
 00:02:39,780 --> 00:02:42,090
 on each side they're both the same so
+页面摊平时
 
 43
 00:02:42,090 --> 00:02:44,550
 when the page is flat the pop-up stands
+立起结构弹起
 
 44
 00:02:44,550 --> 00:02:48,030
 up this is the third one this is one of
+第三个
 
 45
 00:02:48,030 --> 00:02:50,160
 the other uses of the parallelogram is
+这是平行四边形的另一种用法
 
 46
 00:02:50,160 --> 00:02:53,489
 it it creates that you can use it to to
+用来制作动臂
 
 47
 00:02:53,489 --> 00:02:55,380
 make moving arms move and we'll be
+这个在之后教程有详解
 
 48
 00:02:55,380 --> 00:02:56,819
 looking at that later in this tutorial
+我们到时见
 
 49
 00:02:56,819 --> 00:03:01,650
 the next page well this is a this is a
+下一页
 
 50
 00:03:01,650 --> 00:03:03,360
 curved shape that we look at in a much
+这是个弧形结构
 
 51
 00:03:03,360 --> 00:03:05,880
 later tutorial but down here at the bath
+也是之后教程内容 在这我们先注意
 
 52
 00:03:05,880 --> 00:03:08,340
 that is a that is a parallelogram you
+底部澡盆这是个平行四边形
 
 53
 00:03:08,340 --> 00:03:11,519
 can look at it straight on as the page
+可以直接看到
 
 54
 00:03:11,519 --> 00:03:14,489
 goes flat the bath goes flat so that's
+页面展开时 它也摊平了
 
 55
 00:03:14,489 --> 00:03:16,650
 haunted house the other one I'd like to
+这就是《鬼屋》几个例子
 
 56
 00:03:16,650 --> 00:03:19,100
 show you is sergeant charge
+另一个要看的是《军士长》
 
 57
 00:03:19,100 --> 00:03:22,650
 this is sergeant charge illustrated by
+作者是
 
 58
 00:03:22,650 --> 00:03:26,390
 Bill Bolton and if we look at this one
+赵四
 
 59
 00:03:26,390 --> 00:03:29,370
 this is a parallelogram being used to
+看下这一页   这是个平行四边形
 
 60
 00:03:29,370 --> 00:03:31,769
 turn over these figures so these are all
+用来翻人物
 
 61
 00:03:31,769 --> 00:03:34,290
 slotted on but the basic strip that
+画面元素都是用插槽串起来的
 
 62
 00:03:34,290 --> 00:03:35,670
 they're all attached to that is a
+它们附着的基础纸带
 
 63
 00:03:35,670 --> 00:03:38,310
 parallelogram when the page is flat the
+是平行四边形 页面展开时
 
 64
 00:03:38,310 --> 00:03:40,680
 parallelogram is flat but it gives a
+是平行四边形摊平
 
 65
 00:03:40,680 --> 00:03:43,920
 really nice action to all those soldier
+过程中给那些蚁人还是啥的玩意
 
 66
 00:03:43,920 --> 00:03:47,160
 ants or whatever they are so now I'll
+产生很整齐的一个动作
 
 67
 00:03:47,160 --> 00:03:49,230
 show you how to make a parallelogram
+现在我来演示 如何制作平行四边形
 
 68
 00:03:49,230 --> 00:03:52,510
-[Music]
+制作平行四边形
 
 69
 00:03:52,510 --> 00:03:55,940
@@ -661,22 +730,27 @@ crease crease it really well and then
 166
 00:09:15,280 --> 00:09:17,290
 I'll just trim off these corners it's
+我要剪掉这些角
 
 167
 00:09:17,290 --> 00:09:20,430
 not not mechanically necessary but it
+这不是必须步骤
 
 168
 00:09:20,430 --> 00:09:23,830
 think it stops them stops the jagged
+只是觉得剪掉
 
 169
 00:09:23,830 --> 00:09:25,780
 bits snagging on things it seems to just
+会少点锯齿
 
 170
 00:09:25,780 --> 00:09:30,610
 glue slightly better and so now you have
+粘起来也更好看
 
 171
 00:09:30,610 --> 00:09:33,820
@@ -1537,40 +1611,47 @@ quite important about moving arms moving
 385
 00:21:56,870 --> 00:21:58,879
 arms a very sophisticated mechanism
+动臂机制比较复杂
 
 386
 00:21:58,879 --> 00:22:01,369
 there's a lot more to it you need to
+如果想了解更多
 
 387
 00:22:01,369 --> 00:22:04,730
 watch the moving arm tutorial which
+请关注后面动臂的专门教程
 
 388
 00:22:04,730 --> 00:22:07,490
 comes later it's all in my book pop-up
+也可以
 
 389
 00:22:07,490 --> 00:22:10,129
 design from paper mechanics and it
+可以考虑下我的书「pop-up design and paper mechanics」
 
 390
 00:22:10,129 --> 00:22:13,100
 explains parallelograms and moving arms
+里面有平行四边形详解
 
 391
 00:22:13,100 --> 00:22:16,660
 in great detail
+和动臂的详细章节
 
 392
 00:22:16,660 --> 00:22:32,340
-[Music]
+[字幕：Cash Yang][公众号：2274]
 
 393
 00:22:32,340 --> 00:22:46,150
-[Applause]
+[关注公众号获取更多分享]
 
 394
 00:22:46,150 --> 00:22:49,259
-[Music]
+[公众号：2274]
 
