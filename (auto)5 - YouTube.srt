@@ -337,59 +337,72 @@ show you how to make a parallelogram
 
 68
 00:03:49,230 --> 00:03:52,510
-制作平行四边形
+- 制作平行四边形
 
 69
 00:03:52,510 --> 00:03:55,940
 usually parallelograms are used values
+通常 平行四边形就是酱紫
 
 70
 00:03:55,940 --> 00:04:04,610
 like this so we get a base sheet fold it
+拿出卡纸做为基础页
 
 71
 00:04:04,610 --> 00:04:14,630
 in half fold it really funny take a
+折一半 折彻底
 
 72
 00:04:14,630 --> 00:04:17,799
 piece of card to build with we'll use
+再拿出张卡纸
 
 73
 00:04:17,799 --> 00:04:23,930
 pink so here's a pink piece just cut off
+就骚粉色吧
 
 74
 00:04:23,930 --> 00:04:28,970
 a strip from one end doesn't matter how
+从一端剪出个纸带
 
 75
 00:04:28,970 --> 00:04:35,090
 wide and then we need to actually make
+宽度无所谓
 
 76
 00:04:35,090 --> 00:04:37,400
 it slightly shorter so maybe cut off an
+需要稍微短点
 
 77
 00:04:37,400 --> 00:04:39,979
 inch or something and in this case
+这里剪掉两三厘米
 
 78
 00:04:39,979 --> 00:04:44,050
 folder a gluing tab onto each end so
+两端折出上胶水的粘口
 
 79
 00:04:44,050 --> 00:04:46,250
 gluing tabs should be roughly 1
+粘口大概一厘米宽
 
 80
 00:04:46,250 --> 00:04:50,270
 centimeter wide or half an inch unless
+如果有别的用途
 
 81
 00:04:50,270 --> 00:04:51,800
 you want them to be showing in which
+你可以留出更大点粘口
 
 82
 00:04:51,800 --> 00:04:55,090
@@ -398,38 +411,47 @@ case you can make them much bigger so
 83
 00:04:55,090 --> 00:04:59,270
 here it is and then you follow the
+注意如果从
 
 84
 00:04:59,270 --> 00:05:01,430
 crease noting the middle that would be
+纸带中间折叠
 
 85
 00:05:01,430 --> 00:05:05,419
 that would give you a symmetric parallel
+得到的会是平行折
 
 86
 00:05:05,419 --> 00:05:06,800
 fold in this case because it's a
+而我们想要的是平行四边形
 
 87
 00:05:06,800 --> 00:05:09,650
 parallelogram just make the make the
+所以在
 
 88
 00:05:09,650 --> 00:05:12,380
 crease say a third of the way along or
+三到四分之一地方折叠
 
 89
 00:05:12,380 --> 00:05:16,490
 1/4 of the way and of so you've got two
+会得到两个不同长度
 
 90
 00:05:16,490 --> 00:05:20,690
 different lengths so this time put the
+这时 把纸带折线
 
 91
 00:05:20,690 --> 00:05:23,030
 central crease on to your on to your
+放在基础页中折线对齐
 
 92
 00:05:23,030 --> 00:05:25,520
@@ -442,86 +464,106 @@ to your central guarding of the base
 94
 00:05:27,039 --> 00:05:30,380
 mark where the where the crease lies
+标记下折痕一边
 
 95
 00:05:30,380 --> 00:05:34,820
 either end it doesn't matter flip it
+画个线即可长度不那么重要
 
 96
 00:05:34,820 --> 00:05:36,530
 round this is the important thing with
+最重要的
 
 97
 00:05:36,530 --> 00:05:38,660
 these you flip it round so that the long
+纸带翻个面
 
 98
 00:05:38,660 --> 00:05:41,270
 side is over the short piece on the base
+这样 纸带长的一边会对到短的基础页
 
 99
 00:05:41,270 --> 00:05:44,000
 and the short side is over the long one
+短的一边在基础页长的一边上方
 
 100
 00:05:44,000 --> 00:05:46,370
 and then you can because the
+平行四边形
 
 101
 00:05:46,370 --> 00:05:48,770
 parallelogram lies flat when the whole
+在基础页完全展开时是摊平的
 
 102
 00:05:48,770 --> 00:05:51,260
 whole base is flat you can actually glue
+所以可以
 
 103
 00:05:51,260 --> 00:05:55,070
 both ends at the same time we just put a
+同时给纸带两端上胶水
 
 104
 00:05:55,070 --> 00:06:11,120
 bit of glue on there
+开始上胶水
 
 105
 00:06:11,120 --> 00:06:14,580
 and the tabs can actually point in or
+粘口藏起来
 
 106
 00:06:14,580 --> 00:06:16,470
 out it that it really doesn't matter if
+还是露外面无所谓的
 
 107
 00:06:16,470 --> 00:06:17,190
 you want them
+如果要它们
 
 108
 00:06:17,190 --> 00:06:18,960
 it's where the crease lies that's
+注意要把粘口折痕粘到标记线
 
 109
 00:06:18,960 --> 00:06:23,069
 important you have the tab in it's
+粘口收起来挺重要的
 
 110
 00:06:23,069 --> 00:06:24,630
 hidden from view when you open it or you
+它会从视觉上隐藏
 
 111
 00:06:24,630 --> 00:06:26,819
 can have it out as part of the design so
+打开立起结构又会出现
 
 112
 00:06:26,819 --> 00:06:29,910
 there it is as the as the page closes
+可以把这个特性作为设计的一部分
 
 113
 00:06:29,910 --> 00:06:32,580
 the parallelogram closes it's good good
+像这样 合上基础页 平行四边形页页合上了
 
 114
 00:06:32,580 --> 00:06:34,620
-idea to really give it a good squash
+idea to really give it a good squash afterwards
 
 115
 00:06:34,620 --> 00:06:37,530
@@ -530,70 +572,87 @@ afterwards just in case you're you're
 116
 00:06:37,530 --> 00:06:39,569
 measuring or gluing is a bit off so here
+这样就行了
 
 117
 00:06:39,569 --> 00:06:42,539
 it is and you can use it this way or you
+你可以这样竖着使用平行四边形
 
 118
 00:06:42,539 --> 00:06:45,300
 can use it this way or you can use it
+可以平展开 也可以横着
 
 119
 00:06:45,300 --> 00:06:47,190
 this way so I'll just show you a couple
+我下面展示些书中例子
 
 120
 00:06:47,190 --> 00:06:49,500
 of examples where books are made using
+把平行四边形
 
 121
 00:06:49,500 --> 00:06:51,930
 parallelograms with the base as a base
+用作基础结构或者背景
 
 122
 00:06:51,930 --> 00:06:55,830
 and the background so the first one I'd
+第一个要展示的是
 
 123
 00:06:55,830 --> 00:06:58,729
 like to show you is cabassa
+《穿靴子的猫》
 
 124
 00:06:58,729 --> 00:07:03,300
 puss-in-boots and the last spread is
+最后页是个
 
 125
 00:07:03,300 --> 00:07:07,139
 this fantastic fairytale coach made
+童话里的南瓜车
 
 126
 00:07:07,139 --> 00:07:09,719
 completely out of parallelograms if you
+完全是用平行四边形做的
 
 127
 00:07:09,719 --> 00:07:12,840
 turn it turn it and look at it end on
+从侧面看就能明显看出
 
 128
 00:07:12,840 --> 00:07:15,479
 you'll see it's all parallelograms as
+书本合上时
 
 129
 00:07:15,479 --> 00:07:17,280
 you close it so the parallelograms
+所有平行四边形也会折叠起来
 
 130
 00:07:17,280 --> 00:07:20,130
 closed down the other one I'd like to
+另一本要看的是这个
 
 131
 00:07:20,130 --> 00:07:23,009
 show you is this one don't go out
+《今晚别出门》
 
 132
 00:07:23,009 --> 00:07:27,620
 tonight by Babbitt Cole and in this one
+这本书每一页都用类似的设计
 
 133
 00:07:27,620 --> 00:07:30,150
@@ -602,82 +661,102 @@ every spread in this book is the same
 134
 00:07:30,150 --> 00:07:33,210
 the same type of design as you pull down
+当拉下基础页
 
 135
 00:07:33,210 --> 00:07:36,630
 the base so the pop-up appears and if
+立起结构就会显现
 
 136
 00:07:36,630 --> 00:07:38,870
 you look at these from end on or
+如果从侧面看
 
 137
 00:07:38,870 --> 00:07:41,190
 sideways on you'll see that the whole
+会发现所有机关都是
 
 138
 00:07:41,190 --> 00:07:43,139
 the whole thing is a series of
+平行四边形的组合
 
 139
 00:07:43,139 --> 00:07:45,150
 parallelograms as you open and close it
+开启或合上书本时
 
 140
 00:07:45,150 --> 00:07:51,690
 the parallelograms becomes 3d
+平行四边形会有立体效果
 
 141
 00:07:51,690 --> 00:07:55,270
 okay no I'd like to show you how to
+现在演示
 
 142
 00:07:55,270 --> 00:07:58,390
 build with parallelograms onto a v-fold
+如何在V形折上添加平行四边形
 
 143
 00:07:58,390 --> 00:08:01,720
 so here's a v-fold made in one of the
+这个是之前V形折课上做的
 
 144
 00:08:01,720 --> 00:08:05,500
 v-fold tutorials and we're going to
+一个V形折
 
 145
 00:08:05,500 --> 00:08:06,700
 build a parallelogram
+现在我们要在上面加平行四边形
 
 146
 00:08:06,700 --> 00:08:08,440
 there's gullies to build into there's a
+平行四边形可以加在V形折侧的谷沟
 
 147
 00:08:08,440 --> 00:08:10,750
 gully here and on both sides whether
+两侧都可以
 
 148
 00:08:10,750 --> 00:08:13,060
 we're the v-fold is attached to the page
+V形折向页面合的时候
 
 149
 00:08:13,060 --> 00:08:16,120
 there's also a gunny in the middle in
+V折背面也是个谷沟
 
 150
 00:08:16,120 --> 00:08:18,130
 the middle of the v-fold but again you
+可以看到V折合起时
 
 151
 00:08:18,130 --> 00:08:20,170
 can see the gully closes as the v-fold
+谷沟也会折叠
 
 152
 00:08:20,170 --> 00:08:22,210
 closes so we'll just take a couple of
+我们从前面用了一半的卡纸
 
 153
 00:08:22,210 --> 00:08:25,510
 pieces of the fridge discards take a
+剪下两片纸带
 
 154
 00:08:25,510 --> 00:08:37,840
@@ -686,46 +765,57 @@ couple of slices off it so you take the
 155
 00:08:37,840 --> 00:08:40,510
 strip of cards start by making a fold on
+纸带两端折叠
 
 156
 00:08:40,510 --> 00:08:46,450
 each end crease the fold thoroughly and
+要折叠的彻底点
 
 157
 00:08:46,450 --> 00:08:50,200
 the these two files 1h and these are the
+这两个纸带
 
 158
 00:08:50,200 --> 00:08:53,560
 two glowing tabs and the folds are both
+各要折出两个粘口
 
 159
 00:08:53,560 --> 00:08:56,920
 parallel and then you make another fold
+粘口都是平行的
 
 160
 00:08:56,920 --> 00:08:59,290
 roughly 1/3 of the way in it really
+在大约1/3位置折一下
 
 161
 00:08:59,290 --> 00:09:00,940
 doesn't matter it depends what type of
+不用担心 折多少不依赖
 
 162
 00:09:00,940 --> 00:09:03,880
-what type of shape you wanting to create
+shape you wanting to create
+你打算做的形状
 
 163
 00:09:03,880 --> 00:09:05,980
-but I'll go for roughly a third of the
+but I'll go for roughly a third of the way along
+我这里要做的是三分之一左右
 
 164
 00:09:05,980 --> 00:09:09,250
 way along so that's a third parallel
+这是第三平行折
 
 165
 00:09:09,250 --> 00:09:15,280
 crease crease it really well and then
+折仔细
 
 166
 00:09:15,280 --> 00:09:17,290
@@ -755,46 +845,57 @@ glue slightly better and so now you have
 171
 00:09:30,610 --> 00:09:33,820
 a choice you can either put the parallel
+现在可以做个选择
 
 172
 00:09:33,820 --> 00:09:36,370
 can parallelogram can either be built
+可以粘这样
 
 173
 00:09:36,370 --> 00:09:39,310
 onto the pop-up like this and a long
+长又矮的平行四边形
 
 174
 00:09:39,310 --> 00:09:42,430
 long and low parallelogram or it can be
+或者是
 
 175
 00:09:42,430 --> 00:09:45,850
 built onto it like this so it's a tall
+这样高点的
 
 176
 00:09:45,850 --> 00:09:48,490
 parallelogram by luck I've got it more
+运气蛮好的
 
 177
 00:09:48,490 --> 00:09:50,830
 or less the same height as a as the
+刚好折了个
 
 178
 00:09:50,830 --> 00:09:51,550
 v-fold
+跟V折差不多高
 
 179
 00:09:51,550 --> 00:09:53,740
 so we're going to build a tall
+所以就做个高点的平行四边形吧
 
 180
 00:09:53,740 --> 00:09:56,500
 parallelogram so we start by putting the
+把平行四边形的折痕
 
 181
 00:09:56,500 --> 00:09:59,830
 the crease of the central crease of the
+放在立起结构跟基础页的谷沟位置
 
 182
 00:09:59,830 --> 00:10:02,130
@@ -803,102 +904,127 @@ parallelogram into the gully
 183
 00:10:02,130 --> 00:10:05,500
 mark weather where the crease lies it's
+标记下折痕位置
 
 184
 00:10:05,500 --> 00:10:07,330
 always the crease that you measure to on
+通常是测量的折痕是立起结构的
 
 185
 00:10:07,330 --> 00:10:10,710
 pop-ups so we mark where the crease lies
+所以画条线标记
 
 186
 00:10:10,710 --> 00:10:13,480
 and then the crucial bit we flip it over
+然后关键点 -- 翻转纸带
 
 187
 00:10:13,480 --> 00:10:15,700
 so you're going to glue the long sides
+要把长的一边粘在
 
 188
 00:10:15,700 --> 00:10:18,700
 to the mark you've measured the short
+刚标记位置
 
 189
 00:10:18,700 --> 00:10:20,980
 side and you actually glue the long side
+测量的是短的一边 实际要粘的是长的一边
 
 190
 00:10:20,980 --> 00:10:27,190
 so we put glue on that tab smear it
+给粘口上胶水
 
 191
 00:10:27,190 --> 00:10:30,600
 right to the right to the crease and
+涂均匀
 
 192
 00:10:30,600 --> 00:10:38,410
 then glue the crease to the mark now you
+粘到标记上
 
 193
 00:10:38,410 --> 00:10:40,180
 put the whole parallelogram into its
+现在把平行四边形收起到
 
 194
 00:10:40,180 --> 00:10:41,200
 closed position
+闭合状态
 
 195
 00:10:41,200 --> 00:10:43,270
 so the parallelograms in its closed
+合上后
 
 196
 00:10:43,270 --> 00:10:50,260
 position but glue on the other tab and
+给另一个粘口上胶水
 
 197
 00:10:50,260 --> 00:10:53,830
 then you can just close the base and it
+然后可以合上基础页
 
 198
 00:10:53,830 --> 00:10:59,110
 finds its natural speaking position so
+它会自动对位到自然的位置
 
 199
 00:10:59,110 --> 00:11:01,210
 there we go we've got parallelogram
+就酱 展开页面
 
 200
 00:11:01,210 --> 00:11:03,850
 rising from the page though we've build
+得到了平行四边形
 
 201
 00:11:03,850 --> 00:11:07,030
 another one into this this gully here so
+然后我们给背面V折这里加平行四边形
 
 202
 00:11:07,030 --> 00:11:10,420
 I'll take another piece of card might as
+用刚才另一个纸带
 
 203
 00:11:10,420 --> 00:11:12,900
 well just straighten this up slightly
+捋直了
 
 204
 00:11:12,900 --> 00:11:23,350
 and maybe make it slightly shorter okay
+发现或许应该短一点
 
 205
 00:11:23,350 --> 00:11:25,570
 we put a tab on each chain just like the
+老动作 折粘口
 
 206
 00:11:25,570 --> 00:11:42,040
 other one another one somewhere not in
+另一个粘口
 
 207
 00:11:42,040 --> 00:11:43,720
 the middle again maybe a third of the
+三分之一处折叠
 
 208
 00:11:43,720 --> 00:11:52,350
@@ -907,94 +1033,117 @@ way
 209
 00:11:52,350 --> 00:11:55,839
 cut off the tabs as the quarters as
+粘口跟平时一样 修下角
 
 210
 00:11:55,839 --> 00:12:07,210
 usual we get on of glue that into this
+我们要把纸带粘到这个谷沟
 
 211
 00:12:07,210 --> 00:12:13,830
 this is going into this gully so put the
+比划下先
 
 212
 00:12:13,830 --> 00:12:17,230
 done it again on just by luck I've just
+哎呀呀 运气就是那么好
 
 213
 00:12:17,230 --> 00:12:19,089
 got it to the right length therefore any
+尺寸刚刚好
 
 214
 00:12:19,089 --> 00:12:21,550
 longer and it wouldn't work so I put
+再大一丢丢都放不下了
 
 215
 00:12:21,550 --> 00:12:24,700
 this crease into the central gully I
+把一边的折痕跟中间谷沟对齐
 
 216
 00:12:24,700 --> 00:12:28,810
 mark where the fold lives so there's the
+标记折痕在的位置
 
 217
 00:12:28,810 --> 00:12:33,160
 fold the crease line and now again the
+再来做"关键动作"
 
 218
 00:12:33,160 --> 00:12:35,230
 crucial bit you flip it around so I've
+翻转纸带
 
 219
 00:12:35,230 --> 00:12:37,630
 measured the short lengths flip it round
+测量标记的是短的一边
 
 220
 00:12:37,630 --> 00:12:39,730
 I'm going to stick the long length on to
+但是是把
 
 221
 00:12:39,730 --> 00:12:43,630
 that mark so I put glue on the glue on
+长的一边粘到标记位置
 
 222
 00:12:43,630 --> 00:12:51,970
 that tab on the long side and glue it to
+给长的一边粘口上胶水
 
 223
 00:12:51,970 --> 00:13:01,390
 the glue it to the mark there you go and
+粘到标记上
 
 224
 00:13:01,390 --> 00:13:04,480
 this this could be high up on the v-fold
+粘在V折高一点还是第一点
 
 225
 00:13:04,480 --> 00:13:06,520
 or low down on the v-fold doesn't matter
+这你随意
 
 226
 00:13:06,520 --> 00:13:09,400
 and now you fold the whole piece into
+把纸带折叠到闭合状态
 
 227
 00:13:09,400 --> 00:13:14,080
 its close position put glue on the other
+上胶水
 
 228
 00:13:14,080 --> 00:13:27,330
 tab smear it to the crease
+涂均匀
 
 229
 00:13:27,330 --> 00:13:29,500
 then you shut the hole
+合上基础页
 
 230
 00:13:29,500 --> 00:13:32,830
 shut the whole base and the tab will
+粘口会自动
 
 231
 00:13:32,830 --> 00:13:41,820
 find its natural sticking position
+归位到合适的位置
 
 232
 00:13:41,820 --> 00:13:44,950
