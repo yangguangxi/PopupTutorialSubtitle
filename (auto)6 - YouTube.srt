@@ -1,14 +1,18 @@
 ﻿1
 00:00:01,880 --> 00:00:39,850
 [Music]
+平行折第二部分
+对称和非对称平行折
 
 2
 00:00:39,850 --> 00:00:44,810
 materials we'll be using a glue scissors
+需要用的材料 胶水 剪刀 卡纸
 
 3
 00:00:44,810 --> 00:00:48,230
 and cart and I've explained all about
+在这系列前奏课程里解释过了
 
 4
 00:00:48,230 --> 00:00:50,690
@@ -17,58 +21,72 @@ these in the introduction to this series
 5
 00:00:50,690 --> 00:00:59,149
 of tutorials so there are three basic
+这里是平行折的三种基本形态
 
 6
 00:00:59,149 --> 00:01:02,059
 types of parallel folds this is the
+第一个是平行四边形
 
 7
 00:01:02,059 --> 00:01:03,890
 parallelogram that we looked at in
+在第一部分讲过了
 
 8
 00:01:03,890 --> 00:01:06,799
 parallel folds part one and when when
+页面完全展开时
 
 9
 00:01:06,799 --> 00:01:08,630
 the page is flat the parallelogram goes
+平行四边形也会摊平
 
 10
 00:01:08,630 --> 00:01:11,810
 flat the other two types they stay in
+另外两种
 
 11
 00:01:11,810 --> 00:01:14,869
 dimension when the page is flat so first
+页面展开时 它们也是立体的
 
 12
 00:01:14,869 --> 00:01:17,689
 kind this is the basic parallel fold
+首先看下基本平行折
 
 13
 00:01:17,689 --> 00:01:21,200
 equal the lengths on each side of the
+立起结构两侧
 
 14
 00:01:21,200 --> 00:01:23,119
 pop-up are both the same and the
+长度都是相同的
 
 15
 00:01:23,119 --> 00:01:25,729
 distance out from the central gully of
+中间谷沟到两边的距离
 
 16
 00:01:25,729 --> 00:01:27,709
 the base they're both the same so on the
+也是相同的
 
 17
 00:01:27,709 --> 00:01:29,420
 Left you've got a short length in a long
+也就是左侧的 短底边 + 侧面长度
 
 18
 00:01:29,420 --> 00:01:31,520
 one and on the right you've got a short
+等于右侧的 短底边 + 侧面长度
 
 19
 00:01:31,520 --> 00:01:32,840
@@ -77,34 +95,42 @@ length and a long one
 20
 00:01:32,840 --> 00:01:35,420
 we'll be dealing with that today and the
+一会再来细讲
 
 21
 00:01:35,420 --> 00:01:37,579
 other one is the asymmetric parallel
+另一个是非对称平行折
 
 22
 00:01:37,579 --> 00:01:39,829
 fold so here's the asymmetric parallel
+是长这样的
 
 23
 00:01:39,829 --> 00:01:41,990
 fold all four lengths are different
+四个边长度都是不同的
 
 24
 00:01:41,990 --> 00:01:44,359
 you've got a short length on on the base
+基础页两个边
 
 25
 00:01:44,359 --> 00:01:46,849
 and a long one and a long length on the
+一个长 一个短
 
 26
 00:01:46,849 --> 00:01:49,069
 pop-up and the short one on the left
+立起结构也是一个长 一个短
 
 27
 00:01:49,069 --> 00:01:51,409
 you've got a short base long piece on
+左边是短的基础页和长的立起结构
 
 28
 00:01:51,409 --> 00:01:54,200
@@ -113,398 +139,499 @@ the pop-up on the right you've got a
 29
 00:01:54,200 --> 00:01:56,209
 long piece on the base and a short piece
+右边是长的基础页和短的立起结构
 
 30
 00:01:56,209 --> 00:02:00,859
 on the pop-up and the base plus the plus
+两侧各加起来是同样大小
 
 31
 00:02:00,859 --> 00:02:03,109
 the pop-up on each side paid balance so
+因此达到均衡
 
 32
 00:02:03,109 --> 00:02:07,069
 as you close it the pop-up closes so
+合上立体书时 能完美闭合
 
 33
 00:02:07,069 --> 00:02:09,160
 we're going to be dealing with these two
+现在从第头详细说起
+- 制作多样的对称平行折
 
 34
 00:02:09,160 --> 00:02:18,750
 now I say you have to make one of these
+开始动手吧
 
 35
 00:02:18,750 --> 00:02:21,310
 basic parallel columns you take a base
+先制作一个基本平行折
 
 36
 00:02:21,310 --> 00:02:30,310
 sheet fold it in half crease the base
+拿出张卡纸做基础页
 
 37
 00:02:30,310 --> 00:02:38,260
 really thoroughly and then we take a
+对折 折彻底
 
 38
 00:02:38,260 --> 00:02:45,150
 piece to build with let's have pink bit
+再拿张卡纸做结构 还是骚粉色吧
 
 39
 00:02:45,150 --> 00:02:47,790
 okay I'm going to actually show you
+我想要演示的是
 
 40
 00:02:47,790 --> 00:02:50,590
 three different variations of this so
+三种不同的效果
 
 41
 00:02:50,590 --> 00:03:00,730
 we'll just cut off three pieces so
+所以剪三块卡纸
 
 42
 00:03:00,730 --> 00:03:04,000
 there's no importance to the dimensions
+尺寸不强做限制
 
 43
 00:03:04,000 --> 00:03:07,300
 of these they're just as you know
+你可以按自己想法
 
 44
 00:03:07,300 --> 00:03:09,160
 whatever whatever you want for your
+随意设计
 
 45
 00:03:09,160 --> 00:03:18,670
 design basically so this is the first
+这是我们第一个要做的
 
 46
 00:03:18,670 --> 00:03:21,600
 time I'll make so take the piece of card
+拿出卡纸
 
 47
 00:03:21,600 --> 00:03:25,209
 fold this in half it's symmetrical so
+对折 它是对称的
 
 48
 00:03:25,209 --> 00:03:27,670
 it's folded in half creased really
+折彻底
 
 49
 00:03:27,670 --> 00:03:30,459
 thoroughly and then with it folded in
+先折起来
 
 50
 00:03:30,459 --> 00:03:33,280
 half fold gluing tabs onto the outer
+给边上折出上胶水的粘口
 
 51
 00:03:33,280 --> 00:03:39,070
 edges fold these thoroughly open it up
+翻开粘口
 
 52
 00:03:39,070 --> 00:03:44,040
 and fold fold the creases individually
+逐一强化下折痕
 
 53
 00:03:44,040 --> 00:03:48,850
 and the same on the other end from there
+另一边也一样
 
 54
 00:03:48,850 --> 00:03:58,540
 night I always just trim off the corners
+通常我会修剪下粘口的边角
 
 55
 00:03:58,540 --> 00:04:03,260
 right and this it's depending on what
+怎样粘取决于
 
 56
 00:04:03,260 --> 00:04:05,870
 you want in your design it can be it can
+你是怎么设计的
 
 57
 00:04:05,870 --> 00:04:08,360
 be glued down really close to the spine
+可以粘的离基础页脊柱很近
 
 58
 00:04:08,360 --> 00:04:10,160
 so you've got a tall thin shape or you
+得到高又瘦的形状
 
 59
 00:04:10,160 --> 00:04:13,580
 can go flatter and flatter further and
+或者是更扁平的
 
 60
 00:04:13,580 --> 00:04:15,140
 further you can even stick it out so
+更极致点
 
 61
 00:04:15,140 --> 00:04:17,900
 it's flat then it'll still work I'll
+可以是平摊在基础页 也是OK的
 
 62
 00:04:17,900 --> 00:04:19,609
 show you one of those in a book in a
+待会会举个书本里应用的例子
 
 63
 00:04:19,609 --> 00:04:21,950
 minute so we'll just glue this on so
+现在先完成手头这个
 
 64
 00:04:21,950 --> 00:04:23,660
 we've got the two lengths on the pop-up
+可以看到立起结构
 
 65
 00:04:23,660 --> 00:04:26,330
 they're both the same so we need the two
+两侧长度是相同的
 
 66
 00:04:26,330 --> 00:04:28,370
 lengths on the base to be the same as
+所以我们需要基础页上两边距离也相等
 
 67
 00:04:28,370 --> 00:04:33,979
 well so put just put glue just on one
+开始上胶水
 
 68
 00:04:33,979 --> 00:04:40,790
 end so use the glue on one end smear it
+先给一侧上胶水
 
 69
 00:04:40,790 --> 00:04:46,550
 to the crease and glue it down I'm going
+涂均匀
 
 70
 00:04:46,550 --> 00:04:49,220
 about two centimeters out actually I
+因为想要高一点的效果
 
 71
 00:04:49,220 --> 00:04:51,020
 want it a bit higher up the page so I'm
+大概离开中折线两指宽
 
 72
 00:04:51,020 --> 00:04:54,200
 gonna put two more on the same page so
+一会这个基础页上还要粘
 
 73
 00:04:54,200 --> 00:04:58,370
 there's that soundly glued put the put
+另外两个结构
 
 74
 00:04:58,370 --> 00:05:01,280
 the pop-up into it's close position put
+粘好一侧后 把立起结构收到折合状态
 
 75
 00:05:01,280 --> 00:05:03,640
 glue on the other end
+给另一边上胶水
 
 76
 00:05:03,640 --> 00:05:11,750
 smear it up close the base so it finds
+涂均匀  合上卡纸
 
 77
 00:05:11,750 --> 00:05:17,990
 its natural sticking position there it
+粘口会自动粘到相应位置
 
 78
 00:05:17,990 --> 00:05:21,620
 is the basic symmetric parallel fold the
+这就是基础对称平行折
 
 79
 00:05:21,620 --> 00:05:23,750
 two loads on the pop-up are the same and
+两侧边的长度相同
 
 80
 00:05:23,750 --> 00:05:25,370
 the two lengths on the base of the same
+基础页到两边距离也相同
 
 81
 00:05:25,370 --> 00:05:29,090
 so here's the second variation so this
+这个是平行折第二种形态
 
 82
 00:05:29,090 --> 00:05:30,950
 is it it's very similar to the first
+和第一种大体是相似的
 
 83
 00:05:30,950 --> 00:05:34,190
 except it's got a flat plain on the top
+除了顶部这块是平的
 
 84
 00:05:34,190 --> 00:05:37,900
 so I'll turn this around so you can see
+我把刚第一种侧过来
 
 85
 00:05:37,900 --> 00:05:41,600
 see how it works better so again we take
+就能看出区别
 
 86
 00:05:41,600 --> 00:05:44,660
 this the strip of card we fold it in the
+开始制作这个
 
 87
 00:05:44,660 --> 00:05:49,130
 middle we fold it well though in this
+拿出片卡纸 对折
 
 88
 00:05:49,130 --> 00:05:52,760
 case it's not quite as important we we
+是否折彻底 在这个结构不太重要
 
 89
 00:05:52,760 --> 00:05:55,070
 fold a tab onto each end again we want
+折出粘口
 
 90
 00:05:55,070 --> 00:05:57,289
 it all symmetrical so we fold the gluing
+因为结构是对称的
 
 91
 00:05:57,289 --> 00:06:00,039
 tabs with the whole piece folded in half
+可以在折合状态的卡纸
 
 92
 00:06:00,039 --> 00:06:05,289
 so here are the gluing tabs fold them
+同时折两个粘口
 
 93
 00:06:05,289 --> 00:06:07,909
 fold them well fold them individually
+粘口折痕逐个加强下
 
 94
 00:06:07,909 --> 00:06:09,030
 fold them backwards
+背面也折下
 
 95
 00:06:09,030 --> 00:06:18,210
 but with though is I'll just trim off
+照例修剪粘口的边角
 
 96
 00:06:18,210 --> 00:06:26,250
 the corners right and in this case to
+这个结构
 
 97
 00:06:26,250 --> 00:06:28,620
 get the flat piece on the top you just
+我们需要顶部是扁平的效果
 
 98
 00:06:28,620 --> 00:06:32,270
 put a bit of put a bit of glue into the
+所以给立起结构
 
 99
 00:06:32,270 --> 00:06:36,840
 into the top of the top of the pop-up so
+顶部内侧上点胶水
 
 100
 00:06:36,840 --> 00:06:42,270
 there's some glue though and close it
+涂匀 合起来
 
 101
 00:06:42,270 --> 00:06:46,020
 down and this one because I'm making it
+这个刚剪得比较小
 
 102
 00:06:46,020 --> 00:06:48,120
 with such a short piece you can't go
+所以不太好展示拉宽点的效果
 
 103
 00:06:48,120 --> 00:06:49,590
 really wide so we're going to have it
+就制作成
 
 104
 00:06:49,590 --> 00:06:53,100
 much closer closer to the spine the tabs
+就靠近基础页脊柱吧
 
 105
 00:06:53,100 --> 00:06:55,919
 can either be sticking out like this or
+粘口可以这样粘到外面
 
 106
 00:06:55,919 --> 00:06:57,840
 you can fold them away underneath I
+也可以藏到结构地下
+
 
 107
 00:06:57,840 --> 00:06:59,940
 think actually in this case is quite
+现在这个情况
 
 108
 00:06:59,940 --> 00:07:01,260
 interesting having them on the outside
+粘外面更好点吧
 
 109
 00:07:01,260 --> 00:07:04,350
 so I'm going to glue them put the glue
+上胶水吧
 
 110
 00:07:04,350 --> 00:07:07,440
 on the outside and glue one side first
+给一边的外侧先上胶水
 
 111
 00:07:07,440 --> 00:07:11,310
 so in order to get the symmetry we'll
+为了保证得到对称效果
 
 112
 00:07:11,310 --> 00:07:13,890
 glue one side first and glue it into
+先给一侧上胶水
 
 113
 00:07:13,890 --> 00:07:20,540
 place so here we are
+我来了
 
 114
 00:07:20,540 --> 00:07:23,669
 and then we close the close the pop-up
+放到立起结构
 
 115
 00:07:23,669 --> 00:07:27,900
 piece down put glue on the other other
+给另一个粘口上胶水
 
 116
 00:07:27,900 --> 00:07:37,800
 tab smear it to the edges and close the
+涂均匀 合上基础页
 
 117
 00:07:37,800 --> 00:07:40,020
 base so it finds its natural sticking
+粘口会自动对齐自然的位置
 
 118
 00:07:40,020 --> 00:07:44,640
 positions so there's the second
+这就是第二种
 
 119
 00:07:44,640 --> 00:07:47,490
 variation the third one is even more
+第三种更简单点
 
 120
 00:07:47,490 --> 00:07:52,740
 simple the third one fold it in half and
+首先卡纸对折
 
 121
 00:07:52,740 --> 00:07:55,500
 this time there are no gluing terms this
+这次不需要专门折粘口
 
 122
 00:07:55,500 --> 00:07:58,290
 time we're making a curved shape these
+我们要做个弧形形状
 
 123
 00:07:58,290 --> 00:08:01,830
 are quite unusually pop-up so this time
+在立起结构里相对少见些
 
 124
 00:08:01,830 --> 00:08:04,680
 we just put a little bit of glue on the
+给立起结构外侧边缘上点胶水
 
 125
 00:08:04,680 --> 00:08:07,979
 outside edges of the the pop-up we can
 
+
 126
 00:08:07,979 --> 00:08:14,160
 do both at the same time but so just
+可以同时给两边都上
 
 127
 00:08:14,160 --> 00:08:17,849
 smear the glue onto the onto the bottom
+底部外侧胶水涂匀
 
 128
 00:08:17,849 --> 00:08:23,259
@@ -513,30 +640,37 @@ of the outside edges of the popper
 129
 00:08:23,259 --> 00:08:27,919
 and then set it into there this is
+放置到这个位置
 
 130
 00:08:27,919 --> 00:08:30,169
 actually slightly fat so I'm just going
+发现有点宽了
 
 131
 00:08:30,169 --> 00:08:33,050
 to take a srimad piece off so I'm fit
+需要修剪窄一点
 
 132
 00:08:33,050 --> 00:08:39,289
 within your page right put that into the
+来适配页面
 
 133
 00:08:39,289 --> 00:08:46,700
 flush into the gully close the base open
+放到基础页边上 合上基础页 再打开
 
 134
 00:08:46,700 --> 00:08:48,769
 it up and we're getting a curve shape so
+这就是弧形形状了
 
 135
 00:08:48,769 --> 00:08:51,880
 these are three three variations on the
+以上就是平行折的三种形态
 
 136
 00:08:51,880 --> 00:08:55,010
@@ -545,6 +679,7 @@ symmetric parallel fold or give you
 137
 00:08:55,010 --> 00:08:56,779
 different different potential when
+可供你设计立起结构时选择
 
 138
 00:08:56,779 --> 00:08:59,060
@@ -553,238 +688,298 @@ you're doing your pop-up designs oh I'll
 139
 00:08:59,060 --> 00:09:02,240
 show you something of a book now so this
+下面展示在立体书中的实例
 
 140
 00:09:02,240 --> 00:09:07,339
 is this is robots by yumping Caskey if
+《机器人》
 
 141
 00:09:07,339 --> 00:09:11,209
 we look at the final spreads this this
+来看下最后一个跨页
 
 142
 00:09:11,209 --> 00:09:13,339
 is their parallel folds this is an
+这是个平行折
 
 143
 00:09:13,339 --> 00:09:16,430
 equilateral parallel for both their both
+准确说是等边平行折
 
 144
 00:09:16,430 --> 00:09:19,399
 sides are the same it actually the
+立起结构两侧边的长度相同
 
 145
 00:09:19,399 --> 00:09:21,410
 lengths on the pop-up are the same as on
+跟基础页的边长度也是相同的
 
 146
 00:09:21,410 --> 00:09:24,230
 the on the base so when the base is flat
+所以基础页完全展开时
 
 147
 00:09:24,230 --> 00:09:28,010
 the whole pop-up post flow so that
+立起结构也会摊平
 
 148
 00:09:28,010 --> 00:09:30,589
 that's an equilateral parallel fold
+这就是为什么说是等边平行折
 
 149
 00:09:30,589 --> 00:09:32,930
 there if we look to the other end of the
+来看另一页
 
 150
 00:09:32,930 --> 00:09:35,480
 book and there's just a very small
+这是个小例子
 
 151
 00:09:35,480 --> 00:09:39,020
 example here this the head I think she's
+这应该是个机器人吧
 
 152
 00:09:39,020 --> 00:09:41,000
 a robot the head of the robot is
+她的头就是平行折
 
 153
 00:09:41,000 --> 00:09:43,490
 parallel folds and her head scarf is so
+头巾也是
 
 154
 00:09:43,490 --> 00:09:45,920
 these are the same type of paranoia
+以上都是跟我们
 
 155
 00:09:45,920 --> 00:09:49,520
 folds as we made the first one right
+制作的第一个平行折同理
 
 156
 00:09:49,520 --> 00:09:53,029
 here we turn it round we can see it more
+我来转个方向看着更明显
 
 157
 00:09:53,029 --> 00:09:56,360
 clearly here's the head of the robot
+来看机器人头这里的两个平行折
 
 158
 00:09:56,360 --> 00:09:58,880
 we've got two you've got the head is one
+一个是头本身
 
 159
 00:09:58,880 --> 00:10:02,029
 parallel fold and the head scarf is
+一个是头巾
 
 160
 00:10:02,029 --> 00:10:04,850
 another as as you close it you can see
+合上页面时
 
 161
 00:10:04,850 --> 00:10:08,000
 it and then this one the lengths on the
+能看到立起结构的长度
 
 162
 00:10:08,000 --> 00:10:09,829
 pop-up are bigger than the notes on the
+是比基础页长度长的
 
 163
 00:10:09,829 --> 00:10:13,550
 base that's why it stands up in 3d and
+这就是为什么能立体起来
 
 164
 00:10:13,550 --> 00:10:15,320
 there's a final one I've got here that
+这是最后一例
 
 165
 00:10:15,320 --> 00:10:17,899
 roaring lion tales by ron van der Meer
+《狮子吼》
 
 166
 00:10:17,899 --> 00:10:22,399
 and this this is a parallel fold it's a
+这里是个平行折
 
 167
 00:10:22,399 --> 00:10:23,779
 massive parallel fold
+比较巨大的平行折
 
 168
 00:10:23,779 --> 00:10:27,019
 it's got added added creases which are
+侧面边加了折痕
 
 169
 00:10:27,019 --> 00:10:28,940
 what sculpt the shape so if you pull it
+用来丰富造型
 
 170
 00:10:28,940 --> 00:10:32,660
 out pull out these folds you can see
+如果我们把造型拉起来
 
 171
 00:10:32,660 --> 00:10:33,770
 that what we've got here
+就可以看出
 
 172
 00:10:33,770 --> 00:10:37,070
 it's just one big big parallel fold as
+它就是个大大的平行折
 
 173
 00:10:37,070 --> 00:10:40,460
 you as you close it the whole thing the
+合闭页面时
 
 174
 00:10:40,460 --> 00:10:42,800
 whole thing goes flat and by adding
+所有元素会摊平
 
 175
 00:10:42,800 --> 00:10:45,710
 these extra creases he's done a
+因为添加这些额外折痕
 
 176
 00:10:45,710 --> 00:10:48,230
 beautiful sculptural effect on this
+产生了优美的动态雕塑效果
 
 177
 00:10:48,230 --> 00:10:52,010
 pop-up so he's created a real 3d shape
+立体效果棒棒哒
 
 178
 00:10:52,010 --> 00:10:54,800
 out of the parallel fold by adding
+除了平行折
 
 179
 00:10:54,800 --> 00:10:56,210
 adding extra creases
+还有些别的元素
 
 180
 00:10:56,210 --> 00:10:59,720
 he's also cut a hole in one side so he's
+像这边在侧面开了个山洞
 
 181
 00:10:59,720 --> 00:11:01,820
-really gone to turn you can look inside
+he's really gone to turn you can look inside
+他想吸引你朝里面看
 
 182
 00:11:01,820 --> 00:11:04,820
 and and see inside the structure the
+欣赏内部的一些结构
 
 183
 00:11:04,820 --> 00:11:06,470
 palm trees they're coming up through
+棕榈树是用了插槽技巧
 
 184
 00:11:06,470 --> 00:11:08,900
 slots the slots are another another
+在后面课程里会讲解
 
 185
 00:11:08,900 --> 00:11:11,600
 tutorial later in this series that's the
+到这里
 
 186
 00:11:11,600 --> 00:11:14,450
 end of the symmetric parallel fault now
+对称平行折部分就结束了
 
 187
 00:11:14,450 --> 00:11:16,910
 I'll show you the asymmetric parallel
+下面来看非对称平行折
+- 非对称平行折边长讲解
 
 188
 00:11:16,910 --> 00:11:25,340
 fold this is an example all four lengths
+这是个非对称平行折例子
 
 189
 00:11:25,340 --> 00:11:29,510
 are different the shot to a short in a
+四个边都是不同的
 
 190
 00:11:29,510 --> 00:11:31,490
 long length on the base and I shortened
+基础页上有一个短边 一个长边
 
 191
 00:11:31,490 --> 00:11:34,010
 a long length on the on the pop-up and
+立起结构也有一个短边和一个长边
 
 192
 00:11:34,010 --> 00:11:35,630
 it's important to have the lower length
+比较重要的点
 
 193
 00:11:35,630 --> 00:11:37,880
 on the pop up above the short length on
+立起结构比较长的边在短边基础页上方
 
 194
 00:11:37,880 --> 00:11:41,180
 the base and vice versa the short length
+反之亦然
 
 195
 00:11:41,180 --> 00:11:43,280
 on the pop-up above the long length I
+短的立起结构在长的基础页上方
 
 196
 00:11:43,280 --> 00:11:47,210
 can actually do a really quick diagram
+来画个简图解释下其中数学原理
 
 197
 00:11:47,210 --> 00:11:53,570
-of how this how this works mathematic
+of how this how this works mathematic knees
+
 
 198
 00:11:53,570 --> 00:11:56,480
